@@ -23,15 +23,18 @@ export default function EnglishB1B2Page() {
         <header className="space-y-4 mb-12">
           <h1 className="text-4xl font-light text-foreground">English B1-B2 Lessons</h1>
           <p className="text-xl text-muted-foreground leading-relaxed max-w-3xl">
-            Learn English at the intermediate level through {ENG_B1_B2_LESSONS_DATA.length} carefully crafted
-            thematic texts with the most common words and practical usage examples.
+            Learn English at the intermediate level through {ENG_B1_B2_LESSONS_DATA.length}{' '}
+            carefully crafted thematic texts with the most common words and practical usage
+            examples.
           </p>
         </header>
 
         {/* Stats Section */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
-            <div className="text-3xl font-light text-primary mb-2">{ENG_B1_B2_LESSONS_DATA.length}</div>
+            <div className="text-3xl font-light text-primary mb-2">
+              {ENG_B1_B2_LESSONS_DATA.length}
+            </div>
             <div className="text-sm text-muted-foreground">Total Lessons</div>
           </div>
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
