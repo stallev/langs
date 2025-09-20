@@ -150,6 +150,7 @@ What Dr. Williams finds most rewarding about teaching is watching *student*s dis
 
 ## Связанные темы / Related Topics
 
-- Education & Learning
-- Science & Research
-- Arts & Culture
+- education-learning
+- science-research
+- arts-culture
+

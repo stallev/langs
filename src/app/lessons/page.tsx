@@ -5,7 +5,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Language Lessons - LangLearn Platform',
   description:
-    'Explore our comprehensive collection of language lessons designed to help you master the most common words and phrases. Start with English B1-B2 level based on Oxford 3000 words.',
+    'Explore our comprehensive collection of language lessons designed to help you master the most common words and phrases. Choose from English B1-B2 or Russian A1-A2 levels.',
 };
 
 export default function LessonsPage() {
@@ -81,27 +81,48 @@ export default function LessonsPage() {
               </div>
             </div>
 
-            {/* Coming Soon Cards */}
-            <div className="bg-muted/10 rounded-2xl p-8 border-0 opacity-60">
+            {/* Russian A1-A2 */}
+            <div className="bg-muted/20 rounded-2xl p-8 border-0 hover:bg-muted/30 transition-colors group">
               <div className="space-y-6">
                 <div className="flex items-center gap-4">
-                  <div className="w-12 h-12 bg-muted/20 rounded-2xl flex items-center justify-center">
-                    <Globe className="h-6 w-6 text-muted-foreground" />
+                  <div className="w-12 h-12 bg-primary/10 rounded-2xl flex items-center justify-center">
+                    <Globe className="h-6 w-6 text-primary" />
                   </div>
                   <div>
-                    <h3 className="text-xl font-light text-muted-foreground">Russian</h3>
-                    <p className="text-sm text-muted-foreground">Coming Soon</p>
+                    <h3 className="text-xl font-light text-foreground group-hover:text-primary transition-colors">
+                      Russian
+                    </h3>
+                    <p className="text-sm text-muted-foreground">Beginner Level</p>
+                  </div>
+                </div>
+
+                <div className="space-y-4">
+                  <div className="flex items-center gap-2">
+                    <BookOpen className="h-4 w-4 text-muted-foreground" />
+                    <span className="text-sm text-muted-foreground">25 lessons</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <Users className="h-4 w-4 text-muted-foreground" />
+                    <span className="text-sm text-muted-foreground">A1-A2 level</span>
+                  </div>
+                  <div className="flex items-center gap-2">
+                    <TrendingUp className="h-4 w-4 text-muted-foreground" />
+                    <span className="text-sm text-muted-foreground">2000 common words</span>
                   </div>
                 </div>
 
                 <p className="text-muted-foreground leading-relaxed">
-                  Russian language lessons for English speakers. Learn the most common Russian words
-                  and phrases through structured thematic content.
+                  Learn Russian at the beginner level through thematic texts with the most common
+                  words and practical usage examples. Perfect for English speakers starting their
+                  Russian journey.
                 </p>
 
-                <div className="inline-flex items-center justify-center w-full bg-muted/20 text-muted-foreground px-6 py-3 rounded-2xl text-sm font-medium cursor-not-allowed">
-                  Coming Soon
-                </div>
+                <Link
+                  href="/lessons/rus/a1a2"
+                  className="inline-flex items-center justify-center w-full bg-foreground text-background px-6 py-3 rounded-2xl text-sm font-medium hover:bg-foreground/90 transition-colors"
+                >
+                  Start Learning Russian
+                </Link>
               </div>
             </div>
 
@@ -191,14 +212,22 @@ export default function LessonsPage() {
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-8 max-w-2xl mx-auto">
               Join thousands of learners who are mastering languages with our proven methodology.
-              Start with English B1-B2 and build your vocabulary systematically.
+              Choose from English B1-B2 or Russian A1-A2 and build your vocabulary systematically.
             </p>
-            <Link
-              href="/lessons/eng/b1b2"
-              className="inline-flex items-center bg-foreground text-background px-8 py-4 rounded-2xl text-lg font-medium hover:bg-foreground/90 transition-colors"
-            >
-              Start Learning English B1-B2
-            </Link>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link
+                href="/lessons/eng/b1b2"
+                className="inline-flex items-center bg-foreground text-background px-8 py-4 rounded-2xl text-lg font-medium hover:bg-foreground/90 transition-colors"
+              >
+                Start Learning English B1-B2
+              </Link>
+              <Link
+                href="/lessons/rus/a1a2"
+                className="inline-flex items-center bg-muted text-foreground px-8 py-4 rounded-2xl text-lg font-medium hover:bg-muted/80 transition-colors"
+              >
+                Start Learning Russian A1-A2
+              </Link>
+            </div>
           </div>
         </div>
       </section>

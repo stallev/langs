@@ -129,6 +129,7 @@ Lisa loves how different places can make you feel. When she's *inside* her apart
 
 ## Связанные темы / Related Topics
 
-- Travel & Transportation
-- Daily Life & Routines
-- Nature & Environment
+- travel-transportation
+- daily-life-routines
+- nature-environment
+

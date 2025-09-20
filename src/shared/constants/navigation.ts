@@ -12,9 +12,9 @@ export const NAVIGATION = {
         PATH: '/lessons/eng/b1b2',
       },
       RUSSIAN: {
-        LABEL: 'Russian (Coming Soon)',
-        PATH: '/lessons/rus',
-        DISABLED: true,
+        LABEL: 'Russian (A1-A2)',
+        PATH: '/lessons/rus/a1a2',
+        DISABLED: false,
       },
     },
   },

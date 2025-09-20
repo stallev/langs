@@ -124,6 +124,7 @@ What Michael finds most rewarding about his work is watching people learn to com
 
 ## Связанные темы / Related Topics
 
-- Family & Relationships
-- Psychology & Behavior
-- Daily Life & Routines
+- family-relationships
+- psychology-behavior
+- daily-life-routines
+

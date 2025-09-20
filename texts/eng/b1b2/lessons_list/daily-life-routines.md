@@ -108,7 +108,8 @@ My daily *routine* has been a game-changer for *I*. It keeps me organized and *p
 
 ## Связанные темы / Related Topics
 
-- Family & Relationships
-- Work & Career
-- Health & Medicine
-- Personal Care & Hygiene
+- family-relationships
+- work-career
+- health-medicine
+- personal-care-hygiene
+

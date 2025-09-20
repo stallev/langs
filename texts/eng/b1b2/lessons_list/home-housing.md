@@ -101,7 +101,8 @@ The *apartment* building has a great community feel, and Emma has already met so
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Shopping & Money
-- Family & Relationships
-- Personal Care & Hygiene
+- daily-life-routines
+- shopping-money
+- family-relationships
+- personal-care-hygiene
+

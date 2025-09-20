@@ -107,7 +107,8 @@ Sarah's *aunt* Lisa always *emphasizes* the importance of staying connected with
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Personal Development
-- Holidays & Celebrations
-- Communication & Interaction
+- daily-life-routines
+- personal-care-hygiene
+- entertainment-media
+- communication-interaction
+

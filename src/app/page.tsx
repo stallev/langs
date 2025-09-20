@@ -20,7 +20,7 @@ export default function Home() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8">
             <Link
-              href={NAVIGATION.LESSONS.SUBMENU.ENGLISH_B1B2.PATH}
+              href={NAVIGATION.LESSONS.PATH}
               className="bg-foreground text-background px-8 py-4 rounded-2xl text-lg font-medium hover:bg-foreground/90 transition-colors"
             >
               Start Learning

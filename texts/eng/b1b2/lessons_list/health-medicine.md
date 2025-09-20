@@ -101,7 +101,8 @@ The *hospital* *where* Dr. Martinez works has an amazing team of *nurses* *who* 
 
 ## Связанные темы / Related Topics
 
-- Personal Care & Hygiene
-- Daily Life & Routines
-- Work & Career
-- Family & Relationships
+- personal-care-hygiene
+- daily-life-routines
+- work-career
+- family-relationships
+

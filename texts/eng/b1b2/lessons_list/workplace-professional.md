@@ -129,6 +129,7 @@ What Jennifer finds most challenging about her work is staying current with rapi
 
 ## Связанные темы / Related Topics
 
-- Business & Economy
-- Law & Justice
-- Technology & Innovation
+- business-economy
+- law-justice
+- technology-innovation
+

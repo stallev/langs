@@ -108,7 +108,8 @@ Sarah believes that *education* is one of the most important things in life, and
 
 ## Связанные темы / Related Topics
 
-- Work & Career
-- Personal Development
-- Communication & Interaction
-- Technology & Innovation
+- work-career
+- personal-care-hygiene
+- communication-interaction
+- technology-innovation
+

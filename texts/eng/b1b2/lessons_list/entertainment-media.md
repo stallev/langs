@@ -101,7 +101,8 @@ Lisa works as a journalist for a local *newspaper*, so she's always up-to-date w
 
 ## Связанные темы / Related Topics
 
-- Arts & Culture
-- Daily Life & Routines
-- Communication & Interaction
-- Technology & Innovation
+- arts-culture
+- daily-life-routines
+- communication-interaction
+- technology-innovation
+

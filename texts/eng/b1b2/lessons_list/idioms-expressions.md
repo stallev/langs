@@ -150,6 +150,7 @@ What Sarah finds most challenging about *idiom*s is that you can't always transl
 
 ## Связанные темы / Related Topics
 
-- Education & Learning
-- Social Interactions
-- Daily Life & Routines
+- education-learning
+- social-interactions
+- daily-life-routines
+

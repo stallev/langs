@@ -9,7 +9,9 @@
     "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint:fix": "eslint --fix \"src/**/*.{js,jsx,ts,tsx}\"",
     "prettier": "prettier --write \"src/**/*.{js,jsx,ts,tsx}\"",
-    "generate:lessons": "node scripts/generate-lessons-data.js"
+    "generate:lessons": "node scripts/generate-lessons-data.js",
+    "generate:lessons:eng": "node scripts/generate-lessons-data.js eng",
+    "generate:lessons:rus": "node scripts/generate-lessons-data.js rus"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

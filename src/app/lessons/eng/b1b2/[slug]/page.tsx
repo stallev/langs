@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
 import { LessonRenderer } from '@/components/lesson/LessonRenderer';
-import type { LessonData } from '@/types/lessons';
+import type { LessonData } from '@/shared/types/lesson';
 import type { BreadcrumbItem } from '@/types/navigation';
 
 interface LessonPageProps {

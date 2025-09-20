@@ -105,6 +105,7 @@ What Professor Williams finds most rewarding about *philosophy* is how it helps 
 
 ## Связанные темы / Related Topics
 
-- Religion & Spirituality
-- History & Civilization
-- Education & Learning
+- religion-spirituality
+- history-civilization
+- education-learning
+

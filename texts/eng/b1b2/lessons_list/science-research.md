@@ -109,6 +109,7 @@ Dr. Rodriguez believes that *evidence*-based *research* is essential for making 
 
 ## Связанные темы / Related Topics
 
-- Technology & Innovation
-- Education & Learning
-- Nature & Environment
+- technology-innovation
+- education-learning
+- nature-environment
+

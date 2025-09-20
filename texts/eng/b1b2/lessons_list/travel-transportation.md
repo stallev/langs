@@ -101,7 +101,8 @@ One day, we got lost in the city and had to use a *map* to find our way back to 
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Family & Relationships
-- Shopping & Money
-- Communication & Interaction
+- daily-life-routines
+- family-relationships
+- shopping-money
+- communication-interaction
+

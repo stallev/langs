@@ -101,7 +101,8 @@ When Mike isn't playing *sports*, he loves watching *games* on TV, especially *f
 
 ## Связанные темы / Related Topics
 
-- Health & Medicine
-- Daily Life & Routines
-- Work & Career
-- Entertainment & Media
+- health-medicine
+- daily-life-routines
+- work-career
+- entertainment-media
+

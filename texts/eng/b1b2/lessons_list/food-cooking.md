@@ -101,7 +101,8 @@ When Maria goes grocery shopping, she always looks for fresh, local ingredients.
 
 ## Связанные темы / Related Topics
 
-- Health & Medicine
-- Daily Life & Routines
-- Travel & Transportation
-- Family & Relationships
+- health-medicine
+- daily-life-routines
+- travel-transportation
+- family-relationships
+

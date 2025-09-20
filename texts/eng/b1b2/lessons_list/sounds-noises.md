@@ -150,6 +150,7 @@ What Alex finds most fascinating about his work is how *sound*s can tell a story
 
 ## Связанные темы / Related Topics
 
-- Entertainment & Media
-- Technology & Innovation
-- Arts & Culture
+- entertainment-media
+- technology-innovation
+- arts-culture
+

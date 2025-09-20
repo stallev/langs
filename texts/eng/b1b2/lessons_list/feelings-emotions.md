@@ -132,6 +132,7 @@ What Emma finds most fascinating is how *smell*s and *scent*s can trigger strong
 
 ## Связанные темы / Related Topics
 
-- Food & Cooking
-- Psychology & Behavior
-- Personal Care & Hygiene
+- food-cooking
+- psychology-behavior
+- personal-care-hygiene
+

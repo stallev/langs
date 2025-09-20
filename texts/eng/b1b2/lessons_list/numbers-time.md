@@ -130,6 +130,7 @@ What David finds most challenging about his job is dealing with different *time*
 
 ## Связанные темы / Related Topics
 
-- Business & Economy
-- Daily Life & Routines
-- Education & Learning
+- business-economy
+- daily-life-routines
+- education-learning
+

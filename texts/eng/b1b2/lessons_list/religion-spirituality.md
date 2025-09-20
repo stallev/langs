@@ -105,6 +105,7 @@ One of the most meaningful aspects of Robert's spiritual journey has been learni
 
 ## Связанные темы / Related Topics
 
-- Philosophy & Thought
-- History & Civilization
-- Arts & Culture
+- philosophy-thought
+- history-civilization
+- arts-culture
+

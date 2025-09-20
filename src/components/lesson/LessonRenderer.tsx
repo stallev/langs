@@ -1,6 +1,6 @@
 import { remark } from 'remark';
 import remarkHtml from 'remark-html';
-import type { LessonData } from '@/types/lessons';
+import type { LessonData } from '@/shared/types/lesson';
 import { ExamplesSection } from './ExamplesSection';
 import { GrammarNotesSection } from './GrammarNotesSection';
 import { MainTextSection } from './MainTextSection';
@@ -21,7 +21,6 @@ async function convertMarkdownToHtml(markdown: string): Promise<string> {
 }
 
 export const LessonRenderer = async ({ lessonData }: LessonRendererProps) => {
-  console.log(lessonData.relatedTopics[0].slug);
   try {
     // Convert markdown text to HTML
     const mainTextHtml = await convertMarkdownToHtml(lessonData.mainText);

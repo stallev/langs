@@ -105,6 +105,7 @@ One of the things Maria loves most about the arts is how they bring people toget
 
 ## Связанные темы / Related Topics
 
-- Entertainment & Media
-- Education & Learning
-- History & Civilization
+- entertainment-media
+- education-learning
+- history-civilization
+

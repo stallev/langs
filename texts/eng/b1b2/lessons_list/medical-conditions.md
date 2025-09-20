@@ -150,6 +150,7 @@ What Dr. Martinez finds most challenging about her work is helping *patient*s un
 
 ## Связанные темы / Related Topics
 
-- Health & Medicine
-- Science & Research
-- Daily Life & Routines
+- health-medicine
+- science-research
+- daily-life-routines
+

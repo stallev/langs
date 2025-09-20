@@ -101,7 +101,8 @@ David loves spending time in *nature* because it helps him feel connected to the
 
 ## Связанные темы / Related Topics
 
-- Health & Medicine
-- Daily Life & Routines
-- Travel & Transportation
-- Science & Research
+- health-medicine
+- daily-life-routines
+- travel-transportation
+- science-research
+

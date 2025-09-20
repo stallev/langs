@@ -116,7 +116,8 @@ Right now, Mark is getting ready for another *interview* for a director position
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Communication & Interaction
+- daily-life-routines
+- communication-interaction
 - Leadership & Management
-- Business & Economy
+- business-economy
+

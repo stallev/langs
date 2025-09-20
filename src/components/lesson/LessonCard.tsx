@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { cn } from '@/lib/utils';
-import type { LessonData } from '@/types/lessons';
+import type { LessonData } from '@/shared/types/lesson';
 
 interface LessonCardProps {
   lesson: LessonData;
@@ -10,7 +10,7 @@ interface LessonCardProps {
 export const LessonCard = ({ lesson, className }: LessonCardProps) => {
   return (
     <Link
-      href={`/lessons/eng/b1b2/${lesson.slug.replace(/^\d+-/, '')}`}
+      href={lesson.url}
       className={cn(
         'group block bg-muted/20 rounded-2xl p-6 border-0 transition-all duration-200 hover:bg-muted/30 hover:shadow-lg',
         className

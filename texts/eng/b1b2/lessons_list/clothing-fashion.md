@@ -101,7 +101,8 @@ Jessica's friends often ask her for fashion advice *because* she has such a grea
 
 ## Связанные темы / Related Topics
 
-- Shopping & Money
-- Personal Care & Hygiene
-- Daily Life & Routines
-- Entertainment & Media
+- shopping-money
+- personal-care-hygiene
+- daily-life-routines
+- entertainment-media
+

@@ -105,6 +105,7 @@ What Dr. Martinez finds most rewarding about her work is helping people through 
 
 ## Связанные темы / Related Topics
 
-- Health & Medicine
-- Philosophy & Thought
-- Education & Learning
+- health-medicine
+- philosophy-thought
+- education-learning
+

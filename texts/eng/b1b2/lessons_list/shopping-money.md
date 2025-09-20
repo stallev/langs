@@ -101,7 +101,8 @@ When Sarah goes *shopping* online, she always compares *prices* between differen
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Work & Career
-- Travel & Transportation
-- Family & Relationships
+- daily-life-routines
+- work-career
+- travel-transportation
+- family-relationships
+

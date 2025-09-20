@@ -124,6 +124,7 @@ What Dr. Chen finds most rewarding about her work is helping people realize thei
 
 ## Связанные темы / Related Topics
 
-- Psychology & Behavior
-- Philosophy & Thought
-- Education & Learning
+- psychology-behavior
+- philosophy-thought
+- education-learning
+

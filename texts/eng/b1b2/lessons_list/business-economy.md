@@ -101,6 +101,7 @@ What Sarah finds most rewarding about her work is the opportunity to help the *b
 
 ## Связанные темы / Related Topics
 
-- Work & Career
-- Technology & Innovation
-- Communication & Interaction
+- work-career
+- technology-innovation
+- communication-interaction
+

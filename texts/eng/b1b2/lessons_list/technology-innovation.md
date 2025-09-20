@@ -101,6 +101,7 @@ One of the most exciting aspects of working in *technology* is seeing how quickl
 
 ## Связанные темы / Related Topics
 
-- Work & Career
-- Education & Learning
-- Communication & Interaction
+- work-career
+- education-learning
+- communication-interaction
+

@@ -150,6 +150,7 @@ What Tom finds most interesting about phrasal verbs is how they can completely c
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Education & Learning
-- Social Interactions
+- daily-life-routines
+- education-learning
+- social-interactions
+

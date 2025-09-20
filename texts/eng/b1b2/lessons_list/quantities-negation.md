@@ -119,6 +119,7 @@ What Dr. Rodriguez finds most challenging about her work is dealing with the unc
 
 ## Связанные темы / Related Topics
 
-- Science & Research
-- Business & Economy
-- Daily Life & Routines
+- science-research
+- business-economy
+- daily-life-routines
+

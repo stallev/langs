@@ -105,6 +105,7 @@ What Dr. Thompson finds most rewarding about his work is helping people understa
 
 ## Связанные темы / Related Topics
 
-- Politics & Government
-- Arts & Culture
-- Philosophy & Thought
+- politics-government
+- arts-culture
+- philosophy-thought
+

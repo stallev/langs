@@ -4,22 +4,35 @@ const fs = require('fs');
 const path = require('path');
 
 /**
- * Script to generate ENG_B1_B2_LESSONS_DATA from markdown files
- * This script parses all lesson markdown files and generates a TypeScript constants file
+ * Script to generate lessons data from markdown files for both English and Russian
+ * This script parses all lesson markdown files and generates TypeScript constants files
  * with structured data for the lessons.
  */
 
 // Configuration
-const LESSONS_DIR = path.join(__dirname, '../texts/eng/b1b2/lessons_list');
-const OUTPUT_FILE = path.join(__dirname, '../texts/eng/b1b2/constants/lessonsData.ts');
+const CONFIG = {
+  eng: {
+    lessonsDir: path.join(__dirname, '../texts/eng/b1b2/lessons_list'),
+    outputFile: path.join(__dirname, '../texts/eng/b1b2/constants/lessonsData.ts'),
+    level: 'B1-B2',
+    language: 'en'
+  },
+  rus: {
+    lessonsDir: path.join(__dirname, '../texts/eng/b1b2/rus/a2/lessonsList'),
+    outputFile: path.join(__dirname, '../texts/eng/b1b2/rus/a2/constants/rus_a1_a2_lessonsData.ts'),
+    level: 'A1-A2',
+    language: 'ru'
+  }
+};
 
 /**
  * Parse markdown file and extract structured data
  * @param {string} filePath - Path to the markdown file
  * @param {number} index - Index of the file for ID generation
+ * @param {string} language - Language code ('en' or 'ru')
  * @returns {Object} Parsed lesson data
  */
-function parseMarkdownFile(filePath, index = 0) {
+function parseMarkdownFile(filePath, index = 0, language = 'en') {
   const content = fs.readFileSync(filePath, 'utf-8');
   
   // Normalize line endings to handle Windows CRLF
@@ -60,14 +73,19 @@ function parseMarkdownFile(filePath, index = 0) {
   
   // Extract related topics section
   const relatedSection = extractSection(normalizedContent, '## Связанные темы / Related Topics');
-  const relatedTopics = parseRelatedTopics(relatedSection);
+  const relatedTopics = parseRelatedTopics(relatedSection, language);
   
+  // Generate URL based on language
+  const url = language === 'rus' 
+    ? `/lessons/rus/a1a2/${slug}`
+    : `/lessons/eng/b1b2/${slug}`;
+
   return {
     id: extractIdFromFilename(filename, index),
     slug,
-    title,
-    titleRu,
-    description: generateDescription(title, keywords),
+    title: language === 'ru' ? titleRu : title,
+    titleRu: language === 'ru' ? title : titleRu,
+    description: generateDescription(language === 'ru' ? titleRu : title, keywords, language),
     keywords,
     mainText,
     additionalExamples,
@@ -76,8 +94,9 @@ function parseMarkdownFile(filePath, index = 0) {
     grammarNotes,
     relatedTopics,
     category: extractCategoryFromFilename(filename),
-    level: 'B1-B2',
-    language: 'en'
+    level: language === 'rus' ? 'A1-A2' : 'B1-B2',
+    language,
+    url
   };
 }
 
@@ -99,8 +118,8 @@ function extractSection(content, sectionTitle) {
     }
     
     if (inSection) {
-      // Stop at next main section (starts with ## but not ###)
-      if (line.startsWith('##') && !line.startsWith('###') && !line.includes(sectionTitle)) {
+      // Stop if we hit another ## section
+      if (line.startsWith('## ') && !line.includes(sectionTitle)) {
         break;
       }
       sectionContent.push(line);
@@ -111,20 +130,20 @@ function extractSection(content, sectionTitle) {
 }
 
 /**
- * Parse keywords from the keywords section
- * @param {string} section - Keywords section content
+ * Parse keywords from section content
+ * @param {string} content - Keywords section content
  * @returns {Array} Array of keyword objects
  */
-function parseKeywords(section) {
-  if (!section) return [];
+function parseKeywords(content) {
+  if (!content) return [];
   
-  const lines = section.split('\n');
+  const lines = content.split('\n');
   const keywords = [];
   
   for (const line of lines) {
     const trimmedLine = line.trim();
     if (trimmedLine.startsWith('- ')) {
-      // Parse format: - word (translation) - partOfSpeech
+      // Match pattern: - word (translation) - partOfSpeech
       const match = trimmedLine.match(/^- (.+?) \((.+?)\) - (.+?)$/);
       if (match) {
         keywords.push({
@@ -140,27 +159,21 @@ function parseKeywords(section) {
 }
 
 /**
- * Parse examples from the examples section
- * @param {string} section - Examples section content
+ * Parse examples from section content
+ * @param {string} content - Examples section content
  * @returns {Array} Array of example objects
  */
-function parseExamples(section) {
-  if (!section) return [];
+function parseExamples(content) {
+  if (!content) return [];
   
-  const lines = section.split('\n');
+  const lines = content.split('\n');
   const examples = [];
   
   for (const line of lines) {
     const trimmedLine = line.trim();
-    
-    // Skip empty lines and subheadings
-    if (!trimmedLine || trimmedLine.startsWith('###') || trimmedLine.startsWith('##')) {
-      continue;
-    }
-    
-    if (trimmedLine.startsWith('- **')) {
-      // Parse format: - **word**: "example" (translation)
-      const match = trimmedLine.match(/^- \*\*(.+?)\*\*: "(.+?)" \((.+?)\)/);
+    if (trimmedLine.startsWith('- **') && trimmedLine.includes('**:')) {
+      // Match pattern: - **word**: "example" (translation)
+      const match = trimmedLine.match(/^- \*\*(.+?)\*\*: "(.+?)" \((.+?)\)$/);
       if (match) {
         examples.push({
           word: match[1].trim(),
@@ -169,12 +182,12 @@ function parseExamples(section) {
         });
       }
     } else if (trimmedLine.startsWith('- ')) {
-      // Regular example without word reference
-      const example = trimmedLine.substring(2).trim();
-      if (example && !example.startsWith('**')) {
+      // Simple example without word reference
+      const exampleText = trimmedLine.replace(/^- /, '').trim();
+      if (exampleText) {
         examples.push({
           word: null,
-          example: example,
+          example: exampleText,
           translation: null
         });
       }
@@ -185,26 +198,20 @@ function parseExamples(section) {
 }
 
 /**
- * Parse phrases from the phrases section
- * @param {string} section - Phrases section content
+ * Parse phrases from section content
+ * @param {string} content - Phrases section content
  * @returns {Array} Array of phrase objects
  */
-function parsePhrases(section) {
-  if (!section) return [];
+function parsePhrases(content) {
+  if (!content) return [];
   
-  const lines = section.split('\n');
+  const lines = content.split('\n');
   const phrases = [];
   
   for (const line of lines) {
     const trimmedLine = line.trim();
-    
-    // Skip empty lines and subheadings
-    if (!trimmedLine || trimmedLine.startsWith('###') || trimmedLine.startsWith('##')) {
-      continue;
-    }
-    
     if (trimmedLine.startsWith('- ')) {
-      // Parse format: - "phrase" - translation
+      // Match pattern: - "phrase" - translation
       const match = trimmedLine.match(/^- "(.+?)" - (.+?)$/);
       if (match) {
         phrases.push({
@@ -212,11 +219,11 @@ function parsePhrases(section) {
           translation: match[2].trim()
         });
       } else {
-        // Regular phrase without quotes
-        const phrase = trimmedLine.substring(2).trim();
-        if (phrase) {
+        // Simple phrase without quotes
+        const phraseText = trimmedLine.replace(/^- /, '').trim();
+        if (phraseText) {
           phrases.push({
-            phrase: phrase,
+            phrase: phraseText,
             translation: null
           });
         }
@@ -228,32 +235,35 @@ function parsePhrases(section) {
 }
 
 /**
- * Parse synonyms from the synonyms section
- * @param {string} section - Synonyms section content
+ * Parse synonyms from section content
+ * @param {string} content - Synonyms section content
  * @returns {Array} Array of synonym objects
  */
-function parseSynonyms(section) {
-  if (!section) return [];
+function parseSynonyms(content) {
+  if (!content) return [];
   
-  const lines = section.split('\n');
+  const lines = content.split('\n');
   const synonyms = [];
   let currentWord = null;
+  let currentSynonyms = [];
   
   for (const line of lines) {
     const trimmedLine = line.trim();
     
-    if (trimmedLine.startsWith('- **')) {
-      // New word section: - **word**:
-      const match = trimmedLine.match(/^- \*\*(.+?)\*\*:\s*$/);
-      if (match) {
-        currentWord = match[1].trim();
+    if (trimmedLine.startsWith('- **') && trimmedLine.endsWith('**:')) {
+      // Save previous word if exists
+      if (currentWord) {
+        synonyms.push(...currentSynonyms);
       }
-    } else if (trimmedLine.startsWith('  - ') && currentWord) {
-      // Synonym line: - synonym (context) - "example"
-      const cleanLine = trimmedLine.replace(/^  - /, '- ').replace(/\r$/, '');
-      const match = cleanLine.match(/^- (.+?) \((.+?)\) - "(.+?)"$/);
+      
+      // Start new word
+      currentWord = trimmedLine.replace(/^- \*\*(.+?)\*\*:$/, '$1').trim();
+      currentSynonyms = [];
+    } else if (currentWord && trimmedLine.startsWith('  - ')) {
+      // Match synonym pattern: - synonym (context) - "example"
+      const match = trimmedLine.match(/^- (.+?) \((.+?)\) - "(.+?)"$/);
       if (match) {
-        synonyms.push({
+        currentSynonyms.push({
           word: currentWord,
           synonym: match[1].trim(),
           context: match[2].trim(),
@@ -263,28 +273,39 @@ function parseSynonyms(section) {
     }
   }
   
+  // Save last word
+  if (currentWord) {
+    synonyms.push(...currentSynonyms);
+  }
+  
   return synonyms;
 }
 
 /**
- * Parse related topics from the related topics section
- * @param {string} section - Related topics section content
+ * Parse related topics from section content
+ * @param {string} content - Related topics section content
  * @returns {Array} Array of related topic objects
  */
-function parseRelatedTopics(section) {
-  if (!section) return [];
+function parseRelatedTopics(content, language = 'en') {
+  if (!content) return [];
   
-  const lines = section.split('\n');
+  const lines = content.split('\n');
   const topics = [];
   
   for (const line of lines) {
     const trimmedLine = line.trim();
     if (trimmedLine.startsWith('- ')) {
-      const topic = trimmedLine.substring(2).trim();
-      if (topic) {
+      const topicSlug = trimmedLine.replace(/^- /, '').trim();
+      if (topicSlug) {
+        // Generate URL based on language
+        const topicUrl = language === 'rus' 
+          ? `/lessons/rus/a1a2/${topicSlug}`
+          : `/lessons/eng/b1b2/${topicSlug}`;
+          
         topics.push({
-          name: topic,
-          slug: generateSlug(topic)
+          name: topicSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+          slug: topicSlug,
+          url: topicUrl
         });
       }
     }
@@ -294,163 +315,69 @@ function parseRelatedTopics(section) {
 }
 
 /**
- * Extract ID from filename (e.g., "01-family-relationships" -> 1)
- * @param {string} filename - Filename without extension
- * @returns {number} Lesson ID
+ * Extract ID from filename
+ * @param {string} filename - Filename
+ * @param {number} index - Fallback index
+ * @returns {number} ID
  */
 function extractIdFromFilename(filename, index) {
-  // Since we removed the numeric prefix, we'll use the index + 1 as ID
+  // Try to extract number from filename
+  const match = filename.match(/^(\d+)-/);
+  if (match) {
+    return parseInt(match[1], 10);
+  }
+  
+  // Fallback to index + 1
   return index + 1;
 }
 
 /**
  * Extract category from filename
- * @param {string} filename - Filename without extension
- * @returns {string} Category name
+ * @param {string} filename - Filename
+ * @returns {string} Category
  */
 function extractCategoryFromFilename(filename) {
-  const parts = filename.split('-');
-  if (parts.length >= 2) {
-    return parts.slice(1).join(' ').replace(/\b\w/g, l => l.toUpperCase());
-  }
-  return 'General';
+  // Remove numbers and dashes, capitalize words
+  return filename
+    .replace(/^\d+-/, '')
+    .replace(/-/g, ' ')
+    .replace(/\b\w/g, l => l.toUpperCase());
 }
 
 /**
  * Generate description from title and keywords
  * @param {string} title - Lesson title
  * @param {Array} keywords - Array of keywords
+ * @param {string} language - Language code
  * @returns {string} Generated description
  */
-function generateDescription(title, keywords) {
-  const keywordList = keywords.slice(0, 5).map(k => k.word).join(', ');
-  return `Learn ${title.toLowerCase()} vocabulary including ${keywordList} and more essential words for daily communication.`;
-}
-
-/**
- * Generate slug from text
- * @param {string} text - Text to convert to slug
- * @returns {string} URL-friendly slug
- */
-function generateSlug(text) {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, '')
-    .replace(/\s+/g, '-')
-    .replace(/-+/g, '-')
-    .trim();
-}
-
-/**
- * Main function to generate lessons data
- */
-function generateLessonsData() {
-  console.log('🚀 Starting lessons data generation...');
+function generateDescription(title, keywords, language = 'en') {
+  const keywordWords = keywords.slice(0, 5).map(k => k.word).join(', ');
+  const langText = language === 'rus' ? 'русского языка' : 'English';
+  const levelText = language === 'rus' ? 'A1-A2' : 'B1-B2';
   
-  try {
-    // Read all markdown files from lessons directory
-    const files = fs.readdirSync(LESSONS_DIR)
-      .filter(file => file.endsWith('.md'))
-      .sort(); // Sort to maintain consistent order
-    
-    console.log(`📁 Found ${files.length} lesson files`);
-    
-    const lessons = [];
-    
-    for (let i = 0; i < files.length; i++) {
-      const file = files[i];
-      const filePath = path.join(LESSONS_DIR, file);
-      console.log(`📖 Parsing ${file}...`);
-      
-      try {
-        const lessonData = parseMarkdownFile(filePath, i);
-        lessons.push(lessonData);
-        console.log(`✅ Successfully parsed ${file}`);
-      } catch (error) {
-        console.error(`❌ Error parsing ${file}:`, error.message);
-        // Continue with other files
-      }
-    }
-    
-    // Generate TypeScript constants file
-    const tsContent = generateTypeScriptFile(lessons);
-    
-    // Ensure output directory exists
-    const outputDir = path.dirname(OUTPUT_FILE);
-    if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
-    }
-    
-    // Write the generated file
-    fs.writeFileSync(OUTPUT_FILE, tsContent, 'utf-8');
-    
-    console.log(`✅ Successfully generated ${lessons.length} lessons`);
-    console.log(`📄 Output written to: ${OUTPUT_FILE}`);
-    
-  } catch (error) {
-    console.error('❌ Error generating lessons data:', error);
-    process.exit(1);
-  }
+  return `Learn ${langText} at the ${levelText} level through thematic texts with key words: ${keywordWords} and practical usage examples.`;
 }
 
 /**
  * Generate TypeScript file content
  * @param {Array} lessons - Array of lesson objects
+ * @param {string} language - Language code
  * @returns {string} TypeScript file content
  */
-function generateTypeScriptFile(lessons) {
+function generateTypeScriptFile(lessons, language = 'en') {
+  const isRussian = language === 'rus';
+  const dataName = isRussian ? 'RUS_A1_A2_LESSONS_DATA' : 'ENG_B1_B2_LESSONS_DATA';
+  const level = isRussian ? 'A1-A2' : 'B1-B2';
+  const langName = isRussian ? 'Russian' : 'English';
+  
   const header = `// Auto-generated file - do not edit manually
 // Generated on: ${new Date().toISOString()}
-// Source: ${LESSONS_DIR}
+// Source: ${isRussian ? CONFIG.rus.lessonsDir : CONFIG.eng.lessonsDir}
 
-export interface LessonKeyword {
-  word: string;
-  translation: string;
-  partOfSpeech: string;
-}
+import type { LessonData } from '@/shared/types/lesson';
 
-export interface LessonExample {
-  word: string | null;
-  example: string;
-  translation: string | null;
-}
-
-export interface LessonPhrase {
-  phrase: string;
-  translation: string | null;
-}
-
-export interface LessonSynonym {
-  word: string;
-  synonym: string;
-  context: string;
-  example: string;
-}
-
-export interface RelatedTopic {
-  name: string;
-  slug: string;
-}
-
-export interface LessonData {
-  id: number;
-  slug: string;
-  title: string;
-  titleRu: string;
-  description: string;
-  keywords: LessonKeyword[];
-  mainText: string;
-  additionalExamples: LessonExample[];
-  practicalPhrases: LessonPhrase[];
-  synonyms: LessonSynonym[];
-  grammarNotes: string;
-  relatedTopics: RelatedTopic[];
-  category: string;
-  level: string;
-  language: string;
-}
-
-export const ENG_B1_B2_LESSONS_DATA: LessonData[] = `;
+export const ${dataName}: LessonData[] = `;
 
   const lessonsJson = JSON.stringify(lessons, null, 2);
   
@@ -458,7 +385,7 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = `;
 
 export const LESSONS_COUNT = ${lessons.length};
 
-export const LESSONS_BY_CATEGORY = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
+export const LESSONS_BY_CATEGORY = ${dataName}.reduce((acc, lesson) => {
   if (!acc[lesson.category]) {
     acc[lesson.category] = [];
   }
@@ -466,12 +393,12 @@ export const LESSONS_BY_CATEGORY = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) =
   return acc;
 }, {} as Record<string, LessonData[]>);
 
-export const LESSONS_BY_ID = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
+export const LESSONS_BY_ID = ${dataName}.reduce((acc, lesson) => {
   acc[lesson.id] = lesson;
   return acc;
 }, {} as Record<number, LessonData>);
 
-export const LESSONS_BY_SLUG = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
+export const LESSONS_BY_SLUG = ${dataName}.reduce((acc, lesson) => {
   acc[lesson.slug] = lesson;
   return acc;
 }, {} as Record<string, LessonData>);
@@ -480,9 +407,109 @@ export const LESSONS_BY_SLUG = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
   return header + lessonsJson + footer;
 }
 
-// Run the script if called directly
-if (require.main === module) {
-  generateLessonsData();
+/**
+ * Generate lessons data for a specific language
+ * @param {string} language - Language code ('en' or 'ru')
+ */
+function generateLessonsData(language = 'en') {
+  const config = CONFIG[language];
+  
+  if (!config) {
+    console.error(`❌ Invalid language: ${language}`);
+    process.exit(1);
+  }
+  
+  console.log(`🚀 Starting ${language.toUpperCase()} lessons data generation...`);
+  
+  try {
+    // Check if lessons directory exists
+    if (!fs.existsSync(config.lessonsDir)) {
+      console.error(`❌ Lessons directory not found: ${config.lessonsDir}`);
+      process.exit(1);
+    }
+    
+    // Read all markdown files
+    const files = fs.readdirSync(config.lessonsDir)
+      .filter(file => file.endsWith('.md'))
+      .sort();
+    
+    console.log(`📁 Found ${files.length} lesson files`);
+    
+    if (files.length === 0) {
+      console.error(`❌ No markdown files found in ${config.lessonsDir}`);
+      process.exit(1);
+    }
+    
+    // Parse each file
+    const lessons = [];
+    for (let i = 0; i < files.length; i++) {
+      const file = files[i];
+      const filePath = path.join(config.lessonsDir, file);
+      
+      console.log(`📖 Parsing ${file}...`);
+      
+      try {
+        const lessonData = parseMarkdownFile(filePath, i, language);
+        lessons.push(lessonData);
+        console.log(`✅ Successfully parsed ${file}`);
+      } catch (error) {
+        console.error(`❌ Error parsing ${file}:`, error.message);
+        process.exit(1);
+      }
+    }
+    
+    // Sort lessons by ID
+    lessons.sort((a, b) => a.id - b.id);
+    
+    // Generate TypeScript file content
+    const tsContent = generateTypeScriptFile(lessons, language);
+    
+    // Ensure output directory exists
+    const outputDir = path.dirname(config.outputFile);
+    if (!fs.existsSync(outputDir)) {
+      fs.mkdirSync(outputDir, { recursive: true });
+    }
+    
+    // Write to file
+    fs.writeFileSync(config.outputFile, tsContent, 'utf-8');
+    
+    console.log(`✅ Successfully generated ${lessons.length} lessons`);
+    console.log(`📄 Output written to: ${config.outputFile}`);
+    
+  } catch (error) {
+    console.error(`❌ Error generating lessons data:`, error.message);
+    process.exit(1);
+  }
 }
 
-module.exports = { generateLessonsData, parseMarkdownFile };
+/**
+ * Generate lessons data for all languages
+ */
+function generateAllLessonsData() {
+  console.log('🚀 Starting lessons data generation for all languages...');
+  
+  // Generate English lessons
+  generateLessonsData('eng');
+  
+  // Generate Russian lessons
+  generateLessonsData('rus');
+  
+  console.log('✅ All lessons data generated successfully!');
+}
+
+// Run the script
+if (require.main === module) {
+  const args = process.argv.slice(2);
+  
+  if (args.length === 0) {
+    // Generate all languages
+    generateAllLessonsData();
+  } else if (args[0] === 'eng') {
+    generateLessonsData('eng');
+  } else if (args[0] === 'rus') {
+    generateLessonsData('rus');
+  } else {
+    console.error('❌ Invalid argument. Use: node generate-lessons-data.js [eng|rus]');
+    process.exit(1);
+  }
+}

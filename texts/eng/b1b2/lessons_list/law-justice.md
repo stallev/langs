@@ -109,6 +109,7 @@ What Jennifer finds most rewarding about her work is when she can help ensure th
 
 ## Связанные темы / Related Topics
 
-- Politics & Government
-- Business & Economy
-- Communication & Interaction
+- politics-government
+- business-economy
+- communication-interaction
+

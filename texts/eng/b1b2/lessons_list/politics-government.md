@@ -101,6 +101,7 @@ What Michael finds most fascinating about politics is how it affects people's *r
 
 ## Связанные темы / Related Topics
 
-- Law & Justice
-- Business & Economy
-- Communication & Interaction
+- law-justice
+- business-economy
+- communication-interaction
+

@@ -1,11 +1,8 @@
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
 import { LessonCard } from '@/components/lesson/LessonCard';
-import type { LessonData } from '@/types/lessons';
+import { ENG_B1_B2_LESSONS_DATA, LESSONS_BY_CATEGORY } from '@/data/lessonsData';
+import type { LessonData } from '@/shared/types/lesson';
 import type { BreadcrumbItem } from '@/types/navigation';
-import {
-  ENG_B1_B2_LESSONS_DATA,
-  LESSONS_BY_CATEGORY,
-} from '../../../../../texts/eng/b1b2/constants/eng_b1_b2_lessonsData';
 
 export default function EnglishB1B2Page() {
   const breadcrumbs: BreadcrumbItem[] = [

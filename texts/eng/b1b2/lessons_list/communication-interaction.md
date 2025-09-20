@@ -124,7 +124,8 @@ At the end of the day, being a good communicator is a skill you can work on and 
 
 ## Связанные темы / Related Topics
 
-- Work & Career
-- Family & Relationships
+- work-career
+- family-relationships
 - Leadership & Management
-- Personal Development
+- personal-care-hygiene
+

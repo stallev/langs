@@ -101,6 +101,7 @@ What Emma really loves about her personal *care* routine is that it's not just a
 
 ## Связанные темы / Related Topics
 
-- Daily Life & Routines
-- Health & Medicine
-- Home & Housing
+- daily-life-routines
+- health-medicine
+- home-housing
+

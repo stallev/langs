@@ -135,6 +135,7 @@ When Sarah compares her new paintings to her older ones, she can see how much *b
 
 ## Связанные темы / Related Topics
 
-- Arts & Culture
-- Clothing & Fashion
-- Nature & Environment
+- arts-culture
+- clothing-fashion
+- nature-environment
+
