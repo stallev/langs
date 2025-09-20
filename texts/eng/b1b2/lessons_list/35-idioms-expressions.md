@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Sarah has been studying English idioms and expressions for months, and she's learned that these phrases can be quite confusing for non-native speakers. She used to think that "break the ice" meant literally breaking ice, but now she understands it means to start a conversation or make people feel more comfortable. She's discovered that idioms are like pieces of a puzzle that you need to understand as a whole, not word by word.
+Sarah has been studying English *idiom*s and expressions for months, and she's learned that these phrases can be quite confusing for non-native speakers. She used to think that "*break the ice*" meant literally breaking ice, but now she understands it means to start a conversation or make people feel more comfortable. She's discovered that *idiom*s are like *piece*s of a puzzle that you need to understand as a whole, not word by word.
 
-Last week, Sarah was feeling under the weather, so she decided to stay home and hit the books instead of going to her English class. She was working on a difficult assignment that seemed to cost an arm and a leg in terms of time and effort. Her friend called and asked if she wanted to go out, but Sarah had to take a rain check because she needed to focus on her studies.
+Last week, Sarah was feeling "*under the weather*," so she decided to stay home and "*hit the books*" instead of going to her English class. She was working on a difficult assignment that seemed to "*cost an arm and a leg*" in terms of time and effort. Her friend called and asked if she wanted to go out, but Sarah had to "*take a rain check*" because she needed to focus on her studies.
 
-Sarah has learned that understanding idioms is essential for communicating with native speakers. She's discovered that when people say "once in a blue moon," they don't mean the moon is actually blue - they mean something happens very rarely. She's also learned that if someone says "the ball is in your court," they're not talking about sports, but about it being your turn to make a decision or take action.
+Sarah has learned that understanding *idiom*s is essential for communicating with native speakers. She's discovered that when people say "*once in a blue moon*," they don't mean the moon is actually blue - they mean something happens very rarely. She's also learned that if someone says "*the ball is in your court*," they're not talking about sports, but about it being your turn to make a decision or take action.
 
-What Sarah finds most challenging about idioms is that you can't always translate them directly. For example, "you can't judge a book by its cover" doesn't mean you shouldn't look at book covers - it means you shouldn't judge people or things by their appearance. She's learned that the best way to master idioms is to practice them in context and not to get cold feet when they seem difficult at first.
+What Sarah finds most challenging about *idiom*s is that you can't always translate them directly. For example, "*you can't judge a book by its cover*" doesn't mean you shouldn't look at book covers - it means you shouldn't judge people or things by their appearance. She's learned that the best way to master *idiom*s is to practice them in context and not to "*get cold feet*" when they seem difficult at first.
 
 ## Дополнительные примеры / Additional Examples
 

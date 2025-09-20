@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Emma has always been really particular about her personal care routine, and honestly, it's something that makes her feel confident and ready to tackle whatever the day throws at her. Her morning routine starts with a refreshing shower using her favorite soap and shampoo. She loves the feeling of being completely clean and fresh when she steps out of the shower and dries off with a soft towel.
+Emma has always been really particular about her personal *care* routine, and honestly, it's something that makes her feel confident and ready to tackle whatever the day throws at her. Her morning routine starts with a refreshing *shower* using her favorite *soap* and *shampoo*. She loves the feeling of being completely *clean* and fresh when she steps out of the *shower* and dries off with a soft *towel*.
 
-After her shower, Emma takes care of her dental hygiene by brushing her teeth with toothpaste and her trusty toothbrush. She's learned that good oral care is super important for overall health, so she never skips this step. Then she combs her hair in front of the mirror, making sure everything looks neat and put together.
+After her *shower*, Emma takes *care* of her dental *hygiene* by *wash*ing her teeth with *toothpaste* and her trusty *toothbrush*. She's learned that good oral *care* is super important for overall health, so she never skips this step. Then she *comb*s her hair in front of the *mirror*, making sure everything looks neat and put together.
 
-Emma's skincare routine is pretty simple but effective. She applies a gentle lotion to keep her skin soft and hydrated, and she uses a light cream around her eyes. She's not big on heavy makeup, but she does like to wear a bit of perfume to feel put together. Sometimes she'll use a razor to keep things smooth, and she always makes sure to apply deodorant to stay fresh throughout the day.
+Emma's skincare routine is pretty simple but effective. She applies a gentle *lotion* to keep her skin soft and hydrated, and she uses a light *cream* around her eyes. She's not big on heavy *makeup*, but she does like to wear a bit of *perfume* to feel put together. Sometimes she'll use a *razor* to keep things smooth, and she always makes sure to apply *deodorant* to stay fresh throughout the day.
 
-What Emma really loves about her personal care routine is that it's not just about looking good - it's about feeling good too. Taking care of herself gives her a sense of control and helps her start each day with a positive mindset. She believes that good hygiene and self-care are essential parts of a healthy lifestyle, and she's always encouraging her friends to develop their own routines that work for them.
+What Emma really loves about her personal *care* routine is that it's not just about looking good - it's about feeling good too. Taking *care* of herself gives her a sense of control and helps her start each day with a positive mindset. She believes that good *hygiene* and self-*care* are essential parts of a healthy lifestyle, and she's always encouraging her friends to develop their own routines that work for them. She also enjoys taking a relaxing *bath* with her favorite *brush* and *soap* on weekends.
 
 ## Дополнительные примеры / Additional Examples
 

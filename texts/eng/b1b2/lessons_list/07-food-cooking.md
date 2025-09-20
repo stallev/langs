@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Maria loves cooking and experimenting with different types of food from around the world. She starts her day with a healthy breakfast that usually includes fresh fruit, whole grain bread, and a cup of coffee. For lunch, she often prepares a light meal with lots of vegetables and some lean meat or fish. She's really into trying new recipes and learning about different cuisines, especially Italian and Asian dishes.
+Maria loves *cooking* and experimenting with different types of *food* from around the world. She starts her day with a healthy *breakfast* that usually includes fresh *fruit*, whole grain *bread*, and a cup of *coffee*. For *lunch*, she often prepares a light *meal* with lots of *vegetables* and some lean *meat* or *fish*. She's really into trying new recipes and learning about different cuisines, especially Italian and Asian dishes.
 
-Yesterday, Maria decided to cook a special dinner for her friends. She spent the afternoon preparing a delicious pasta dish with fresh vegetables and homemade sauce. She also made some garlic bread to go with the meal, and everyone loved it. For dessert, she served fresh fruit with a little bit of ice cream, which was the perfect ending to a great dinner.
+Yesterday, Maria decided to *cook* a special *dinner* for her friends. She spent the afternoon preparing a delicious *pasta* dish with fresh *vegetables* and homemade sauce. She also made some garlic *bread* to go with the *meal*, and everyone loved it. For dessert, she served fresh *fruit* with a little bit of ice cream, which was the perfect ending to a great *dinner*.
 
-Maria believes that good nutrition is really important for staying healthy, so she tries to eat a balanced diet with plenty of vegetables, fruits, and whole grains. She drinks lots of water throughout the day and limits her intake of sugary drinks like juice and soda. She also enjoys trying different types of tea, especially green tea, which she drinks in the evening to help her relax.
+Maria believes that good nutrition is really important for staying healthy, so she tries to eat a balanced diet with plenty of *vegetables*, *fruits*, and whole grains. She *drinks* lots of *water* throughout the day and limits her intake of sugary *drinks* like *juice* and soda. She also enjoys trying different types of *tea*, especially green *tea*, which she *drinks* in the evening to help her relax.
 
-When Maria goes grocery shopping, she always looks for fresh, local ingredients. She prefers to cook her own meals rather than eating out all the time, because she can control what goes into her food and make sure it's healthy and delicious. She's always looking for new cooking techniques and recipes to try, and she loves sharing her culinary discoveries with her friends and family.
+When Maria goes grocery shopping, she always looks for fresh, local ingredients. She prefers to *cook* her own *meals* rather than eating out all the time, *because* she can control *what* goes into her *food* and make sure it's healthy and delicious. She's always looking for new *cooking* techniques and recipes to try, and she loves sharing her culinary discoveries with her friends and family. She also enjoys *lunch* with colleagues and *dinner* parties where she can showcase her *cooking* skills.
 
 ## Дополнительные примеры / Additional Examples
 

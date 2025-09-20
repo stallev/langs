@@ -29,13 +29,15 @@
 
 ## Основной текст / Main Text
 
-Sarah comes from a big family, and honestly, it's been one of the best things in her life. Her parents, John and Mary, have been married for thirty years now, which is pretty amazing considering how common divorce has become these days. They've raised three kids together: Sarah, her older brother Michael, and her younger sister Emma. Sarah and Emma are super close - they're only two years apart, so they've always been like best friends.
+Sarah comes from a big *family*, and honestly, it's been one of the best things in her life. Her *parents*, John and Mary, have been *married* for thirty years now, which is pretty amazing considering how common *divorce* has become these days. They've raised three kids together: Sarah, her older *brother* Michael, and her younger *sister* Emma. Sarah and Emma are super close - they're only two years apart, so they've always been like best friends.
 
-Last summer was incredible. The whole family got together for Sarah's cousin Jennifer's wedding, and it was such a beautiful celebration. Everyone was there - grandparents, aunts, uncles, cousins from both sides of the family. It was like a huge family reunion! Sarah's grandfather gave this really touching speech about how family relationships shape who we become. It made everyone tear up a bit.
+Last summer was incredible. The whole *family* got together for Sarah's *cousin* Jennifer's *wedding*, and it was such a beautiful celebration. Everyone was there - *grandparents*, *aunts*, *uncles*, *cousins* from both sides. It was like a huge reunion! Sarah's *grandfather* gave this really touching speech about how *relationships* shape who we become. It made everyone tear up a bit.
 
-Sarah's parents have always been big on family values. They believe that having strong family relationships gives you support when times get tough, but also brings so much joy during the good times. A few years back, Sarah's parents went through a rough patch in their marriage, but they worked through it together and came out stronger. They always say that love, good communication, and commitment are what make a marriage work.
+Sarah's *parents* have always been big on *family* values. They believe that having strong *relationships* gives you support when times get tough, but also brings so much joy during the good times. A few years back, they went through a rough patch in their *marriage*, but they worked through it together and came out stronger. They always say that *love*, good communication, and *commitment* are what make a *marriage* work.
 
-Now Sarah is thinking about starting her own family someday. She wants to find someone who values family as much as she does. Her dream is to create the same warm, loving home for her future kids that her parents created for her and her siblings.
+Now Sarah is thinking about starting her own *family* someday. She wants to find someone who values *family* as much as she does. Her dream is to create the same warm, loving home for her future *child* that her *parents* created for her and her siblings. She hopes to build the same kind of *bond* with her future *husband* and create a strong sense of *unity* in their home.
+
+Sarah's *aunt* Lisa always *emphasizes* the importance of staying connected with *relatives*, even when life gets busy. Every year, they *gather* for a big family dinner where everyone shares stories and catches up. Sarah's *uncle* Tom and his *wife* have two kids - a *son* named Jake and a *daughter* named Lily. Sarah loves spending time with her little cousins and watching them grow up.
 
 ## Дополнительные примеры / Additional Examples
 

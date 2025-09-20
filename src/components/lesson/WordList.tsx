@@ -16,11 +16,11 @@ export const WordList = ({ words, title = 'Key Words' }: WordListProps) => {
         {title}
       </h2>
 
-      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
         {words.map((word, index) => (
           <div
             key={`${word.word}-${index}`}
-            className="bg-muted/20 rounded-2xl p-6 border-0"
+            className="bg-muted/20 rounded-2xl p-4 border-0"
             role="listitem"
           >
             <div className="space-y-4">

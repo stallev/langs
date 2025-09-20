@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Jessica has always been passionate about fashion and loves expressing herself through her clothes. She has a huge wardrobe filled with different styles of shirts, pants, and dresses for every occasion. Her favorite color is blue, so she has several blue jackets and coats that she wears during the colder months. She's also really into vintage fashion and loves finding unique pieces at thrift stores.
+Jessica has always been passionate about fashion and loves expressing herself through her *clothes*. She has a huge wardrobe filled with different styles of *shirts*, *pants*, and *dresses* for every occasion. Her favorite *color* is *blue*, so she has several *blue* *jackets* and *coats* that she *wears* during the colder months. She's also really into vintage fashion and loves finding unique pieces at thrift *stores*.
 
-Yesterday, Jessica went shopping for a new outfit for her friend's wedding. She tried on several dresses but couldn't find the right size in the style she wanted. The salesperson was really helpful and suggested a beautiful red dress that looked amazing on her. Jessica also bought a new pair of shoes to match the dress, and she's planning to wear a small hat to complete the look.
+Yesterday, Jessica went shopping for a new outfit for her friend's wedding. She tried on several *dresses* *but* couldn't find the right *size* in the style she wanted. The salesperson was really helpful and suggested a *beautiful* *red* *dress* that looked amazing on her. Jessica also bought a new pair of *shoes* to match the *dress*, and she's planning to *wear* a small *hat* to complete the look.
 
-Jessica believes that the clothes you wear can really affect how you feel about yourself. She always makes sure to dress appropriately for different situations - business clothes for work meetings, casual pants and shirts for weekend outings, and elegant dresses for special events. She's learned that investing in good quality clothes that fit well is much better than buying cheap items that don't last.
+Jessica believes that the *clothes* you *wear* can really affect *how* you feel about yourself. She always makes sure to dress appropriately for different situations - business *clothes* for work meetings, casual *pants* and *shirts* for weekend outings, and elegant *dresses* for special events. She's learned that investing in good quality *clothes* that fit well is much better than buying cheap items that don't last.
 
-Jessica's friends often ask her for fashion advice because she has such a great sense of style. She loves helping them choose outfits that make them feel confident and beautiful. She's always up-to-date with the latest fashion trends, but she also knows how to create timeless looks that will never go out of style.
+Jessica's friends often ask her for fashion advice *because* she has such a great sense of style. She loves helping them choose outfits that make them feel confident and *beautiful*. She's always up-to-date with the latest fashion trends, *but* she also knows *how* to create timeless looks that will never go out of style. She also pays attention to *color* combinations and *size* fitting to ensure the perfect look.
 
 ## Дополнительные примеры / Additional Examples
 

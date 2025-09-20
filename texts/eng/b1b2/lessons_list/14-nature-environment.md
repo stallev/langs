@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-David is passionate about nature and environmental protection, and he spends a lot of time outdoors exploring the natural world. He loves hiking in the mountains where he can see the sun rise over the clouds and feel the wind in his hair. Last weekend, he went camping with his friends, and they spent the night under the stars, watching the moon and listening to the sounds of nature around them.
+David is passionate about *nature* and environmental *protection*, and he spends a lot of time outdoors exploring the natural world. He loves hiking in the mountains where he can see the *sun* rise over the *clouds* and feel the *wind* in his hair. Last weekend, he went camping with his friends, and they spent the night under the *stars*, watching the *moon* and listening to the sounds of *nature* around them.
 
-David is really concerned about climate change and the impact of pollution on our planet. He believes that we need to take better care of our environment and reduce waste to protect the earth for future generations. He's been learning about renewable energy sources and sustainable living practices that can help reduce our carbon footprint.
+David is really concerned about *climate* change and the impact of *pollution* on our *planet*. He believes that we need to take better care of our *environment* and reduce *waste* to protect the *earth* for future generations. He's been learning about renewable *energy* sources and sustainable living practices that can help reduce our carbon footprint.
 
-The weather has been quite unpredictable lately, with sudden storms and heavy rain in some areas. David thinks this is a clear sign that our climate is changing, and we need to take action to address these environmental issues. He's been volunteering with a local conservation group that works to protect wildlife and preserve natural habitats.
+The *weather* has been quite unpredictable lately, with sudden *storms* and heavy *rain* in some areas. David thinks this is a clear sign that our *climate* is changing, and we need to take action to address these environmental issues. He's been volunteering with a local *conservation* group that works to protect wildlife and preserve natural habitats.
 
-David loves spending time in nature because it helps him feel connected to the earth and gives him a sense of peace and tranquility. He enjoys watching the clouds move across the sky and listening to the wind rustling through the trees. He believes that spending time in nature is essential for both physical and mental health, and he encourages others to get outside and appreciate the beauty of the natural world.
+David loves spending time in *nature* because it helps him feel connected to the *earth* and gives him a sense of peace and tranquility. He enjoys watching the *clouds* move across the sky and listening to the *wind* rustling through the trees. He believes that spending time in *nature* is essential for both physical and mental health, and he encourages others to get outside and appreciate the beauty of the natural world. He also advocates for better *resource* management and *protection* of our *environment*.
 
 ## Дополнительные примеры / Additional Examples
 

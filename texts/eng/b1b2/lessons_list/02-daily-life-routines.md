@@ -29,15 +29,15 @@
 
 ## Основной текст / Main Text
 
-I wake up every day at 6:30 AM, and honestly, it's become such an important part of my life. My morning routine really sets the tone for my whole day, and it gives me this sense of control that I love. First thing I do is get up and brush my teeth, then I hop in the shower to wake myself up properly. After that, I get dressed and make myself some breakfast - I'm a big believer that breakfast is the most important meal of the day.
+I *wake up* *every day* at 6:30 AM, and honestly, it's become such an important part of *my* life. *My* *morning* *routine* really sets the tone for the whole day, and it gives *me* this sense of control that I love. First thing I do is *get up* and *brush* teeth, then I hop in the *shower* to wake *myself* up properly. After that, I get dressed and make *myself* some *breakfast* - I'm a big believer that *breakfast* is the most important meal of the day.
 
-I usually go for coffee and toast, but I try to eat something healthy that'll keep me going throughout the day. In the morning, I check my emails and plan out my work schedule, making sure I tackle the most important stuff first. Working from home is awesome because I don't have to deal with the daily commute, which saves me tons of time and keeps my stress levels down.
+I *usually* go for coffee and toast, but I try to eat something healthy that'll keep *me* going throughout the day. In the *morning*, I check emails and plan out *my* *work* *schedule*, making sure I tackle the most important stuff first. Working from *home* is awesome because I don't have to deal with the daily *commute*, which saves tons of time and keeps stress levels down.
 
-Around lunchtime, I take a proper break and eat something light and healthy before getting back to work. I try to wrap up my work by 5 PM so I can have some quality time for myself in the evening. After work, I love to either hit the gym or go for a nice walk - it really helps me unwind and stay in shape.
+Around *lunch*time, I take a proper break and eat something light and healthy before getting back to *work*. I try to wrap up *work* by 5 PM so I can have some quality time for *myself* in the *evening*. After work, I love to either hit the gym or go for a nice walk - it really helps *me* unwind and stay in shape.
 
-In the evening, I enjoy cooking dinner for myself. I'm really into trying new recipes and experimenting in the kitchen. After dinner, I usually chill out by reading a good book or watching something on Netflix. I always try to be in bed by 10 PM so I can get enough sleep for the next day.
+In the *evening*, I enjoy cooking *dinner* for *myself*. I'm really into trying new recipes and experimenting in the kitchen. After *dinner*, I *usually* chill out by reading a good book or watching something on Netflix. I *always* try to be in bed by 10 PM so I can get enough sleep for the next day.
 
-My daily routine has been a game-changer for me. It keeps me organized and productive, and I really believe that having a consistent schedule is key to staying healthy and maintaining a good work-life balance.
+My daily *routine* has been a game-changer for *I*. It keeps me organized and *productive*, and I really believe that having a *consistent* *schedule* is key to staying healthy and maintaining a good work-life balance. The *afternoon* is usually when I'm most focused, so I try to tackle the most challenging tasks during that time. By *night*, I'm ready to wind down and prepare for the next day. I also make sure to *wash* my hands frequently throughout the day, especially before meals.
 
 ## Дополнительные примеры / Additional Examples
 

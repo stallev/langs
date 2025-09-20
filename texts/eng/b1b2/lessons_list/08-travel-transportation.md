@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Last summer, my family and I decided to travel to Europe for our vacation, and it was absolutely amazing! We planned the trip for months, booking our flight tickets and finding a nice hotel in Paris. The journey was long but totally worth it. We had to pack our luggage carefully because we were going to be away for two weeks, and we didn't want to forget anything important.
+Last summer, my family and I decided to *travel* to Europe for our *vacation*, and it was absolutely amazing! We planned the *trip* for months, booking our *flight* *tickets* and finding a nice *hotel* in Paris. The *journey* was long but totally worth it. We had to pack our *luggage* carefully *because* we were going to be away for two weeks, and we didn't want to forget anything important.
 
-When we arrived at the airport, everything went smoothly. The flight was comfortable, and we even got to watch some movies during the trip. After landing, we took a taxi to our hotel, which was located right in the center of the city. The hotel was beautiful and had an amazing view of the Eiffel Tower.
+When we arrived at the *airport*, everything went smoothly. The *flight* was comfortable, and we even got to watch some movies during the *trip*. After landing, we took a *taxi* to our *hotel*, which was located right in the center of the city. The *hotel* was beautiful and had an amazing view of the Eiffel Tower.
 
-During our holiday, we used different types of transportation to get around the city. We took the bus to visit museums, rode the train to go to other cities, and sometimes drove a rental car when we wanted to explore the countryside. We also took a boat trip down the Seine River, which was one of the highlights of our vacation.
+During our *holiday*, we used different types of transportation to get around the city. We took the *bus* to visit museums, *rode* the *train* to go to other cities, and sometimes *drove* a rental *car* when we wanted to explore the countryside. We also took a *ship* *trip* down the Seine River, which was one of the highlights of our *vacation*.
 
-One day, we got lost in the city and had to use a map to find our way back to the hotel. It was actually kind of fun getting lost because we discovered some really cool places that we wouldn't have found otherwise. We met some friendly locals who helped us with directions, and we even learned a few French phrases along the way.
+One day, we got lost in the city and had to use a *map* to find our way back to the *hotel*. It was actually kind of fun getting lost *because* we discovered some really cool places that we wouldn't have found otherwise. We met some friendly locals *who* helped us with directions, and we even learned a few French phrases along the way. We also used *tickets* for the metro and *passport* for international travel.
 
 ## Дополнительные примеры / Additional Examples
 

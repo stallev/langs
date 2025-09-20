@@ -39,9 +39,9 @@
 
 ## Основной текст / Main Text
 
-Michael is a social worker who has dedicated his career to helping people navigate through different stages of life and build meaningful relationships with others. He believes that strong social connections are essential for human well-being, and he's learned that the way people greet each other, introduce themselves, and communicate can have a profound impact on their relationships and overall happiness.
+Michael is a social worker who has dedicated his *career* to helping people navigate through different stages of life and build meaningful relationships with others. He *believe*s that strong social connections are essential for human well-being, and he's learned that the way people *greet* each other, *introduce* themselves, and *communicate* can have a profound impact on their relationships and overall happiness.
 
-Throughout his career, Michael has worked with people from all walks of life - from children in their early childhood to adults facing the challenges of parenthood and even seniors adjusting to retirement. He's discovered that each stage of life brings unique social challenges and opportunities. For example, adolescence is often a time when young people struggle to connect with their peers, while adulthood requires learning to balance career demands with family relationships.
+Throughout his *career*, Michael has worked with people from all walks of life - from children in their early *childhood* to adults facing the challenges of *parenthood* and even seniors adjusting to *retirement*. He's discovered that each stage of life brings unique social challenges and opportunities. For example, *adolescence* is often a time when young people struggle to *connect* with their peers, while *adulthood* requires learning to balance *career* demands with family relationships. He helps people *meet* new friends and *invite* others to social events.
 
 Michael has also learned that natural phenomena like storms, floods, and earthquakes can bring communities together in unexpected ways. When people face shared challenges, they often discover new ways to cooperate, support each other, and build stronger social bonds. He's seen how a simple act of helping a neighbor during a difficult time can create lasting friendships and strengthen community ties.
 

@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-David has always been fascinated by technology and innovation, and he's been working in the tech industry for over eight years now. He's seen incredible progress in artificial intelligence and automation during his career, and it's honestly mind-blowing how fast things are changing. His current job involves developing software for a company that's working on some really cutting-edge research in robotics and digital systems.
+David has always been fascinated by *technology* and *innovation*, and he's been working in the tech industry for over eight years now. He's seen incredible *progress* in *artificial* *intelligence* and *automation* during his career, and it's honestly mind-blowing how fast things are changing. His current job involves developing *software* for a company that's working on some really cutting-edge *research* in *robot*ics and *digital* *system*s.
 
-What David loves most about his work is the constant innovation and the opportunity to be part of inventions that could change the world. He's currently working on a project that combines artificial intelligence with electronic devices to create smarter automation systems. The engineering challenges are complex, but that's what makes the work so exciting and rewarding.
+What David loves most about his work is the constant *innovation* and the opportunity to be part of *invention*s that could change the world. He's currently working on a project that combines *artificial* *intelligence* with *electronic* *device*s to create smarter *automation* *system*s. The *engineering* challenges are complex, but that's what makes the work so exciting and rewarding.
 
-David's team is focused on research and development of new technologies that could revolutionize how we interact with digital networks. They're designing hardware and software solutions that could make our daily lives more efficient and connected. The science behind these innovations is fascinating, and David spends a lot of time learning about the latest developments in the field.
+David's team is focused on *research* and *development* of new *technologies* that could revolutionize how we interact with *digital* *network*s. They're designing *hardware* and *software* solutions that could make our daily lives more efficient and connected. The *science* behind these *innovation*s is fascinating, and David spends a lot of time learning about the latest *development*s in the field.
 
-One of the most exciting aspects of working in technology is seeing how quickly progress happens. What seemed like science fiction just a few years ago is now becoming reality. David believes that the future of technology lies in creating systems that are not just smart, but also intuitive and helpful to people. He's excited about the possibilities that lie ahead and the role he can play in shaping the future of innovation.
+One of the most exciting aspects of working in *technology* is seeing how quickly *progress* happens. What seemed like *science* fiction just a few years ago is now becoming reality. David believes that the future of *technology* lies in creating *system*s that are not just smart, but also intuitive and helpful to people. He's excited about the possibilities that lie ahead and the role he can play in shaping the future of *innovation*. He's also interested in *design*ing new *device*s and *network* solutions.
 
 ## Дополнительные примеры / Additional Examples
 

@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Sarah loves shopping, especially when there's a good sale going on. Last weekend, she went to the mall with her friends to look for some new clothes. They spent hours browsing through different stores, trying on outfits and comparing prices. Sarah found a really cute dress at one of the boutiques, but it was a bit expensive, so she decided to think about it before buying it.
+Sarah loves *shopping*, especially when there's a good sale going on. Last weekend, she went to the *mall* with her friends to look for some new clothes. They spent hours browsing through different *stores*, trying on outfits and comparing *prices*. Sarah found a really cute dress at one of the boutiques, *but* it was a bit expensive, so she decided to think about it before *buying* it.
 
-At the supermarket, Sarah always tries to save money by looking for deals and using coupons. She's really good at finding the best prices on groceries and household items. Yesterday, she went shopping for groceries and spent about fifty dollars on food for the week. She paid with her credit card because she didn't have enough cash with her.
+At the *supermarket*, Sarah always tries to *save* *money* by looking for deals and using coupons. She's really good at finding the best *prices* on groceries and household items. Yesterday, she went *shopping* for groceries and spent about fifty dollars on food for the week. She *paid* with her credit card *because* she didn't have enough *cash* with her.
 
-Sarah has a savings account at the local bank where she puts money aside for big purchases. She's been saving up for a new laptop, and she's almost reached her goal. She also has a checking account that she uses for everyday expenses like paying bills and buying things online. She's really careful about how much money she spends and always tries to stay within her budget.
+Sarah has a savings *account* at the local *bank* *where* she puts *money* aside for big purchases. She's been *saving* up for a new laptop, and she's almost reached her goal. She also has a checking *account* that she uses for everyday expenses like *paying* bills and *buying* things online. She's really careful about *how* much *money* she *spends* and always tries to stay within her budget.
 
-When Sarah goes shopping online, she always compares prices between different websites to make sure she's getting the best deal. She's learned that you can often find the same products for much cheaper prices if you shop around a bit. She also reads customer reviews before buying anything expensive to make sure it's worth the cost.
+When Sarah goes *shopping* online, she always compares *prices* between different websites to make sure she's getting the best deal. She's learned that you can often find the same products for much cheaper *prices* if you *shop* around a bit. She also reads *customer* reviews before *buying* anything expensive to make sure it's worth the *cost*. She often visits the local *store* to see products in person before making online purchases.
 
 ## Дополнительные примеры / Additional Examples
 

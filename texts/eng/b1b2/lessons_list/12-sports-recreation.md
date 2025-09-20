@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Mike has been playing sports since he was a kid, and it's become such an important part of his life. He's on the local basketball team and practices three times a week with his teammates. Their coach is really experienced and has helped the team improve their game significantly over the past year. Mike loves the competitive aspect of sports and the feeling of working together with his team to win games.
+Mike has been playing *sports* since he was a kid, and it's become such an important part of his life. He's on the local *basketball* *team* and practices three times a week with his teammates. Their *coach* is really experienced and has helped the *team* improve their *game* significantly over the past year. Mike loves the competitive aspect of *sports* and the feeling of working together with his *team* to *win* *games*.
 
-Last weekend, Mike participated in a tennis competition at the local sports club. He's been taking tennis lessons for about six months now, and he's really starting to get the hang of it. The competition was intense, but Mike managed to win his first match before losing in the second round. He was disappointed but also motivated to keep practicing and get better.
+Last weekend, Mike participated in a *tennis* *competition* at the local *sports* club. He's been taking *tennis* lessons for about six months now, and he's really starting to get the hang of it. The *competition* was intense, but Mike managed to *win* his first match before losing in the second round. He was disappointed but also motivated to keep practicing and get better.
 
-Mike also enjoys individual sports like running and swimming. He goes to the gym regularly to work on his fitness and strength training. He believes that staying active and exercising regularly is crucial for both physical and mental health. He's been training for a half-marathon that's coming up next month, and he's really excited about the challenge.
+Mike also enjoys individual *sports* like *running* and *swimming*. He goes to the *gym* regularly to work on his *fitness* and strength training. He believes that staying active and *exercising* regularly is crucial for both physical and mental health. He's been training for a half-marathon that's coming up next month, and he's really excited about the challenge.
 
-When Mike isn't playing sports, he loves watching games on TV, especially football and soccer. He's a huge fan of his local team and never misses their games. He also enjoys playing golf with his friends on weekends - it's a great way to relax and spend time outdoors while still being active.
+When Mike isn't playing *sports*, he loves watching *games* on TV, especially *football* and *soccer*. He's a huge fan of his local *team* and never misses their *games*. He also enjoys playing *golf* with his friends on weekends - it's a great way to relax and spend time outdoors while still being active. He's also a skilled *player* who enjoys *cycling* and playing with a *ball* in various *sports*.
 
 ## Дополнительные примеры / Additional Examples
 

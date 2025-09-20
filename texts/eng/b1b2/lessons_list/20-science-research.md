@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Dr. Rodriguez has been working as a scientist for over fifteen years, and she's absolutely passionate about science and research. Her work involves conducting experiments in a state-of-the-art laboratory where she and her team are studying the effects of climate change on marine ecosystems. She believes that scientific research is crucial for understanding the world around us and finding solutions to complex problems.
+Dr. Rodriguez has been working as a *scientist* for over fifteen years, and she's absolutely passionate about *science* and *research*. Her work involves conducting *experiment*s in a state-of-the-art *laboratory* where she and her team are studying the effects of climate change on marine ecosystems. She believes that scientific *research* is crucial for understanding the world around us and finding solutions to complex problems.
 
-The research that Dr. Rodriguez is conducting involves collecting data from various sources and analyzing the results to develop new theories about environmental changes. She's made several important discoveries that have contributed to our knowledge of how climate change affects ocean life. Her work has led to innovations in technology that help monitor environmental conditions more accurately.
+The *research* that Dr. Rodriguez is conducting involves collecting *data* from various sources and analyzing the *result*s to develop new *theories* about environmental changes. She's made several important *discovery*s that have contributed to our *knowledge* of how climate change affects ocean life. Her work has led to *innovation*s in *technology* that help monitor environmental conditions more accurately.
 
-One of the most exciting aspects of Dr. Rodriguez's work is the opportunity to collaborate with other experts in the field. She regularly participates in studies with scientists from around the world, sharing knowledge and working together to advance scientific progress. The laboratory where she works is equipped with the latest technology, which allows her team to conduct sophisticated experiments and gather precise data.
+One of the most exciting aspects of Dr. Rodriguez's work is the opportunity to collaborate with other *expert*s in the field. She regularly participates in *study*s with *scientist*s from around the world, sharing *knowledge* and working together to advance scientific *progress*. The *laboratory* where she works is equipped with the latest *technology*, which allows her team to conduct sophisticated *experiment*s and gather precise *data*.
 
-Dr. Rodriguez believes that evidence-based research is essential for making informed decisions about environmental policy and conservation efforts. She's published numerous papers that present facts and analysis based on her research findings. Her work has contributed to the development of new technologies that could help protect marine ecosystems and slow the progress of climate change.
+Dr. Rodriguez believes that *evidence*-based *research* is essential for making informed decisions about environmental policy and conservation efforts. She's published numerous papers that present *fact*s and *analysis* based on her *research* findings. Her work has contributed to the *development* of new *technologies* that could help protect marine ecosystems and slow the *progress* of climate change. She's also working on new *invention*s that could revolutionize environmental monitoring.
 
 ## Дополнительные примеры / Additional Examples
 

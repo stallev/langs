@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Emma just moved into her first apartment, and she's absolutely thrilled about having her own place. The apartment has two bedrooms, a spacious living room, and a modern kitchen that she's really excited to cook in. The bathroom is small but functional, and she loves the big windows in the living room that let in lots of natural light.
+Emma just moved into her first *apartment*, and she's absolutely thrilled about having her own place. The *apartment* has two *bedrooms*, a spacious *living room*, and a modern *kitchen* that she's really excited to cook in. The *bathroom* is small but functional, and she loves the big *windows* in the *living room* that let in lots of natural light.
 
-When Emma first walked through the door, she was amazed by how much space there was. The floors are hardwood, which she really likes, and the walls are painted a nice neutral color. She's been spending a lot of time thinking about how to arrange her furniture to make the most of the space. She wants to put her bed in the bedroom facing the window, and she's planning to set up her desk in the corner of the living room where she can work from home.
+When Emma first walked through the *door*, she was amazed by how much space there was. The *floors* are hardwood, which she really likes, and the *walls* are painted a nice neutral color. She's been spending a lot of time thinking about how to arrange her *furniture* to make the most of the space. She wants to put her *bed* in the *bedroom* facing the *window*, and she's planning to set up her *desk* in the corner of the *living room* where she can work from *home*.
 
-Emma's been shopping for furniture and home decor items to make the apartment feel more like home. She found a beautiful sofa for the living room and a comfortable chair for reading. She also bought a new table for the kitchen and some lamps to create a cozy atmosphere. She's really looking forward to having friends over for dinner parties and movie nights.
+Emma's been shopping for *furniture* and *home* decor items to make the *apartment* feel more like *home*. She found a beautiful *sofa* for the *living room* and a comfortable *chair* for reading. She also bought a new *table* for the *kitchen* and some *lamps* to create a cozy atmosphere. She's really looking forward to having friends over for dinner parties and movie nights.
 
-The apartment building has a great community feel, and Emma has already met some of her neighbors. She loves that she can walk to work from her new home, and there are lots of shops and restaurants nearby. She's been thinking about getting a pet, maybe a cat, since the apartment allows pets and she has enough space for a small animal.
+The *apartment* building has a great community feel, and Emma has already met some of her neighbors. She loves that she can walk to work from her new *home*, and there are lots of shops and restaurants nearby. She's been thinking about getting a pet, maybe a cat, since the *apartment* allows pets and she has enough space for a small animal. She also has a cozy *bedroom* with a comfortable *bed* and a spacious *bathroom*.
 
 ## Дополнительные примеры / Additional Examples
 

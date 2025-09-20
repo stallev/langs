@@ -49,13 +49,13 @@
 
 ## Основной текст / Main Text
 
-Sarah is an artist who loves to describe the world around her through colors and comparisons. She believes that the best way to understand something is to compare it to other things and describe it carefully. When she's painting, she always thinks about whether the colors are too bright or too dark, and whether the shapes are big enough or too small for her composition.
+Sarah is an artist who loves to describe the world around her through *color*s and comparisons. She believes that the *best* way to understand something is to compare it to other things and describe it *carefully*. When she's painting, she always thinks about whether the *color*s are too bright or too dark, and whether the shapes are *big* enough or too *small* for her composition.
 
-Last week, Sarah was working on a painting of a sunset, and she was trying to capture the way the sky changes from blue to orange to red as the sun goes down. She painted the sky with thick, bold strokes, but the mountains in the distance were painted with thin, delicate lines. The contrast between the high mountains and the low valley below made the painting more interesting and dynamic.
+Last week, Sarah was working on a painting of a sunset, and she was trying to capture the way the sky changes from *blue* to *orange* to *red* as the sun goes down. She painted the sky with *thick*, bold strokes, but the mountains in the distance were painted with *thin*, delicate lines. The contrast between the *high* mountains and the *low* valley *below* made the painting *more* interesting and dynamic.
 
-Sarah has learned that some colors work better together than others. She discovered that red and green look good when they're used carefully, but they can look bad if they're too bright or used carelessly. She prefers to work slowly and carefully rather than quickly and carelessly, because she wants her paintings to be the best they can be.
+Sarah has learned that some *color*s work *better* together than others. She discovered that *red* and *green* look *good* when they're used *carefully*, but they can look *bad* if they're too bright or used *carelessly*. She prefers to work *slowly* and *carefully* rather than *quickly* and *carelessly*, because she wants her paintings to be the *best* they can be.
 
-When Sarah compares her new paintings to her older ones, she can see how much better she's become at mixing colors and creating depth. Her latest work is much more sophisticated than her early attempts, and she's proud of the progress she's made. She believes that with practice, anyone can learn to see the world more clearly and describe it more accurately through art.
+When Sarah compares her new paintings to her older ones, she can see how much *better* she's become at mixing *color*s and creating depth. Her latest work is much *more* sophisticated than her early attempts, and she's proud of the progress she's made. She believes that with practice, anyone can learn to see the world *more* clearly and describe it *more* accurately through art. She also enjoys working with *yellow*, *purple*, and *pink* *color*s to create *large* and *wide* compositions.
 
 ## Дополнительные примеры / Additional Examples
 

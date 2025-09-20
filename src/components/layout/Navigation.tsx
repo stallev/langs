@@ -216,7 +216,7 @@ const NavItem = ({ item, pathname }: { item: NavItem; pathname: string }) => {
           <ChevronDown className="ml-1 h-4 w-4" aria-hidden="true" />
         </button>
         {isOpen && (
-          <div className="absolute left-0 mt-2 w-48 origin-top-left bg-background border border-border rounded-md shadow-lg z-50">
+          <div className="absolute left-0 top-full pt-1 w-48 origin-top-left bg-background border border-border rounded-md shadow-lg z-50">
             <div className="py-1" role="menu" aria-orientation="vertical">
               {item.submenu.map(subItem => (
                 <Link

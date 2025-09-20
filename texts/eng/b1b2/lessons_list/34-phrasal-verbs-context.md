@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Tom has been learning English for several years, and he's discovered that phrasal verbs are one of the most challenging aspects of the language. He used to struggle with understanding when to use "get up" versus "wake up," but now he's learned that "wake up" means to stop sleeping, while "get up" means to leave your bed and start your day. He's also figured out that these verbs can have different meanings depending on the context.
+Tom has been learning English for several years, and he's discovered that phrasal verbs are one of the most challenging aspects of the language. He used to struggle with understanding when to use "*get up*" versus "*wake up*," but now he's learned that "*wake up*" means to stop sleeping, while "*get up*" means to leave your bed and start your day. He's also *figure*d *out* that these verbs can have different meanings depending on the context.
 
-Last week, Tom was looking for a new job, and he had to look up information about different companies online. He was worried that he might run out of time to apply for positions, but he didn't give up. Instead, he set up his computer and started working on his applications. He had to turn on his laptop and turn off all distractions to focus on his work.
+Last week, Tom was *look*ing *for* a new job, and he had to *look up* information about different companies online. He was worried that he might *run out* of time to apply for positions, but he didn't *give up*. Instead, he *set up* his computer and started working on his applications. He had to *turn on* his laptop and *turn off* all distractions to focus on his work.
 
-Tom has learned that phrasal verbs are essential for everyday communication. When he goes out with friends, he needs to know how to put on appropriate clothes and take off his jacket when he gets too warm. He's also learned that it's important to look after his health and pick up good habits as he grows up. He's found out that the more he practices using these verbs, the better he gets along with native speakers.
+Tom has learned that phrasal verbs are essential for everyday communication. When he *go*es *out* with friends, he needs to know how to *put on* appropriate clothes and *take off* his jacket when he gets too warm. He's also learned that it's important to *look after* his health and *pick up* good habits as he *grow*s *up*. He's *find* out that the more he practices using these verbs, the better he *get*s *along* with native speakers.
 
-What Tom finds most interesting about phrasal verbs is how they can completely change the meaning of a sentence. For example, "break down" can mean a car stops working, or it can mean someone becomes very upset. He's learned that the best way to master these verbs is to practice them in real situations and not to give up when things get difficult.
+What Tom finds most interesting about phrasal verbs is how they can completely change the meaning of a sentence. For example, "*break down*" can mean a car stops working, or it can mean someone becomes very upset. He's learned that the best way to master these verbs is to practice them in real situations and not to *give up* when things get difficult.
 
 ## Дополнительные примеры / Additional Examples
 

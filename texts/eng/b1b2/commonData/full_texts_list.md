@@ -8,47 +8,47 @@
 
 1. **01-family-relationships.md** ✅ - Family & Relationships / Семья и отношения
    - Группа 3: FAMILY & RELATIONSHIPS
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 2. **02-daily-life-routines.md** ✅ - Daily Life & Routines / Повседневная жизнь и рутины
    - Группы: 1. BASIC CONCEPTS & GRAMMAR + 2. PERSONAL PRONOUNS & IDENTITY + 111. ADVERBS OF TIME + 119. FREQUENCY EXPRESSIONS
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 3. **03-work-career.md** ✅ - Work & Career / Работа и карьера
    - Группа 4: WORK & CAREER
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 4. **04-communication-interaction.md** ✅ - Communication & Interaction / Общение и взаимодействие
    - Группы: 101. COMMUNICATION VERBS + 115. CONJUNCTIONS + 117. QUESTION WORDS
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 5. **05-education-learning.md** ✅ - Education & Learning / Образование и обучение
    - Группа 5: EDUCATION & LEARNING
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 6. **06-health-medicine.md** ✅ - Health & Medicine / Здоровье и медицина
    - Группа 6: HEALTH & MEDICINE
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 7. **07-food-cooking.md** ✅ - Food & Cooking / Еда и приготовление пищи
    - Группа 7: FOOD & COOKING
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 8. **08-travel-transportation.md** ✅ - Travel & Transportation / Путешествия и транспорт
    - Группа 8: TRAVEL & TRANSPORTATION
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 9. **09-shopping-money.md** ✅ - Shopping & Money / Покупки и деньги
    - Группа 9: SHOPPING & MONEY
-   - Статус: Создан
+   - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 10. **10-home-housing.md** ✅ - Home & Housing / Дом и жилье
     - Группа 10: HOME & HOUSING
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 11. **11-clothing-fashion.md** ✅ - Clothing & Fashion / Одежда и мода
     - Группа 11: CLOTHING & FASHION
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 12. **12-sports-recreation.md** ✅ - Sports & Recreation / Спорт и отдых
     - Группа 12: SPORTS & RECREATION
@@ -140,29 +140,29 @@
 
 33. **33-workplace-professional.md** ✅ - Workplace & Professional / Рабочее место и профессионализм
     - Группы: 138. LEGAL TERMS + 139. POLITICAL SYSTEMS + 140. COMPUTER PROGRAMMING + 84. LEADERSHIP & MANAGEMENT
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 ### Группа C: Специальные тексты (Приоритет 3) - 5 текстов
 
 34. **34-phrasal-verbs-context.md** ✅ - Phrasal Verbs in Context / Фразовые глаголы в контексте
     - Группа 120: PHRASAL VERBS
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 35. **35-idioms-expressions.md** ✅ - Idioms & Expressions / Идиомы и выражения
     - Группа 121: IDIOMS & EXPRESSIONS
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 36. **36-sounds-noises.md** ✅ - Sounds & Noises / Звуки и шумы
     - Группа 126: SOUNDS & NOISES
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 37. **37-academic-subjects.md** ✅ - Academic Subjects / Учебные предметы
     - Группа 136: ACADEMIC SUBJECTS
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 38. **38-medical-conditions.md** ✅ - Medical Conditions / Медицинские состояния
     - Группа 137: MEDICAL CONDITIONS
-    - Статус: Создан
+    - Статус: Создан и оптимизирован (ключевые слова не более 2 раз)
 
 ## Статистика по группам
 

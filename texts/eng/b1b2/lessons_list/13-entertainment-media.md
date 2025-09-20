@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Lisa is a huge fan of entertainment and media, and she loves exploring different forms of art and culture. She goes to the cinema at least once a week to watch the latest movies, and she's always excited to see new films by her favorite actors and actresses. Last month, she saw an amazing play at the local theater that completely blew her mind. The story was so compelling that she couldn't stop thinking about it for days.
+Lisa is a huge fan of entertainment and media, and she loves exploring different forms of art and culture. She goes to the *cinema* at least once a week to watch the latest *movies*, and she's always excited to see new *films* by her favorite *actors* and *actresses*. Last month, she saw an amazing *play* at the local *theater* that completely blew her mind. The *story* was so compelling that she couldn't stop thinking about it for days.
 
-Lisa also loves music and attends concerts whenever she can. She has a diverse taste in music and enjoys everything from classical to rock. She's been learning to play the guitar and hopes to write her own songs someday. She also loves to dance and takes dance classes twice a week. Dancing is not only great exercise but also a wonderful way to express herself creatively.
+Lisa also loves *music* and attends *concerts* whenever she can. She has a diverse taste in *music* and enjoys everything from classical to rock. She's been learning to play the guitar and hopes to write her own *songs* someday. She also loves to *dance* and takes *dance* classes twice a week. Dancing is not only great exercise but also a wonderful way to express herself creatively.
 
-When Lisa wants to relax at home, she enjoys reading books and magazines. She's currently reading a fascinating novel that her friend recommended, and she can't put it down. She also likes to watch television shows and videos online, especially documentaries and educational content. She believes that entertainment can be both fun and educational at the same time.
+When Lisa wants to relax at home, she enjoys reading *books* and *magazines*. She's currently reading a fascinating *novel* that her friend recommended, and she can't put it down. She also likes to watch *television* *shows* and *videos* online, especially documentaries and educational content. She believes that entertainment can be both fun and educational at the same time.
 
-Lisa works as a journalist for a local newspaper, so she's always up-to-date with current events and news. She loves writing stories about local events and interviewing interesting people in the community. She also enjoys listening to the radio during her commute to work, especially talk shows and music programs.
+Lisa works as a journalist for a local *newspaper*, so she's always up-to-date with current events and news. She loves writing *stories* about local events and interviewing interesting people in the community. She also enjoys listening to the *radio* during her commute to work, especially talk *shows* and *music* programs.
 
 ## Дополнительные примеры / Additional Examples
 

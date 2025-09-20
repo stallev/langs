@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Dr. Martinez has been working as a doctor at the city hospital for over fifteen years, and she absolutely loves helping patients get better. Every day, she sees dozens of people who come to the clinic with various symptoms and illnesses. Some patients are really sick and need immediate treatment, while others just need a routine check-up to make sure they're staying healthy.
+Dr. Martinez has been working as a *doctor* at the city *hospital* for over fifteen years, and she absolutely loves helping *patients* get better. Every day, she sees dozens of people *who* come to the *clinic* with various *symptoms* and *illnesses*. Some *patients* are really *sick* and need immediate *treatment*, while others just need a routine check-up to make sure they're staying *healthy*.
 
-Yesterday, Dr. Martinez had a particularly challenging case. A young patient came in complaining of severe pain in his chest, and she had to run several tests to figure out what was wrong. After examining the symptoms and reviewing his medical history, she was able to make a diagnosis. It turned out he had a minor heart condition that could be treated with medication. She wrote him a prescription for some medicine that should help with the pain and prevent the disease from getting worse.
+Yesterday, Dr. Martinez had a particularly challenging case. A young *patient* came in complaining of severe *pain* in his chest, and she had to run several tests to figure out *what* was wrong. After examining the *symptoms* and reviewing his medical history, she was able to make a *diagnosis*. It turned out he had a minor heart condition that could be treated with medication. She wrote him a *prescription* for some *medicine* that should help with the *pain* and prevent the *disease* from getting worse.
 
-Dr. Martinez always emphasizes the importance of preventive healthcare to her patients. She tells them that regular exercise, good nutrition, and getting enough sleep are just as important as taking medicine when you're sick. She's a big believer in the idea that staying fit and eating well can prevent many illnesses before they even start.
+Dr. Martinez always emphasizes the importance of preventive healthcare to her *patients*. She tells them that regular *exercise*, good *nutrition*, and getting enough sleep are just as important as taking *medicine* when you're *sick*. She's a big believer in the idea that staying *fit* and eating well can prevent many *illnesses* before they even start.
 
-The hospital where Dr. Martinez works has an amazing team of nurses who work closely with the doctors to provide the best possible care for patients. They help with everything from taking vital signs to administering treatments and making sure patients are comfortable during their stay. Dr. Martinez couldn't do her job without their support and expertise.
+The *hospital* *where* Dr. Martinez works has an amazing team of *nurses* *who* work closely with the *doctors* to provide the best possible care for *patients*. They help with everything from taking vital signs to administering *treatments* and making sure *patients* are comfortable during their stay. Dr. Martinez couldn't do her job without their support and expertise. She also works with a *nurse* who specializes in *drug* administration and helps *patients* understand their *prescription* instructions. Dr. Martinez believes that maintaining good *health* and *fitness* is essential for preventing many diseases.
 
 ## Дополнительные примеры / Additional Examples
 

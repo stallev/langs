@@ -47,13 +47,13 @@
 
 ## Основной текст / Main Text
 
-Emma has always been very sensitive to her feelings and emotions, and she believes that understanding how we feel is one of the most important parts of being human. She loves to explore different tastes and flavors when she's cooking, and she's learned that the way food feels in her mouth - whether it's soft or hard, smooth or rough - can completely change how much she enjoys eating it.
+Emma has always been very sensitive to her *feel*ings and emotions, and she believes that understanding how we *feel* is one of the most important parts of being human. She *love*s to explore different *taste*s and *flavor*s when she's cooking, and she's learned that the way food *feel*s in her mouth - whether it's *soft* or *hard*, *smooth* or *rough* - can completely change how much she *enjoy*s eating it.
 
-Last weekend, Emma was cooking a special dinner for her friends, and she was trying to create the perfect balance of flavors. She wanted the dish to be savory but not too salty, and she added some spicy ingredients to give it a little heat. She was worried that the food might be too bitter or sour, but when her friends tasted it, they all said they loved it and appreciated the complex flavors.
+Last weekend, Emma was cooking a special dinner for her friends, and she was trying to create the perfect balance of *flavor*s. She wanted the dish to be *savory* but not too *salty*, and she added some *spicy* ingredients to give it a little heat. She was *worry*ing that the food might be too *bitter* or *sour*, but when her friends *taste*d it, they all said they *love*d it and *appreciate*d the complex *flavor*s.
 
-Emma has also learned to pay attention to the textures of different foods. She loves the smooth feel of chocolate melting in her mouth, but she also enjoys the rough texture of fresh bread. She's discovered that the way something feels when she touches it can affect her emotions - soft fabrics make her feel calm and comfortable, while rough surfaces can make her feel more alert and focused.
+Emma has also learned to pay attention to the *texture*s of different foods. She *love*s the *smooth* *feel* of chocolate melting in her mouth, but she also *enjoy*s the *rough* *texture* of *fresh* bread. She's discovered that the way something *feel*s when she *touch*es it can affect her emotions - *soft* fabrics make her *feel* calm and comfortable, while *rough* surfaces can make her *feel* more alert and focused.
 
-What Emma finds most fascinating is how smells and scents can trigger strong emotions and memories. The sweet fragrance of flowers reminds her of her grandmother's garden, while the fresh aroma of coffee in the morning makes her feel energized and ready to start the day. She's learned that some odors can make her feel happy and relaxed, while others can make her feel anxious or uncomfortable.
+What Emma finds most fascinating is how *smell*s and *scent*s can trigger strong emotions and memories. The *sweet* *fragrance* of flowers reminds her of her grandmother's garden, while the *fresh* *aroma* of coffee in the morning makes her *feel* energized and ready to start the day. She's learned that some *odor*s can make her *feel* happy and relaxed, while others can make her *feel* anxious or uncomfortable. She also *care*s deeply about how her cooking makes others *feel*.
 
 ## Дополнительные примеры / Additional Examples
 

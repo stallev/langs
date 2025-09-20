@@ -44,13 +44,13 @@
 
 ## Основной текст / Main Text
 
-David is a project manager who works with numbers and time every day, and he's learned that being organized with schedules and deadlines is essential for success. He starts his week on Monday and usually has meetings scheduled for Tuesday, Wednesday, and Thursday, with Friday being his day to wrap up projects and plan for the next week. He's been working at his current company since January, and he's already completed three major projects.
+David is a project manager who works with *number*s and *time* every day, and he's learned that being organized with schedules and deadlines is essential for success. He starts his week on *Monday* and usually has meetings scheduled for *Tuesday*, *Wednesday*, and *Thursday*, with *Friday* being his day to wrap up projects and plan for the next week. He's been working at his current company *since* *January*, and he's already completed *three* major projects.
 
-Last month, David was working on a project that had a deadline in March, and he had to coordinate with five different teams. The project was supposed to take six weeks, but it actually took eight weeks to complete because of some unexpected challenges. David had to work late hours for two weeks straight, and he was exhausted by the time the project was finished.
+Last month, David was working on a project that had a deadline *in* *March*, and he had to coordinate with *five* different teams. The project was supposed to take *six* weeks, but it actually took *eight* weeks to complete because of some unexpected challenges. David had to work late hours for *two* weeks straight, and he was exhausted by the *time* the project was finished.
 
-David has learned that time management is crucial in his line of work. He always tries to arrive at meetings at least five minutes before they start, and he never schedules important meetings on Friday afternoons because people are usually tired and less focused. He's discovered that the best time to have productive meetings is in the morning, usually between nine and eleven o'clock.
+David has learned that *time* management is crucial in his line of work. He always tries to arrive at meetings at least *five* minutes *before* they start, and he never schedules important meetings *on* *Friday* afternoons because people are usually tired and less focused. He's discovered that the *best* *time* to have productive meetings is *in* the morning, usually between *nine* and *eleven* o'clock.
 
-What David finds most challenging about his job is dealing with different time zones when he's working with international clients. He has clients in three different countries, and he has to be careful about scheduling calls at appropriate times for everyone. He's learned that it's better to schedule meetings during business hours in each time zone, even if it means working early in the morning or late at night.
+What David finds most challenging about his job is dealing with different *time* zones when he's working with international clients. He has clients *in* *three* different countries, and he has to be careful about scheduling calls at appropriate *time*s for everyone. He's learned that it's *better* to schedule meetings *during* business hours *in* each *time* zone, even if it means working early *in* the morning or late *at* night. He also works with *zero* tolerance for missed deadlines and manages projects worth *million*s of dollars.
 
 ## Дополнительные примеры / Additional Examples
 

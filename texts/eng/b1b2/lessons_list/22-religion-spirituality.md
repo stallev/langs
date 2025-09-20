@@ -24,13 +24,13 @@
 
 ## Основной текст / Main Text
 
-Robert has been exploring his faith and spirituality for many years, and he finds that religion plays an important role in his daily life. As a Christian, he believes in God and tries to live according to the teachings of Jesus Christ. He attends church regularly and finds that prayer helps him feel more connected to his spiritual side and gives him strength during difficult times.
+Robert has been exploring his *faith* and spirituality for many years, and he finds that *religion* plays an important role in his daily life. As a *Christian*, he believes in *God* and tries to live according to the teachings of *Jesus* *Christ*. He attends *church* regularly and finds that *prayer* helps him feel more connected to his spiritual side and gives him strength during difficult times.
 
-What Robert appreciates most about his religion is the sense of community and the shared beliefs that bring people together. He's learned about different faiths and respects the fact that people can have different beliefs while still being good and kind. He's visited various places of worship including temples, mosques, and synagogues, and he's always struck by the beauty and sacred atmosphere of these holy places.
+What Robert appreciates most about his *religion* is the sense of community and the shared *belief*s that bring people together. He's learned about different *faith*s and respects the fact that people can have different *belief*s while still being good and kind. He's visited various places of *worship* including *temple*s, *mosque*s, and *synagogue*s, and he's always struck by the beauty and *sacred* atmosphere of these *holy* places.
 
-Robert has been reading the Bible more frequently lately, and he finds that the stories and teachings help him understand his faith better. He believes that having a strong spiritual foundation is important for living a meaningful life, and he tries to incorporate his beliefs into his daily actions and decisions. He's particularly drawn to the idea that we all have a soul and that our spirit can guide us toward doing what's right.
+Robert has been reading the *Bible* more frequently lately, and he finds that the stories and teachings help him understand his *faith* better. He believes that having a strong spiritual foundation is important for living a meaningful life, and he tries to incorporate his *belief*s into his daily actions and decisions. He's particularly drawn to the idea that we all have a *soul* and that our *spirit* can guide us toward doing what's right.
 
-One of the most meaningful aspects of Robert's spiritual journey has been learning to see the sacred in everyday life. He believes that God's blessing can be found in simple things like spending time with family, helping others, or appreciating the beauty of nature. He's learned that worship doesn't have to happen only in a church - it can be a way of living that honors the holy and sacred aspects of life.
+One of the most meaningful aspects of Robert's spiritual journey has been learning to see the *sacred* in everyday life. He believes that *God*'s *blessing* can be found in simple things like spending time with family, helping others, or appreciating the beauty of nature. He's learned that *worship* doesn't have to happen only in a *church* - it can be a way of living that honors the *holy* and *sacred* aspects of life. He also studies *Christianity* to deepen his understanding of his *religion*.
 
 ## Дополнительные примеры / Additional Examples
 
