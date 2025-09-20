@@ -1,8 +1,7 @@
-import { existsSync } from 'fs';
-import { join } from 'path';
 import { notFound } from 'next/navigation';
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
 import { LessonRenderer } from '@/components/lesson/LessonRenderer';
+import type { LessonData } from '@/types/lessons';
 import type { BreadcrumbItem } from '@/types/navigation';
 
 interface LessonPageProps {
@@ -14,12 +13,12 @@ interface LessonPageProps {
 export default async function LessonPage({ params }: LessonPageProps) {
   const { slug } = await params;
 
-  // Construct the file path for the lesson
-  const lessonsDir = join(process.cwd(), 'texts', 'eng', 'b1b2', 'lessons_list');
-  const filePath = join(lessonsDir, `${slug}.md`);
+  // Get lesson data from ENG_B1_B2_LESSONS_DATA
+  const { LESSONS_BY_SLUG } = await import('@/data/lessonsData');
+  const lessonData = LESSONS_BY_SLUG[slug];
 
-  // Check if the file exists
-  if (!existsSync(filePath)) {
+  // Check if the lesson exists
+  if (!lessonData) {
     notFound();
   }
 
@@ -27,7 +26,7 @@ export default async function LessonPage({ params }: LessonPageProps) {
   const breadcrumbs: BreadcrumbItem[] = [
     { label: 'Lessons', path: '/lessons' },
     { label: 'English B1-B2', path: '/lessons/eng/b1b2' },
-    { label: slug.replace(/-/g, ' '), path: `/lessons/eng/b1b2/${slug}`, isCurrent: true },
+    { label: lessonData.title, path: `/lessons/eng/b1b2/${slug}`, isCurrent: true },
   ];
 
   return (
@@ -35,24 +34,20 @@ export default async function LessonPage({ params }: LessonPageProps) {
       <div className="pt-4">
         <Breadcrumbs items={breadcrumbs} />
       </div>
-      <LessonRenderer filePath={filePath} />
+      <LessonRenderer lessonData={lessonData} />
     </div>
   );
 }
 
-// Generate static params for all lesson files
+// Generate static params for all lessons
 export async function generateStaticParams() {
-  const lessonsDir = join(process.cwd(), 'texts', 'eng', 'b1b2', 'lessons_list');
-
   try {
-    const { readdirSync } = await import('fs');
-    const files = readdirSync(lessonsDir);
+    // Use ENG_B1_B2_LESSONS_DATA to generate static params
+    const { ENG_B1_B2_LESSONS_DATA } = await import('@/data/lessonsData');
 
-    return files
-      .filter((file: string) => file.endsWith('.md'))
-      .map((file: string) => ({
-        slug: file.replace(/\.md$/, ''),
-      }));
+    return ENG_B1_B2_LESSONS_DATA.map((lesson: LessonData) => ({
+      slug: lesson.slug,
+    }));
   } catch (error) {
     console.error('Error generating static params:', error);
     return [];
@@ -64,19 +59,16 @@ export async function generateMetadata({ params }: LessonPageProps) {
   const { slug } = await params;
 
   try {
-    const lessonsDir = join(process.cwd(), 'texts', 'eng', 'b1b2', 'lessons_list');
-    const filePath = join(lessonsDir, `${slug}.md`);
+    const { LESSONS_BY_SLUG } = await import('@/data/lessonsData');
+    const lessonData = LESSONS_BY_SLUG[slug];
 
-    if (existsSync(filePath)) {
-      const { parseLessonFile } = await import('@/lib/markdown/md-parser');
-      const lesson = await parseLessonFile(filePath);
+    if (lessonData) {
+      const keywords = lessonData.keywords.map((k: { word: string }) => k.word).join(', ');
 
       return {
-        title: `${lesson.content.metadata.title} - LangLearn`,
-        description:
-          lesson.content.metadata.description ||
-          `Learn ${lesson.content.metadata.topic} with LangLearn`,
-        keywords: lesson.content.metadata.keywords.join(', '),
+        title: `${lessonData.title} - LangLearn`,
+        description: lessonData.description || `Learn ${lessonData.category} with LangLearn`,
+        keywords: keywords,
       };
     }
   } catch (error) {

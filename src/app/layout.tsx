@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
+import { Analytics } from '@/components/analytics/GoogleAnalytics';
 import { Footer } from '@/components/layout/Footer';
 import { Header } from '@/components/layout/Header';
 import { SkipLink } from '@/components/layout/SkipLink';
@@ -38,6 +39,7 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
+          <Analytics />
           <SkipLink />
           <Header />
           <main id="main-content" className="flex-1">

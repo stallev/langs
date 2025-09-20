@@ -66,10 +66,10 @@ function extractMainText(content: string) { /* ... */ }
 3. **Сложность поиска и фильтрации** - требуется парсить все файлы для поиска или фильтрации
 4. **Отсутствие единого источника данных** - данные разбросаны по файлам
 
-### Вариант 2: Использование объекта LESSONS_DATA
+### Вариант 2: Использование объекта ENG_B1_B2_LESSONS_DATA
 
 #### Описание
-В этом подходе создается скрипт, который предварительно парсит все MD файлы и создает структурированный объект данных (LESSONS_DATA). Этот объект затем используется компонентами для рендеринга уроков и списков.
+В этом подходе создается скрипт, который предварительно парсит все MD файлы и создает структурированный объект данных (ENG_B1_B2_LESSONS_DATA). Этот объект затем используется компонентами для рендеринга уроков и списков.
 
 #### Реализация
 ```typescript
@@ -109,7 +109,7 @@ async function generateLessonsData() {
   // Запись в файл
   const outputPath = path.join(process.cwd(), 'src', 'lib', 'data', 'lessons-data.ts');
   const outputContent = `
-    export const LESSONS_DATA = {
+    export const ENG_B1_B2_LESSONS_DATA = {
       LESSONS_LIST: ${JSON.stringify(lessonsData, null, 2)}
     };
   `;
@@ -126,12 +126,12 @@ function extractDescription(content: string) { /* ... */ }
 generateLessonsData();
 
 // src/app/lessons/eng/b1b2/[slug]/page.tsx
-import { LESSONS_DATA } from '@/lib/data/lessons-data';
+import { ENG_B1_B2_LESSONS_DATA } from '@/lib/data/lessons-data';
 import LessonRenderer from '@/components/lesson/LessonRenderer';
 
 export default function LessonPage({ params }: { params: { slug: string } }) {
   const { slug } = params;
-  const lesson = LESSONS_DATA.LESSONS_LIST.find(lesson => lesson.slug === slug);
+  const lesson = ENG_B1_B2_LESSONS_DATA.LESSONS_LIST.find(lesson => lesson.slug === slug);
   
   if (!lesson) {
     return <div>Урок не найден</div>;
@@ -158,7 +158,7 @@ export default function LessonPage({ params }: { params: { slug: string } }) {
 
 Для данного проекта рекомендуется **гибридный подход**:
 
-1. **Использовать объект LESSONS_DATA для:**
+1. **Использовать объект ENG_B1_B2_LESSONS_DATA для:**
    - Списков уроков, поиска, фильтрации и навигации
    - Метаданных уроков (заголовок, описание, ключевые слова, связанные темы)
    - Генерации карт сайта и других статических данных
@@ -174,10 +174,10 @@ export default function LessonPage({ params }: { params: { slug: string } }) {
 // Генерирует только метаданные, без полного содержимого
 
 // src/app/lessons/eng/b1b2/page.tsx
-// Использует LESSONS_DATA для списка уроков
+// Использует ENG_B1_B2_LESSONS_DATA для списка уроков
 
 // src/app/lessons/eng/b1b2/[slug]/page.tsx
-import { LESSONS_DATA } from '@/lib/data/lessons-data';
+import { ENG_B1_B2_LESSONS_DATA } from '@/lib/data/lessons-data';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
@@ -188,8 +188,8 @@ import LessonRenderer from '@/components/lesson/LessonRenderer';
 export default async function LessonPage({ params }: { params: { slug: string } }) {
   const { slug } = params;
   
-  // Получаем метаданные из LESSONS_DATA
-  const lessonMeta = LESSONS_DATA.LESSONS_LIST.find(lesson => lesson.slug === slug);
+  // Получаем метаданные из ENG_B1_B2_LESSONS_DATA
+  const lessonMeta = ENG_B1_B2_LESSONS_DATA.LESSONS_LIST.find(lesson => lesson.slug === slug);
   
   if (!lessonMeta) {
     return <div>Урок не найден</div>;
@@ -206,7 +206,7 @@ export default async function LessonPage({ params }: { params: { slug: string } 
     .process(content);
   const contentHtml = processedContent.toString();
   
-  // Используем комбинацию метаданных из LESSONS_DATA и полного содержимого из файла
+  // Используем комбинацию метаданных из ENG_B1_B2_LESSONS_DATA и полного содержимого из файла
   return <LessonRenderer lesson={lessonMeta} contentHtml={contentHtml} />;
 }
 ```
@@ -215,9 +215,9 @@ export default async function LessonPage({ params }: { params: { slug: string } 
 
 Гибридный подход обеспечивает оптимальный баланс между производительностью и актуальностью данных. Он позволяет эффективно использовать преимущества обоих методов:
 
-1. **Быстрая навигация и поиск** - благодаря предварительно подготовленным метаданным в LESSONS_DATA
+1. **Быстрая навигация и поиск** - благодаря предварительно подготовленным метаданным в ENG_B1_B2_LESSONS_DATA
 2. **Актуальное содержимое** - благодаря прямому чтению файлов при просмотре урока
-3. **Типизация и структурирование** - благодаря строгим типам для объекта LESSONS_DATA
+3. **Типизация и структурирование** - благодаря строгим типам для объекта ENG_B1_B2_LESSONS_DATA
 4. **Оптимальный размер бандла** - полное содержимое уроков не включается в клиентский JavaScript
 
 Этот подход также обеспечивает хорошую основу для будущих расширений, таких как добавление новых языков или функциональности.

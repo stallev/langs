@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 /**
- * Script to generate LESSONS_DATA from markdown files
+ * Script to generate ENG_B1_B2_LESSONS_DATA from markdown files
  * This script parses all lesson markdown files and generates a TypeScript constants file
  * with structured data for the lessons.
  */
@@ -16,9 +16,10 @@ const OUTPUT_FILE = path.join(__dirname, '../texts/eng/b1b2/constants/lessonsDat
 /**
  * Parse markdown file and extract structured data
  * @param {string} filePath - Path to the markdown file
+ * @param {number} index - Index of the file for ID generation
  * @returns {Object} Parsed lesson data
  */
-function parseMarkdownFile(filePath) {
+function parseMarkdownFile(filePath, index = 0) {
   const content = fs.readFileSync(filePath, 'utf-8');
   
   // Normalize line endings to handle Windows CRLF
@@ -62,7 +63,7 @@ function parseMarkdownFile(filePath) {
   const relatedTopics = parseRelatedTopics(relatedSection);
   
   return {
-    id: extractIdFromFilename(filename),
+    id: extractIdFromFilename(filename, index),
     slug,
     title,
     titleRu,
@@ -297,9 +298,9 @@ function parseRelatedTopics(section) {
  * @param {string} filename - Filename without extension
  * @returns {number} Lesson ID
  */
-function extractIdFromFilename(filename) {
-  const match = filename.match(/^(\d+)-/);
-  return match ? parseInt(match[1], 10) : 0;
+function extractIdFromFilename(filename, index) {
+  // Since we removed the numeric prefix, we'll use the index + 1 as ID
+  return index + 1;
 }
 
 /**
@@ -356,12 +357,13 @@ function generateLessonsData() {
     
     const lessons = [];
     
-    for (const file of files) {
+    for (let i = 0; i < files.length; i++) {
+      const file = files[i];
       const filePath = path.join(LESSONS_DIR, file);
       console.log(`📖 Parsing ${file}...`);
       
       try {
-        const lessonData = parseMarkdownFile(filePath);
+        const lessonData = parseMarkdownFile(filePath, i);
         lessons.push(lessonData);
         console.log(`✅ Successfully parsed ${file}`);
       } catch (error) {
@@ -448,7 +450,7 @@ export interface LessonData {
   language: string;
 }
 
-export const LESSONS_DATA: LessonData[] = `;
+export const ENG_B1_B2_LESSONS_DATA: LessonData[] = `;
 
   const lessonsJson = JSON.stringify(lessons, null, 2);
   
@@ -456,7 +458,7 @@ export const LESSONS_DATA: LessonData[] = `;
 
 export const LESSONS_COUNT = ${lessons.length};
 
-export const LESSONS_BY_CATEGORY = LESSONS_DATA.reduce((acc, lesson) => {
+export const LESSONS_BY_CATEGORY = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
   if (!acc[lesson.category]) {
     acc[lesson.category] = [];
   }
@@ -464,12 +466,12 @@ export const LESSONS_BY_CATEGORY = LESSONS_DATA.reduce((acc, lesson) => {
   return acc;
 }, {} as Record<string, LessonData[]>);
 
-export const LESSONS_BY_ID = LESSONS_DATA.reduce((acc, lesson) => {
+export const LESSONS_BY_ID = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
   acc[lesson.id] = lesson;
   return acc;
 }, {} as Record<number, LessonData>);
 
-export const LESSONS_BY_SLUG = LESSONS_DATA.reduce((acc, lesson) => {
+export const LESSONS_BY_SLUG = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
   acc[lesson.slug] = lesson;
   return acc;
 }, {} as Record<string, LessonData>);

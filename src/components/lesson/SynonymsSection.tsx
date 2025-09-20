@@ -1,4 +1,4 @@
-import type { LessonSynonym } from '@/types/lesson';
+import type { LessonSynonym } from '@/types/lessons';
 
 interface SynonymsSectionProps {
   synonyms: LessonSynonym[];
@@ -13,6 +13,16 @@ export const SynonymsSection = ({
     return null;
   }
 
+  // Group synonyms by word
+  const groupedSynonyms: Record<string, LessonSynonym[]> = {};
+
+  synonyms.forEach(syn => {
+    if (!groupedSynonyms[syn.word]) {
+      groupedSynonyms[syn.word] = [];
+    }
+    groupedSynonyms[syn.word].push(syn);
+  });
+
   return (
     <section className="space-y-8" aria-labelledby="synonyms-heading">
       <h2 id="synonyms-heading" className="text-3xl font-light text-foreground tracking-tight">
@@ -20,15 +30,12 @@ export const SynonymsSection = ({
       </h2>
 
       <div className="space-y-8">
-        {synonyms.map((synonymGroup, index) => (
-          <div
-            key={`${synonymGroup.word}-${index}`}
-            className="bg-muted/20 rounded-2xl p-8 border-0"
-          >
-            <h3 className="text-2xl font-light text-foreground mb-6">{synonymGroup.word}</h3>
+        {Object.entries(groupedSynonyms).map(([word, synonyms], index) => (
+          <div key={`${word}-${index}`} className="bg-muted/20 rounded-2xl p-8 border-0">
+            <h3 className="text-2xl font-light text-foreground mb-6">{word}</h3>
 
-            <div className="space-y-6">
-              {synonymGroup.synonyms.map((synonym, synonymIndex) => (
+            <div className="space-y-4">
+              {synonyms.map((synonym, synonymIndex) => (
                 <div key={`${synonym.synonym}-${synonymIndex}`} className="space-y-3">
                   <div className="flex items-center gap-3">
                     <span className="text-xl font-medium text-foreground">{synonym.synonym}</span>

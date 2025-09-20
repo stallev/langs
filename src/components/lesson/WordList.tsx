@@ -1,12 +1,12 @@
-import type { LessonWord } from '@/types/lesson';
+import type { LessonKeyword } from '@/types/lessons';
 
 interface WordListProps {
-  words: LessonWord[];
+  keywords: LessonKeyword[];
   title?: string;
 }
 
-export const WordList = ({ words, title = 'Key Words' }: WordListProps) => {
-  if (!words || words.length === 0) {
+export const WordList = ({ keywords, title = 'Key Words' }: WordListProps) => {
+  if (!keywords || keywords.length === 0) {
     return null;
   }
 
@@ -17,27 +17,21 @@ export const WordList = ({ words, title = 'Key Words' }: WordListProps) => {
       </h2>
 
       <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
-        {words.map((word, index) => (
+        {keywords.map((keyword, index) => (
           <div
-            key={`${word.word}-${index}`}
+            key={`${keyword.word}-${index}`}
             className="bg-muted/20 rounded-2xl p-4 border-0"
             role="listitem"
           >
             <div className="space-y-4">
               <div className="flex items-center justify-between">
-                <h3 className="text-xl font-medium text-foreground">{word.word}</h3>
+                <h3 className="text-xl font-medium text-foreground">{keyword.word}</h3>
                 <span className="text-xs text-muted-foreground bg-foreground/10 px-3 py-1.5 rounded-full font-medium">
-                  {word.partOfSpeech}
+                  {keyword.partOfSpeech}
                 </span>
               </div>
 
-              <p className="text-muted-foreground font-light">{word.translation}</p>
-
-              {word.example && (
-                <blockquote className="text-sm italic text-foreground/80 border-l-4 border-foreground/20 pl-4 py-2 bg-foreground/5 rounded-r-lg">
-                  &ldquo;{word.example}&rdquo;
-                </blockquote>
-              )}
+              <p className="text-muted-foreground font-light">{keyword.translation}</p>
             </div>
           </div>
         ))}

@@ -3,9 +3,9 @@ import { LessonCard } from '@/components/lesson/LessonCard';
 import type { LessonData } from '@/types/lessons';
 import type { BreadcrumbItem } from '@/types/navigation';
 import {
-  LESSONS_DATA,
+  ENG_B1_B2_LESSONS_DATA,
   LESSONS_BY_CATEGORY,
-} from '../../../../../texts/eng/b1b2/constants/lessonsData';
+} from '../../../../../texts/eng/b1b2/constants/eng_b1_b2_lessonsData';
 
 export default function EnglishB1B2Page() {
   const breadcrumbs: BreadcrumbItem[] = [
@@ -23,7 +23,7 @@ export default function EnglishB1B2Page() {
         <header className="space-y-4 mb-12">
           <h1 className="text-4xl font-light text-foreground">English B1-B2 Lessons</h1>
           <p className="text-xl text-muted-foreground leading-relaxed max-w-3xl">
-            Learn English at the intermediate level through {LESSONS_DATA.length} carefully crafted
+            Learn English at the intermediate level through {ENG_B1_B2_LESSONS_DATA.length} carefully crafted
             thematic texts with the most common words and practical usage examples.
           </p>
         </header>
@@ -31,12 +31,12 @@ export default function EnglishB1B2Page() {
         {/* Stats Section */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
-            <div className="text-3xl font-light text-primary mb-2">{LESSONS_DATA.length}</div>
+            <div className="text-3xl font-light text-primary mb-2">{ENG_B1_B2_LESSONS_DATA.length}</div>
             <div className="text-sm text-muted-foreground">Total Lessons</div>
           </div>
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
             <div className="text-3xl font-light text-primary mb-2">
-              {LESSONS_DATA.reduce(
+              {ENG_B1_B2_LESSONS_DATA.reduce(
                 (sum: number, lesson: LessonData) => sum + lesson.keywords.length,
                 0
               )}
@@ -56,7 +56,7 @@ export default function EnglishB1B2Page() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-            {LESSONS_DATA.map((lesson: LessonData) => (
+            {ENG_B1_B2_LESSONS_DATA.map((lesson: LessonData) => (
               <LessonCard key={lesson.id} lesson={lesson} />
             ))}
           </div>

@@ -1,7 +1,8 @@
 import Link from 'next/link';
+import type { RelatedTopic } from '@/types/lessons';
 
 interface RelatedTopicsSectionProps {
-  topics: string[];
+  topics: RelatedTopic[];
   title?: string;
 }
 
@@ -27,11 +28,11 @@ export const RelatedTopicsSection = ({
           {topics.map((topic, index) => (
             <Link
               key={index}
-              href={`/lessons/eng/b1b2/${topic.toLowerCase().replace(/\s+/g, '-')}`}
+              href={`/lessons/eng/b1b2/${topic.slug.replace(/^\d+-/, '')}`}
               className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium bg-foreground/10 text-foreground hover:bg-foreground/20 transition-colors focus:outline-none focus:ring-2 focus:ring-foreground/30 focus:ring-offset-2"
-              aria-label={`Go to lesson: ${topic}`}
+              aria-label={`Go to lesson: ${topic.name}`}
             >
-              {topic}
+              {topic.name}
             </Link>
           ))}
         </div>
