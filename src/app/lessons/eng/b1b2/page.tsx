@@ -1,5 +1,11 @@
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
+import { LessonCard } from '@/components/lesson/LessonCard';
+import type { LessonData } from '@/types/lessons';
 import type { BreadcrumbItem } from '@/types/navigation';
+import {
+  LESSONS_DATA,
+  LESSONS_BY_CATEGORY,
+} from '../../../../../texts/eng/b1b2/constants/lessonsData';
 
 export default function EnglishB1B2Page() {
   const breadcrumbs: BreadcrumbItem[] = [
@@ -7,28 +13,54 @@ export default function EnglishB1B2Page() {
     { label: 'English B1-B2', path: '/lessons/eng/b1b2', isCurrent: true },
   ];
 
+  const categories = Object.keys(LESSONS_BY_CATEGORY).sort();
+
   return (
     <div className="container mx-auto px-4 py-8">
       <Breadcrumbs items={breadcrumbs} />
 
-      <div className="max-w-4xl mx-auto">
-        <header className="space-y-4 mb-8">
-          <h1 className="text-3xl font-bold text-foreground">English B1-B2 Lessons</h1>
-          <p className="text-lg text-muted-foreground">
-            Learn English at the intermediate level through thematic texts with the most common
-            words.
+      <div className="max-w-6xl mx-auto">
+        <header className="space-y-4 mb-12">
+          <h1 className="text-4xl font-light text-foreground">English B1-B2 Lessons</h1>
+          <p className="text-xl text-muted-foreground leading-relaxed max-w-3xl">
+            Learn English at the intermediate level through {LESSONS_DATA.length} carefully crafted
+            thematic texts with the most common words and practical usage examples.
           </p>
         </header>
 
-        <div className="space-y-6">
-          <div className="rounded-lg border border-border bg-card p-6 shadow-sm">
-            <h2 className="text-xl font-semibold text-foreground mb-4">Coming Soon</h2>
-            <p className="text-muted-foreground">
-              The lesson list is currently being prepared. Individual lessons are available through
-              direct links.
-            </p>
+        {/* Stats Section */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
+          <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
+            <div className="text-3xl font-light text-primary mb-2">{LESSONS_DATA.length}</div>
+            <div className="text-sm text-muted-foreground">Total Lessons</div>
+          </div>
+          <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
+            <div className="text-3xl font-light text-primary mb-2">
+              {LESSONS_DATA.reduce(
+                (sum: number, lesson: LessonData) => sum + lesson.keywords.length,
+                0
+              )}
+            </div>
+            <div className="text-sm text-muted-foreground">Key Words</div>
+          </div>
+          <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
+            <div className="text-3xl font-light text-primary mb-2">{categories.length}</div>
+            <div className="text-sm text-muted-foreground">Categories</div>
           </div>
         </div>
+
+        {/* All Lessons Section */}
+        <section className="mt-16 space-y-6">
+          <div className="space-y-2">
+            <h2 className="text-2xl font-light text-foreground">All Lessons</h2>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            {LESSONS_DATA.map((lesson: LessonData) => (
+              <LessonCard key={lesson.id} lesson={lesson} />
+            ))}
+          </div>
+        </section>
       </div>
     </div>
   );
