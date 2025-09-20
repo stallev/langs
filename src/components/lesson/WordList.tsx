@@ -11,33 +11,30 @@ export const WordList = ({ words, title = 'Key Words' }: WordListProps) => {
   }
 
   return (
-    <section className="space-y-6" aria-labelledby="words-heading">
-      <h2
-        id="words-heading"
-        className="text-2xl font-semibold text-foreground border-b border-border pb-2"
-      >
+    <section className="space-y-8" aria-labelledby="words-heading">
+      <h2 id="words-heading" className="text-3xl font-light text-foreground tracking-tight">
         {title}
       </h2>
 
-      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
         {words.map((word, index) => (
           <div
             key={`${word.word}-${index}`}
-            className="rounded-lg border border-border bg-card p-4 shadow-sm"
+            className="bg-muted/20 rounded-2xl p-6 border-0"
             role="listitem"
           >
-            <div className="space-y-2">
+            <div className="space-y-4">
               <div className="flex items-center justify-between">
-                <h3 className="font-semibold text-foreground">{word.word}</h3>
-                <span className="text-xs text-muted-foreground bg-muted px-2 py-1 rounded">
+                <h3 className="text-xl font-medium text-foreground">{word.word}</h3>
+                <span className="text-xs text-muted-foreground bg-foreground/10 px-3 py-1.5 rounded-full font-medium">
                   {word.partOfSpeech}
                 </span>
               </div>
 
-              <p className="text-sm text-muted-foreground">{word.translation}</p>
+              <p className="text-muted-foreground font-light">{word.translation}</p>
 
               {word.example && (
-                <blockquote className="text-sm italic text-foreground border-l-2 border-primary pl-3">
+                <blockquote className="text-sm italic text-foreground/80 border-l-4 border-foreground/20 pl-4 py-2 bg-foreground/5 rounded-r-lg">
                   &ldquo;{word.example}&rdquo;
                 </blockquote>
               )}

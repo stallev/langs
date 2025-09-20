@@ -1,83 +1,172 @@
-import Image from 'next/image';
+import { BookOpen, Globe, Target, Award } from 'lucide-react';
+import Link from 'next/link';
+import { NAVIGATION } from '@/shared/constants/navigation';
 
 export default function Home() {
   return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{' '}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">Save and see your changes instantly.</li>
-        </ol>
+    <main className="min-h-screen">
+      {/* Hero Section */}
+      <section className="container mx-auto px-4 py-16 md:py-24">
+        <div className="max-w-4xl mx-auto text-center space-y-8">
+          <h1 className="text-5xl md:text-7xl font-light text-foreground leading-tight tracking-tight">
+            Learn Languages Through
+            <span className="block text-muted-foreground">Real Stories</span>
+          </h1>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+          <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed font-light max-w-3xl mx-auto">
+            Master English with our carefully crafted lessons based on the 3000 most common words.
+            Start your journey to fluency today.
+          </p>
+
+          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8">
+            <Link
+              href={NAVIGATION.LESSONS.SUBMENU.ENGLISH_B1B2.PATH}
+              className="bg-foreground text-background px-8 py-4 rounded-2xl text-lg font-medium hover:bg-foreground/90 transition-colors"
+            >
+              Start Learning
+            </Link>
+            <Link
+              href={NAVIGATION.ABOUT.PATH}
+              className="border border-border px-8 py-4 rounded-2xl text-lg font-medium hover:bg-muted/50 transition-colors"
+            >
+              Learn More
+            </Link>
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image aria-hidden src="/file.svg" alt="File icon" width={16} height={16} />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image aria-hidden src="/window.svg" alt="Window icon" width={16} height={16} />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image aria-hidden src="/globe.svg" alt="Globe icon" width={16} height={16} />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </section>
+
+      {/* Features Section */}
+      <section className="container mx-auto px-4 py-16">
+        <div className="max-w-6xl mx-auto">
+          <h2 className="text-4xl font-light text-center mb-16 tracking-tight">
+            Why Choose LangLearn?
+          </h2>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div className="bg-muted/20 rounded-2xl p-8 border-0 text-center space-y-4">
+              <div className="w-16 h-16 bg-foreground/10 rounded-2xl flex items-center justify-center mx-auto">
+                <BookOpen className="w-8 h-8 text-foreground" />
+              </div>
+              <h3 className="text-2xl font-light">Thematic Learning</h3>
+              <p className="text-muted-foreground leading-relaxed">
+                Learn vocabulary and grammar through engaging stories about family, work, travel,
+                and more.
+              </p>
+            </div>
+
+            <div className="bg-muted/20 rounded-2xl p-8 border-0 text-center space-y-4">
+              <div className="w-16 h-16 bg-foreground/10 rounded-2xl flex items-center justify-center mx-auto">
+                <Target className="w-8 h-8 text-foreground" />
+              </div>
+              <h3 className="text-2xl font-light">Focused Approach</h3>
+              <p className="text-muted-foreground leading-relaxed">
+                Master the 3000 most common English words that make up 90% of everyday
+                conversations.
+              </p>
+            </div>
+
+            <div className="bg-muted/20 rounded-2xl p-8 border-0 text-center space-y-4">
+              <div className="w-16 h-16 bg-foreground/10 rounded-2xl flex items-center justify-center mx-auto">
+                <Globe className="w-8 h-8 text-foreground" />
+              </div>
+              <h3 className="text-2xl font-light">Real Context</h3>
+              <p className="text-muted-foreground leading-relaxed">
+                Practice with authentic examples and practical phrases you&apos;ll actually use.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Stats Section */}
+      <section className="container mx-auto px-4 py-16">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-muted/30 rounded-2xl p-12 border-0">
+            <div className="grid md:grid-cols-3 gap-8 text-center">
+              <div className="space-y-2">
+                <div className="text-4xl font-light text-foreground">38</div>
+                <div className="text-muted-foreground">Thematic Lessons</div>
+              </div>
+              <div className="space-y-2">
+                <div className="text-4xl font-light text-foreground">3000</div>
+                <div className="text-muted-foreground">Essential Words</div>
+              </div>
+              <div className="space-y-2">
+                <div className="text-4xl font-light text-foreground">B1-B2</div>
+                <div className="text-muted-foreground">Intermediate Level</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* How It Works Section */}
+      <section className="container mx-auto px-4 py-16">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="text-4xl font-light text-center mb-16 tracking-tight">How It Works</h2>
+
+          <div className="space-y-12">
+            <div className="flex flex-col md:flex-row gap-8 items-center">
+              <div className="flex-shrink-0 w-16 h-16 bg-foreground/10 rounded-2xl flex items-center justify-center">
+                <BookOpen className="w-8 h-8 text-foreground" />
+              </div>
+              <div className="space-y-4">
+                <h3 className="text-2xl font-light">Read & Learn</h3>
+                <p className="text-muted-foreground leading-relaxed text-lg">
+                  Start with an engaging story that introduces new vocabulary in context. Each
+                  lesson focuses on a specific theme like family relationships or daily routines.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex flex-col md:flex-row gap-8 items-center">
+              <div className="flex-shrink-0 w-16 h-16 bg-foreground/10 rounded-2xl flex items-center justify-center">
+                <Target className="w-8 h-8 text-foreground" />
+              </div>
+              <div className="space-y-4">
+                <h3 className="text-2xl font-light">Practice & Apply</h3>
+                <p className="text-muted-foreground leading-relaxed text-lg">
+                  Study key words with translations and examples. Practice with additional phrases
+                  and grammar notes to reinforce your learning.
+                </p>
+              </div>
+            </div>
+
+            <div className="flex flex-col md:flex-row gap-8 items-center">
+              <div className="flex-shrink-0 w-16 h-16 bg-foreground/10 rounded-2xl flex items-center justify-center">
+                <Award className="w-8 h-8 text-foreground" />
+              </div>
+              <div className="space-y-4">
+                <h3 className="text-2xl font-light">Master & Progress</h3>
+                <p className="text-muted-foreground leading-relaxed text-lg">
+                  Track your progress and build confidence as you work through lessons. Each
+                  completed lesson brings you closer to fluency.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* CTA Section */}
+      <section className="container mx-auto px-4 py-16">
+        <div className="max-w-4xl mx-auto text-center">
+          <div className="bg-muted/20 rounded-2xl p-12 border-0 space-y-8">
+            <h2 className="text-4xl font-light tracking-tight">
+              Ready to Start Your Language Journey?
+            </h2>
+            <p className="text-xl text-muted-foreground leading-relaxed">
+              Join thousands of learners who are mastering English with our proven method.
+            </p>
+            <Link
+              href={NAVIGATION.LESSONS.SUBMENU.ENGLISH_B1B2.PATH}
+              className="inline-block bg-foreground text-background px-8 py-4 rounded-2xl text-lg font-medium hover:bg-foreground/90 transition-colors"
+            >
+              Begin Learning Now
+            </Link>
+          </div>
+        </div>
+      </section>
+    </main>
   );
 }

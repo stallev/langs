@@ -12,17 +12,18 @@ export const GrammarNotesSection = ({
   }
 
   return (
-    <section className="space-y-6" aria-labelledby="grammar-notes-heading">
-      <h2
-        id="grammar-notes-heading"
-        className="text-2xl font-semibold text-foreground border-b border-border pb-2"
-      >
+    <section className="space-y-8" aria-labelledby="grammar-notes-heading">
+      <h2 id="grammar-notes-heading" className="text-3xl font-light text-foreground tracking-tight">
         {title}
       </h2>
 
-      <div className="rounded-lg border border-border bg-card p-6 shadow-sm">
+      <div className="bg-muted/20 rounded-2xl p-8 border-0">
         <div
-          className="prose prose-gray dark:prose-invert max-w-none"
+          className="prose prose-lg prose-gray dark:prose-invert max-w-none leading-relaxed [&>p]:mb-6 [&>p:last-child]:mb-0 [&>ul]:mb-6 [&>ul:last-child]:mb-0 [&>li]:mb-2"
+          style={{
+            lineHeight: '1.7',
+            fontSize: '1.125rem',
+          }}
           dangerouslySetInnerHTML={{ __html: content }}
           role="article"
           aria-label="Grammar notes and explanations"

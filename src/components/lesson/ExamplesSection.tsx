@@ -11,30 +11,28 @@ export const ExamplesSection = ({ examples, title, className = '' }: ExamplesSec
 
   return (
     <section
-      className={`space-y-6 ${className}`}
+      className={`space-y-8 ${className}`}
       aria-labelledby={`${title.toLowerCase().replace(/\s+/g, '-')}-heading`}
     >
       <h2
         id={`${title.toLowerCase().replace(/\s+/g, '-')}-heading`}
-        className="text-2xl font-semibold text-foreground border-b border-border pb-2"
+        className="text-3xl font-light text-foreground tracking-tight"
       >
         {title}
       </h2>
 
-      <ul className="space-y-4" role="list">
+      <div>
         {examples.map((example, index) => (
-          <li
-            key={index}
-            className="flex items-start gap-3 p-4 rounded-lg border border-border bg-card shadow-sm"
-            role="listitem"
-          >
-            <span className="flex-shrink-0 w-6 h-6 bg-primary text-primary-foreground rounded-full flex items-center justify-center text-sm font-medium">
-              {index + 1}
-            </span>
-            <p className="text-foreground leading-relaxed">{example}</p>
-          </li>
+          <div key={index} className="bg-muted/20 rounded-2xl p-4 border-0" role="listitem">
+            <div className="flex items-start gap-4">
+              <span className="flex-shrink-0 w-8 h-8 bg-foreground/10 text-foreground rounded-full flex items-center justify-center text-sm font-medium">
+                {index + 1}
+              </span>
+              <p className="text-foreground leading-relaxed text-lg font-light pt-1">{example}</p>
+            </div>
+          </div>
         ))}
-      </ul>
+      </div>
     </section>
   );
 };

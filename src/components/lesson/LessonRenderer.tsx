@@ -23,44 +23,60 @@ export const LessonRenderer = async ({ filePath }: LessonRendererProps) => {
         aria-label="Lesson content"
       >
         {/* Lesson Header */}
-        <header className="space-y-6">
-          <div className="space-y-4">
-            <h1 className="text-3xl font-bold text-foreground">{lesson.content.metadata.title}</h1>
+        <header className="space-y-8">
+          <div className="space-y-6">
+            <h1 className="text-4xl font-light text-foreground leading-tight tracking-tight">
+              {lesson.content.metadata.title}
+            </h1>
 
             {lesson.content.metadata.description && (
-              <p className="text-lg text-muted-foreground">{lesson.content.metadata.description}</p>
+              <p className="text-xl text-muted-foreground leading-relaxed font-light">
+                {lesson.content.metadata.description}
+              </p>
             )}
           </div>
 
-          {/* Lesson Metadata */}
-          <div className="rounded-lg border border-border bg-card p-6 shadow-sm">
-            <div className="flex flex-wrap gap-4 text-sm text-muted-foreground">
-              <span className="flex items-center gap-1">
-                <span className="font-medium">Level:</span>
-                {lesson.content.metadata.level}
-              </span>
-              <span className="flex items-center gap-1">
-                <span className="font-medium">Topic:</span>
-                {lesson.content.metadata.topic}
-              </span>
-              <span className="flex items-center gap-1">
-                <span className="font-medium">Time:</span>
-                {lesson.content.metadata.estimatedTime}
-              </span>
-              <span className="flex items-center gap-1">
-                <span className="font-medium">Difficulty:</span>
-                <span className="capitalize">{lesson.content.metadata.difficulty}</span>
-              </span>
+          {/* Lesson Metadata - Apple Books style */}
+          <div className="bg-muted/30 rounded-2xl p-8 border-0">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-sm">
+              <div className="space-y-1">
+                <span className="text-muted-foreground font-medium uppercase tracking-wide text-xs">
+                  Level
+                </span>
+                <p className="text-foreground font-medium">{lesson.content.metadata.level}</p>
+              </div>
+              <div className="space-y-1">
+                <span className="text-muted-foreground font-medium uppercase tracking-wide text-xs">
+                  Topic
+                </span>
+                <p className="text-foreground font-medium">{lesson.content.metadata.topic}</p>
+              </div>
+              <div className="space-y-1">
+                <span className="text-muted-foreground font-medium uppercase tracking-wide text-xs">
+                  Time
+                </span>
+                <p className="text-foreground font-medium">
+                  {lesson.content.metadata.estimatedTime}
+                </p>
+              </div>
+              <div className="space-y-1">
+                <span className="text-muted-foreground font-medium uppercase tracking-wide text-xs">
+                  Difficulty
+                </span>
+                <p className="text-foreground font-medium capitalize">
+                  {lesson.content.metadata.difficulty}
+                </p>
+              </div>
             </div>
 
             {/* Keywords */}
             {lesson.content.metadata.keywords.length > 0 && (
-              <div className="mt-4 pt-4 border-t border-border">
-                <div className="flex flex-wrap gap-2">
+              <div className="mt-8 pt-6 border-t border-border/50">
+                <div className="flex flex-wrap gap-3">
                   {lesson.content.metadata.keywords.map((keyword, index) => (
                     <span
                       key={index}
-                      className="px-2 py-1 bg-muted text-muted-foreground rounded text-xs"
+                      className="px-3 py-1.5 bg-background/60 text-muted-foreground rounded-full text-sm font-medium border border-border/30"
                     >
                       {keyword}
                     </span>

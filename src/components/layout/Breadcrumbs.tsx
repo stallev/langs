@@ -18,36 +18,38 @@ export const Breadcrumbs = ({ items }: BreadcrumbsProps) => {
 
   return (
     <nav aria-label={ACCESSIBILITY.BREADCRUMBS.ARIA_LABEL} className="py-2">
-      <ol className="flex flex-wrap items-center gap-1 text-sm">
-        <li>
-          <Link
-            href={NAVIGATION.HOME.PATH}
-            className="flex items-center text-muted-foreground hover:text-foreground transition-colors"
-          >
-            <Home className="h-4 w-4" aria-hidden="true" />
-            <span className="sr-only">{ACCESSIBILITY.BREADCRUMBS.HOME}</span>
-          </Link>
-        </li>
-
-        {breadcrumbItems.map(item => (
-          <li key={item.path} className="flex items-center">
-            <ChevronRight className="h-4 w-4 mx-1 text-muted-foreground" aria-hidden="true" />
-            {item.isCurrent ? (
-              <span aria-current="page" className="font-medium">
-                {item.label}
-              </span>
-            ) : (
-              <Link
-                href={item.path}
-                className="text-muted-foreground hover:text-foreground transition-colors"
-                aria-current={item.isCurrent ? 'page' : undefined}
-              >
-                {item.label}
-              </Link>
-            )}
+      <div className="container mx-auto px-4">
+        <ol className="flex flex-wrap items-center gap-1 text-sm">
+          <li>
+            <Link
+              href={NAVIGATION.HOME.PATH}
+              className="flex items-center text-muted-foreground hover:text-foreground transition-colors"
+            >
+              <Home className="h-4 w-4" aria-hidden="true" />
+              <span className="sr-only">{ACCESSIBILITY.BREADCRUMBS.HOME}</span>
+            </Link>
           </li>
-        ))}
-      </ol>
+
+          {breadcrumbItems.map(item => (
+            <li key={item.path} className="flex items-center">
+              <ChevronRight className="h-4 w-4 mx-1 text-muted-foreground" aria-hidden="true" />
+              {item.isCurrent ? (
+                <span aria-current="page" className="font-medium">
+                  {item.label}
+                </span>
+              ) : (
+                <Link
+                  href={item.path}
+                  className="text-muted-foreground hover:text-foreground transition-colors"
+                  aria-current={item.isCurrent ? 'page' : undefined}
+                >
+                  {item.label}
+                </Link>
+              )}
+            </li>
+          ))}
+        </ol>
+      </div>
     </nav>
   );
 };

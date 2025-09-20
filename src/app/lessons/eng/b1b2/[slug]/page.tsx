@@ -31,8 +31,8 @@ export default async function LessonPage({ params }: LessonPageProps) {
   ];
 
   return (
-    <div className="space-y-6">
-      <div className="container mx-auto px-4 pt-8">
+    <div>
+      <div className="pt-4">
         <Breadcrumbs items={breadcrumbs} />
       </div>
       <LessonRenderer filePath={filePath} />

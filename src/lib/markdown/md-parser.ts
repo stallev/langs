@@ -127,17 +127,17 @@ function parseWordsSection(
     partOfSpeech: string;
     example?: string;
   }> = [];
-  const lines = content.split('\n').filter(Boolean);
+  const lines = content.replace(/\r\n/g, '\n').split('\n').filter(Boolean);
 
   for (const line of lines) {
-    // Match pattern: - **word** - translation (partOfSpeech) - example
-    const match = line.match(/^- \*\*(.+?)\*\* - (.+?) \((.+?)\)(?: - (.+))?$/);
+    // Match pattern: - word (translation) - partOfSpeech
+    const cleanLine = line.replace(/\r$/, '');
+    const match = cleanLine.match(/^- (.+?) \((.+?)\) - (.+?)$/);
     if (match) {
       words.push({
         word: match[1],
         translation: match[2],
         partOfSpeech: match[3],
-        example: match[4],
       });
     }
   }
@@ -152,9 +152,18 @@ function parseWordsSection(
  */
 function parseExamplesSection(content: string): string[] {
   return content
+    .replace(/\r\n/g, '\n')
     .split('\n')
     .filter(line => line.startsWith('- '))
-    .map(line => line.replace(/^- /, '').trim())
+    .map(line => {
+      // Handle format: - **word**: "example" (translation)
+      const match = line.match(/^- \*\*(.+?)\*\*: "(.+?)" \((.+?)\)$/);
+      if (match) {
+        return `${match[1]}: "${match[2]}" (${match[3]})`;
+      }
+      // Handle regular format: - example
+      return line.replace(/^- /, '').trim();
+    })
     .filter(Boolean);
 }
 
@@ -165,9 +174,18 @@ function parseExamplesSection(content: string): string[] {
  */
 function parsePhrasesSection(content: string): string[] {
   return content
+    .replace(/\r\n/g, '\n')
     .split('\n')
     .filter(line => line.startsWith('- '))
-    .map(line => line.replace(/^- /, '').trim())
+    .map(line => {
+      // Handle format: - "phrase" - translation
+      const match = line.match(/^- "(.+?)" - (.+)$/);
+      if (match) {
+        return `"${match[1]}" - ${match[2]}`;
+      }
+      // Handle regular format: - phrase
+      return line.replace(/^- /, '').trim();
+    })
     .filter(Boolean);
 }
 
@@ -183,13 +201,16 @@ function parseSynonymsSection(
     word: string;
     synonyms: Array<{ synonym: string; context: string; example: string }>;
   }> = [];
-  const lines = content.split('\n').filter(Boolean);
+  // Normalize line endings and filter empty lines
+  const lines = content.replace(/\r\n/g, '\n').split('\n').filter(Boolean);
   let currentWord: string | null = null;
   let currentSynonyms: Array<{ synonym: string; context: string; example: string }> = [];
 
   for (const line of lines) {
+    const trimmedLine = line.trim();
+
     // Match word pattern: - **word**:
-    const wordMatch = line.match(/^- \*\*(.+?)\*\*:$/);
+    const wordMatch = trimmedLine.match(/^- \*\*(.+?)\*\*:$/);
     if (wordMatch) {
       // Save previous word if exists
       if (currentWord) {
@@ -204,7 +225,9 @@ function parseSynonymsSection(
       currentSynonyms = [];
     } else if (currentWord && line.startsWith('  - ')) {
       // Match synonym pattern: - synonym (context) - "example"
-      const synonymMatch = line.match(/^- (.+?) \((.+?)\) - "(.+?)"$/);
+      // Remove the leading spaces and carriage return for regex matching
+      const cleanLine = line.replace(/^  - /, '- ').replace(/\r$/, '');
+      const synonymMatch = cleanLine.match(/^- (.+?) \((.+?)\) - "(.+?)"$/);
       if (synonymMatch) {
         currentSynonyms.push({
           synonym: synonymMatch[1],
@@ -233,6 +256,7 @@ function parseSynonymsSection(
  */
 function parseRelatedTopicsSection(content: string): string[] {
   return content
+    .replace(/\r\n/g, '\n')
     .split('\n')
     .filter(line => line.startsWith('- '))
     .map(line => line.replace(/^- /, '').trim())
