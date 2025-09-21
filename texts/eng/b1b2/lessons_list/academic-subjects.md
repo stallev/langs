@@ -1,5 +1,9 @@
 # Academic Subjects / Учебные предметы
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - mathematics (математика) - noun
 - algebra (алгебра) - noun

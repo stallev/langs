@@ -1,5 +1,9 @@
 # Мышление и понимание / Thinking and Understanding
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - думать (to think) - verb
 - понимать (to understand) - verb

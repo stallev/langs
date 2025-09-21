@@ -1,5 +1,9 @@
 # Descriptions & Comparisons / Описания и сравнения
 
+## Категория / Category
+culture_arts
+
+
 ## Ключевые слова / Key Words
 - good (хороший) - adjective
 - bad (плохой) - adjective

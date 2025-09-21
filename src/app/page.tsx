@@ -1,6 +1,16 @@
 import { BookOpen, Globe, Target, Award } from 'lucide-react';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { NAVIGATION } from '@/shared/constants/navigation';
+import { SEO_CONSTANTS, generateSEOMetadata } from '@/shared/constants/seo';
+
+export const metadata: Metadata = generateSEOMetadata(
+  SEO_CONSTANTS.HOME_TITLE,
+  SEO_CONSTANTS.HOME_DESCRIPTION,
+  SEO_CONSTANTS.HOME_KEYWORDS,
+  '/',
+  SEO_CONSTANTS.ROBOTS_NOINDEX
+);
 
 export default function Home() {
   return (
@@ -84,7 +94,7 @@ export default function Home() {
           <div className="bg-muted/30 rounded-2xl p-12 border-0">
             <div className="grid md:grid-cols-3 gap-8 text-center">
               <div className="space-y-2">
-                <div className="text-4xl font-light text-foreground">38</div>
+                <div className="text-4xl font-light text-foreground">112</div>
                 <div className="text-muted-foreground">Thematic Lessons</div>
               </div>
               <div className="space-y-2">

@@ -1,5 +1,9 @@
 # Entertainment & Media / Развлечения и медиа
 
+## Категория / Category
+culture_arts
+
+
 ## Ключевые слова / Key Words
 - movie (фильм) - noun
 - film (фильм) - noun

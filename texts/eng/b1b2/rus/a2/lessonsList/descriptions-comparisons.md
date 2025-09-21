@@ -1,5 +1,9 @@
 # Описания и сравнения / Descriptions and Comparisons
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - красивый (beautiful) - adjective
 - умный (smart) - adjective

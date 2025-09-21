@@ -1,5 +1,9 @@
 # Arts & Culture / Искусство и культура
 
+## Категория / Category
+culture_arts
+
+
 ## Ключевые слова / Key Words
 - art (искусство) - noun
 - artist (художник) - noun

@@ -1,5 +1,9 @@
 # Транспорт и путешествия / Transport and Travel
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - машина (car) - noun
 - автобус (bus) - noun
@@ -38,13 +42,13 @@
 - **ехать**: "Я еду на работу на автобусе." (I go to work by bus.)
 - **лететь**: "Самолет летит высоко в небе." (Plane flies high in the sky.)
 - **приезжать**: "Я приезжаю домой вечером." (I arrive home in the evening.)
-- **дорога**: "Дорога в город длинная." (Road to the city is long.)
-- **мост**: "Мост через реку красивый." (Bridge over the river is beautiful.)
+- **дорога**: "Длинная дорога в город." (Long road to the city.)
+- **мост**: "Красивый мост через реку." (Beautiful bridge over the river.)
 - **метро**: "Метро работает с шести утра." (Metro works from six in the morning.)
 - **троллейбус**: "Троллейбус едет по улице." (Trolleybus goes along the street.)
 - **трамвай**: "Трамвай останавливается на остановке." (Tram stops at the stop.)
 - **велосипед**: "Велосипед - экологичный транспорт." (Bicycle is eco-friendly transport.)
-- **путешествие**: "Путешествие в другую страну интересно." (Journey to another country is interesting.)
+- **путешествие**: "Интересное путешествие в другую страну." (Interesting journey to another country.)
 
 ## Практические фразы / Practical Phrases
 
@@ -54,7 +58,7 @@
 - "Когда приходит автобус?" - "When does the bus come?"
 - "Я летаю на самолете" - "I fly by plane"
 - "Поезд отправляется" - "Train departs"
-- "Дорога длинная" - "The road is long"
+- "Длинная дорога" - "Long road"
 - "Мост через реку" - "Bridge over the river"
 
 ## Синонимы и контекстное использование / Synonyms & Contextual Usage

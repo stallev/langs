@@ -1,11 +1,14 @@
 import { Mail, Clock, Linkedin } from 'lucide-react';
 import { Metadata } from 'next';
+import { SEO_CONSTANTS, generateSEOMetadata } from '@/shared/constants/seo';
 
-export const metadata: Metadata = {
-  title: 'Contact - LangLearn Platform',
-  description:
-    'Get in touch with the LangLearn team. We&apos;re here to help you with your language learning journey.',
-};
+export const metadata: Metadata = generateSEOMetadata(
+  SEO_CONSTANTS.CONTACT_TITLE,
+  SEO_CONSTANTS.CONTACT_DESCRIPTION,
+  SEO_CONSTANTS.CONTACT_KEYWORDS,
+  '/contact',
+  SEO_CONSTANTS.ROBOTS_NOINDEX
+);
 
 export default function ContactPage() {
   return (

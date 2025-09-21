@@ -1,5 +1,9 @@
 # Movement & Directions / Движение и направления
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - move (двигаться) - verb
 - go (идти) - verb

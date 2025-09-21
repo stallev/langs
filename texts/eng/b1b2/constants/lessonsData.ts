@@ -1,5 +1,5 @@
 // Auto-generated file - do not edit manually
-// Generated on: 2025-09-20T17:54:10.668Z
+// Generated on: 2025-09-21T00:00:11.600Z
 // Source: C:\github\langs\texts\eng\b1b2\lessons_list
 
 import type { LessonData } from '@/shared/types/lesson';
@@ -194,13 +194,1213 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/arts-culture"
       }
     ],
-    "category": "Academic Subjects",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/academic-subjects"
   },
   {
     "id": 2,
+    "slug": "actions-movements",
+    "title": "Actions & Movements",
+    "titleRu": "Действия и движения",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: action, movement, move, walk, run and practical usage examples.",
+    "keywords": [
+      {
+        "word": "action",
+        "translation": "действие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "movement",
+        "translation": "движение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "move",
+        "translation": "двигаться",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "walk",
+        "translation": "ходить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "run",
+        "translation": "бегать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "jump",
+        "translation": "прыгать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "climb",
+        "translation": "лазить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "swim",
+        "translation": "плавать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "fly",
+        "translation": "летать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "drive",
+        "translation": "водить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "ride",
+        "translation": "ездить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "travel",
+        "translation": "путешествовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "exercise",
+        "translation": "упражняться",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "dance",
+        "translation": "танцевать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "play",
+        "translation": "играть",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "work",
+        "translation": "работать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "study",
+        "translation": "учиться",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "sleep",
+        "translation": "спать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "eat",
+        "translation": "есть",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "drink",
+        "translation": "пить",
+        "partOfSpeech": "verb"
+      }
+    ],
+    "mainText": "*Action*s and *movement*s are the fundamental expressions of life, encompassing the physical *action*s and *movement*s that enable us to navigate the world, interact with others, and pursue our goals and interests. From the simple *action* of *walk*ing to the complex *movement*s involved in *dance*ing, our ability to *move* and take *action* shapes our daily experiences and personal development. Let me share a story about how I discovered the importance of *action*s and *movement*s in maintaining a healthy and active lifestyle.\n\nLast year, I decided to become more physically active after realizing that I was spending too much time sitting and not enough time *mov*ing my body. I began by incorporating more *action*s and *movement*s into my daily routine, learning about different types of physical activities and their benefits. The process taught me that *action*s and *movement*s are not just about physical fitness - they're about expressing ourselves, connecting with others, and living life to the fullest.\n\nMy journey into understanding *action*s and *movement*s started with basic *movement*s like *walk*ing and *run*ning. I learned that *walk*ing is one of the most natural and accessible forms of *movement*, providing cardiovascular benefits while being gentle on the joints. I discovered that *run*ning offers more intense cardiovascular exercise and can be a great way to build endurance and *strength*. Both *walk*ing and *run*ning became essential parts of my daily routine.\n\n*Jump*ing and *climb*ing introduced me to more dynamic forms of *movement*. I learned that *jump*ing exercises can improve power, coordination, and bone density, while *climb*ing activities like rock climbing or hiking challenge both physical and mental *strength*. I discovered that these *action*s require different types of *movement* patterns and can help develop various physical *qualities*.\n\n*Swim*ming and *fly*ing taught me about *movement*s in different environments. I learned that *swim*ming is an excellent full-body exercise that provides cardiovascular benefits while being low-impact on the joints. I discovered that *fly*ing - whether in sports like basketball or through activities like dancing - involves complex *movement* patterns that require coordination, balance, and spatial awareness.\n\n*Drive*ing and *ride*ing became important aspects of my understanding of *movement* and transportation. I learned that *drive*ing involves not just physical *action*s but also mental focus and decision-making skills. I discovered that *ride*ing bicycles or motorcycles offers a different type of *movement* experience that combines physical activity with the joy of *travel* and exploration.\n\n*Travel* and *exercise* taught me about the broader applications of *movement* and *action*. I learned that *travel* involves various forms of *movement* and *action*, from *walk*ing through new cities to *swim*ming in different bodies of water. I discovered that *exercise* is a structured form of *movement* that can improve physical fitness, mental health, and overall well-being.\n\n*Dance* and *play* introduced me to the creative and social aspects of *movement*. I learned that *dance* is a form of artistic *movement* that combines physical *action* with emotional expression and musical interpretation. I discovered that *play* involves various *movement*s and *action*s that can be both fun and beneficial for physical and mental development.\n\n*Work*, *study*, *sleep*, *eat*, and *drink* taught me about the essential *action*s that make up daily life. I learned that *work* involves various *movement*s and *action*s depending on the type of job, while *study* requires mental *action* and focus. I discovered that *sleep* is a necessary *action* for rest and recovery, while *eat*ing and *drink*ing are essential *action*s for nourishment and hydration.\n\n*Action*s and *movement*s have taught me that physical activity is not just about exercise - it's about expressing ourselves, connecting with others, and living life with energy and purpose. Each *action* and *movement* - from the simple *walk* to the complex *dance* - contributes to our physical health, mental well-being, and overall quality of life. Understanding the importance of *action*s and *movement*s has helped me develop a more active and fulfilling lifestyle.",
+    "additionalExamples": [
+      {
+        "word": "action",
+        "example": "Action is required.",
+        "translation": "Действие требуется."
+      },
+      {
+        "word": "movement",
+        "example": "Movement is smooth.",
+        "translation": "Движение плавное."
+      },
+      {
+        "word": "move",
+        "example": "Move quickly.",
+        "translation": "Двигайся быстро."
+      },
+      {
+        "word": "walk",
+        "example": "Walk carefully.",
+        "translation": "Иди осторожно."
+      },
+      {
+        "word": "run",
+        "example": "Run fast.",
+        "translation": "Беги быстро."
+      },
+      {
+        "word": "jump",
+        "example": "Jump high.",
+        "translation": "Прыгай высоко."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Let's get moving",
+        "translation": "Давайте двигаться"
+      },
+      {
+        "phrase": "I need to stretch my legs",
+        "translation": "Мне нужно размять ноги"
+      },
+      {
+        "phrase": "That was a great workout",
+        "translation": "Это была отличная тренировка"
+      },
+      {
+        "phrase": "I'm feeling energized",
+        "translation": "Я чувствую себя энергичным"
+      },
+      {
+        "phrase": "Let's go for a walk",
+        "translation": "Давайте пойдем прогуляемся"
+      },
+      {
+        "phrase": "I need to get some exercise",
+        "translation": "Мне нужно позаниматься"
+      },
+      {
+        "phrase": "That was quite a workout",
+        "translation": "Это была серьезная тренировка"
+      },
+      {
+        "phrase": "I feel so much better after moving",
+        "translation": "Я чувствую себя намного лучше после движения"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Action** is countable and refers to something done.\n- **Movement** is countable and refers to the act of moving.\n- **Move** is a verb meaning to change position.\n- **Walk** is a verb meaning to move on foot.",
+    "relatedTopics": [
+      {
+        "name": "Sports Recreation",
+        "slug": "sports-recreation",
+        "url": "/lessons/eng/b1b2/sports-recreation"
+      },
+      {
+        "name": "Body Health",
+        "slug": "body-health",
+        "url": "/lessons/eng/b1b2/body-health"
+      },
+      {
+        "name": "Daily Life Routines",
+        "slug": "daily-life-routines",
+        "url": "/lessons/eng/b1b2/daily-life-routines"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/actions-movements"
+  },
+  {
+    "id": 3,
+    "slug": "agriculture-farming",
+    "title": "Agriculture & Farming",
+    "titleRu": "Сельское хозяйство и фермерство",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: agriculture, farming, farm, farmer, crop and practical usage examples.",
+    "keywords": [
+      {
+        "word": "agriculture",
+        "translation": "сельское хозяйство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "farming",
+        "translation": "фермерство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "farm",
+        "translation": "ферма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "farmer",
+        "translation": "фермер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "crop",
+        "translation": "урожай",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "field",
+        "translation": "поле",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "soil",
+        "translation": "почва",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "seed",
+        "translation": "семя",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plant",
+        "translation": "растение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "grow",
+        "translation": "расти",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "harvest",
+        "translation": "урожай",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "livestock",
+        "translation": "скот",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cattle",
+        "translation": "крупный рогатый скот",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sheep",
+        "translation": "овцы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "chicken",
+        "translation": "курица",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pig",
+        "translation": "свинья",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tractor",
+        "translation": "трактор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "barn",
+        "translation": "сарай",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "organic",
+        "translation": "органический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "sustainable",
+        "translation": "устойчивый",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Agriculture* and *farming* are the fundamental practices that sustain human civilization, providing the food and resources necessary for survival and economic development. From the *organic* *farm*s that produce *sustainable* *crop*s to the large-scale *agriculture* operations that feed millions, *farming* represents the intersection of human innovation and natural processes. Let me share a story about how I discovered the incredible world of *agriculture* and *farming* through a visit to a local *farm*.\n\nLast year, I had the opportunity to visit a family-owned *farm* and learn about the daily operations of *agriculture* and *farming*. I began by understanding the basic principles of *farming*, learning how *farmer*s work with *soil*, *seed*s, and *plant*s to produce *crop*s and raise *livestock*. The process taught me that *agriculture* is not just about growing food - it's about understanding natural systems, managing resources, and contributing to the global food supply.\n\nMy journey into understanding *agriculture* and *farming* started with exploring the *field*s where *crop*s are grown. I learned that a *field* is a piece of land used for growing *crop*s, and that *farmer*s must carefully manage *soil* quality, water, and nutrients to ensure healthy *plant* growth. I discovered that different *crop*s require different growing conditions and that *farmer*s must plan their *field* rotations to maintain *soil* health and prevent disease.\n\n*Soil* and *seed* became central to my understanding of how *crop*s are produced. I learned that *soil* is the foundation of *agriculture*, providing nutrients, water, and support for *plant* roots. I discovered that *seed*s are the starting point for all *crop* production and that *farmer*s must select the right *seed*s for their *soil* conditions and climate. The relationship between *soil* and *seed* is crucial for successful *farming*.\n\n*Plant* and *grow* taught me about the biological processes involved in *agriculture*. I learned that *plant*s are living organisms that convert sunlight, water, and nutrients into food through photosynthesis. I discovered that *grow*ing *crop*s requires careful attention to *plant* needs, including proper spacing, watering, and protection from pests and diseases. The ability to *grow* healthy *plant*s is essential for successful *farming*.\n\n*Harvest* and *crop* became important concepts for understanding the culmination of the *farming* process. I learned that *harvest* is the process of gathering mature *crop*s from the *field*, while *crop*s are the plants that are grown for food, fiber, or other products. I discovered that *harvest* timing is crucial for *crop* quality and that *farmer*s must work quickly to gather *crop*s before they spoil or are damaged by weather.\n\n*Livestock* and *cattle* introduced me to the animal side of *agriculture* and *farming*. I learned that *livestock* refers to animals raised for food, fiber, or other products, while *cattle* are large animals raised for meat and dairy products. I discovered that raising *livestock* requires different skills and knowledge than growing *crop*s, including animal nutrition, health care, and breeding.\n\n*Sheep*, *chicken*, and *pig* taught me about the diversity of *livestock* in *agriculture*. I learned that *sheep* are raised for wool and meat, *chicken*s are raised for eggs and meat, and *pig*s are raised for meat and other products. I discovered that each type of *livestock* has its own specific needs and that *farmer*s must understand these needs to raise healthy animals.\n\n*Tractor* and *barn* became important aspects of *farming* infrastructure and equipment. I learned that a *tractor* is a powerful vehicle used for pulling farm equipment and performing various *farming* tasks, while a *barn* is a building used for storing equipment and housing *livestock*. I discovered that modern *farming* relies heavily on machinery and infrastructure to be efficient and productive.\n\n*Organic* and *sustainable* became important concepts for understanding modern *agriculture* practices. I learned that *organic* *farming* avoids synthetic chemicals and focuses on natural methods of *crop* and *livestock* production. I discovered that *sustainable* *agriculture* aims to meet present needs without compromising the ability of future generations to meet their own needs, focusing on environmental protection and resource conservation.\n\n*Agriculture* and *farming* have taught me that food production is a complex and essential process that requires knowledge, skill, and dedication. From the *organic* *farm*s that produce *sustainable* *crop*s to the large-scale operations that raise *livestock*, *agriculture* and *farming* are vital to human survival and economic development. Understanding the principles of *agriculture* and *farming* has given me a greater appreciation for the food I eat and the *farmer*s who work to produce it.",
+    "additionalExamples": [
+      {
+        "word": "agriculture",
+        "example": "Agriculture is important.",
+        "translation": "Сельское хозяйство важно."
+      },
+      {
+        "word": "farming",
+        "example": "Farming is hard work.",
+        "translation": "Фермерство - тяжелая работа."
+      },
+      {
+        "word": "farm",
+        "example": "Farm is productive.",
+        "translation": "Ферма продуктивна."
+      },
+      {
+        "word": "farmer",
+        "example": "Farmer is experienced.",
+        "translation": "Фермер опытный."
+      },
+      {
+        "word": "crop",
+        "example": "Crop is healthy.",
+        "translation": "Урожай здоровый."
+      },
+      {
+        "word": "field",
+        "example": "Field is large.",
+        "translation": "Поле большое."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The farm is doing well this season",
+        "translation": "Ферма хорошо работает в этом сезоне"
+      },
+      {
+        "phrase": "We need to harvest the crops soon",
+        "translation": "Нам нужно скоро собрать урожай"
+      },
+      {
+        "phrase": "The soil quality is excellent",
+        "translation": "Качество почвы отличное"
+      },
+      {
+        "phrase": "The farmer works from dawn to dusk",
+        "translation": "Фермер работает с рассвета до заката"
+      },
+      {
+        "phrase": "Organic farming is becoming more popular",
+        "translation": "Органическое фермерство становится более популярным"
+      },
+      {
+        "phrase": "The livestock needs fresh water",
+        "translation": "Скоту нужна свежая вода"
+      },
+      {
+        "phrase": "The tractor makes farming easier",
+        "translation": "Трактор упрощает фермерство"
+      },
+      {
+        "phrase": "Sustainable agriculture protects the environment",
+        "translation": "Устойчивое сельское хозяйство защищает окружающую среду"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Agriculture** is uncountable and refers to the practice of farming.\n- **Farming** is uncountable and refers to the activity of growing crops.\n- **Farm** is countable and refers to a piece of land for agriculture.\n- **Farmer** is countable and refers to a person who farms.",
+    "relatedTopics": [
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      },
+      {
+        "name": "Food Drink",
+        "slug": "food-drink",
+        "url": "/lessons/eng/b1b2/food-drink"
+      },
+      {
+        "name": "Rural Country Life",
+        "slug": "rural-country-life",
+        "url": "/lessons/eng/b1b2/rural-country-life"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/agriculture-farming"
+  },
+  {
+    "id": 4,
+    "slug": "air-aviation",
+    "title": "Air & Aviation",
+    "titleRu": "Воздух и авиация",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: air, sky, flight, plane, pilot and practical usage examples.",
+    "keywords": [
+      {
+        "word": "air",
+        "translation": "воздух",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sky",
+        "translation": "небо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "flight",
+        "translation": "полет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plane",
+        "translation": "самолет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pilot",
+        "translation": "пилот",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "airport",
+        "translation": "аэропорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "altitude",
+        "translation": "высота",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "speed",
+        "translation": "скорость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wind",
+        "translation": "ветер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cloud",
+        "translation": "облако",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "weather",
+        "translation": "погода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "engine",
+        "translation": "двигатель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wing",
+        "translation": "крыло",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "landing",
+        "translation": "посадка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "takeoff",
+        "translation": "взлет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "passenger",
+        "translation": "пассажир",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "crew",
+        "translation": "экипаж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "safety",
+        "translation": "безопасность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "control",
+        "translation": "управление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "navigation",
+        "translation": "навигация",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Air* and *aviation* represent humanity's incredible achievement of conquering the *sky* and making *flight* possible through advanced technology and engineering. From the first *plane* to modern *aircraft*, *aviation* has transformed how we travel and connect across the globe. Let me share a story about how I discovered the fascinating world of *air* and *aviation*.\n\nLast year, I had the opportunity to visit a major *airport* and learn about *aviation* from a professional *pilot*, which opened my eyes to the incredible complexity of *flight* operations. As I watched *planes* take off and land, I was amazed by how these massive machines could lift off the ground and soar through the *air* with such grace and precision.\n\nThe *pilot* explained that *flight* involves much more than just flying through the *sky*. *Air* conditions, *weather* patterns, and *wind* *speed* all play crucial roles in determining whether a *plane* can safely take off and land. The *crew* must constantly monitor *altitude*, *speed*, and *navigation* systems to ensure a smooth *flight* experience for *passengers*.\n\nI learned that *aviation* *safety* is the top priority for every *flight*. The *engine* and *wing* systems are designed to work together, creating the lift and thrust needed to overcome gravity and fly through the *air*. During *takeoff*, the *plane* accelerates down the runway until it reaches the *speed* necessary to generate enough lift to leave the ground.\n\nOnce in the *air*, the *pilot* must navigate through various *weather* conditions, including *clouds* and *wind* patterns. The *air* at different *altitudes* has different properties - thinner *air* at higher *altitudes* requires different *engine* settings and *flight* techniques. The *crew* works together to ensure that *passengers* have a comfortable and safe journey through the *sky*.\n\nThe *landing* process is equally complex, requiring precise *control* and *navigation* to bring the *plane* safely back to the ground. The *pilot* must account for *wind* conditions, *airport* traffic, and *weather* factors to execute a smooth *landing*. The *air* *speed* must be carefully managed to ensure the *plane* touches down gently on the runway.\n\nWhat impressed me most was how *aviation* technology has evolved to make *flight* not just possible, but routine and *safe*. Modern *planes* are equipped with advanced *navigation* systems, *weather* radar, and *safety* features that allow *pilots* to fly through challenging *air* conditions with confidence. The *crew* undergoes extensive training to handle various *flight* scenarios and ensure *passenger* *safety*.\n\n*Air* and *aviation* have taught me that flying is not just about defying gravity - it's about understanding the *air* we breathe, the *sky* above us, and the incredible technology that makes *flight* possible. Every *plane* that takes off represents a triumph of human ingenuity and our ability to conquer the *air* and explore the *sky*.",
+    "additionalExamples": [
+      {
+        "word": "air",
+        "example": "Air is essential for breathing.",
+        "translation": "Воздух необходим для дыхания."
+      },
+      {
+        "word": "sky",
+        "example": "The sky is blue.",
+        "translation": "Небо голубое."
+      },
+      {
+        "word": "flight",
+        "example": "Flight is smooth.",
+        "translation": "Полет плавный."
+      },
+      {
+        "word": "plane",
+        "example": "The plane is large.",
+        "translation": "Самолет большой."
+      },
+      {
+        "word": "pilot",
+        "example": "The pilot is experienced.",
+        "translation": "Пилот опытный."
+      },
+      {
+        "word": "airport",
+        "example": "The airport is busy.",
+        "translation": "Аэропорт оживленный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The sky's the limit",
+        "translation": "Небо - это предел"
+      },
+      {
+        "phrase": "Up in the air",
+        "translation": "В воздухе, неопределенно"
+      },
+      {
+        "phrase": "Clear the air",
+        "translation": "Прояснить ситуацию"
+      },
+      {
+        "phrase": "On cloud nine",
+        "translation": "На седьмом небе"
+      },
+      {
+        "phrase": "Weather the storm",
+        "translation": "Пережить бурю"
+      },
+      {
+        "phrase": "Fly by the seat of your pants",
+        "translation": "Действовать наобум"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Air** is uncountable and refers to the atmosphere we breathe.\n- **Sky** is countable and refers to the space above the earth.\n- **Flight** is countable and refers to a journey by air.\n- **Plane** is countable and refers to an aircraft.",
+    "relatedTopics": [
+      {
+        "name": "Transportation Infrastructure",
+        "slug": "transportation-infrastructure",
+        "url": "/lessons/eng/b1b2/transportation-infrastructure"
+      },
+      {
+        "name": "Weather Nature",
+        "slug": "weather-nature",
+        "url": "/lessons/eng/b1b2/weather-nature"
+      },
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Travel Transportation",
+        "slug": "travel-transportation",
+        "url": "/lessons/eng/b1b2/travel-transportation"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/air-aviation"
+  },
+  {
+    "id": 5,
+    "slug": "animals-wildlife",
+    "title": "Animals & Wildlife",
+    "titleRu": "Животные и дикая природа",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: animal, wildlife, mammal, bird, fish and practical usage examples.",
+    "keywords": [
+      {
+        "word": "animal",
+        "translation": "животное",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wildlife",
+        "translation": "дикая природа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mammal",
+        "translation": "млекопитающее",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bird",
+        "translation": "птица",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fish",
+        "translation": "рыба",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "reptile",
+        "translation": "рептилия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "insect",
+        "translation": "насекомое",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "habitat",
+        "translation": "среда обитания",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "species",
+        "translation": "вид",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "predator",
+        "translation": "хищник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "prey",
+        "translation": "добыча",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "forest",
+        "translation": "лес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ocean",
+        "translation": "океан",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mountain",
+        "translation": "гора",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "desert",
+        "translation": "пустыня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "jungle",
+        "translation": "джунгли",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "domestic",
+        "translation": "домашний",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "wild",
+        "translation": "дикий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "endangered",
+        "translation": "находящийся под угрозой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "extinct",
+        "translation": "вымерший",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Animal*s and *wildlife* represent the incredible diversity of life on Earth, from the majestic *mammal*s that roam vast landscapes to the tiny *insect*s that play crucial roles in ecosystems. Understanding *animal*s and *wildlife* helps us appreciate the complex web of life that sustains our planet and recognize our responsibility to protect these precious creatures and their *habitat*s. Let me share a story about how I discovered the fascinating world of *animal*s and *wildlife* through a nature documentary series.\n\nLast year, I became captivated by a documentary series about *wildlife* and found myself immersed in the incredible diversity of *animal* life across different ecosystems. I began by learning about different *species* of *animal*s and their unique adaptations, understanding how *wildlife* has evolved to survive in various *habitat*s from the deep *ocean* to the highest *mountain* peaks. The process taught me that *animal*s and *wildlife* are not just subjects of curiosity - they're essential components of Earth's ecosystems that provide invaluable services to humanity and the planet.\n\nMy journey into understanding *animal*s and *wildlife* started with exploring different groups of *animal*s and their characteristics. I learned that *mammal*s are warm-blooded *animal*s that nurse their young, while *bird*s are feathered *animal*s capable of flight. I discovered that *fish* are aquatic *animal*s that breathe through gills, while *reptile*s are cold-blooded *animal*s with scales. Each group of *animal*s has unique adaptations that allow them to thrive in their specific environments.\n\n*Insect*s and *species* became important concepts for understanding the incredible diversity of *wildlife*. I learned that *insect*s are small *animal*s with six legs and segmented bodies, and that they represent the most diverse group of *animal*s on Earth. I discovered that a *species* is a group of *animal*s that can interbreed and produce fertile offspring, and that there are millions of different *species* of *animal*s, each with its own unique characteristics and role in the ecosystem.\n\n*Habitat* and *predator* taught me about the relationships between *animal*s and their environments. I learned that a *habitat* is the natural environment where an *animal* lives and finds food, water, and shelter, while a *predator* is an *animal* that hunts and kills other *animal*s for food. I discovered that *habitat*s provide everything *animal*s need to survive, and that *predator*s play important roles in maintaining the balance of ecosystems by controlling populations of their *prey*.\n\n*Prey* and *forest* became important concepts for understanding food chains and terrestrial ecosystems. I learned that *prey* refers to *animal*s that are hunted and eaten by *predator*s, while a *forest* is a large area covered with trees that provides *habitat* for many *animal*s. I discovered that the relationship between *predator*s and *prey* is essential for maintaining healthy ecosystems, and that *forest*s are among the most biodiverse *habitat*s on Earth, supporting countless *species* of *animal*s.\n\n*Ocean* and *mountain* taught me about aquatic and high-altitude ecosystems. I learned that the *ocean* covers most of Earth's surface and is home to an incredible variety of *wildlife*, from tiny plankton to massive whales. I discovered that *mountain*s provide unique *habitat*s for *animal*s adapted to high altitudes and extreme conditions, and that both *ocean*s and *mountain*s are crucial for maintaining global biodiversity.\n\n*Desert* and *jungle* introduced me to extreme and tropical ecosystems. I learned that a *desert* is a dry area with little rainfall that supports *animal*s adapted to extreme heat and water scarcity, while a *jungle* is a dense tropical forest with high biodiversity and abundant *wildlife*. I discovered that both *desert*s and *jungle*s are home to unique *animal*s with special adaptations for survival in their challenging environments.\n\n*Domestic* and *wild* became important categories for understanding the relationship between *animal*s and humans. I learned that *domestic* *animal*s are *animal*s that have been tamed and bred by humans for companionship, work, or food, while *wild* *animal*s live in their natural *habitat*s without human intervention. I discovered that both *domestic* and *wild* *animal*s play important roles in human society and the natural world, and that understanding their needs and behaviors is essential for their welfare and conservation.\n\n*Endangered* and *extinct* taught me about the threats facing *wildlife* and the importance of conservation. I learned that *endangered* *animal*s are *species* at risk of becoming *extinct*, while *extinct* *animal*s are *species* that no longer exist anywhere on Earth. I discovered that human activities are the primary cause of *animal*s becoming *endangered* or *extinct*, and that conservation efforts are essential for protecting *wildlife* and preserving biodiversity for future generations.\n\n*Animal*s and *wildlife* have taught me that the natural world is incredibly diverse and interconnected, with each *species* playing a unique role in maintaining the balance of ecosystems. From the smallest *insect* to the largest *mammal*, *animal*s and *wildlife* represent the incredible creativity of evolution and the beauty of life on Earth. Understanding the importance of *animal*s and *wildlife* has given me a greater appreciation for the natural world and a stronger commitment to protecting these precious creatures and their *habitat*s for future generations.",
+    "additionalExamples": [
+      {
+        "word": "animal",
+        "example": "Animal is beautiful.",
+        "translation": "Животное красивое."
+      },
+      {
+        "word": "wildlife",
+        "example": "Wildlife is diverse.",
+        "translation": "Дикая природа разнообразна."
+      },
+      {
+        "word": "mammal",
+        "example": "Mammal is warm-blooded.",
+        "translation": "Млекопитающее теплокровное."
+      },
+      {
+        "word": "bird",
+        "example": "Bird can fly.",
+        "translation": "Птица может летать."
+      },
+      {
+        "word": "fish",
+        "example": "Fish lives in water.",
+        "translation": "Рыба живет в воде."
+      },
+      {
+        "word": "reptile",
+        "example": "Reptile is cold-blooded.",
+        "translation": "Рептилия холоднокровная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The wildlife in this area is amazing",
+        "translation": "Дикая природа в этой области потрясающая"
+      },
+      {
+        "phrase": "I love watching animals in their natural habitat",
+        "translation": "Я люблю наблюдать за животными в их естественной среде обитания"
+      },
+      {
+        "phrase": "The forest is home to many species",
+        "translation": "Лес является домом для многих видов"
+      },
+      {
+        "phrase": "Wildlife conservation is important",
+        "translation": "Охрана дикой природы важна"
+      },
+      {
+        "phrase": "The ocean is full of marine life",
+        "translation": "Океан полон морской жизни"
+      },
+      {
+        "phrase": "Some animals are endangered",
+        "translation": "Некоторые животные находятся под угрозой"
+      },
+      {
+        "phrase": "The mountain habitat is unique",
+        "translation": "Горная среда обитания уникальна"
+      },
+      {
+        "phrase": "Wild animals need protection",
+        "translation": "Диким животным нужна защита"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Animal** is countable and refers to a living creature.\n- **Wildlife** is uncountable and refers to wild animals collectively.\n- **Habitat** is countable and refers to a natural environment.\n- **Species** is countable and refers to a group of similar animals.",
+    "relatedTopics": [
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      },
+      {
+        "name": "Nature Weather",
+        "slug": "nature-weather",
+        "url": "/lessons/eng/b1b2/nature-weather"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Conservation Protection",
+        "slug": "conservation-protection",
+        "url": "/lessons/eng/b1b2/conservation-protection"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/animals-wildlife"
+  },
+  {
+    "id": 6,
+    "slug": "appliances-household-items",
+    "title": "Appliances & Household Items",
+    "titleRu": "Бытовая техника и предметы домашнего обихода",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: appliance, household, item, kitchen, refrigerator and practical usage examples.",
+    "keywords": [
+      {
+        "word": "appliance",
+        "translation": "прибор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "household",
+        "translation": "домашний",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "item",
+        "translation": "предмет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "kitchen",
+        "translation": "кухня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "refrigerator",
+        "translation": "холодильник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stove",
+        "translation": "плита",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "oven",
+        "translation": "духовка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "microwave",
+        "translation": "микроволновка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dishwasher",
+        "translation": "посудомоечная машина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "washing",
+        "translation": "стирка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "machine",
+        "translation": "машина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vacuum",
+        "translation": "пылесос",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "iron",
+        "translation": "утюг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "blender",
+        "translation": "блендер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "toaster",
+        "translation": "тостер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "coffee",
+        "translation": "кофе",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "maker",
+        "translation": "изготовитель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "electric",
+        "translation": "электрический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "modern",
+        "translation": "современный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "convenient",
+        "translation": "удобный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Appliances* and *household* *item*s have revolutionized modern living, making daily tasks more *convenient* and efficient through *electric* technology and *modern* *design*. From *kitchen* *appliance*s like *refrigerator*s and *stove*s to cleaning *machine*s like *vacuum*s and *washing* *machine*s, these *household* *item*s have become essential parts of our daily routines. Let me share a story about how I discovered the incredible convenience and efficiency of *modern* *appliance*s.\n\nLast year, I moved into a new apartment and had to equip it with essential *household* *appliance*s. I began by researching *kitchen* *appliance*s, learning about the latest *electric* *stove*s, *oven*s, and *refrigerator*s that would make cooking and food storage more *convenient*. The process taught me that *appliance*s are not just *machine*s - they're tools that enhance our quality of life and make *household* tasks more manageable.\n\nMy first major purchase was a *refrigerator* that would keep food fresh and organized. I chose a *modern* *electric* *refrigerator* with advanced features that would make meal planning and food storage more *convenient*. The *refrigerator* needed to be energy-efficient and spacious enough to accommodate *kitchen* needs for a *household* of several people.\n\nNext, I selected a *stove* and *oven* combination that would provide reliable cooking capabilities. The *electric* *stove* offered precise temperature control, while the *oven* provided even heating for baking and roasting. I learned that *kitchen* *appliance*s work together to create a cohesive cooking environment that makes meal preparation more *convenient* and enjoyable.\n\nThe *microwave* became an essential *kitchen* *appliance* for quick heating and cooking tasks. This *electric* *machine* saved time and energy, making it *convenient* for busy *household* schedules. I also added a *dishwasher* to the *kitchen*, which automated the cleaning process and made *household* maintenance more efficient.\n\nFor food preparation, I invested in a *blender* and *toaster* that would enhance my *kitchen* capabilities. The *blender* was perfect for making smoothies and purees, while the *toaster* provided quick and *convenient* breakfast options. I also purchased a *coffee* *maker* that would start my mornings with freshly brewed *coffee*, making the daily routine more enjoyable.\n\nCleaning *appliance*s included a *vacuum* cleaner and *washing* *machine* that would maintain the *household* environment. The *electric* *vacuum* made floor cleaning more *convenient* and thorough, while the *washing* *machine* automated the laundry process. I also added an *iron* to the *household* *item*s, ensuring that clothes would be properly pressed and presentable.\n\n*Appliances* and *household* *item*s have taught me that *modern* technology can significantly improve daily life. Each *electric* *appliance* - from the *refrigerator* that preserves food to the *vacuum* that cleans floors - contributes to a more *convenient* and efficient *household*. The *kitchen* *appliance*s work together to create a functional cooking space, while cleaning *machine*s maintain a clean and organized living environment.",
+    "additionalExamples": [
+      {
+        "word": "appliance",
+        "example": "The appliance is modern.",
+        "translation": "Прибор современный."
+      },
+      {
+        "word": "household",
+        "example": "Household items are useful.",
+        "translation": "Предметы домашнего обихода полезны."
+      },
+      {
+        "word": "item",
+        "example": "The item is expensive.",
+        "translation": "Предмет дорогой."
+      },
+      {
+        "word": "kitchen",
+        "example": "The kitchen is organized.",
+        "translation": "Кухня организована."
+      },
+      {
+        "word": "refrigerator",
+        "example": "The refrigerator is cold.",
+        "translation": "Холодильник холодный."
+      },
+      {
+        "word": "stove",
+        "example": "The stove is hot.",
+        "translation": "Плита горячая."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "A place for everything and everything in its place",
+        "translation": "Всему свое место"
+      },
+      {
+        "phrase": "Don't put all your eggs in one basket",
+        "translation": "Не клади все яйца в одну корзину"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Cleanliness is next to godliness",
+        "translation": "Чистота - залог здоровья"
+      },
+      {
+        "phrase": "Home is where the heart is",
+        "translation": "Дом там, где сердце"
+      },
+      {
+        "phrase": "Make yourself at home",
+        "translation": "Чувствуйте себя как дома"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Appliance** is countable and refers to a device for a specific purpose.\n- **Household** is an adjective describing things related to the home.\n- **Item** is countable and refers to a single thing.\n- **Kitchen** is countable and refers to a room for cooking.",
+    "relatedTopics": [
+      {
+        "name": "Home Household",
+        "slug": "home-household",
+        "url": "/lessons/eng/b1b2/home-household"
+      },
+      {
+        "name": "Kitchen Cooking",
+        "slug": "kitchen-cooking",
+        "url": "/lessons/eng/b1b2/kitchen-cooking"
+      },
+      {
+        "name": "Shopping Retail",
+        "slug": "shopping-retail",
+        "url": "/lessons/eng/b1b2/shopping-retail"
+      },
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/appliances-household-items"
+  },
+  {
+    "id": 7,
+    "slug": "art-aesthetics",
+    "title": "Art & Aesthetics",
+    "titleRu": "Искусство и эстетика",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: art, aesthetics, beauty, artist, painting and practical usage examples.",
+    "keywords": [
+      {
+        "word": "art",
+        "translation": "искусство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "aesthetics",
+        "translation": "эстетика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "beauty",
+        "translation": "красота",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "artist",
+        "translation": "художник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "painting",
+        "translation": "живопись",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sculpture",
+        "translation": "скульптура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drawing",
+        "translation": "рисование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "design",
+        "translation": "дизайн",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "creativity",
+        "translation": "творчество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "inspiration",
+        "translation": "вдохновение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "expression",
+        "translation": "выражение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "technique",
+        "translation": "техника",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "composition",
+        "translation": "композиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "color",
+        "translation": "цвет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "form",
+        "translation": "форма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gallery",
+        "translation": "галерея",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "exhibition",
+        "translation": "выставка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "masterpiece",
+        "translation": "шедевр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "appreciation",
+        "translation": "признание",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Art* and *aesthetics* represent humanity's eternal quest to create, understand, and appreciate *beauty* in all its forms. Through *painting*, *sculpture*, *design*, and countless other mediums, *artists* transform raw materials into expressions of human experience that speak to our deepest emotions and highest aspirations. Let me share a story about how I discovered the transformative power and enduring significance of *art* and *aesthetic* appreciation in our lives.\n\nLast *year*, I began visiting *galleries* and *exhibitions* regularly while also trying my hand at various *artistic* practices, which opened my eyes to the incredible depth and diversity of *artistic* *expression*. I had always enjoyed looking at *art*, but this experience taught me about the skill, vision, and profound *creativity* that *artists* bring to their work.\n\nMy journey began with understanding the fundamental principles of *aesthetics* and what makes something beautiful or meaningful in *artistic* terms. I learned that *beauty* in *art* is not just about pretty pictures – it's about the harmony of *form*, *color*, and *composition* that creates emotional and intellectual responses in viewers. The *aesthetic* principles I studied taught me about the importance of balance, proportion, and the way *artists* use visual elements to communicate ideas and emotions.\n\n*Painting* revealed the incredible versatility and expressive power of color, light, and brushwork. I discovered that *painting* is not just about representing reality – it's about interpreting and transforming visual experience through the *artist*'s unique vision and *technique*. The *paintings* I studied taught me about the evolution of *artistic* *styles* and the way different *artists* approach the same subjects with completely different results.\n\n*Sculpture* showed me how *artists* work with three-dimensional *form* to create works that exist in real space and invite physical interaction. I learned that *sculpture* is not just about carving or molding materials – it's about understanding weight, balance, texture, and the relationship between the artwork and its environment. The *sculptures* I encountered taught me about the importance of craftsmanship and the way *art* can transform ordinary materials into extraordinary experiences.\n\n*Drawing* emerged as the fundamental skill that underlies all visual *arts* and the most direct way to translate observation into *artistic* *expression*. I discovered that *drawing* is not just about making marks on paper – it's about learning to see, understand proportions, and develop the hand-eye coordination that enables precise *artistic* *expression*. The *drawing* practice I undertook taught me about the importance of observation and the way *artists* train their perception to see the world more clearly.\n\n*Design* revealed how *aesthetic* principles can be applied to functional objects and everyday environments. I learned that good *design* is not just about making things look nice – it's about creating solutions that are both beautiful and functional, enhancing human life through thoughtful *aesthetic* choices. The *design* work I studied taught me about the relationship between *art* and practical problem-solving.\n\n*Artists* and their creative processes showed me the incredible dedication and vision required to develop *artistic* skills and create meaningful work. I discovered that successful *artists* are not just talented individuals – they're disciplined professionals who spend years developing their *technique*, refining their vision, and finding ways to support themselves while pursuing their *art*. The *artists* I met taught me about the importance of persistence and the courage required to pursue *creative* work.\n\n*Galleries* and *exhibitions* revealed the important role that cultural institutions play in preserving, presenting, and interpreting *art* for the public. I learned that *galleries* are not just places to display *art* – they're educational institutions that help people understand and appreciate *artistic* achievements while supporting contemporary *artists*. The *gallery* visits I made taught me about the importance of context and the way presentation affects our understanding of *art*.\n\n*Masterpieces* and *artistic* achievements showed me how great *art* transcends its historical moment to speak to universal human experiences. I discovered that *masterpieces* are not just famous works – they're *artistic* achievements that demonstrate exceptional skill, vision, and the ability to communicate profound truths about human existence. The *masterpieces* I studied taught me about the timeless quality of great *art* and its ability to inspire across cultures and centuries.\n\n*Appreciation* and *aesthetic* education revealed the importance of developing the ability to understand and enjoy *art*. I learned that *art* *appreciation* is not just about knowing famous works – it's about developing sensitivity to *aesthetic* qualities and the ability to find meaning and pleasure in *artistic* *expression*. The *appreciation* skills I developed taught me about the importance of looking carefully and being open to new *aesthetic* experiences.\n\nWhat I love most about my exploration of *art* and *aesthetics* is how it revealed the incredible capacity of human beings to create *beauty* and meaning through *artistic* *expression*. I learned that *art* is not just decoration or entertainment – it's a fundamental human activity that enriches our lives and helps us understand ourselves and our world more deeply.\n\n*Art* and *aesthetics* have taught me that *beauty* and *creativity* are essential elements of human flourishing, providing joy, inspiration, and meaning that make life richer and more fulfilling. By developing *aesthetic* sensitivity and supporting the *arts*, we can create more beautiful environments and more meaningful experiences while preserving and advancing the human tradition of *artistic* *expression*.",
+    "additionalExamples": [
+      {
+        "word": "art",
+        "example": "Art enriches our lives.",
+        "translation": "Искусство обогащает нашу жизнь."
+      },
+      {
+        "word": "beauty",
+        "example": "Beauty inspires the soul.",
+        "translation": "Красота вдохновляет душу."
+      },
+      {
+        "word": "artist",
+        "example": "The artist has great talent.",
+        "translation": "У художника большой талант."
+      },
+      {
+        "word": "painting",
+        "example": "The painting is magnificent.",
+        "translation": "Картина великолепна."
+      },
+      {
+        "word": "creativity",
+        "example": "Creativity knows no bounds.",
+        "translation": "Творчество не знает границ."
+      },
+      {
+        "word": "gallery",
+        "example": "The gallery has amazing works.",
+        "translation": "В галерее удивительные работы."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Beauty is in the eye of the beholder",
+        "translation": "Красота в глазах смотрящего"
+      },
+      {
+        "phrase": "Art for art's sake",
+        "translation": "Искусство ради искусства"
+      },
+      {
+        "phrase": "A picture is worth a thousand words",
+        "translation": "Лучше один раз увидеть"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Art** can be uncountable (art in general) or countable (works of art).\n- **Artist** is countable and refers to people who create art.\n- **Beauty** is usually uncountable and refers to aesthetic quality.\n- **Creativity** is uncountable and refers to the ability to create.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Creativity Imagination",
+        "slug": "creativity-imagination",
+        "url": "/lessons/eng/b1b2/creativity-imagination"
+      },
+      {
+        "name": "Design Aesthetics",
+        "slug": "design-aesthetics",
+        "url": "/lessons/eng/b1b2/design-aesthetics"
+      },
+      {
+        "name": "Museum Gallery",
+        "slug": "museum-gallery",
+        "url": "/lessons/eng/b1b2/museum-gallery"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/art-aesthetics"
+  },
+  {
+    "id": 8,
     "slug": "arts-culture",
     "title": "Arts & Culture",
     "titleRu": "Искусство и культура",
@@ -388,13 +1588,1001 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/history-civilization"
       }
     ],
-    "category": "Arts Culture",
+    "category": "culture_arts",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/arts-culture"
   },
   {
-    "id": 3,
+    "id": 9,
+    "slug": "basic-concepts-grammar",
+    "title": "Basic Concepts & Grammar",
+    "titleRu": "Базовые понятия и грамматика",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: grammar, sentence, word, verb, noun and practical usage examples.",
+    "keywords": [
+      {
+        "word": "grammar",
+        "translation": "грамматика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sentence",
+        "translation": "предложение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "word",
+        "translation": "слово",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "verb",
+        "translation": "глагол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "noun",
+        "translation": "существительное",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "adjective",
+        "translation": "прилагательное",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "adverb",
+        "translation": "наречие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pronoun",
+        "translation": "местоимение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "preposition",
+        "translation": "предлог",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conjunction",
+        "translation": "союз",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "article",
+        "translation": "артикль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tense",
+        "translation": "время",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "subject",
+        "translation": "подлежащее",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "object",
+        "translation": "дополнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "clause",
+        "translation": "придаточное предложение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "phrase",
+        "translation": "фраза",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rule",
+        "translation": "правило",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "structure",
+        "translation": "структура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meaning",
+        "translation": "значение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "communication",
+        "translation": "коммуникация",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Grammar* forms the foundation of effective *communication*, providing the *rules* and *structure* that allow us to construct meaningful *sentence*s and convey precise *meaning* through language. Understanding *grammar* is like learning the blueprint of a language - it shows us how *word*s work together to create *phrase*s, *clause*s, and complete *sentence*s that others can understand. Let me share a story about how I discovered the fascinating world of *grammar* and its role in *communication*.\n\nLast year, I decided to improve my English *grammar* skills after realizing that my *sentence*s often lacked clarity and precision. I began by studying the basic *structure* of *sentence*s, learning about *subject*s, *verb*s, and *object*s, and how they work together to create complete thoughts. The process taught me that *grammar* is not just about following *rule*s - it's about understanding how *word*s function to express *meaning* effectively.\n\nMy journey into *grammar* started with understanding the different parts of speech. I learned that a *noun* names a person, place, thing, or idea, while a *verb* expresses action or state of being. An *adjective* describes or modifies a *noun*, adding detail and color to our *sentence*s. An *adverb* modifies a *verb*, *adjective*, or another *adverb*, providing information about how, when, where, or to what extent something happens.\n\n*Pronoun*s became my next focus, as I discovered how they replace *noun*s to avoid repetition and make *sentence*s flow more smoothly. *Preposition*s showed me how to express relationships between *word*s, while *conjunction*s taught me how to connect ideas and create more complex *sentence* *structure*s. The *article* - those small but important *word*s like \"a,\" \"an,\" and \"the\" - proved to be crucial for indicating whether we're talking about something specific or general.\n\n*Tense* became one of the most challenging aspects of *grammar* for me to master. I learned that *tense* indicates when an action occurs - past, present, or future - and that each *tense* has its own *structure* and *rule*s. Understanding *tense* helped me create *sentence*s that clearly communicate when events happen, making my *communication* much more precise and understandable.\n\n*Clause*s and *phrase*s opened up new possibilities for creating more sophisticated *sentence*s. I discovered that a *clause* contains a *subject* and a *verb* and can stand alone as a complete thought, while a *phrase* is a group of *word*s that work together but don't contain both a *subject* and a *verb*. Learning to combine *clause*s and *phrase*s allowed me to create complex *sentence*s that express multiple ideas and relationships.\n\n*Grammar* has taught me that language is a system of *rule*s and *structure*s that enable effective *communication*. Each *word* has its role to play - whether it's a *noun* that names something, a *verb* that shows action, or an *adjective* that adds description. The *meaning* we want to convey determines how we arrange these *word*s into *sentence*s that others can understand and respond to appropriately.",
+    "additionalExamples": [
+      {
+        "word": "grammar",
+        "example": "Grammar is important.",
+        "translation": "Грамматика важна."
+      },
+      {
+        "word": "sentence",
+        "example": "The sentence is clear.",
+        "translation": "Предложение ясное."
+      },
+      {
+        "word": "word",
+        "example": "The word is difficult.",
+        "translation": "Слово трудное."
+      },
+      {
+        "word": "verb",
+        "example": "The verb is active.",
+        "translation": "Глагол активный."
+      },
+      {
+        "word": "noun",
+        "example": "The noun is plural.",
+        "translation": "Существительное во множественном числе."
+      },
+      {
+        "word": "adjective",
+        "example": "The adjective is descriptive.",
+        "translation": "Прилагательное описательное."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Практика ведет к совершенству"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Don't put all your eggs in one basket",
+        "translation": "Не клади все яйца в одну корзину"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Grammar** is uncountable and refers to the rules of language.\n- **Sentence** is countable and refers to a group of words expressing a complete thought.\n- **Word** is countable and refers to a unit of language.\n- **Verb** is countable and refers to a word expressing action or state.",
+    "relatedTopics": [
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Personal Pronouns Identity",
+        "slug": "personal-pronouns-identity",
+        "url": "/lessons/eng/b1b2/personal-pronouns-identity"
+      },
+      {
+        "name": "Basic Verbs Actions",
+        "slug": "basic-verbs-actions",
+        "url": "/lessons/eng/b1b2/basic-verbs-actions"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      }
+    ],
+    "category": "language_basics",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/basic-concepts-grammar"
+  },
+  {
+    "id": 10,
+    "slug": "basic-verbs-actions",
+    "title": "Basic Verbs & Actions",
+    "titleRu": "Основные глаголы и действия",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: verb, action, do, make, go and practical usage examples.",
+    "keywords": [
+      {
+        "word": "verb",
+        "translation": "глагол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "action",
+        "translation": "действие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "do",
+        "translation": "делать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "make",
+        "translation": "делать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "go",
+        "translation": "идти",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "come",
+        "translation": "приходить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "take",
+        "translation": "брать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "give",
+        "translation": "давать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "get",
+        "translation": "получать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "have",
+        "translation": "иметь",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "be",
+        "translation": "быть",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "see",
+        "translation": "видеть",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "hear",
+        "translation": "слышать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "know",
+        "translation": "знать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "think",
+        "translation": "думать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "feel",
+        "translation": "чувствовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "want",
+        "translation": "хотеть",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "need",
+        "translation": "нуждаться",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "like",
+        "translation": "нравиться",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "love",
+        "translation": "любить",
+        "partOfSpeech": "verb"
+      }
+    ],
+    "mainText": "*Verb*s are the engines of language, expressing *action*s, states of being, and the dynamic relationships between people, objects, and ideas. From basic *action*s like *go* and *come* to complex states like *think* and *feel*, *verb*s bring life and movement to our *sentence*s and conversations. Let me share a story about how I discovered the power and versatility of basic *verb*s and *action*s.\n\nLast year, I decided to focus on mastering the most essential *verb*s in English, starting with the fundamental *action*s that we use every day. I began by studying *do* and *make* - two *verb*s that seem similar but express very different types of *action*s. The process taught me that *verb*s are not just words - they're tools for expressing the full range of human experience and *action*.\n\nMy journey into understanding *verb*s started with *go* and *come* - *action*s that express movement and direction. I learned that *go* indicates movement away from the speaker, while *come* indicates movement toward the speaker. These simple *verb*s became the foundation for expressing where I *want* to *go* and who I *want* to *come* visit me.\n\n*Take* and *give* opened up new possibilities for expressing transfer and exchange. I discovered that *take* means to receive or acquire something, while *give* means to offer or provide something to someone else. These *verb*s helped me understand the fundamental *action*s of sharing and receiving in human relationships.\n\n*Get* and *have* taught me about possession and acquisition. I learned that *get* expresses the *action* of obtaining something, while *have* expresses the state of possessing something. These *verb*s became essential for expressing what I *need* and what I already *have* in my life.\n\n*Be* proved to be the most fundamental *verb* of all, expressing existence, identity, and states of being. I discovered that *be* connects subjects with their qualities, locations, and conditions. This *verb* became the foundation for expressing who I *am*, where I *am*, and how I *feel* at any given moment.\n\n*See* and *hear* introduced me to the *verb*s of perception and observation. I learned that *see* expresses visual perception, while *hear* expresses auditory perception. These *verb*s helped me describe what I *know* through my senses and how I experience the world around me.\n\n*Think* and *feel* opened up the world of mental and emotional *action*s. I discovered that *think* expresses cognitive processes and reasoning, while *feel* expresses emotional states and physical sensations. These *verb*s became crucial for expressing my inner world and communicating my thoughts and emotions to others.\n\n*Want*, *need*, *like*, and *love* taught me about desire, necessity, preference, and affection. I learned that *want* expresses desire, *need* expresses necessity, *like* expresses preference, and *love* expresses deep affection. These *verb*s became essential for expressing my relationships with people, objects, and experiences.\n\n*Verb*s have taught me that language is fundamentally about *action* and experience. Each *verb* - from the simple *action*s of *go* and *come* to the complex states of *think* and *love* - serves as a tool for expressing the full range of human experience and interaction with the world.",
+    "additionalExamples": [
+      {
+        "word": "verb",
+        "example": "The verb is active.",
+        "translation": "Глагол активный."
+      },
+      {
+        "word": "action",
+        "example": "Action is required.",
+        "translation": "Действие требуется."
+      },
+      {
+        "word": "do",
+        "example": "I do my homework.",
+        "translation": "Я делаю домашнее задание."
+      },
+      {
+        "word": "make",
+        "example": "I make breakfast.",
+        "translation": "Я готовлю завтрак."
+      },
+      {
+        "word": "go",
+        "example": "I go to school.",
+        "translation": "Я иду в школу."
+      },
+      {
+        "word": "come",
+        "example": "Come here please.",
+        "translation": "Подойди сюда, пожалуйста."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Actions speak louder than words",
+        "translation": "Поступки говорят громче слов"
+      },
+      {
+        "phrase": "Don't put off until tomorrow what you can do today",
+        "translation": "Не откладывай на завтра то, что можешь сделать сегодня"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Практика ведет к совершенству"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Verb** is countable and refers to a word expressing action or state.\n- **Action** is countable and refers to something done.\n- **Do** is used for general activities and tasks.\n- **Make** is used for creating or producing something.",
+    "relatedTopics": [
+      {
+        "name": "Basic Concepts Grammar",
+        "slug": "basic-concepts-grammar",
+        "url": "/lessons/eng/b1b2/basic-concepts-grammar"
+      },
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Personal Pronouns Identity",
+        "slug": "personal-pronouns-identity",
+        "url": "/lessons/eng/b1b2/personal-pronouns-identity"
+      },
+      {
+        "name": "Mental Processes",
+        "slug": "mental-processes",
+        "url": "/lessons/eng/b1b2/mental-processes"
+      }
+    ],
+    "category": "language_basics",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/basic-verbs-actions"
+  },
+  {
+    "id": 11,
+    "slug": "beauty-cosmetics",
+    "title": "Beauty & Cosmetics",
+    "titleRu": "Красота и косметика",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: beauty, cosmetic, makeup, skin, face and practical usage examples.",
+    "keywords": [
+      {
+        "word": "beauty",
+        "translation": "красота",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cosmetic",
+        "translation": "косметика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "makeup",
+        "translation": "макияж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "skin",
+        "translation": "кожа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "face",
+        "translation": "лицо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hair",
+        "translation": "волосы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lipstick",
+        "translation": "помада",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "foundation",
+        "translation": "тональный крем",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mascara",
+        "translation": "тушь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "eyeshadow",
+        "translation": "тени",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cream",
+        "translation": "крем",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lotion",
+        "translation": "лосьон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "soap",
+        "translation": "мыло",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shampoo",
+        "translation": "шампунь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "perfume",
+        "translation": "духи",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mirror",
+        "translation": "зеркало",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "brush",
+        "translation": "кисть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "powder",
+        "translation": "пудра",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "natural",
+        "translation": "естественный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "attractive",
+        "translation": "привлекательный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Beauty* and *cosmetics* have been integral parts of human culture for centuries, helping people enhance their *natural* features and express their personal *style* through various *makeup* and skincare products. From *foundation* and *lipstick* to *shampoo* and *perfume*, *cosmetics* offer endless possibilities for self-expression and *beauty* enhancement. Let me share a story about how I discovered the art and science of *beauty* and *cosmetics*.\n\nLast year, I decided to learn more about *beauty* routines and *cosmetics* after realizing that I wanted to take better care of my *skin* and *hair*. I began by researching different *cosmetic* products, learning about *foundation* formulas, *lipstick* shades, and *mascara* types that would enhance my *natural* *beauty*. The process taught me that *cosmetics* are not just about covering up - they're about highlighting *attractive* features and boosting confidence.\n\nMy journey into *beauty* started with understanding my *skin* type and finding the right *foundation* that would provide coverage while looking *natural*. I learned that *cosmetics* should enhance rather than mask *beauty*, so I chose a *foundation* that matched my *skin* tone perfectly. The *cream* formula felt comfortable and provided the coverage I needed for daily wear.\n\n*Makeup* application became an art form that I enjoyed learning. I discovered that *lipstick* could transform my *face* and express different moods, from bold red shades for special occasions to *natural* pink tones for everyday wear. *Mascara* helped define my eyes and make them appear more *attractive*, while *eyeshadow* added depth and color to my *face*.\n\nSkincare became an essential part of my *beauty* routine. I learned that *skin* care is the foundation of *beauty*, so I invested in quality *cream*s and *lotion*s that would keep my *skin* healthy and *attractive*. *Soap* and *shampoo* became important *cosmetic* products that maintained cleanliness and *beauty* for both *skin* and *hair*.\n\n*Hair* care became another important aspect of my *beauty* routine. I discovered that *shampoo* and *hair* products could make a significant difference in how *attractive* and healthy my *hair* looked. The right *cosmetics* for *hair* care helped maintain *natural* *beauty* while allowing for styling and enhancement.\n\n*Perfume* added the finishing touch to my *beauty* routine, providing a subtle scent that enhanced my overall *attractive* appearance. I learned that *cosmetics* extend beyond *makeup* to include fragrances that complement personal *style* and *beauty* preferences.\n\n*Beauty* and *cosmetics* have taught me that self-care and *beauty* enhancement are forms of self-expression and confidence-building. Each *cosmetic* product - from *foundation* that evens *skin* tone to *lipstick* that adds color to the *face* - contributes to a complete *beauty* routine that enhances *natural* *attractive* features. The *mirror* became my tool for perfecting *makeup* application, while *brush*es and other tools helped me achieve the *beauty* looks I desired.",
+    "additionalExamples": [
+      {
+        "word": "beauty",
+        "example": "Beauty is subjective.",
+        "translation": "Красота субъективна."
+      },
+      {
+        "word": "cosmetic",
+        "example": "Cosmetic products are popular.",
+        "translation": "Косметические продукты популярны."
+      },
+      {
+        "word": "makeup",
+        "example": "Makeup enhances features.",
+        "translation": "Макияж подчеркивает черты."
+      },
+      {
+        "word": "skin",
+        "example": "Skin needs care.",
+        "translation": "Кожа нуждается в уходе."
+      },
+      {
+        "word": "face",
+        "example": "Face is expressive.",
+        "translation": "Лицо выразительное."
+      },
+      {
+        "word": "hair",
+        "example": "Hair is beautiful.",
+        "translation": "Волосы красивые."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Beauty is in the eye of the beholder",
+        "translation": "Красота в глазах смотрящего"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Beauty is only skin deep",
+        "translation": "Красота поверхностна"
+      },
+      {
+        "phrase": "Put your best face forward",
+        "translation": "Покажи себя с лучшей стороны"
+      },
+      {
+        "phrase": "Beauty sleep",
+        "translation": "Сон красоты"
+      },
+      {
+        "phrase": "Inner beauty",
+        "translation": "Внутренняя красота"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Beauty** is uncountable and refers to the quality of being beautiful.\n- **Cosmetic** is countable and refers to a beauty product.\n- **Makeup** is uncountable and refers to cosmetics applied to the face.\n- **Skin** is uncountable and refers to the outer covering of the body.",
+    "relatedTopics": [
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      },
+      {
+        "name": "Fashion Accessories",
+        "slug": "fashion-accessories",
+        "url": "/lessons/eng/b1b2/fashion-accessories"
+      },
+      {
+        "name": "Shopping Retail",
+        "slug": "shopping-retail",
+        "url": "/lessons/eng/b1b2/shopping-retail"
+      },
+      {
+        "name": "Health Wellness",
+        "slug": "health-wellness",
+        "url": "/lessons/eng/b1b2/health-wellness"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/beauty-cosmetics"
+  },
+  {
+    "id": 12,
+    "slug": "body-health",
+    "title": "Body & Health",
+    "titleRu": "Тело и здоровье",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: body, health, physical, mental, exercise and practical usage examples.",
+    "keywords": [
+      {
+        "word": "body",
+        "translation": "тело",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "health",
+        "translation": "здоровье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "physical",
+        "translation": "физический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "mental",
+        "translation": "умственный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "exercise",
+        "translation": "упражнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fitness",
+        "translation": "фитнес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "strength",
+        "translation": "сила",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "energy",
+        "translation": "энергия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nutrition",
+        "translation": "питание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "diet",
+        "translation": "диета",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sleep",
+        "translation": "сон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rest",
+        "translation": "отдых",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stress",
+        "translation": "стресс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wellness",
+        "translation": "благополучие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lifestyle",
+        "translation": "образ жизни",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "habit",
+        "translation": "привычка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "routine",
+        "translation": "рутина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "balance",
+        "translation": "баланс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "condition",
+        "translation": "состояние",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "care",
+        "translation": "уход",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Body* and *health* are the fundamental foundations of our existence, encompassing both *physical* and *mental* well-being that requires careful attention to *exercise*, *nutrition*, and *lifestyle* choices. From maintaining *fitness* and *strength* to managing *stress* and ensuring adequate *sleep*, *health* is a holistic concept that affects every aspect of our lives. Let me share a story about how I discovered the importance of *body* and *health* management.\n\nLast year, I realized that my *physical* and *mental* *health* were not as good as they could be, and I decided to make significant changes to my *lifestyle* and *routine*. I began by understanding the connection between *body* and *health*, learning about the importance of *exercise*, *nutrition*, and *care* for both *physical* and *mental* well-being. The process taught me that *health* is not just the absence of disease - it's a state of complete *physical*, *mental*, and social *wellness*.\n\nMy journey into *health* improvement started with *exercise* and *fitness*. I learned that regular *exercise* is essential for maintaining *physical* *health* and building *strength* and *energy*. I discovered that *exercise* doesn't have to be intense or time-consuming - even moderate *physical* activity can significantly improve *body* *condition* and overall *health*. I began incorporating *exercise* into my daily *routine*, finding activities that I enjoyed and that would help me build *fitness* and *strength*.\n\n*Nutrition* became my next focus, as I learned about the role of *diet* in *body* and *health*. I discovered that proper *nutrition* is crucial for providing *energy* and supporting *physical* and *mental* function. I learned to make *lifestyle* changes that would improve my *diet* and *nutrition*, focusing on *balance* and variety in my food choices.\n\n*Sleep* and *rest* taught me about the importance of recovery and rejuvenation for *body* and *health*. I learned that adequate *sleep* is essential for *physical* and *mental* recovery, while *rest* provides opportunities for *body* and mind to recharge. I discovered that *sleep* quality is just as important as *sleep* quantity, and I began developing *habit*s that would improve my *sleep* and *rest* patterns.\n\n*Stress* management became a crucial aspect of my *health* journey. I learned that *stress* can have significant negative effects on both *physical* and *mental* *health*, and I began developing strategies for managing *stress* and maintaining *balance* in my life. I discovered that *exercise*, *nutrition*, and *sleep* all play important roles in *stress* management and overall *wellness*.\n\n*Lifestyle* and *habit* changes became the foundation of my *health* improvement efforts. I learned that *health* is largely determined by *lifestyle* choices and daily *habit*s, and I began making conscious decisions about *routine*s that would support *body* and *health*. I discovered that small *lifestyle* changes can have significant long-term effects on *physical* and *mental* *wellness*.\n\n*Care* for *body* and *health* became an ongoing commitment that required attention to multiple aspects of *wellness*. I learned that *care* involves not just *exercise* and *nutrition*, but also regular check-ups, preventive measures, and attention to both *physical* and *mental* *condition*. I discovered that *care* is an investment in long-term *health* and *wellness*.\n\n*Body* and *health* have taught me that *wellness* is a journey that requires ongoing attention to *physical*, *mental*, and *lifestyle* factors. Each aspect of *health* - from *exercise* and *fitness* to *nutrition* and *sleep* - contributes to overall *wellness* and *balance*. The *body* is a complex system that requires *care* and attention, while *health* is a state of *wellness* that can be achieved through conscious *lifestyle* choices and *habit* formation.",
+    "additionalExamples": [
+      {
+        "word": "body",
+        "example": "Body needs care.",
+        "translation": "Тело нуждается в уходе."
+      },
+      {
+        "word": "health",
+        "example": "Health is important.",
+        "translation": "Здоровье важно."
+      },
+      {
+        "word": "physical",
+        "example": "Physical activity is beneficial.",
+        "translation": "Физическая активность полезна."
+      },
+      {
+        "word": "mental",
+        "example": "Mental health matters.",
+        "translation": "Психическое здоровье важно."
+      },
+      {
+        "word": "exercise",
+        "example": "Exercise is essential.",
+        "translation": "Упражнения необходимы."
+      },
+      {
+        "word": "fitness",
+        "example": "Fitness improves health.",
+        "translation": "Фитнес улучшает здоровье."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Health is wealth",
+        "translation": "Здоровье - это богатство"
+      },
+      {
+        "phrase": "An apple a day keeps the doctor away",
+        "translation": "Яблоко в день - и врач не нужен"
+      },
+      {
+        "phrase": "Early to bed, early to rise, makes a man healthy, wealthy, and wise",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "You are what you eat",
+        "translation": "Мы то, что мы едим"
+      },
+      {
+        "phrase": "Prevention is better than cure",
+        "translation": "Предотвращение лучше лечения"
+      },
+      {
+        "phrase": "A sound mind in a sound body",
+        "translation": "В здоровом теле здоровый дух"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Body** is countable and refers to the physical structure of a person.\n- **Health** is uncountable and refers to the state of being well.\n- **Physical** is an adjective describing things related to the body.\n- **Exercise** is countable and refers to physical activity.",
+    "relatedTopics": [
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      },
+      {
+        "name": "Food Drink",
+        "slug": "food-drink",
+        "url": "/lessons/eng/b1b2/food-drink"
+      },
+      {
+        "name": "Sports Recreation",
+        "slug": "sports-recreation",
+        "url": "/lessons/eng/b1b2/sports-recreation"
+      },
+      {
+        "name": "Medicine Healthcare",
+        "slug": "medicine-healthcare",
+        "url": "/lessons/eng/b1b2/medicine-healthcare"
+      }
+    ],
+    "category": "health_medicine",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/body-health"
+  },
+  {
+    "id": 13,
+    "slug": "buildings-construction",
+    "title": "Buildings & Construction",
+    "titleRu": "Здания и строительство",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: building, construction, house, apartment, office and practical usage examples.",
+    "keywords": [
+      {
+        "word": "building",
+        "translation": "здание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "construction",
+        "translation": "строительство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "house",
+        "translation": "дом",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "apartment",
+        "translation": "квартира",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "office",
+        "translation": "офис",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "school",
+        "translation": "школа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hospital",
+        "translation": "больница",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "factory",
+        "translation": "завод",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bridge",
+        "translation": "мост",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tower",
+        "translation": "башня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wall",
+        "translation": "стена",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "roof",
+        "translation": "крыша",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "floor",
+        "translation": "пол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "door",
+        "translation": "дверь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "window",
+        "translation": "окно",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "foundation",
+        "translation": "фундамент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "material",
+        "translation": "материал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "design",
+        "translation": "дизайн",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "architect",
+        "translation": "архитектор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "engineer",
+        "translation": "инженер",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Building*s and *construction* are the fundamental processes that create the physical infrastructure of human civilization, from the simple *house*s where we live to the complex *office* buildings and *factory* facilities that drive economic activity. Understanding *building*s and *construction* helps us appreciate the engineering marvels that surround us and the skilled *architect*s and *engineer*s who design and build them. Let me share a story about how I discovered the fascinating world of *building*s and *construction* through a neighborhood development project.\n\nLast year, I watched as a new residential complex was being built in my neighborhood, and I became fascinated by the *construction* process and the various types of *building*s being created. I began by learning about the different stages of *construction*, from laying the *foundation* to installing the *roof*, understanding how *architect*s and *engineer*s work together to create safe and functional *building*s. The process taught me that *building*s and *construction* are not just about creating structures - they're about solving complex engineering challenges and creating spaces that enhance human life.\n\nMy journey into understanding *building*s and *construction* started with learning about different types of *building*s and their purposes. I discovered that a *house* is a *building* designed for residential use, while an *apartment* is a unit within a larger residential *building*. I learned that an *office* is a *building* designed for business activities, while a *school* is a *building* designed for education. Each type of *building* has its own specific *design* requirements and serves different functions in society.\n\n*Hospital* and *factory* taught me about specialized *building*s and their unique requirements. I learned that a *hospital* is a *building* designed for medical care and must meet strict safety and health standards, while a *factory* is a *building* designed for manufacturing and production. I discovered that these specialized *building*s require different *construction* techniques and *material*s than residential *building*s, and that *architect*s must consider the specific needs of each type of *building*.\n\n*Bridge* and *tower* introduced me to the world of infrastructure *construction* and engineering marvels. I learned that a *bridge* is a structure that spans a gap, allowing people and vehicles to cross over obstacles like rivers or valleys. I discovered that a *tower* is a tall *building* that can serve various purposes, from communication to observation. Both *bridge*s and *tower*s require advanced engineering skills and specialized *construction* techniques.\n\n*Wall*, *roof*, and *floor* became important concepts for understanding the basic components of *building*s. I learned that a *wall* is a vertical structure that provides support and separation, while a *roof* is the top covering of a *building* that protects against weather. I discovered that a *floor* is the horizontal surface that people walk on, and that all three components must work together to create a safe and functional *building*.\n\n*Door* and *window* taught me about the openings in *building*s that provide access and light. I learned that a *door* is an opening in a *wall* that allows people to enter and exit, while a *window* is an opening that allows light and air to enter. I discovered that both *door*s and *window*s are essential for the functionality and comfort of *building*s, and that they must be properly installed and maintained.\n\n*Foundation* and *material* became important concepts for understanding the structural aspects of *construction*. I learned that a *foundation* is the base of a *building* that supports the entire structure, while *material*s are the substances used to build *building*s. I discovered that the *foundation* must be strong enough to support the weight of the *building*, and that the choice of *material*s affects the *building*'s strength, durability, and appearance.\n\n*Design* and *architect* taught me about the creative and planning aspects of *building* *construction*. I learned that *design* is the process of planning and creating *building*s, while an *architect* is a *professional* who designs *building*s and oversees their *construction*. I discovered that good *design* is essential for creating *building*s that are both functional and beautiful, and that *architect*s must balance aesthetic considerations with practical requirements.\n\n*Engineer* became important for understanding the technical aspects of *construction*. I learned that an *engineer* is a *professional* who applies scientific and mathematical principles to solve technical problems in *construction*. I discovered that *engineer*s work closely with *architect*s to ensure that *building*s are structurally sound and safe, and that their expertise is essential for complex *construction* projects.\n\n*Building*s and *construction* have taught me that creating the physical infrastructure of human civilization requires the collaboration of many skilled *professional*s, from *architect*s who design *building*s to *engineer*s who ensure their structural integrity. From the simple *house* to the complex *factory*, *building*s and *construction* represent humanity's ability to shape the physical world and create spaces that support and enhance human life. Understanding the principles of *building*s and *construction* has given me a greater appreciation for the structures that surround us and the engineering expertise required to create them.",
+    "additionalExamples": [
+      {
+        "word": "building",
+        "example": "Building is modern.",
+        "translation": "Здание современное."
+      },
+      {
+        "word": "construction",
+        "example": "Construction is ongoing.",
+        "translation": "Строительство продолжается."
+      },
+      {
+        "word": "house",
+        "example": "House is beautiful.",
+        "translation": "Дом красивый."
+      },
+      {
+        "word": "apartment",
+        "example": "Apartment is spacious.",
+        "translation": "Квартира просторная."
+      },
+      {
+        "word": "office",
+        "example": "Office is functional.",
+        "translation": "Офис функциональный."
+      },
+      {
+        "word": "school",
+        "example": "School is well-designed.",
+        "translation": "Школа хорошо спроектирована."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The building is under construction",
+        "translation": "Здание находится в стадии строительства"
+      },
+      {
+        "phrase": "The architect designed a beautiful house",
+        "translation": "Архитектор спроектировал красивый дом"
+      },
+      {
+        "phrase": "The construction is progressing well",
+        "translation": "Строительство идет хорошо"
+      },
+      {
+        "phrase": "The building has a strong foundation",
+        "translation": "У здания прочный фундамент"
+      },
+      {
+        "phrase": "The office building is very modern",
+        "translation": "Офисное здание очень современное"
+      },
+      {
+        "phrase": "The construction workers are skilled",
+        "translation": "Строительные рабочие квалифицированные"
+      },
+      {
+        "phrase": "The building materials are high quality",
+        "translation": "Строительные материалы высокого качества"
+      },
+      {
+        "phrase": "The construction project is on schedule",
+        "translation": "Строительный проект идет по графику"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Building** is countable and refers to a structure.\n- **Construction** is uncountable and refers to the process of building.\n- **House** is countable and refers to a residential building.\n- **Apartment** is countable and refers to a unit in a building.",
+    "relatedTopics": [
+      {
+        "name": "Home Household",
+        "slug": "home-household",
+        "url": "/lessons/eng/b1b2/home-household"
+      },
+      {
+        "name": "Design Architecture",
+        "slug": "design-architecture",
+        "url": "/lessons/eng/b1b2/design-architecture"
+      },
+      {
+        "name": "Materials Substances",
+        "slug": "materials-substances",
+        "url": "/lessons/eng/b1b2/materials-substances"
+      },
+      {
+        "name": "Urban City Life",
+        "slug": "urban-city-life",
+        "url": "/lessons/eng/b1b2/urban-city-life"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/buildings-construction"
+  },
+  {
+    "id": 14,
     "slug": "business-economy",
     "title": "Business & Economy",
     "titleRu": "Бизнес и экономика",
@@ -582,13 +2770,405 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
     ],
-    "category": "Business Economy",
+    "category": "economics_business",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/business-economy"
   },
   {
-    "id": 4,
+    "id": 15,
+    "slug": "christianity",
+    "title": "Christianity",
+    "titleRu": "Христианство",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: Christianity, christian, faith, belief, God and practical usage examples.",
+    "keywords": [
+      {
+        "word": "Christianity",
+        "translation": "христианство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "christian",
+        "translation": "христианин",
+        "partOfSpeech": "noun, adjective"
+      },
+      {
+        "word": "faith",
+        "translation": "вера",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "belief",
+        "translation": "вера",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "God",
+        "translation": "Бог",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Jesus",
+        "translation": "Иисус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Christ",
+        "translation": "Христос",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "church",
+        "translation": "церковь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Bible",
+        "translation": "Библия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "prayer",
+        "translation": "молитва",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "worship",
+        "translation": "поклонение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "religion",
+        "translation": "религия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "spiritual",
+        "translation": "духовный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "holy",
+        "translation": "святой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "sacred",
+        "translation": "священный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "divine",
+        "translation": "божественный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "salvation",
+        "translation": "спасение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "grace",
+        "translation": "благодать",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "love",
+        "translation": "любовь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "peace",
+        "translation": "мир",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Christianity* represents one of the world's major *religions*, with over two billion followers who find meaning, purpose, and community through their *faith* in *Jesus* *Christ*. This *spiritual* tradition has shaped *Western* *culture*, influenced art and literature, and provided millions of people with a framework for understanding life's deepest questions. Let me share a story about how I discovered the profound significance and diverse expressions of *Christianity* in our world.\n\nLast *year*, I had the opportunity to explore different *Christian* communities and learn about the *beliefs*, *traditions*, and practices that define this *religion*. I had always been curious about *spiritual* matters, but this experience taught me about the rich diversity and deep *faith* that characterizes *Christian* communities around the world.\n\nMy journey began with understanding the central *beliefs* of *Christianity*, particularly the *faith* in *Jesus* *Christ* as the *divine* son of *God*. I learned that *Christian* *belief* is not just about accepting certain doctrines – it's about developing a personal relationship with *God* through *Jesus* *Christ* and living according to *spiritual* principles. The *belief* I observed taught me about the importance of *faith* in providing meaning and direction in life.\n\nThe *Bible* revealed itself as the foundational text that guides *Christian* *belief* and practice. I discovered that the *Bible* is not just a religious book – it's a collection of sacred texts that tell the story of *God*'s relationship with humanity and provide guidance for living a *spiritual* life. The *Bible* study I participated in taught me about the importance of scripture in shaping *Christian* understanding and practice.\n\n*Church* communities showed me how *Christianity* creates *spiritual* fellowship and support networks. I learned that the *church* is not just a building – it's a community of *believers* who gather to *worship*, learn, and support each other in their *spiritual* journey. The *church* communities I visited taught me about the importance of community in maintaining and strengthening *faith*.\n\n*Prayer* and *worship* revealed the personal and communal aspects of *Christian* *spiritual* practice. I discovered that *prayer* is not just about asking for things – it's about communicating with *God*, expressing gratitude, seeking guidance, and developing a deeper *spiritual* connection. The *prayer* and *worship* I observed taught me about the importance of regular *spiritual* practice in maintaining *faith*.\n\n*Love* and *grace* emerged as central themes in *Christian* teaching and practice. I learned that *Christian* *love* is not just emotional affection – it's a *spiritual* principle that calls people to care for others, forgive enemies, and work for justice and peace. The *love* and *grace* I witnessed taught me about the transformative power of *spiritual* values in personal and social life.\n\n*Salvation* and *peace* showed me how *Christianity* addresses fundamental human needs and concerns. I discovered that *salvation* is not just about the afterlife – it's about finding *peace*, purpose, and *spiritual* fulfillment in the present life. The *salvation* and *peace* I observed taught me about the importance of *spiritual* healing and transformation.\n\n*Sacred* and *holy* experiences revealed the transcendent dimension of *Christian* *faith*. I learned that *sacred* spaces, *holy* rituals, and *divine* encounters are not just religious concepts – they're real experiences that connect people with something greater than themselves. The *sacred* and *holy* moments I witnessed taught me about the importance of *spiritual* experience in human life.\n\n*Christian* *traditions* and practices showed me the rich diversity within this *religion*. I discovered that *Christianity* is not monolithic – it encompasses many different denominations, *traditions*, and expressions of *faith* that reflect different cultural contexts and theological perspectives. The *Christian* diversity I explored taught me about the importance of tolerance and respect for different expressions of *faith*.\n\nWhat I love most about my exploration of *Christianity* is how it revealed the profound *spiritual* depth and practical wisdom of this *religion*. I learned that *Christian* *faith* is not just about *belief* – it's about living according to *spiritual* principles that promote *love*, *peace*, and human flourishing.\n\n*Christianity* has taught me that *religion* can provide a framework for understanding life's deepest questions and a community for supporting people in their *spiritual* journey. By understanding and appreciating the *faith* and *traditions* of *Christianity*, we can develop greater respect for *spiritual* diversity and the important role that *religion* plays in human culture and society.",
+    "additionalExamples": [
+      {
+        "word": "christianity",
+        "example": "Christianity is a major religion.",
+        "translation": "Христианство - крупная религия."
+      },
+      {
+        "word": "faith",
+        "example": "Faith is important to many people.",
+        "translation": "Вера важна для многих людей."
+      },
+      {
+        "word": "god",
+        "example": "God is central to Christianity.",
+        "translation": "Бог централен для христианства."
+      },
+      {
+        "word": "jesus",
+        "example": "Jesus is the central figure.",
+        "translation": "Иисус - центральная фигура."
+      },
+      {
+        "word": "church",
+        "example": "The church is a community.",
+        "translation": "Церковь - это сообщество."
+      },
+      {
+        "word": "prayer",
+        "example": "Prayer is a spiritual practice.",
+        "translation": "Молитва - духовная практика."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Faith moves mountains",
+        "translation": "Вера горы двигает"
+      },
+      {
+        "phrase": "God helps those who help themselves",
+        "translation": "Бог помогает тем, кто помогает себе"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Christianity** is uncountable and refers to the religion.\n- **Christian** can be a noun (person) or adjective (relating to Christianity).\n- **Faith** is usually uncountable and refers to religious belief.\n- **God** is capitalized when referring to the Christian deity.",
+    "relatedTopics": [
+      {
+        "name": "Religion Spirituality",
+        "slug": "religion-spirituality",
+        "url": "/lessons/eng/b1b2/religion-spirituality"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Philosophy Thought",
+        "slug": "philosophy-thought",
+        "url": "/lessons/eng/b1b2/philosophy-thought"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/christianity"
+  },
+  {
+    "id": 16,
+    "slug": "clothing-appearance",
+    "title": "Clothing & Appearance",
+    "titleRu": "Одежда и внешность",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: clothing, appearance, clothes, dress, shirt and practical usage examples.",
+    "keywords": [
+      {
+        "word": "clothing",
+        "translation": "одежда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "appearance",
+        "translation": "внешность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "clothes",
+        "translation": "одежда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dress",
+        "translation": "платье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shirt",
+        "translation": "рубашка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pants",
+        "translation": "брюки",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shoes",
+        "translation": "обувь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fashion",
+        "translation": "мода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "color",
+        "translation": "цвет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "size",
+        "translation": "размер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "material",
+        "translation": "материал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "design",
+        "translation": "дизайн",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "comfort",
+        "translation": "комфорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "quality",
+        "translation": "качество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "brand",
+        "translation": "бренд",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shopping",
+        "translation": "покупки",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wardrobe",
+        "translation": "гардероб",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "outfit",
+        "translation": "наряд",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "look",
+        "translation": "внешний вид",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Clothing* and *appearance* play crucial roles in how we present ourselves to the world, expressing our *style*, *fashion* preferences, and *personality* through the *clothes* we choose to wear. From the *dress* we select for special occasions to the *shirt* and *pants* we wear daily, *clothing* choices reflect our *design* preferences and contribute to our overall *appearance* and *look*. Let me share a story about how I discovered the importance of *clothing* and *appearance* in personal expression.\n\nLast year, I decided to revamp my *wardrobe* and develop a more conscious approach to *clothing* and *appearance*. I began by understanding the different types of *clothes* available, learning about *dress*es, *shirt*s, *pants*, and *shoes* that would help me create a cohesive *style* and *look*. The process taught me that *clothing* is not just about covering the body - it's about expressing *style*, *fashion* sense, and *personality* through *design* and *color* choices.\n\nMy journey into *clothing* and *appearance* started with understanding *style* and *fashion*. I learned that *style* is about developing a consistent *look* that reflects your *personality* and preferences, while *fashion* refers to current trends and popular *design*s. I discovered that the best *clothing* choices combine *style* with *fashion*, creating a *look* that is both current and authentic to your *personality*.\n\n*Dress*es became my first focus, as I learned about the versatility and elegance of this type of *clothing*. I discovered that a well-chosen *dress* can create a sophisticated *appearance* and *look* that is appropriate for various occasions. I learned to select *dress*es that flattered my *appearance* and reflected my *style* preferences, considering *color*, *size*, and *design* elements.\n\n*Shirt*s and *pants* taught me about the importance of *comfort* and functionality in daily *clothing*. I learned that *shirt*s and *pants* should provide *comfort* while maintaining a professional and stylish *appearance*. I discovered that the right *size* and *material* are crucial for achieving both *comfort* and a polished *look*.\n\n*Shoes* became an important aspect of my *clothing* and *appearance* strategy. I learned that *shoes* can make or break an *outfit*, and that the right *shoes* can enhance your overall *look* and *appearance*. I discovered that *shoes* should be chosen for both *style* and *comfort*, ensuring that they complement your *clothing* choices while providing support and functionality.\n\n*Color* and *design* became central to my understanding of *clothing* and *appearance*. I learned that *color* choices can significantly affect your *look* and *appearance*, while *design* elements can enhance or detract from your overall *style*. I discovered that understanding *color* theory and *design* principles would help me make better *clothing* choices and create more cohesive *outfit*s.\n\n*Material* and *quality* taught me about the importance of investing in well-made *clothing*. I learned that *material* choice affects both *comfort* and *appearance*, while *quality* *clothing* lasts longer and maintains its *look* better over time. I discovered that *quality* *clothing* is often a better investment than *fashion*able but poorly made *clothes*.\n\n*Shopping* for *clothing* became a more strategic and enjoyable activity. I learned that *shopping* for *clothes* should be done with a clear understanding of your *wardrobe* needs, *style* preferences, and *appearance* goals. I discovered that *shopping* with a plan helps you make better *clothing* choices and build a more cohesive *wardrobe*.\n\n*Clothing* and *appearance* have taught me that what we wear is a form of communication that reflects our *style*, *fashion* sense, and *personality*. Each piece of *clothing* - from a simple *shirt* to an elegant *dress* - contributes to our overall *appearance* and *look*. The *wardrobe* we build reflects our *style* preferences and helps us present ourselves to the world in a way that is both authentic and appealing.",
+    "additionalExamples": [
+      {
+        "word": "clothing",
+        "example": "Clothing is important.",
+        "translation": "Одежда важна."
+      },
+      {
+        "word": "appearance",
+        "example": "Appearance matters.",
+        "translation": "Внешность имеет значение."
+      },
+      {
+        "word": "clothes",
+        "example": "Clothes are comfortable.",
+        "translation": "Одежда удобная."
+      },
+      {
+        "word": "dress",
+        "example": "Dress is elegant.",
+        "translation": "Платье элегантное."
+      },
+      {
+        "word": "shirt",
+        "example": "Shirt is clean.",
+        "translation": "Рубашка чистая."
+      },
+      {
+        "word": "pants",
+        "example": "Pants are stylish.",
+        "translation": "Брюки стильные."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Clothes make the man",
+        "translation": "По одежке встречают"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Beauty is in the eye of the beholder",
+        "translation": "Красота в глазах смотрящего"
+      },
+      {
+        "phrase": "Fashion fades, style is eternal",
+        "translation": "Мода проходит, стиль остается"
+      },
+      {
+        "phrase": "Dress for success",
+        "translation": "Одевайся для успеха"
+      },
+      {
+        "phrase": "You can't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Clothing** is uncountable and refers to clothes in general.\n- **Appearance** is uncountable and refers to how someone looks.\n- **Clothes** is plural and refers to items of clothing.\n- **Dress** is countable and refers to a specific type of clothing.",
+    "relatedTopics": [
+      {
+        "name": "Fashion Accessories",
+        "slug": "fashion-accessories",
+        "url": "/lessons/eng/b1b2/fashion-accessories"
+      },
+      {
+        "name": "Beauty Cosmetics",
+        "slug": "beauty-cosmetics",
+        "url": "/lessons/eng/b1b2/beauty-cosmetics"
+      },
+      {
+        "name": "Shopping Retail",
+        "slug": "shopping-retail",
+        "url": "/lessons/eng/b1b2/shopping-retail"
+      },
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/clothing-appearance"
+  },
+  {
+    "id": 17,
     "slug": "clothing-fashion",
     "title": "Clothing & Fashion",
     "titleRu": "Одежда и мода",
@@ -781,13 +3361,217 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/entertainment-media"
       }
     ],
-    "category": "Clothing Fashion",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/clothing-fashion"
   },
   {
-    "id": 5,
+    "id": 18,
+    "slug": "colors-visual-properties",
+    "title": "Colors & Visual Properties",
+    "titleRu": "Цвета и визуальные свойства",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: color, visual, property, red, blue and practical usage examples.",
+    "keywords": [
+      {
+        "word": "color",
+        "translation": "цвет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "visual",
+        "translation": "визуальный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "property",
+        "translation": "свойство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "red",
+        "translation": "красный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "blue",
+        "translation": "синий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "green",
+        "translation": "зеленый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "yellow",
+        "translation": "желтый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "black",
+        "translation": "черный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "white",
+        "translation": "белый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "bright",
+        "translation": "яркий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "dark",
+        "translation": "темный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "light",
+        "translation": "светлый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "beautiful",
+        "translation": "красивый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "attractive",
+        "translation": "привлекательный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "design",
+        "translation": "дизайн",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "appearance",
+        "translation": "внешность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "image",
+        "translation": "изображение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "picture",
+        "translation": "картина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "art",
+        "translation": "искусство",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Color*s and *visual* *property*ies are the fundamental elements that shape our perception of the world, influencing our emotions, preferences, and aesthetic experiences. From the vibrant *red* of a sunset to the calming *blue* of the ocean, *color*s create the *visual* landscape that surrounds us and affects our daily lives. Let me share a story about how I discovered the profound impact of *color*s and *visual* *property*ies on human experience.\n\nLast year, I decided to study *color* theory and *visual* design after realizing that *color*s and *visual* elements played a much larger role in my daily life than I had previously understood. I began by learning about the basic *color*s and their *visual* *property*ies, understanding how different *color*s like *red*, *blue*, *green*, and *yellow* affect our perception and emotions. The process taught me that *color*s are not just aesthetic elements - they're powerful tools for communication and expression.\n\nMy journey into understanding *color*s and *visual* *property*ies started with exploring the primary *color*s and their characteristics. I learned that *red* is often associated with energy, passion, and urgency, while *blue* tends to evoke feelings of calm, trust, and stability. I discovered that *green* is commonly linked to nature, growth, and harmony, while *yellow* is associated with happiness, optimism, and creativity. Each *color* has its own *visual* *property*ies and emotional associations.\n\n*Black* and *white* taught me about the fundamental contrast in *visual* design. I learned that *black* represents sophistication, elegance, and mystery, while *white* symbolizes purity, simplicity, and cleanliness. I discovered that the contrast between *black* and *white* creates powerful *visual* effects and is essential for creating readable text and clear *image*s. The combination of *black* and *white* forms the foundation of many *design* systems.\n\n*Bright* and *dark* became important concepts for understanding *visual* intensity and mood. I learned that *bright* *color*s tend to be energetic and attention-grabbing, while *dark* *color*s often create a more subdued and sophisticated atmosphere. I discovered that the balance between *bright* and *dark* elements is crucial for creating *visual* harmony and ensuring that *design*s are both *attractive* and functional.\n\n*Light* and *beautiful* taught me about the aesthetic qualities of *visual* elements. I learned that *light* *color*s can make spaces feel more open and airy, while *beautiful* *color* combinations can create emotional responses and enhance the overall *appearance* of *design*s. I discovered that *beautiful* *visual* *property*ies are not just about individual *color*s but about how *color*s work together to create cohesive and *attractive* compositions.\n\n*Design* and *style* became central to my understanding of how *color*s and *visual* *property*ies are applied in practice. I learned that *design* involves the intentional arrangement of *visual* elements including *color*s, while *style* refers to the distinctive *visual* characteristics that define a particular approach or aesthetic. I discovered that effective *design* and *style* require careful consideration of *color* relationships and *visual* *property*ies.\n\n*Appearance* and *image* taught me about the impact of *visual* elements on perception and communication. I learned that *appearance* refers to how something looks, including its *color*s and *visual* *property*ies, while *image* represents the *visual* representation of something. I discovered that *appearance* and *image* are crucial for creating first impressions and communicating messages effectively.\n\n*Picture* and *art* introduced me to the creative applications of *color*s and *visual* *property*ies. I learned that *picture*s use *color*s and *visual* elements to represent scenes, objects, or ideas, while *art* involves the creative expression of *visual* concepts through *color* and form. I discovered that *picture*s and *art* demonstrate the power of *color*s to evoke emotions, tell stories, and create *beautiful* and *attractive* experiences.\n\n*Color*s and *visual* *property*ies have taught me that the *visual* world is rich with meaning and possibility. Each *color* - from the energetic *red* to the calming *blue* - has its own *visual* *property*ies and emotional associations. Understanding *color*s and *visual* *property*ies has helped me appreciate the *beautiful* and *attractive* elements in my environment and has provided insights into how *visual* design influences our daily experiences and emotional responses.",
+    "additionalExamples": [
+      {
+        "word": "color",
+        "example": "Color is vibrant.",
+        "translation": "Цвет яркий."
+      },
+      {
+        "word": "visual",
+        "example": "Visual design is appealing.",
+        "translation": "Визуальный дизайн привлекательный."
+      },
+      {
+        "word": "property",
+        "example": "Property is unique.",
+        "translation": "Свойство уникально."
+      },
+      {
+        "word": "red",
+        "example": "Red is bold.",
+        "translation": "Красный смелый."
+      },
+      {
+        "word": "blue",
+        "example": "Blue is calming.",
+        "translation": "Синий успокаивающий."
+      },
+      {
+        "word": "green",
+        "example": "Green is natural.",
+        "translation": "Зеленый естественный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "That's a beautiful color",
+        "translation": "Это красивый цвет"
+      },
+      {
+        "phrase": "I love the visual design",
+        "translation": "Мне нравится визуальный дизайн"
+      },
+      {
+        "phrase": "The colors really pop",
+        "translation": "Цвета действительно выделяются"
+      },
+      {
+        "phrase": "That's very eye-catching",
+        "translation": "Это очень привлекает внимание"
+      },
+      {
+        "phrase": "The design is stunning",
+        "translation": "Дизайн потрясающий"
+      },
+      {
+        "phrase": "I'm drawn to bright colors",
+        "translation": "Меня привлекают яркие цвета"
+      },
+      {
+        "phrase": "The visual appeal is strong",
+        "translation": "Визуальная привлекательность сильная"
+      },
+      {
+        "phrase": "That color scheme works well",
+        "translation": "Эта цветовая схема хорошо работает"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Color** is countable and refers to a specific hue.\n- **Visual** is an adjective describing things related to sight.\n- **Property** is countable and refers to a characteristic.\n- **Red** is an adjective describing a specific color.",
+    "relatedTopics": [
+      {
+        "name": "Art Aesthetics",
+        "slug": "art-aesthetics",
+        "url": "/lessons/eng/b1b2/art-aesthetics"
+      },
+      {
+        "name": "Fashion Accessories",
+        "slug": "fashion-accessories",
+        "url": "/lessons/eng/b1b2/fashion-accessories"
+      },
+      {
+        "name": "Beauty Cosmetics",
+        "slug": "beauty-cosmetics",
+        "url": "/lessons/eng/b1b2/beauty-cosmetics"
+      },
+      {
+        "name": "Design Architecture",
+        "slug": "design-architecture",
+        "url": "/lessons/eng/b1b2/design-architecture"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/colors-visual-properties"
+  },
+  {
+    "id": 19,
     "slug": "communication-interaction",
     "title": "Communication & Interaction",
     "titleRu": "Общение и взаимодействие",
@@ -1035,13 +3819,609 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
     ],
-    "category": "Communication Interaction",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/communication-interaction"
   },
   {
-    "id": 6,
+    "id": 20,
+    "slug": "communication-language",
+    "title": "Communication & Language",
+    "titleRu": "Общение и язык",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: communication, language, speak, listen, talk and practical usage examples.",
+    "keywords": [
+      {
+        "word": "communication",
+        "translation": "коммуникация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "language",
+        "translation": "язык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "speak",
+        "translation": "говорить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "listen",
+        "translation": "слушать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "talk",
+        "translation": "разговаривать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "conversation",
+        "translation": "разговор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "message",
+        "translation": "сообщение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "word",
+        "translation": "слово",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sentence",
+        "translation": "предложение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meaning",
+        "translation": "значение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "understand",
+        "translation": "понимать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "express",
+        "translation": "выражать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "explain",
+        "translation": "объяснять",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "question",
+        "translation": "вопрос",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "answer",
+        "translation": "ответ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dialogue",
+        "translation": "диалог",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discussion",
+        "translation": "обсуждение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "information",
+        "translation": "информация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "idea",
+        "translation": "идея",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "opinion",
+        "translation": "мнение",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Communication* and *language* are the fundamental tools that enable human connection, allowing us to share *idea*s, express *opinion*s, and build relationships through the exchange of *information* and *meaning*. From simple *conversation*s to complex *discussion*s, *communication* shapes our understanding of the world and our relationships with others. Let me share a story about how I discovered the power and importance of effective *communication* and *language*.\n\nLast year, I decided to improve my *communication* skills after realizing that many misunderstandings in my relationships stemmed from poor *communication* and unclear *language* use. I began by learning about the different aspects of *communication*, understanding how *speak*ing, *listen*ing, and *talk*ing work together to create meaningful exchanges. The process taught me that *communication* is not just about *word*s and *sentence*s - it's about conveying *meaning* and building understanding between people.\n\nMy journey into understanding *communication* started with learning to *speak* more clearly and effectively. I discovered that *speak*ing is not just about producing *word*s - it's about organizing thoughts into coherent *sentence*s that convey *meaning* and *information* to others. I learned that effective *speak*ing requires careful consideration of *word* choice, tone, and structure to ensure that *message*s are received and understood as intended.\n\n*Listen*ing became equally important in my *communication* education. I learned that *listen*ing is not just about hearing *word*s - it's about actively processing *information*, understanding *meaning*, and responding appropriately to *message*s. I discovered that good *listen*ing skills are essential for effective *communication* and that *listen*ing attentively shows respect and builds trust in relationships.\n\n*Talk*ing and *conversation* taught me about the interactive nature of *communication*. I learned that *talk*ing is a two-way process that involves both *speak*ing and *listen*ing, and that successful *conversation*s require participants to share *idea*s and respond to each other's *message*s. I discovered that *conversation*s are opportunities to exchange *information*, express *opinion*s, and build connections through shared *language*.\n\n*Message* and *meaning* became central to my understanding of *communication*. I learned that a *message* is the *information* or *idea* that a speaker wants to convey, while *meaning* is the interpretation that the listener gives to that *message*. I discovered that effective *communication* requires both the ability to craft clear *message*s and the skill to interpret *meaning* accurately.\n\n*Question* and *answer* taught me about the interactive nature of *communication* and the importance of seeking clarification. I learned that *question*s are tools for gathering *information* and understanding *meaning*, while *answer*s provide *information* and clarification. I discovered that asking good *question*s and providing clear *answer*s are essential skills for effective *communication* and learning.\n\n*Dialogue* and *discussion* introduced me to more complex forms of *communication*. I learned that *dialogue* involves the exchange of *idea*s and *opinion*s between two or more people, while *discussion* is a more formal process of exploring topics and reaching conclusions. I discovered that both *dialogue* and *discussion* require participants to *express* their thoughts clearly and *understand* the perspectives of others.\n\n*Express* and *explain* became important skills for sharing *idea*s and *opinion*s effectively. I learned that *express*ing involves communicating thoughts and feelings clearly, while *explain*ing requires breaking down complex *idea*s into understandable parts. I discovered that the ability to *express* and *explain* effectively is crucial for successful *communication* in both personal and professional contexts.\n\n*Communication* and *language* have taught me that effective *communication* is about more than just *word*s and *sentence*s - it's about creating understanding, building relationships, and sharing *idea*s in ways that connect people and advance knowledge. Each aspect of *communication* - from *speak*ing and *listen*ing to *question*ing and *answer*ing - contributes to the rich tapestry of human interaction that makes relationships and communities possible.",
+    "additionalExamples": [
+      {
+        "word": "communication",
+        "example": "Communication is essential.",
+        "translation": "Коммуникация необходима."
+      },
+      {
+        "word": "language",
+        "example": "Language is powerful.",
+        "translation": "Язык мощный."
+      },
+      {
+        "word": "speak",
+        "example": "Speak clearly.",
+        "translation": "Говори четко."
+      },
+      {
+        "word": "listen",
+        "example": "Listen carefully.",
+        "translation": "Слушай внимательно."
+      },
+      {
+        "word": "talk",
+        "example": "Talk openly.",
+        "translation": "Разговаривай открыто."
+      },
+      {
+        "word": "conversation",
+        "example": "Conversation is engaging.",
+        "translation": "Разговор увлекательный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Let's talk it over",
+        "translation": "Давайте обсудим это"
+      },
+      {
+        "phrase": "I hear what you're saying",
+        "translation": "Я понимаю, что вы говорите"
+      },
+      {
+        "phrase": "Can you repeat that, please?",
+        "translation": "Можете повторить, пожалуйста?"
+      },
+      {
+        "phrase": "I'm not sure I understand",
+        "translation": "Я не уверен, что понимаю"
+      },
+      {
+        "phrase": "That's a good point",
+        "translation": "Это хорошая мысль"
+      },
+      {
+        "phrase": "Let me explain what I mean",
+        "translation": "Позвольте объяснить, что я имею в виду"
+      },
+      {
+        "phrase": "What do you think about this?",
+        "translation": "Что вы думаете об этом?"
+      },
+      {
+        "phrase": "I'd like to hear your opinion",
+        "translation": "Я хотел бы услышать ваше мнение"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Communication** is uncountable and refers to the process of exchanging information.\n- **Language** is countable and refers to a system of communication.\n- **Speak** is a verb meaning to use words to express thoughts.\n- **Listen** is a verb meaning to pay attention to sounds.",
+    "relatedTopics": [
+      {
+        "name": "Basic Concepts Grammar",
+        "slug": "basic-concepts-grammar",
+        "url": "/lessons/eng/b1b2/basic-concepts-grammar"
+      },
+      {
+        "name": "Relationships Interactions",
+        "slug": "relationships-interactions",
+        "url": "/lessons/eng/b1b2/relationships-interactions"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/communication-language"
+  },
+  {
+    "id": 21,
+    "slug": "conservative-values",
+    "title": "Conservative Values",
+    "titleRu": "Консервативные ценности",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: conservative, values, tradition, family, respect and practical usage examples.",
+    "keywords": [
+      {
+        "word": "conservative",
+        "translation": "консервативный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "values",
+        "translation": "ценности",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tradition",
+        "translation": "традиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "family",
+        "translation": "семья",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "respect",
+        "translation": "уважение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "responsibility",
+        "translation": "ответственность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stability",
+        "translation": "стабильность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "order",
+        "translation": "порядок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "authority",
+        "translation": "власть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discipline",
+        "translation": "дисциплина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "honor",
+        "translation": "честь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "duty",
+        "translation": "долг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "faith",
+        "translation": "вера",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "community",
+        "translation": "сообщество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "heritage",
+        "translation": "наследие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "principle",
+        "translation": "принцип",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "virtue",
+        "translation": "добродетель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "character",
+        "translation": "характер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "integrity",
+        "translation": "честность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wisdom",
+        "translation": "мудрость",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Conservative* *values* represent a philosophical approach to life that emphasizes the importance of *tradition*, *stability*, and the wisdom accumulated through generations of human experience. These *values* provide a foundation for personal *character*, social *order*, and the preservation of *heritage* that connects us to our past while guiding us toward a meaningful future. Let me share a story about how I discovered the profound significance and practical wisdom of *conservative* *values* in our modern world.\n\nLast *year*, I had the opportunity to spend time with my grandparents and learn about the *traditions* and *values* that shaped their lives and the lives of their ancestors. I had always been curious about different philosophical perspectives, but this experience taught me about the deep wisdom and practical benefits that *conservative* *values* offer in navigating life's challenges and opportunities.\n\nMy journey began with understanding the importance of *family* as the fundamental unit of society. I learned that *family* is not just a social institution – it's the primary source of love, support, and moral guidance that shapes our *character* and provides the foundation for all other relationships. The *family* *traditions* I discovered taught me about the importance of *respect* for elders, *responsibility* for younger generations, and the *duty* to preserve and pass on *heritage* and *wisdom*.\n\n*Respect* emerged as a central *value* that influences all aspects of human interaction. I discovered that *respect* is not just politeness – it's a recognition of the inherent dignity and worth of every person, regardless of their background or circumstances. The *respect* I observed in my grandparents' relationships taught me about the importance of treating others with dignity and expecting the same treatment in return.\n\n*Responsibility* revealed itself as a cornerstone of *conservative* philosophy and personal development. I learned that *responsibility* is not just about fulfilling obligations – it's about taking ownership of one's actions, decisions, and their consequences. The *responsibility* I saw in my family taught me about the importance of being accountable for my choices and the impact they have on others and society.\n\n*Tradition* became a source of stability and continuity in an ever-changing world. I discovered that *tradition* is not just about preserving the past – it's about maintaining the *wisdom*, *values*, and practices that have proven their worth over time. The *traditions* I learned about taught me about the importance of connecting with our *heritage* and the *community* that shares our *values* and *principles*.\n\n*Faith* and spiritual *values* showed me the importance of having a moral compass and a sense of purpose beyond material concerns. I learned that *faith* is not just about religious belief – it's about having *principles* and *virtues* that guide our decisions and provide meaning in difficult times. The *faith* I observed taught me about the importance of *integrity* and living according to one's deepest convictions.\n\n*Community* revealed the importance of belonging to something larger than ourselves. I discovered that *community* is not just about living near other people – it's about sharing *values*, supporting each other, and working together for the common good. The *community* I experienced taught me about the importance of *duty* to others and the satisfaction that comes from contributing to the welfare of the group.\n\n*Authority* and *discipline* showed me the importance of structure and guidance in personal and social development. I learned that *authority* is not just about power – it's about the *wisdom* and experience that comes from age, education, and proven leadership. The *authority* I respected taught me about the importance of *discipline* in achieving personal goals and maintaining social *order*.\n\n*Character* and *virtue* emerged as the ultimate goals of *conservative* *values*. I discovered that *character* is not just about personality – it's about developing the moral qualities and *virtues* that make us better people and better citizens. The *character* I admired taught me about the importance of *honor*, *integrity*, and *wisdom* in all aspects of life.\n\nWhat I love most about my exploration of *conservative* *values* is how it revealed the timeless wisdom and practical benefits of these *principles*. I learned that *conservative* *values* are not about resisting change – they're about preserving what is valuable while adapting to new circumstances in ways that maintain our *heritage* and *principles*.\n\n*Conservative* *values* have taught me that *stability*, *order*, and *tradition* provide essential foundations for personal growth and social harmony. By understanding and embracing these *values*, we can develop stronger *character*, deeper relationships, and a greater sense of purpose and meaning in our lives.",
+    "additionalExamples": [
+      {
+        "word": "conservative",
+        "example": "He has conservative views.",
+        "translation": "У него консервативные взгляды."
+      },
+      {
+        "word": "values",
+        "example": "Family values are important.",
+        "translation": "Семейные ценности важны."
+      },
+      {
+        "word": "tradition",
+        "example": "This tradition is very old.",
+        "translation": "Эта традиция очень старая."
+      },
+      {
+        "word": "family",
+        "example": "Family is very important.",
+        "translation": "Семья очень важна."
+      },
+      {
+        "word": "respect",
+        "example": "Show respect to others.",
+        "translation": "Проявляйте уважение к другим."
+      },
+      {
+        "word": "responsibility",
+        "example": "Take responsibility for your actions.",
+        "translation": "Берите ответственность за свои действия."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Honor your father and mother",
+        "translation": "Почитай отца и мать"
+      },
+      {
+        "phrase": "A stitch in time saves nine",
+        "translation": "Семь раз отмерь, один раз отрежь"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Conservative** is an adjective that describes political or social views.\n- **Values** is plural and refers to moral principles.\n- **Tradition** is countable and can refer to specific practices.\n- **Family** can be countable (families) or uncountable (family as concept).",
+    "relatedTopics": [
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Philosophy Thought",
+        "slug": "philosophy-thought",
+        "url": "/lessons/eng/b1b2/philosophy-thought"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/conservative-values"
+  },
+  {
+    "id": 22,
+    "slug": "countries-nationalities",
+    "title": "Countries & Nationalities",
+    "titleRu": "Страны и национальности",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: country, nation, nationality, citizen, culture and practical usage examples.",
+    "keywords": [
+      {
+        "word": "country",
+        "translation": "страна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nation",
+        "translation": "нация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nationality",
+        "translation": "национальность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "citizen",
+        "translation": "гражданин",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "culture",
+        "translation": "культура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "language",
+        "translation": "язык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "border",
+        "translation": "граница",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "capital",
+        "translation": "столица",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "government",
+        "translation": "правительство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "population",
+        "translation": "население",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "America",
+        "translation": "Америка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Europe",
+        "translation": "Европа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Asia",
+        "translation": "Азия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Africa",
+        "translation": "Африка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Australia",
+        "translation": "Австралия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "English",
+        "translation": "английский",
+        "partOfSpeech": "adjective, noun"
+      },
+      {
+        "word": "French",
+        "translation": "французский",
+        "partOfSpeech": "adjective, noun"
+      },
+      {
+        "word": "German",
+        "translation": "немецкий",
+        "partOfSpeech": "adjective, noun"
+      },
+      {
+        "word": "Spanish",
+        "translation": "испанский",
+        "partOfSpeech": "adjective, noun"
+      },
+      {
+        "word": "Russian",
+        "translation": "русский",
+        "partOfSpeech": "adjective, noun"
+      }
+    ],
+    "mainText": "*Countries* and *nationalities* represent the rich tapestry of human diversity, showcasing the incredible variety of *cultures*, *languages*, and traditions that exist across our planet. Each *nation* tells a unique story of history, geography, and the collective identity that binds people together. Let me share a story about how I discovered the fascinating world of *countries* and *nationalities* through my travels and cultural explorations.\n\nLast *year*, I had the opportunity to visit several *countries* and interact with people of different *nationalities*, which opened my eyes to the incredible diversity and complexity of our global community. I had always been curious about other *cultures*, but this experience taught me about the deep connections between *nationality*, identity, and the way people understand themselves and their place in the world.\n\nMy journey began in *Europe*, where I visited France and experienced *French* *culture* firsthand. I learned that being *French* is not just about speaking the *French* *language* – it's about a shared *culture* of art, cuisine, and intellectual discourse that has shaped *European* civilization for centuries. The *French* people I met taught me about the importance of preserving *cultural* heritage while embracing modern innovation.\n\nIn Germany, I discovered how *German* *culture* combines efficiency, tradition, and environmental consciousness. I learned that *German* *nationality* reflects a complex history of division and reunification, and that the *German* people have created a modern identity based on democratic values and international cooperation. The experience taught me about the resilience of *nations* and their ability to transform and grow.\n\nMy travels to *Spain* revealed the passionate and diverse nature of *Spanish* *culture*. I discovered that *Spanish* *nationality* encompasses many regional identities, each with its own traditions, dialects, and customs. The *Spanish* people taught me about the importance of family, celebration, and the joy of living in the moment, regardless of economic or political challenges.\n\nA visit to *Russia* showed me the vast scale and complexity of the largest *country* in the world. I learned that *Russian* *culture* combines Eastern and Western influences, creating a unique identity that reflects the *country*'s position between *Europe* and *Asia*. The *Russian* people I met taught me about the importance of literature, music, and intellectual discussion in their *cultural* identity.\n\nMy exploration of *Asian* *countries* revealed incredible diversity within the continent. I discovered that *Asia* is not a monolithic region but a collection of distinct *nations*, each with its own *language*, *culture*, and historical experience. From the technological innovation of Japan to the ancient traditions of China, each *Asian* *country* offered unique insights into human achievement and adaptation.\n\n*Africa* taught me about the incredible diversity of the *African* continent and the resilience of its people. I learned that *African* *countries* have rich histories, diverse *cultures*, and enormous potential for growth and development. The *African* people I met taught me about community solidarity, respect for elders, and the importance of oral traditions in preserving *cultural* knowledge.\n\n*Australia* revealed the unique character of a *nation* built by immigrants from around the world. I discovered that *Australian* *culture* combines British colonial heritage with indigenous traditions and modern multicultural influences. The *Australian* people taught me about the importance of environmental stewardship and the value of informal, egalitarian social relationships.\n\nWhat fascinated me most about exploring different *countries* and *nationalities* was learning how geography, history, and *culture* combine to create distinct national identities. I discovered that each *nation*'s *capital*, *government*, and *population* reflect unique solutions to the challenges of organizing society and maintaining *cultural* continuity across generations.\n\nThe *borders* between *countries* taught me about the artificial nature of political boundaries and the natural flow of *cultures* and ideas across regions. I learned that while *nationalities* provide important sources of identity and belonging, they also create divisions that can be overcome through understanding, cooperation, and respect for diversity.\n\n*Countries* and *nationalities* have taught me that human diversity is one of our greatest strengths, offering multiple perspectives on life's challenges and opportunities. By understanding and appreciating different *cultures* and *nationalities*, we can build more peaceful and prosperous relationships between *nations* and create a more inclusive global community.",
+    "additionalExamples": [
+      {
+        "word": "country",
+        "example": "My country is beautiful.",
+        "translation": "Моя страна красивая."
+      },
+      {
+        "word": "nationality",
+        "example": "What is your nationality?",
+        "translation": "Какая у вас национальность?"
+      },
+      {
+        "word": "culture",
+        "example": "I love learning about different cultures.",
+        "translation": "Я люблю изучать разные культуры."
+      },
+      {
+        "word": "language",
+        "example": "English is a global language.",
+        "translation": "Английский - глобальный язык."
+      },
+      {
+        "word": "capital",
+        "example": "Paris is the capital of France.",
+        "translation": "Париж - столица Франции."
+      },
+      {
+        "word": "citizen",
+        "example": "I am a citizen of this country.",
+        "translation": "Я гражданин этой страны."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "When in Rome, do as the Romans do",
+        "translation": "В чужой монастырь со своим уставом не ходят"
+      },
+      {
+        "phrase": "The grass is always greener on the other side",
+        "translation": "Хорошо там, где нас нет"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Birds of a feather flock together",
+        "translation": "Рыбак рыбака видит издалека"
+      },
+      {
+        "phrase": "All roads lead to Rome",
+        "translation": "Все дороги ведут в Рим"
+      },
+      {
+        "phrase": "Home is where the heart is",
+        "translation": "Дом там, где сердце"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Country** is countable and can be used with articles.\n- **Nationality** is countable and refers to belonging to a nation.\n- **Culture** can be countable (\"cultures\") or uncountable (\"culture\").\n- **Language** is countable and can refer to specific languages.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Languages Linguistics",
+        "slug": "languages-linguistics",
+        "url": "/lessons/eng/b1b2/languages-linguistics"
+      },
+      {
+        "name": "Government Politics",
+        "slug": "government-politics",
+        "url": "/lessons/eng/b1b2/government-politics"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/countries-nationalities"
+  },
+  {
+    "id": 23,
     "slug": "daily-life-routines",
     "title": "Daily Life & Routines",
     "titleRu": "Повседневная жизнь и рутины",
@@ -1259,13 +4639,13 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
     ],
-    "category": "Daily Life Routines",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/daily-life-routines"
   },
   {
-    "id": 7,
+    "id": 24,
     "slug": "descriptions-comparisons",
     "title": "Descriptions & Comparisons",
     "titleRu": "Описания и сравнения",
@@ -1578,13 +4958,413 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/nature-environment"
       }
     ],
-    "category": "Descriptions Comparisons",
+    "category": "culture_arts",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/descriptions-comparisons"
   },
   {
-    "id": 8,
+    "id": 25,
+    "slug": "drinks-beverages",
+    "title": "Drinks & Beverages",
+    "titleRu": "Напитки",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: drink, beverage, water, coffee, tea and practical usage examples.",
+    "keywords": [
+      {
+        "word": "drink",
+        "translation": "напиток",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "beverage",
+        "translation": "напиток",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "water",
+        "translation": "вода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "coffee",
+        "translation": "кофе",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tea",
+        "translation": "чай",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "juice",
+        "translation": "сок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "milk",
+        "translation": "молоко",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "soda",
+        "translation": "газировка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "beer",
+        "translation": "пиво",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wine",
+        "translation": "вино",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "alcohol",
+        "translation": "алкоголь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hot",
+        "translation": "горячий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "cold",
+        "translation": "холодный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "sweet",
+        "translation": "сладкий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "bitter",
+        "translation": "горький",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "fresh",
+        "translation": "свежий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "carbonated",
+        "translation": "газированный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "caffeinated",
+        "translation": "содержащий кофеин",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "healthy",
+        "translation": "здоровый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "refreshing",
+        "translation": "освежающий",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Drink*s and *beverage*s are essential elements of daily life that provide hydration, comfort, and pleasure while reflecting cultural traditions and personal preferences. From the simple *water* that sustains life to the complex *wine*s that accompany fine dining, *drink*s and *beverage*s offer a wide range of flavors, temperatures, and experiences that enhance our daily routines and social interactions. Let me share a story about how I discovered the fascinating world of *drink*s and *beverage*s through exploring different coffee shops and tea houses.\n\nLast year, I developed a passion for exploring different types of *drink*s and *beverage*s, starting with the world of *coffee* and *tea*. I began by learning about the different brewing methods and *flavor* profiles of various *drink*s, understanding how temperature, preparation, and *ingredient*s create unique taste experiences. The process taught me that *drink*s and *beverage*s are not just about quenching thirst - they're about experiencing different cultures, traditions, and flavors that can transform a simple moment into something *special* and memorable.\n\nMy journey into understanding *drink*s and *beverage*s started with exploring the most basic and essential *drink* - *water*. I learned that *water* is the foundation of all life and the most important *beverage* for hydration, while also discovering that *water* quality and temperature can significantly affect the taste and experience of other *drink*s. I discovered that *fresh*, clean *water* is essential for brewing quality *coffee* and *tea*, and that understanding *water* properties is crucial for creating the perfect cup.\n\n*Coffee* and *tea* became central to my exploration of *hot* *beverage*s and their cultural significance. I learned that *coffee* is a *caffeinated* *drink* made from roasted coffee beans that provides energy and has a rich, complex *flavor* profile, while *tea* is a *beverage* made from steeping tea leaves that can be *caffeinated* or caffeine-free and offers a wide range of *flavor*s from *sweet* to *bitter*. I discovered that both *coffee* and *tea* have deep cultural roots and that they serve as social catalysts that bring people together.\n\n*Juice* and *milk* taught me about *fresh* and nutritious *beverage*s. I learned that *juice* is a *drink* made from the liquid extracted from fruits or vegetables, offering natural *sweet*ness and vitamins, while *milk* is a nutritious *beverage* from animals that provides protein and calcium. I discovered that both *juice* and *milk* can be enjoyed alone or used as *ingredient*s in other *drink*s, and that they offer *healthy* alternatives to processed *beverage*s.\n\n*Soda* and *carbonated* *drink*s introduced me to the world of fizzy *beverage*s. I learned that *soda* is a *carbonated* *drink* that contains bubbles and often has a *sweet* taste, while *carbonated* *beverage*s are *drink*s that have been infused with carbon dioxide to create bubbles. I discovered that *carbonated* *drink*s can be *refreshing* and enjoyable, but that they should be consumed in moderation due to their sugar content and potential health effects.\n\n*Beer* and *wine* taught me about alcoholic *beverage*s and their cultural significance. I learned that *beer* is an alcoholic *drink* made from fermented grains that has a *bitter* taste and is often enjoyed socially, while *wine* is an alcoholic *beverage* made from fermented grapes that offers complex *flavor*s and is often paired with food. I discovered that both *beer* and *wine* have rich histories and traditions, and that they are enjoyed responsibly in many cultures around the world.\n\n*Alcohol* became an important concept for understanding the broader category of alcoholic *beverage*s. I learned that *alcohol* is a substance found in many *drink*s that can affect mood and behavior, and that alcoholic *beverage*s should be consumed responsibly and in moderation. I discovered that understanding *alcohol* content and effects is important for making informed choices about *drink*s and *beverage*s.\n\n*Hot* and *cold* became important temperature categories for understanding *drink* preferences and preparation. I learned that *hot* *beverage*s like *coffee* and *tea* are often enjoyed for their warming and comforting qualities, while *cold* *drink*s like *juice* and *soda* are often chosen for their *refreshing* and cooling effects. I discovered that temperature can significantly affect the *flavor* and experience of *beverage*s, and that different *drink*s are best served at different temperatures.\n\n*Sweet* and *bitter* taught me about the different taste profiles of *drink*s and *beverage*s. I learned that *sweet* *drink*s like *juice* and *soda* appeal to people's natural preference for sugar, while *bitter* *beverage*s like *coffee* and some *tea*s offer more complex and acquired tastes. I discovered that understanding taste preferences is important for choosing *drink*s that will be enjoyable and satisfying.\n\n*Fresh* and *refreshing* became important qualities for understanding what makes *drink*s and *beverage*s appealing. I learned that *fresh* *beverage*s are made from *ingredient*s that are recently prepared or harvested, while *refreshing* *drink*s provide a cooling and revitalizing sensation. I discovered that both *fresh* and *refreshing* qualities are highly valued in *beverage*s, and that they contribute to the overall enjoyment and satisfaction of drinking experiences.\n\n*Drink*s and *beverage*s have taught me that the world of liquids is incredibly diverse and offers endless opportunities for exploration and enjoyment. From the essential *water* to the sophisticated *wine*, *drink*s and *beverage*s play important roles in our daily lives, social interactions, and cultural traditions. Understanding the different types of *drink*s and *beverage*s has given me a greater appreciation for the art of beverage preparation and the role that *drink*s play in enhancing our daily experiences and bringing people together.",
+    "additionalExamples": [
+      {
+        "word": "drink",
+        "example": "Drink is refreshing.",
+        "translation": "Напиток освежающий."
+      },
+      {
+        "word": "beverage",
+        "example": "Beverage is healthy.",
+        "translation": "Напиток здоровый."
+      },
+      {
+        "word": "water",
+        "example": "Water is essential.",
+        "translation": "Вода необходима."
+      },
+      {
+        "word": "coffee",
+        "example": "Coffee is strong.",
+        "translation": "Кофе крепкий."
+      },
+      {
+        "word": "tea",
+        "example": "Tea is soothing.",
+        "translation": "Чай успокаивающий."
+      },
+      {
+        "word": "juice",
+        "example": "Juice is sweet.",
+        "translation": "Сок сладкий."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I need a refreshing drink",
+        "translation": "Мне нужен освежающий напиток"
+      },
+      {
+        "phrase": "The coffee is too hot",
+        "translation": "Кофе слишком горячий"
+      },
+      {
+        "phrase": "This beverage is very sweet",
+        "translation": "Этот напиток очень сладкий"
+      },
+      {
+        "phrase": "I prefer cold drinks in summer",
+        "translation": "Я предпочитаю холодные напитки летом"
+      },
+      {
+        "phrase": "The tea has a bitter taste",
+        "translation": "Чай имеет горький вкус"
+      },
+      {
+        "phrase": "Fresh juice is the best",
+        "translation": "Свежий сок лучший"
+      },
+      {
+        "phrase": "The water is very refreshing",
+        "translation": "Вода очень освежающая"
+      },
+      {
+        "phrase": "I love trying new beverages",
+        "translation": "Я люблю пробовать новые напитки"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Drink** is countable and refers to a liquid for consumption.\n- **Beverage** is countable and refers to a drink.\n- **Water** is uncountable and refers to the clear liquid.\n- **Coffee** is uncountable and refers to the drink made from beans.",
+    "relatedTopics": [
+      {
+        "name": "Food Drink",
+        "slug": "food-drink",
+        "url": "/lessons/eng/b1b2/food-drink"
+      },
+      {
+        "name": "Kitchen Cooking",
+        "slug": "kitchen-cooking",
+        "url": "/lessons/eng/b1b2/kitchen-cooking"
+      },
+      {
+        "name": "Health Wellness",
+        "slug": "health-wellness",
+        "url": "/lessons/eng/b1b2/health-wellness"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/drinks-beverages"
+  },
+  {
+    "id": 26,
+    "slug": "economics-finance",
+    "title": "Economics & Finance",
+    "titleRu": "Экономика и финансы",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: economics, finance, economy, market, money and practical usage examples.",
+    "keywords": [
+      {
+        "word": "economics",
+        "translation": "экономика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "finance",
+        "translation": "финансы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "economy",
+        "translation": "экономика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "market",
+        "translation": "рынок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "money",
+        "translation": "деньги",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "investment",
+        "translation": "инвестиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "business",
+        "translation": "бизнес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "trade",
+        "translation": "торговля",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "profit",
+        "translation": "прибыль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "loss",
+        "translation": "убыток",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "income",
+        "translation": "доход",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "expense",
+        "translation": "расход",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "budget",
+        "translation": "бюджет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "debt",
+        "translation": "долг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "credit",
+        "translation": "кредит",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bank",
+        "translation": "банк",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "currency",
+        "translation": "валюта",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "inflation",
+        "translation": "инфляция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "recession",
+        "translation": "рецессия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "growth",
+        "translation": "рост",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Economics* and *finance* represent the complex systems that govern how societies create, distribute, and manage wealth and resources. These fields influence every aspect of human life, from individual financial decisions to global *trade* relationships and *economic* policies that shape nations. Let me share a story about how I discovered the fascinating world of *economics* and *finance* and their profound impact on our daily lives.\n\nLast *year*, I decided to take a course in *economics* and *finance*, which opened my eyes to the intricate systems and principles that govern *economic* activity and financial markets. I had always been aware of *money* and *business*, but this experience taught me about the complex relationships between *markets*, *investment*, and *economic* growth that shape our world.\n\nMy journey began with understanding the basic principles of *economics*, particularly how *markets* function and how *supply* and *demand* determine prices and allocation of resources. I learned that *economics* is not just about *money* – it's about how societies make decisions about resource allocation, production, and distribution. The *economic* principles I studied taught me about the importance of efficiency and the role of *markets* in coordinating *economic* activity.\n\n*Finance* revealed itself as the practical application of *economic* principles to individual and organizational decision-making. I discovered that *finance* is not just about managing *money* – it's about evaluating *investment* opportunities, managing *risk*, and making decisions that create long-term value. The *financial* concepts I learned taught me about the importance of planning, analysis, and strategic thinking in *business* and personal life.\n\n*Investment* and *business* showed me how *economic* activity creates value and drives *growth*. I learned that *investment* is not just about putting *money* into assets – it's about allocating resources to projects and activities that generate returns and contribute to *economic* development. The *investment* strategies I studied taught me about the importance of diversification, *risk* management, and long-term thinking.\n\n*Trade* and *markets* revealed the global nature of *economic* activity and the benefits of specialization and exchange. I discovered that *trade* is not just about buying and selling – it's about creating value through specialization and enabling people to access goods and services that they couldn't produce efficiently themselves. The *trade* relationships I explored taught me about the importance of international cooperation and the benefits of open *markets*.\n\n*Money* and *currency* showed me how financial systems facilitate *economic* exchange and store value. I learned that *money* is not just a medium of exchange – it's a tool that enables complex *economic* relationships and provides a way to measure and compare value across different goods and services. The *monetary* systems I studied taught me about the importance of stable *currency* and sound financial institutions.\n\n*Budget* and *debt* management revealed the importance of financial planning and responsible borrowing. I discovered that *budgeting* is not just about tracking *income* and *expenses* – it's about making conscious decisions about resource allocation and ensuring that spending aligns with priorities and goals. The *budget* principles I learned taught me about the importance of living within one's means and planning for the future.\n\n*Bank* and *credit* systems showed me how financial institutions facilitate *economic* activity and provide access to capital. I learned that *banks* are not just places to store *money* – they're institutions that provide *credit*, facilitate payments, and help allocate capital to productive uses. The *banking* systems I explored taught me about the importance of financial intermediation and the role of *credit* in *economic* growth.\n\n*Inflation* and *recession* taught me about the cyclical nature of *economic* activity and the challenges of *economic* management. I discovered that *economic* cycles are not just random fluctuations – they're the result of complex interactions between *markets*, policies, and external factors that require careful monitoring and management. The *economic* cycles I studied taught me about the importance of *economic* stability and the role of policy in managing *economic* fluctuations.\n\nWhat I love most about my exploration of *economics* and *finance* is how it revealed the incredible complexity and interconnectedness of *economic* systems. I learned that *economics* and *finance* are not just academic subjects – they're practical tools for understanding and navigating the *economic* world that affects every aspect of our lives.\n\n*Economics* and *finance* have taught me that *economic* literacy is essential for making informed decisions about personal finances, *business* opportunities, and public policy. By understanding the principles and systems that govern *economic* activity, we can become more effective participants in the *economy* and contribute to *economic* growth and prosperity for ourselves and our communities.",
+    "additionalExamples": [
+      {
+        "word": "economics",
+        "example": "Economics is a complex subject.",
+        "translation": "Экономика - сложный предмет."
+      },
+      {
+        "word": "finance",
+        "example": "Finance is important for business.",
+        "translation": "Финансы важны для бизнеса."
+      },
+      {
+        "word": "economy",
+        "example": "The economy is growing.",
+        "translation": "Экономика растет."
+      },
+      {
+        "word": "market",
+        "example": "The market is competitive.",
+        "translation": "Рынок конкурентный."
+      },
+      {
+        "word": "money",
+        "example": "Money is a medium of exchange.",
+        "translation": "Деньги - средство обмена."
+      },
+      {
+        "word": "investment",
+        "example": "Investment requires careful planning.",
+        "translation": "Инвестиции требуют тщательного планирования."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Money makes the world go round",
+        "translation": "Деньги правят миром"
+      },
+      {
+        "phrase": "Don't put all your eggs in one basket",
+        "translation": "Не клади все яйца в одну корзину"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Economics** is uncountable and refers to the academic subject.\n- **Finance** can be uncountable (the field) or countable (financial resources).\n- **Economy** is countable and refers to a specific economic system.\n- **Market** is countable and can refer to specific markets or the concept.",
+    "relatedTopics": [
+      {
+        "name": "Business Economy",
+        "slug": "business-economy",
+        "url": "/lessons/eng/b1b2/business-economy"
+      },
+      {
+        "name": "Money Finance",
+        "slug": "money-finance",
+        "url": "/lessons/eng/b1b2/money-finance"
+      },
+      {
+        "name": "Government Politics",
+        "slug": "government-politics",
+        "url": "/lessons/eng/b1b2/government-politics"
+      },
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      }
+    ],
+    "category": "economics_business",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/economics-finance"
+  },
+  {
+    "id": 27,
     "slug": "education-learning",
     "title": "Education & Learning",
     "titleRu": "Образование и обучение",
@@ -1777,13 +5557,813 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
     ],
-    "category": "Education Learning",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/education-learning"
   },
   {
-    "id": 9,
+    "id": 28,
+    "slug": "education-system",
+    "title": "Education System",
+    "titleRu": "Система образования",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: education, system, school, university, college and practical usage examples.",
+    "keywords": [
+      {
+        "word": "education",
+        "translation": "образование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "system",
+        "translation": "система",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "school",
+        "translation": "школа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "university",
+        "translation": "университет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "college",
+        "translation": "колледж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "student",
+        "translation": "студент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "teacher",
+        "translation": "учитель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "professor",
+        "translation": "профессор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "class",
+        "translation": "класс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "course",
+        "translation": "курс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "subject",
+        "translation": "предмет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "degree",
+        "translation": "степень",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "diploma",
+        "translation": "диплом",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "knowledge",
+        "translation": "знания",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "learning",
+        "translation": "обучение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "study",
+        "translation": "изучение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "research",
+        "translation": "исследование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "academic",
+        "translation": "академический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "curriculum",
+        "translation": "учебная программа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "grade",
+        "translation": "оценка",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "The *education* *system* represents one of society's most important institutions, providing the foundation for personal development, social mobility, and economic prosperity. Through *schools*, *universities*, and *colleges*, this *system* shapes minds, builds *knowledge*, and prepares people for meaningful participation in society. Let me share a story about how I discovered the incredible complexity and importance of the *education* *system* in our world.\n\nLast *year*, I had the opportunity to work as a teaching assistant at a local *university*, which opened my eyes to the sophisticated *system* of *education* and the profound impact it has on individuals and society. I had always been a *student*, but this experience taught me about the complex relationships between *teachers*, *students*, *curriculum*, and *learning* that make *education* effective.\n\nMy journey began with understanding the structure of the *education* *system*, from elementary *school* through *university* and beyond. I learned that the *education* *system* is not just a collection of *schools* – it's a coordinated *system* that provides progressive *learning* opportunities and prepares people for different roles in society. The *system* I observed taught me about the importance of continuity and progression in *educational* development.\n\n*Students* and *teachers* revealed the human dimension of *education* and the dynamic relationships that make *learning* possible. I discovered that *students* are not just passive recipients of *knowledge* – they're active participants in the *learning* process who bring their own experiences, questions, and perspectives to the classroom. The *students* I worked with taught me about the importance of engagement, curiosity, and *academic* *discipline* in *educational* success.\n\n*Teachers* and *professors* showed me the incredible responsibility and skill involved in facilitating *learning* and *knowledge* development. I learned that *teaching* is not just about presenting *information* – it's about creating environments where *students* can explore, question, and develop their understanding of complex subjects. The *teachers* I observed taught me about the importance of *pedagogy*, *patience*, and *passion* in *educational* work.\n\n*Classes* and *courses* revealed the structured approach to *learning* and *knowledge* acquisition. I discovered that *classes* are not just time periods – they're carefully designed *learning* experiences that build *knowledge* progressively and provide opportunities for *students* to develop skills and understanding. The *classes* I participated in taught me about the importance of *curriculum* design and *academic* *rigor* in *educational* quality.\n\n*Subjects* and *academic* disciplines showed me the breadth and depth of human *knowledge* and the importance of specialized *learning*. I learned that *academic* *subjects* are not just categories of *information* – they're ways of thinking, analyzing, and understanding the world that develop critical thinking and problem-solving skills. The *subjects* I studied taught me about the importance of interdisciplinary *learning* and the connections between different areas of *knowledge*.\n\n*Research* and *academic* inquiry revealed the importance of *knowledge* creation and the advancement of human understanding. I discovered that *research* is not just about finding *information* – it's about asking questions, testing hypotheses, and contributing to the collective *knowledge* of humanity. The *research* I observed taught me about the importance of *academic* *rigor* and the *scientific* method in *knowledge* development.\n\n*Degrees* and *diplomas* showed me how the *education* *system* recognizes and certifies *learning* and *knowledge* acquisition. I learned that *academic* credentials are not just pieces of paper – they're recognition of *knowledge*, skills, and *academic* achievement that open doors to further *education* and career opportunities. The *degree* process I observed taught me about the importance of *academic* standards and the value of *educational* credentials.\n\n*Grades* and *assessment* revealed the importance of *evaluation* and *feedback* in the *learning* process. I discovered that *grades* are not just numbers – they're tools for providing *feedback*, motivating *students*, and ensuring that *learning* objectives are met. The *assessment* process I learned about taught me about the importance of fair and meaningful *evaluation* in *educational* quality.\n\nWhat I love most about my exploration of the *education* *system* is how it revealed the incredible investment that society makes in human development and *knowledge* creation. I learned that *education* is not just about individual *learning* – it's about building the *knowledge* and skills that enable social progress and economic prosperity.\n\nThe *education* *system* has taught me that *learning* is a lifelong process that extends far beyond formal *schooling*. By understanding and appreciating the role of *education* in society, we can become more effective *learners*, better *teachers*, and more engaged participants in the *educational* process that shapes our lives and our world.",
+    "additionalExamples": [
+      {
+        "word": "education",
+        "example": "Education is very important.",
+        "translation": "Образование очень важно."
+      },
+      {
+        "word": "system",
+        "example": "The system is well-organized.",
+        "translation": "Система хорошо организована."
+      },
+      {
+        "word": "school",
+        "example": "The school is excellent.",
+        "translation": "Школа отличная."
+      },
+      {
+        "word": "student",
+        "example": "The student is hardworking.",
+        "translation": "Студент трудолюбивый."
+      },
+      {
+        "word": "teacher",
+        "example": "The teacher is experienced.",
+        "translation": "Учитель опытный."
+      },
+      {
+        "word": "class",
+        "example": "The class is interesting.",
+        "translation": "Класс интересный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Knowledge is power",
+        "translation": "Знание - сила"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Education** is uncountable and refers to the process of learning.\n- **System** is countable and refers to the organized structure.\n- **Student** is countable and refers to a person learning.\n- **Teacher** is countable and refers to a person teaching.",
+    "relatedTopics": [
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      },
+      {
+        "name": "Knowledge Skills",
+        "slug": "knowledge-skills",
+        "url": "/lessons/eng/b1b2/knowledge-skills"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "education_development",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/education-system"
+  },
+  {
+    "id": 29,
+    "slug": "electronics-gadgets",
+    "title": "Electronics & Gadgets",
+    "titleRu": "Электроника и гаджеты",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: electronics, gadget, device, computer, phone and practical usage examples.",
+    "keywords": [
+      {
+        "word": "electronics",
+        "translation": "электроника",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gadget",
+        "translation": "гаджет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "device",
+        "translation": "устройство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "computer",
+        "translation": "компьютер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "phone",
+        "translation": "телефон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tablet",
+        "translation": "планшет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "camera",
+        "translation": "камера",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "television",
+        "translation": "телевизор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "radio",
+        "translation": "радио",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "speaker",
+        "translation": "динамик",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "battery",
+        "translation": "батарея",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "charger",
+        "translation": "зарядное устройство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cable",
+        "translation": "кабель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "screen",
+        "translation": "экран",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "button",
+        "translation": "кнопка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "remote",
+        "translation": "пульт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "digital",
+        "translation": "цифровой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "wireless",
+        "translation": "беспроводной",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "portable",
+        "translation": "портативный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "smart",
+        "translation": "умный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Electronics* and *gadget*s have revolutionized the way we live, work, and communicate, transforming everything from how we access information to how we connect with others around the world. From the *smart* *phone* in our pocket to the *digital* *camera* that captures our memories, *electronics* and *gadget*s have become essential tools that enhance our daily lives and expand our capabilities. Let me share a story about how I discovered the incredible world of *electronics* and *gadget*s through my first *smart*phone purchase.\n\nLast year, I decided to upgrade my old *phone* to a modern *smart*phone and found myself immersed in the fascinating world of *electronics* and *gadget*s. I began by learning about different types of *device*s and their capabilities, understanding how *digital* technology has transformed communication, entertainment, and productivity. The process taught me that *electronics* and *gadget*s are not just tools - they're gateways to information, creativity, and connection that have fundamentally changed how we interact with the world.\n\nMy journey into understanding *electronics* and *gadget*s started with exploring the basic components that make these *device*s work. I learned that a *battery* provides power to *electronics*, while a *charger* replenishes the *battery* when it runs low. I discovered that *cable*s connect different *device*s and transfer data or power, and that understanding these basic components is essential for using and maintaining *electronics* effectively.\n\n*Computer* and *tablet* became important concepts for understanding different types of computing *device*s. I learned that a *computer* is a powerful *device* designed for complex tasks like programming, design, and data processing, while a *tablet* is a *portable* *device* that combines the functionality of a *computer* with the convenience of a *phone*. I discovered that both *computer*s and *tablet*s have *digital* *screen*s that display information and respond to touch or input.\n\n*Phone* and *camera* taught me about communication and photography *gadget*s. I learned that a *phone* is a *device* used for voice and text communication, while a *camera* is a *device* used for capturing images and videos. I discovered that modern *smart*phones combine both functions, allowing users to communicate and capture memories with a single *portable* *device*.\n\n*Television* and *radio* introduced me to entertainment *electronics* and broadcasting technology. I learned that a *television* is a *device* that displays video content on a large *screen*, while a *radio* is a *device* that receives and plays audio broadcasts. I discovered that both *television* and *radio* have evolved from analog to *digital* technology, providing clearer signals and more content options.\n\n*Speaker* and *remote* became important concepts for understanding audio and control systems. I learned that a *speaker* is a *device* that converts electrical signals into sound, while a *remote* is a *wireless* control *device* used to operate other *electronics* from a distance. I discovered that both *speaker*s and *remote*s are essential for creating convenient and enjoyable entertainment experiences.\n\n*Screen* and *button* taught me about user interfaces and input methods. I learned that a *screen* is the display surface of *electronics* that shows information and responds to touch, while a *button* is a physical control that users press to input commands. I discovered that modern *electronics* increasingly use touch *screen*s instead of *button*s, creating more intuitive and flexible user interfaces.\n\n*Digital* and *wireless* became important concepts for understanding modern *electronics* technology. I learned that *digital* technology uses binary code to process and store information, while *wireless* technology allows *device*s to communicate without physical *cable*s. I discovered that both *digital* and *wireless* technologies have made *electronics* more efficient, *portable*, and user-friendly.\n\n*Portable* and *smart* became important adjectives for understanding the evolution of *electronics* and *gadget*s. I learned that *portable* *device*s can be easily carried and used anywhere, while *smart* *device*s have advanced capabilities like internet connectivity and artificial intelligence. I discovered that the combination of *portable* and *smart* technology has created *gadget*s that are both convenient and powerful.\n\n*Electronics* and *gadget*s have taught me that technology is constantly evolving and that understanding these *device*s is essential for navigating modern life. From the basic *phone* to the advanced *smart* *computer*, *electronics* and *gadget*s represent humanity's ability to create tools that extend our capabilities and connect us with the world. Understanding the different types of *electronics* and *gadget*s has given me a greater appreciation for the technology that surrounds us and the innovation that continues to shape our future.",
+    "additionalExamples": [
+      {
+        "word": "electronics",
+        "example": "Electronics are advanced.",
+        "translation": "Электроника продвинутая."
+      },
+      {
+        "word": "gadget",
+        "example": "Gadget is useful.",
+        "translation": "Гаджет полезный."
+      },
+      {
+        "word": "device",
+        "example": "Device is modern.",
+        "translation": "Устройство современное."
+      },
+      {
+        "word": "computer",
+        "example": "Computer is powerful.",
+        "translation": "Компьютер мощный."
+      },
+      {
+        "word": "phone",
+        "example": "Phone is smart.",
+        "translation": "Телефон умный."
+      },
+      {
+        "word": "tablet",
+        "example": "Tablet is portable.",
+        "translation": "Планшет портативный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "My phone battery is dying",
+        "translation": "Батарея моего телефона садится"
+      },
+      {
+        "phrase": "I need to charge my device",
+        "translation": "Мне нужно зарядить устройство"
+      },
+      {
+        "phrase": "The screen is cracked",
+        "translation": "Экран треснул"
+      },
+      {
+        "phrase": "This gadget is really smart",
+        "translation": "Этот гаджет действительно умный"
+      },
+      {
+        "phrase": "The wireless connection is weak",
+        "translation": "Беспроводное соединение слабое"
+      },
+      {
+        "phrase": "I love my new digital camera",
+        "translation": "Мне нравится моя новая цифровая камера"
+      },
+      {
+        "phrase": "The remote control is missing",
+        "translation": "Пульт дистанционного управления потерялся"
+      },
+      {
+        "phrase": "This portable device is perfect for travel",
+        "translation": "Это портативное устройство идеально для путешествий"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Electronics** is uncountable and refers to electronic devices.\n- **Gadget** is countable and refers to a small electronic device.\n- **Device** is countable and refers to a piece of equipment.\n- **Computer** is countable and refers to an electronic machine.",
+    "relatedTopics": [
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Internet Digital World",
+        "slug": "internet-digital-world",
+        "url": "/lessons/eng/b1b2/internet-digital-world"
+      },
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/electronics-gadgets"
+  },
+  {
+    "id": 30,
+    "slug": "emotions-feelings",
+    "title": "Emotions & Feelings",
+    "titleRu": "Эмоции и чувства",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: emotion, feeling, happy, sad, angry and practical usage examples.",
+    "keywords": [
+      {
+        "word": "emotion",
+        "translation": "эмоция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "feeling",
+        "translation": "чувство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "happy",
+        "translation": "счастливый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "sad",
+        "translation": "грустный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "angry",
+        "translation": "злой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "excited",
+        "translation": "взволнованный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "nervous",
+        "translation": "нервный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "calm",
+        "translation": "спокойный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "love",
+        "translation": "любовь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fear",
+        "translation": "страх",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "joy",
+        "translation": "радость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pain",
+        "translation": "боль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hope",
+        "translation": "надежда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "worry",
+        "translation": "беспокойство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stress",
+        "translation": "стресс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "peace",
+        "translation": "мир",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "confidence",
+        "translation": "уверенность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "anxiety",
+        "translation": "тревога",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "satisfaction",
+        "translation": "удовлетворение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "disappointment",
+        "translation": "разочарование",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Emotion*s and *feeling*s are the colorful threads that weave through the tapestry of human experience, providing depth and meaning to our interactions with the world and each other. From the *joy* of celebration to the *pain* of loss, *emotion*s shape our perceptions, influence our decisions, and connect us to the shared human experience. Let me share a story about how I learned to understand and navigate the complex landscape of *emotion*s and *feeling*s.\n\nLast year, I went through a particularly challenging period that forced me to confront a wide range of *emotion*s and *feeling*s I had never fully explored before. I began by learning to identify and name different *emotion*s, understanding that *feeling*s like *happy* and *sad* are just the beginning of a much richer emotional vocabulary. The process taught me that *emotion*s are not just reactions - they're valuable information about our inner world and our relationships with others.\n\nMy journey into understanding *emotion*s started with recognizing the difference between *happy* and *joy*. I learned that *happy* is often a temporary state related to specific circumstances, while *joy* is a deeper, more sustained *feeling* that comes from within. I discovered that *happy* moments can be fleeting, but *joy* can be cultivated through gratitude, connection, and meaningful experiences that bring lasting *satisfaction*.\n\n*Sad*ness and *pain* became important teachers in my emotional education. I learned that *sad*ness is not something to avoid or suppress, but rather a natural response to loss and disappointment that helps us process difficult experiences. I discovered that *pain* - both emotional and physical - serves as a signal that something needs attention, and that acknowledging *pain* is the first step toward healing and growth.\n\n*Angry* and *excited* taught me about the energy that *emotion*s can carry. I learned that *angry* *feeling*s often arise when our boundaries are crossed or our values are threatened, while *excited* *emotion*s emerge when we anticipate positive experiences or opportunities. I discovered that both *angry* and *excited* *feeling*s contain valuable energy that can be channeled constructively when understood and managed properly.\n\n*Nervous* and *calm* became important concepts for understanding emotional regulation. I learned that *nervous* *feeling*s often arise in response to uncertainty or perceived threats, while *calm* represents a state of emotional balance and *peace*. I discovered that developing the ability to move from *nervous* to *calm* is a crucial skill for managing *stress* and maintaining emotional well-being.\n\n*Love* and *fear* emerged as fundamental *emotion*s that influence many other *feeling*s. I learned that *love* is not just a *feeling* but a choice and an action that can bring deep *joy* and *satisfaction*. I discovered that *fear* often underlies other *emotion*s like *anxiety* and *worry*, and that understanding *fear* can help us address the root causes of emotional distress.\n\n*Hope* and *disappointment* taught me about the emotional cycles of expectation and reality. I learned that *hope* provides motivation and direction, while *disappointment* helps us adjust our expectations and develop resilience. I discovered that *hope* and *disappointment* are natural partners in the human experience, each serving important functions in our emotional development.\n\n*Confidence* and *anxiety* became important aspects of my emotional landscape. I learned that *confidence* is not the absence of *anxiety* but rather the ability to act despite *anxiety*. I discovered that *anxiety* often arises from *worry* about future events, while *confidence* comes from trusting in our ability to handle whatever challenges may arise.\n\n*Emotion*s and *feeling*s have taught me that our emotional lives are rich, complex, and deeply meaningful. Each *emotion* - from the *joy* of connection to the *pain* of loss - provides valuable information about our inner world and our relationships with others. Learning to understand, accept, and work with *emotion*s and *feeling*s has been one of the most transformative experiences of my life, helping me develop greater emotional intelligence and deeper connections with others.",
+    "additionalExamples": [
+      {
+        "word": "emotion",
+        "example": "Emotion is complex.",
+        "translation": "Эмоция сложна."
+      },
+      {
+        "word": "feeling",
+        "example": "Feeling is strong.",
+        "translation": "Чувство сильное."
+      },
+      {
+        "word": "happy",
+        "example": "Happy moments are precious.",
+        "translation": "Счастливые моменты драгоценны."
+      },
+      {
+        "word": "sad",
+        "example": "Sad times pass.",
+        "translation": "Грустные времена проходят."
+      },
+      {
+        "word": "angry",
+        "example": "Angry feelings need expression.",
+        "translation": "Злые чувства нуждаются в выражении."
+      },
+      {
+        "word": "excited",
+        "example": "Excited anticipation builds.",
+        "translation": "Взволнованное ожидание нарастает."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Don't bottle up your emotions",
+        "translation": "Не держи эмоции в себе"
+      },
+      {
+        "phrase": "I'm feeling overwhelmed today",
+        "translation": "Сегодня я чувствую себя перегруженным"
+      },
+      {
+        "phrase": "That really touched my heart",
+        "translation": "Это действительно тронуло мое сердце"
+      },
+      {
+        "phrase": "I'm on cloud nine",
+        "translation": "Я на седьмом небе от счастья"
+      },
+      {
+        "phrase": "Don't take it personally",
+        "translation": "Не принимай это на личный счет"
+      },
+      {
+        "phrase": "I'm walking on air",
+        "translation": "Я хожу по воздуху от радости"
+      },
+      {
+        "phrase": "That's music to my ears",
+        "translation": "Это музыка для моих ушей"
+      },
+      {
+        "phrase": "I'm at my wit's end",
+        "translation": "Я в полном отчаянии"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Emotion** is countable and refers to a specific feeling.\n- **Feeling** is countable and refers to an emotional state.\n- **Happy** is an adjective describing a positive emotional state.\n- **Sad** is an adjective describing a negative emotional state.",
+    "relatedTopics": [
+      {
+        "name": "Psychology Behavior",
+        "slug": "psychology-behavior",
+        "url": "/lessons/eng/b1b2/psychology-behavior"
+      },
+      {
+        "name": "Relationships Interactions",
+        "slug": "relationships-interactions",
+        "url": "/lessons/eng/b1b2/relationships-interactions"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      },
+      {
+        "name": "Mental Processes",
+        "slug": "mental-processes",
+        "url": "/lessons/eng/b1b2/mental-processes"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/emotions-feelings"
+  },
+  {
+    "id": 31,
+    "slug": "energy-resources",
+    "title": "Energy & Resources",
+    "titleRu": "Энергия и ресурсы",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: energy, resources, power, electricity, fuel and practical usage examples.",
+    "keywords": [
+      {
+        "word": "energy",
+        "translation": "энергия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "resources",
+        "translation": "ресурсы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "power",
+        "translation": "мощность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "electricity",
+        "translation": "электричество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fuel",
+        "translation": "топливо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "oil",
+        "translation": "нефть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gas",
+        "translation": "газ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "coal",
+        "translation": "уголь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "renewable",
+        "translation": "возобновляемый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "solar",
+        "translation": "солнечный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "wind",
+        "translation": "ветер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "water",
+        "translation": "вода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nuclear",
+        "translation": "ядерный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "efficiency",
+        "translation": "эффективность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "consumption",
+        "translation": "потребление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "generation",
+        "translation": "генерация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "storage",
+        "translation": "хранение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "grid",
+        "translation": "сеть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sustainability",
+        "translation": "устойчивость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conservation",
+        "translation": "сохранение",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Energy* and *resources* represent the fundamental building blocks of modern civilization, powering everything from our homes and transportation to our industries and digital technologies. Through the careful management of *energy* *resources* and the development of sustainable alternatives, societies can ensure long-term prosperity while protecting the environment for future generations. Let me share a story about how I discovered the incredible complexity and importance of *energy* and *resource* management in our world.\n\nLast *year*, I participated in a research project focused on *renewable* *energy* development, which opened my eyes to the sophisticated systems and strategic challenges involved in meeting global *energy* needs. I had always taken *electricity* and *power* for granted, but this experience taught me about the incredible engineering, economics, and environmental considerations that shape *energy* policy and *resource* management.\n\nMy journey began with understanding how traditional *energy* *resources* like *oil*, *gas*, and *coal* have powered industrial development and continue to meet most of the world's *energy* needs. I learned that fossil *fuels* are not just sources of *power* – they're complex *resources* that require extraction, processing, and distribution through sophisticated *infrastructure* systems. The fossil *fuel* operations I studied taught me about the importance of *efficiency* and the environmental challenges associated with traditional *energy* sources.\n\n*Renewable* *energy* sources like *solar* and *wind* *power* revealed the incredible potential for sustainable *energy* generation that doesn't deplete natural *resources*. I discovered that *renewable* *energy* is not just about environmental benefits – it's about creating *energy* systems that can operate indefinitely while reducing dependence on finite *resources*. The *renewable* *energy* projects I examined taught me about the importance of innovation and the way technology can transform *energy* generation.\n\n*Solar* *energy* showed me how the sun's *power* can be harnessed through photovoltaic technology to generate clean *electricity*. I learned that *solar* *power* is not just about installing panels – it's about understanding *energy* *consumption* patterns, optimizing system design, and integrating *solar* generation with existing *power* *grids*. The *solar* projects I studied taught me about the importance of *efficiency* and the way *renewable* *energy* can provide both environmental and economic benefits.\n\n*Wind* *energy* revealed how moving air can be converted into *electricity* through wind turbines and sophisticated *power* generation systems. I discovered that *wind* *power* is not just about placing turbines in windy locations – it's about understanding wind patterns, optimizing turbine design, and managing the variable nature of *wind* *energy*. The *wind* *energy* systems I observed taught me about the importance of *storage* and the way *renewable* *energy* requires new approaches to *power* management.\n\n*Water* and hydroelectric *power* showed me how flowing water can generate *electricity* while providing other benefits like flood control and water storage. I learned that hydroelectric *power* is not just about building dams – it's about balancing *energy* generation with environmental protection and water management needs. The hydroelectric projects I studied taught me about the importance of comprehensive planning and the way *energy* projects can serve multiple purposes.\n\n*Nuclear* *energy* revealed the incredible *power* density and low-carbon benefits of nuclear *power* generation, along with the complex safety and waste management challenges it presents. I discovered that *nuclear* *power* is not just about splitting atoms – it's about maintaining the highest safety standards, managing radioactive waste, and ensuring that *nuclear* *energy* contributes to *energy* security without compromising public safety. The *nuclear* *energy* facilities I examined taught me about the importance of regulation and the way *energy* choices involve complex trade-offs.\n\n*Efficiency* and *conservation* emerged as crucial strategies for reducing *energy* *consumption* and maximizing the value of available *resources*. I learned that *energy* *efficiency* is not just about using less *power* – it's about optimizing *energy* use to achieve the same results with fewer *resources* and lower costs. The *efficiency* programs I studied taught me about the importance of behavioral change and the way *energy* *conservation* can provide immediate benefits while supporting long-term *sustainability*.\n\n*Grid* management and *energy* *storage* showed me how modern *power* systems must balance supply and demand while integrating diverse *energy* sources. I discovered that *power* *grids* are not just networks of wires – they're complex systems that must manage variable *renewable* *energy*, maintain *power* quality, and ensure reliable *electricity* delivery to consumers. The *grid* management systems I observed taught me about the importance of technology and the way *energy* systems must evolve to meet changing needs.\n\nWhat I love most about my exploration of *energy* and *resources* is how it revealed the incredible interconnectedness of *energy* systems and their fundamental importance to modern life. I learned that *energy* and *resource* management is not just about technical challenges – it's about balancing economic, environmental, and social considerations to create sustainable *energy* systems that can support human development while protecting the planet.\n\n*Energy* and *resources* have taught me that sustainable *energy* development requires innovation, investment, and international cooperation to address global challenges while meeting local needs. By understanding and supporting sustainable *energy* and *resource* management, we can contribute to building *energy* systems that provide reliable *power* while protecting the environment and ensuring *energy* security for future generations.",
+    "additionalExamples": [
+      {
+        "word": "energy",
+        "example": "Energy is essential for modern life.",
+        "translation": "Энергия необходима для современной жизни."
+      },
+      {
+        "word": "resources",
+        "example": "Resources must be managed carefully.",
+        "translation": "Ресурсы должны управляться осторожно."
+      },
+      {
+        "word": "power",
+        "example": "Power generation is complex.",
+        "translation": "Генерация энергии сложная."
+      },
+      {
+        "word": "electricity",
+        "example": "Electricity powers our homes.",
+        "translation": "Электричество питает наши дома."
+      },
+      {
+        "word": "fuel",
+        "example": "Fuel prices affect transportation.",
+        "translation": "Цены на топливо влияют на транспорт."
+      },
+      {
+        "word": "renewable",
+        "example": "Renewable energy is growing.",
+        "translation": "Возобновляемая энергия растет."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      },
+      {
+        "phrase": "The grass is always greener on the other side",
+        "translation": "Хорошо там, где нас нет"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Energy** is uncountable and refers to the capacity to do work.\n- **Resources** is plural and refers to available materials or assets.\n- **Power** can be countable (specific powers) or uncountable (general power).\n- **Fuel** can be countable (types of fuel) or uncountable (fuel in general).",
+    "relatedTopics": [
+      {
+        "name": "Science Technology",
+        "slug": "science-technology",
+        "url": "/lessons/eng/b1b2/science-technology"
+      },
+      {
+        "name": "Environment Conservation",
+        "slug": "environment-conservation",
+        "url": "/lessons/eng/b1b2/environment-conservation"
+      },
+      {
+        "name": "Economics Finance",
+        "slug": "economics-finance",
+        "url": "/lessons/eng/b1b2/economics-finance"
+      },
+      {
+        "name": "Infrastructure Development",
+        "slug": "infrastructure-development",
+        "url": "/lessons/eng/b1b2/infrastructure-development"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/energy-resources"
+  },
+  {
+    "id": 32,
     "slug": "entertainment-media",
     "title": "Entertainment & Media",
     "titleRu": "Развлечения и медиа",
@@ -1976,13 +6556,617 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
     ],
-    "category": "Entertainment Media",
+    "category": "culture_arts",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/entertainment-media"
   },
   {
-    "id": 10,
+    "id": 33,
+    "slug": "environment-conservation",
+    "title": "Environment & Conservation",
+    "titleRu": "Окружающая среда и охрана природы",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: environment, conservation, nature, ecology, ecosystem and practical usage examples.",
+    "keywords": [
+      {
+        "word": "environment",
+        "translation": "окружающая среда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conservation",
+        "translation": "охрана природы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nature",
+        "translation": "природа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ecology",
+        "translation": "экология",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ecosystem",
+        "translation": "экосистема",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "biodiversity",
+        "translation": "биоразнообразие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "climate",
+        "translation": "климат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pollution",
+        "translation": "загрязнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sustainability",
+        "translation": "устойчивость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "renewable",
+        "translation": "возобновляемый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "energy",
+        "translation": "энергия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "resources",
+        "translation": "ресурсы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "protection",
+        "translation": "защита",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "preservation",
+        "translation": "сохранение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wildlife",
+        "translation": "дикая природа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "forest",
+        "translation": "лес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ocean",
+        "translation": "океан",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "species",
+        "translation": "виды",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "habitat",
+        "translation": "среда обитания",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "impact",
+        "translation": "воздействие",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "The *environment* and *conservation* represent humanity's most urgent challenge and greatest opportunity for creating a sustainable future. Through *ecology* and *biodiversity*, our planet supports all life, yet human activities threaten the delicate balance that sustains us. Let me share a story about how I discovered the profound importance and interconnectedness of *environmental* protection and *conservation* efforts.\n\nLast *year*, I participated in a *conservation* project in a local *forest* ecosystem, which opened my eyes to the incredible complexity and fragility of natural systems. I had always cared about *nature*, but this experience taught me about the intricate relationships between *species*, *habitats*, and *ecosystems* that make life on earth possible.\n\nMy journey began with understanding the concept of *biodiversity* and its crucial role in maintaining healthy *ecosystems*. I learned that *biodiversity* is not just about having many different *species* – it's about the complex web of relationships that allow *ecosystems* to function, adapt, and provide essential services like clean air, water, and soil. The *biodiversity* I observed taught me about the importance of protecting *species* diversity for the health of entire *ecosystems*.\n\n*Ecosystem* health revealed the interconnected nature of all living systems. I discovered that *ecosystems* are not just collections of plants and animals – they're complex systems where every *species* plays a role in maintaining the balance and health of the whole system. The *ecosystem* I studied taught me about the importance of *protection* and *preservation* in maintaining these delicate relationships.\n\n*Climate* change showed me how human activities can have far-reaching *impact* on *environmental* systems. I learned that *climate* is not just about weather patterns – it's about the global systems that regulate temperature, precipitation, and *ecological* conditions that support life. The *climate* data I analyzed taught me about the importance of *sustainability* and reducing our *environmental* *impact*.\n\n*Pollution* and its effects revealed the urgent need for *environmental* *protection* and *conservation* efforts. I discovered that *pollution* is not just about visible waste – it's about toxic substances that can disrupt *ecosystems*, harm *wildlife*, and threaten human health. The *pollution* cleanup I participated in taught me about the importance of preventing *environmental* damage and the challenges of restoring damaged *ecosystems*.\n\n*Renewable* *energy* and *sustainable* practices showed me how technology and innovation can support *environmental* *conservation*. I learned that *renewable* *energy* is not just about reducing *pollution* – it's about creating *sustainable* systems that can meet human needs without depleting natural *resources* or damaging *ecosystems*. The *renewable* *energy* projects I observed taught me about the importance of *sustainability* in all human activities.\n\n*Wildlife* and *habitat* *conservation* revealed the importance of protecting natural spaces and the *species* that depend on them. I discovered that *wildlife* *conservation* is not just about protecting individual *species* – it's about preserving the *habitats* and *ecosystems* that support all life forms. The *wildlife* I observed taught me about the importance of *habitat* *protection* and the interconnectedness of all living things.\n\n*Ocean* and *forest* *conservation* showed me the global scope of *environmental* challenges and the importance of international cooperation. I learned that *ocean* and *forest* *conservation* are not just about protecting specific areas – they're about maintaining the global systems that regulate *climate*, provide *resources*, and support *biodiversity*. The *conservation* efforts I studied taught me about the importance of global action and local commitment to *environmental* *protection*.\n\n*Sustainability* and *conservation* principles revealed how we can live in harmony with *nature* while meeting human needs. I discovered that *sustainability* is not just about environmental *protection* – it's about creating systems that can continue indefinitely without depleting *resources* or damaging *ecosystems*. The *sustainable* practices I learned about taught me about the importance of balancing human needs with *environmental* *protection*.\n\nWhat I love most about my exploration of *environment* and *conservation* is how it revealed the incredible beauty and complexity of natural systems and the urgent need to protect them. I learned that *environmental* *conservation* is not just about protecting *nature* – it's about ensuring the survival and prosperity of human civilization and all life on earth.\n\n*Environment* and *conservation* have taught me that we are all connected to the natural world and that our actions have consequences for the health of *ecosystems* and the future of life on earth. By understanding and embracing *environmental* *conservation*, we can become better stewards of our planet and create a more *sustainable* and prosperous future for all living things.",
+    "additionalExamples": [
+      {
+        "word": "environment",
+        "example": "The environment needs protection.",
+        "translation": "Окружающая среда нуждается в защите."
+      },
+      {
+        "word": "conservation",
+        "example": "Conservation is important for the future.",
+        "translation": "Охрана природы важна для будущего."
+      },
+      {
+        "word": "nature",
+        "example": "Nature is beautiful and fragile.",
+        "translation": "Природа красива и хрупка."
+      },
+      {
+        "word": "ecology",
+        "example": "Ecology studies living systems.",
+        "translation": "Экология изучает живые системы."
+      },
+      {
+        "word": "ecosystem",
+        "example": "The ecosystem is complex.",
+        "translation": "Экосистема сложная."
+      },
+      {
+        "word": "biodiversity",
+        "example": "Biodiversity is essential for life.",
+        "translation": "Биоразнообразие необходимо для жизни."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      },
+      {
+        "phrase": "The grass is always greener on the other side",
+        "translation": "Хорошо там, где нас нет"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Environment** is countable and can refer to specific environments.\n- **Conservation** is uncountable and refers to the practice of protection.\n- **Nature** is usually uncountable and refers to the natural world.\n- **Ecology** is uncountable and refers to the scientific study of ecosystems.",
+    "relatedTopics": [
+      {
+        "name": "Nature Environment",
+        "slug": "nature-environment",
+        "url": "/lessons/eng/b1b2/nature-environment"
+      },
+      {
+        "name": "Weather Nature",
+        "slug": "weather-nature",
+        "url": "/lessons/eng/b1b2/weather-nature"
+      },
+      {
+        "name": "Animals Wildlife",
+        "slug": "animals-wildlife",
+        "url": "/lessons/eng/b1b2/animals-wildlife"
+      },
+      {
+        "name": "Plants Botany",
+        "slug": "plants-botany",
+        "url": "/lessons/eng/b1b2/plants-botany"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/environment-conservation"
+  },
+  {
+    "id": 34,
+    "slug": "environment-ecology",
+    "title": "Environment & Ecology",
+    "titleRu": "Окружающая среда и экология",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: environment, ecology, nature, pollution, conservation and practical usage examples.",
+    "keywords": [
+      {
+        "word": "environment",
+        "translation": "окружающая среда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ecology",
+        "translation": "экология",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nature",
+        "translation": "природа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pollution",
+        "translation": "загрязнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conservation",
+        "translation": "охрана природы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "protection",
+        "translation": "защита",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sustainability",
+        "translation": "устойчивость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "climate",
+        "translation": "климат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ecosystem",
+        "translation": "экосистема",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "biodiversity",
+        "translation": "биоразнообразие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "renewable",
+        "translation": "возобновляемый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "green",
+        "translation": "зеленый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "clean",
+        "translation": "чистый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "healthy",
+        "translation": "здоровый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "natural",
+        "translation": "естественный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "organic",
+        "translation": "органический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "waste",
+        "translation": "отходы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "recycling",
+        "translation": "переработка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "energy",
+        "translation": "энергия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "resources",
+        "translation": "ресурсы",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Environment* and *ecology* represent the delicate balance between human activity and the *natural* world, encompassing the complex relationships between living organisms and their *environment*al conditions. From *climate* change to *biodiversity* conservation, understanding *ecology* and *environment*al science is crucial for creating a *sustainable* future for our planet. Let me share a story about how I discovered the importance of *environment*al awareness and *ecology* in our daily lives.\n\nLast year, I decided to learn more about *environment*al issues and *ecology* after witnessing the devastating effects of *pollution* in my local community. I began by understanding the basic principles of *ecology* and how human activities impact the *natural* *environment*. The process taught me that *environment*al protection is not just about preserving *nature* - it's about ensuring the *health* and *sustainability* of all life on Earth.\n\nMy journey into understanding *environment* and *ecology* started with learning about *ecosystem*s and how they function. I discovered that an *ecosystem* is a complex network of living organisms and their *natural* *environment*, where each component depends on others for survival. I learned that *ecosystem*s provide essential services like *clean* air, fresh water, and fertile soil, and that maintaining *ecosystem* health is crucial for human well-being.\n\n*Pollution* became a major focus of my *environment*al education. I learned that *pollution* occurs when harmful substances are introduced into the *environment*, affecting *natural* processes and living organisms. I discovered that *pollution* can take many forms, from air *pollution* that affects *climate* to water *pollution* that threatens aquatic *ecosystem*s. I learned that reducing *pollution* requires changes in both individual behavior and industrial practices.\n\n*Conservation* and *protection* taught me about the importance of preserving *natural* *environment*s and *biodiversity*. I learned that *conservation* involves managing *natural* *resources* to ensure their long-term *sustainability*, while *protection* focuses on preventing damage to *environment*al systems. I discovered that *conservation* efforts can include creating protected areas, restoring damaged *ecosystem*s, and promoting *sustainable* practices.\n\n*Sustainability* became a central concept in my understanding of *environment*al issues. I learned that *sustainability* means meeting present needs without compromising the ability of future generations to meet their own needs. I discovered that *sustainable* practices include using *renewable* *energy* sources, reducing *waste*, and promoting *organic* and *green* alternatives to conventional products.\n\n*Climate* and *biodiversity* taught me about the global aspects of *environment*al science. I learned that *climate* change is one of the most pressing *environment*al challenges, affecting *ecosystem*s and *biodiversity* worldwide. I discovered that *biodiversity* - the variety of life on Earth - is essential for *ecosystem* stability and provides numerous benefits to human society.\n\n*Renewable* *energy* and *green* technology became important aspects of my *environment*al education. I learned that *renewable* *energy* sources like solar and wind power can reduce our dependence on fossil fuels and help combat *climate* change. I discovered that *green* technology and *organic* practices can minimize *environment*al impact while maintaining productivity and efficiency.\n\n*Waste* and *recycling* taught me about the importance of *resource* management and *environment*al responsibility. I learned that reducing *waste* and increasing *recycling* can significantly decrease *pollution* and conserve *natural* *resources*. I discovered that *recycling* not only reduces *waste* but also saves *energy* and reduces the need for new *resource* extraction.\n\n*Environment* and *ecology* have taught me that we are all connected to the *natural* world and that our actions have consequences for *ecosystem*s and *biodiversity*. Each aspect of *environment*al science - from *conservation* and *protection* to *sustainability* and *renewable* *energy* - contributes to our understanding of how to live in harmony with *nature*. Protecting the *environment* and understanding *ecology* are essential for ensuring a *healthy* and *sustainable* future for all living things on Earth.",
+    "additionalExamples": [
+      {
+        "word": "environment",
+        "example": "Environment is important.",
+        "translation": "Окружающая среда важна."
+      },
+      {
+        "word": "ecology",
+        "example": "Ecology is complex.",
+        "translation": "Экология сложна."
+      },
+      {
+        "word": "nature",
+        "example": "Nature is beautiful.",
+        "translation": "Природа красивая."
+      },
+      {
+        "word": "pollution",
+        "example": "Pollution is harmful.",
+        "translation": "Загрязнение вредно."
+      },
+      {
+        "word": "conservation",
+        "example": "Conservation is necessary.",
+        "translation": "Охрана природы необходима."
+      },
+      {
+        "word": "protection",
+        "example": "Protection is essential.",
+        "translation": "Защита необходима."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "We need to go green",
+        "translation": "Нам нужно стать экологичными"
+      },
+      {
+        "phrase": "Every little bit helps",
+        "translation": "Каждая мелочь помогает"
+      },
+      {
+        "phrase": "Think globally, act locally",
+        "translation": "Думай глобально, действуй локально"
+      },
+      {
+        "phrase": "Reduce, reuse, recycle",
+        "translation": "Сокращай, используй повторно, перерабатывай"
+      },
+      {
+        "phrase": "The planet is in our hands",
+        "translation": "Планета в наших руках"
+      },
+      {
+        "phrase": "We're running out of time",
+        "translation": "У нас заканчивается время"
+      },
+      {
+        "phrase": "It's time to make a change",
+        "translation": "Время перемен"
+      },
+      {
+        "phrase": "Mother Earth needs our help",
+        "translation": "Мать-Земля нуждается в нашей помощи"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Environment** is countable and refers to the natural world.\n- **Ecology** is uncountable and refers to the study of ecosystems.\n- **Nature** is uncountable and refers to the natural world.\n- **Pollution** is uncountable and refers to environmental contamination.",
+    "relatedTopics": [
+      {
+        "name": "Weather Nature",
+        "slug": "weather-nature",
+        "url": "/lessons/eng/b1b2/weather-nature"
+      },
+      {
+        "name": "Animals Wildlife",
+        "slug": "animals-wildlife",
+        "url": "/lessons/eng/b1b2/animals-wildlife"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Social Issues Problems",
+        "slug": "social-issues-problems",
+        "url": "/lessons/eng/b1b2/social-issues-problems"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/environment-ecology"
+  },
+  {
+    "id": 35,
+    "slug": "events-celebrations",
+    "title": "Events & Celebrations",
+    "titleRu": "События и празднования",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: event, celebration, party, festival, ceremony and practical usage examples.",
+    "keywords": [
+      {
+        "word": "event",
+        "translation": "событие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "celebration",
+        "translation": "празднование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "party",
+        "translation": "вечеринка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "festival",
+        "translation": "фестиваль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ceremony",
+        "translation": "церемония",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wedding",
+        "translation": "свадьба",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "birthday",
+        "translation": "день рождения",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "holiday",
+        "translation": "праздник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "anniversary",
+        "translation": "годовщина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "graduation",
+        "translation": "выпускной",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "concert",
+        "translation": "концерт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "performance",
+        "translation": "выступление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gathering",
+        "translation": "собрание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tradition",
+        "translation": "традиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "culture",
+        "translation": "культура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "music",
+        "translation": "музыка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dance",
+        "translation": "танец",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "food",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "decoration",
+        "translation": "украшение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "special",
+        "translation": "особенный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Event*s and *celebration*s are the moments that bring people together to share joy, honor traditions, and create lasting memories that enrich our lives and strengthen our connections with others. From the intimate *birthday* *party* with close friends to the grand *festival* that draws thousands of people, *event*s and *celebration*s reflect the diversity of human culture and the universal desire to mark important occasions. Let me share a story about how I discovered the power of *event*s and *celebration*s through organizing a community *festival*.\n\nLast year, I volunteered to help organize a local *festival* and found myself immersed in the fascinating world of *event* planning and *celebration* management. I began by learning about different types of *event*s and *celebration*s, understanding how each occasion serves specific purposes and brings people together in unique ways. The process taught me that *event*s and *celebration*s are not just entertainment - they're expressions of *culture*, *tradition*, and community spirit that create bonds between people and preserve important values and customs.\n\nMy journey into understanding *event*s and *celebration*s started with exploring different types of *party*s and their purposes. I learned that a *party* is a social gathering where people come together to enjoy each other's company, while a *festival* is a larger *celebration* that often involves multiple activities, *music*, and *food*. I discovered that both *party*s and *festival*s require careful planning and organization, and that they serve important social and cultural functions in communities.\n\n*Wedding* and *birthday* taught me about personal *celebration*s and life milestones. I learned that a *wedding* is a *ceremony* that celebrates the union of two people in marriage, while a *birthday* is an annual *celebration* of a person's birth and life. I discovered that both *wedding*s and *birthday*s are deeply personal *event*s that bring families and friends together to share joy and create memories that last a lifetime.\n\n*Holiday* and *anniversary* became important concepts for understanding cultural and commemorative *celebration*s. I learned that a *holiday* is a *special* day set aside for *celebration* or commemoration, often with cultural or religious significance, while an *anniversary* is a yearly *celebration* of a *special* date or *event*. I discovered that both *holiday*s and *anniversary*s help people connect with their *culture* and history, and that they provide opportunities for reflection and gratitude.\n\n*Graduation* and *ceremony* taught me about formal *event*s and their significance. I learned that a *graduation* is a *ceremony* that marks the completion of an educational program, while a *ceremony* is a formal *event* that follows established rituals and traditions. I discovered that both *graduation*s and *ceremony*s are important rites of passage that mark significant achievements and transitions in people's lives.\n\n*Concert* and *performance* introduced me to entertainment *event*s and artistic *celebration*s. I learned that a *concert* is a musical *event* where performers play *music* for an audience, while a *performance* is any artistic presentation that entertains or educates viewers. I discovered that both *concert*s and *performance*s are important forms of cultural expression that bring people together to appreciate art and creativity.\n\n*Gathering* and *tradition* became important concepts for understanding the social and cultural aspects of *event*s and *celebration*s. I learned that a *gathering* is a meeting of people for a *special* purpose, while a *tradition* is a custom or practice that is passed down through generations. I discovered that both *gathering*s and *tradition*s are essential for maintaining community bonds and cultural identity, and that they provide continuity and meaning in people's lives.\n\n*Culture* and *music* taught me about the artistic and cultural elements that make *event*s and *celebration*s meaningful. I learned that *culture* refers to the shared beliefs, values, and practices of a group of people, while *music* is an art form that uses sound to express emotions and ideas. I discovered that both *culture* and *music* are central to many *event*s and *celebration*s, and that they help create the atmosphere and meaning that make these occasions *special*.\n\n*Dance* and *food* became important elements for understanding the sensory and social aspects of *celebration*s. I learned that *dance* is a form of artistic expression that uses movement to music, while *food* is essential for nourishing and bringing people together during *event*s. I discovered that both *dance* and *food* are universal elements of *celebration*s that transcend cultural boundaries and create shared experiences.\n\n*Decoration* and *special* became important concepts for understanding how *event*s and *celebration*s are made memorable and meaningful. I learned that *decoration* refers to items used to enhance the visual appeal of a space or *event*, while *special* describes something that is unique, important, or out of the ordinary. I discovered that both *decoration* and *special* elements are essential for creating the atmosphere and significance that make *event*s and *celebration*s memorable and meaningful.\n\n*Event*s and *celebration*s have taught me that these occasions are essential for human connection, cultural preservation, and personal fulfillment. From the simple *birthday* *party* to the elaborate *festival*, *event*s and *celebration*s bring people together to share joy, honor traditions, and create memories that enrich our lives. Understanding the different types of *event*s and *celebration*s has given me a greater appreciation for the role they play in building communities and preserving *culture*, and has inspired me to participate more actively in these meaningful occasions.",
+    "additionalExamples": [
+      {
+        "word": "event",
+        "example": "Event is successful.",
+        "translation": "Событие успешное."
+      },
+      {
+        "word": "celebration",
+        "example": "Celebration is joyful.",
+        "translation": "Празднование радостное."
+      },
+      {
+        "word": "party",
+        "example": "Party is fun.",
+        "translation": "Вечеринка веселая."
+      },
+      {
+        "word": "festival",
+        "example": "Festival is colorful.",
+        "translation": "Фестиваль красочный."
+      },
+      {
+        "word": "ceremony",
+        "example": "Ceremony is formal.",
+        "translation": "Церемония формальная."
+      },
+      {
+        "word": "wedding",
+        "example": "Wedding is beautiful.",
+        "translation": "Свадьба красивая."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The party was a huge success",
+        "translation": "Вечеринка была огромным успехом"
+      },
+      {
+        "phrase": "I'm looking forward to the festival",
+        "translation": "Я с нетерпением жду фестиваль"
+      },
+      {
+        "phrase": "The wedding ceremony was beautiful",
+        "translation": "Свадебная церемония была красивой"
+      },
+      {
+        "phrase": "Happy birthday! Let's celebrate",
+        "translation": "С днем рождения! Давайте праздновать"
+      },
+      {
+        "phrase": "The concert was amazing",
+        "translation": "Концерт был потрясающим"
+      },
+      {
+        "phrase": "The graduation ceremony is tomorrow",
+        "translation": "Церемония выпуска завтра"
+      },
+      {
+        "phrase": "The holiday celebration was wonderful",
+        "translation": "Праздничное торжество было замечательным"
+      },
+      {
+        "phrase": "The anniversary party was special",
+        "translation": "Празднование годовщины было особенным"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Event** is countable and refers to a happening or occasion.\n- **Celebration** is countable and refers to a festive occasion.\n- **Party** is countable and refers to a social gathering.\n- **Festival** is countable and refers to a large celebration.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Music Instruments",
+        "slug": "music-instruments",
+        "url": "/lessons/eng/b1b2/music-instruments"
+      },
+      {
+        "name": "Holidays Seasons",
+        "slug": "holidays-seasons",
+        "url": "/lessons/eng/b1b2/holidays-seasons"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/events-celebrations"
+  },
+  {
+    "id": 36,
     "slug": "family-relationships",
     "title": "Family & Relationships",
     "titleRu": "Семья и отношения",
@@ -2200,13 +7384,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
     ],
-    "category": "Family Relationships",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/family-relationships"
   },
   {
-    "id": 11,
+    "id": 37,
+    "slug": "fashion-accessories",
+    "title": "Fashion & Accessories",
+    "titleRu": "Мода и аксессуары",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: fashion, accessory, style, trend, clothing and practical usage examples.",
+    "keywords": [
+      {
+        "word": "fashion",
+        "translation": "мода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "accessory",
+        "translation": "аксессуар",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "trend",
+        "translation": "тренд",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "clothing",
+        "translation": "одежда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dress",
+        "translation": "платье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shirt",
+        "translation": "рубашка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pants",
+        "translation": "брюки",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shoes",
+        "translation": "обувь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hat",
+        "translation": "шляпа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bag",
+        "translation": "сумка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "jewelry",
+        "translation": "украшения",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "watch",
+        "translation": "часы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "belt",
+        "translation": "ремень",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "scarf",
+        "translation": "шарф",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sunglasses",
+        "translation": "солнцезащитные очки",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "designer",
+        "translation": "дизайнер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "brand",
+        "translation": "бренд",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "elegant",
+        "translation": "элегантный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "stylish",
+        "translation": "стильный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Fashion* and *accessories* represent the ever-evolving world of personal *style* and self-expression, where *clothing*, *jewelry*, and *accessories* come together to create unique and *stylish* looks. From *designer* *dress*es to statement *jewelry*, *fashion* allows individuals to express their personality and follow current *trend*s. Let me share a story about how I discovered the fascinating world of *fashion* and *accessories*.\n\nLast year, I decided to revamp my wardrobe and learn more about *fashion* and personal *style*. I began by researching current *trend*s and *designer* collections, learning about different *brand*s and how to create *stylish* outfits that reflected my personality. The process taught me that *fashion* is not just about following *trend*s - it's about developing a personal *style* that makes you feel confident and *elegant*.\n\nMy journey into *fashion* started with understanding the basics of *clothing* and how different pieces work together. I learned that a well-chosen *dress* could be the foundation of a *stylish* outfit, while the right *shirt* and *pants* combination could create a professional and *elegant* look. *Fashion* is about finding pieces that flatter your body and express your personal *style*.\n\n*Accessories* became the key to elevating my *fashion* game. I discovered that a *stylish* *bag* could transform a simple outfit, while *jewelry* could add personality and sophistication to any look. A *watch* became an essential *accessory* that combined functionality with *fashion*, while a *belt* could define the waist and create a more *elegant* silhouette.\n\n*Shoes* proved to be crucial *accessories* that could make or break an outfit. I learned that the right *shoes* could complete a *stylish* look and provide comfort throughout the day. From *elegant* heels for special occasions to comfortable flats for daily wear, *shoes* became an important part of my *fashion* choices.\n\n*Hats* and *scarves* added versatility to my wardrobe, allowing me to change my *style* and adapt to different seasons and occasions. A *stylish* *hat* could protect from the sun while adding a *fashion*-forward element to an outfit, while a *scarf* could provide warmth and color to any ensemble.\n\n*Sunglasses* became both a practical *accessory* and a *fashion* statement. I learned that the right *sunglasses* could protect my eyes while adding a *stylish* and *elegant* touch to my overall look. *Fashion* *accessories* like *sunglasses* demonstrate how functionality and *style* can work together.\n\n*Fashion* and *accessories* have taught me that personal *style* is about more than just *clothing* - it's about creating a cohesive look that reflects your personality and makes you feel confident. Each *accessory* - from a *stylish* *bag* to *elegant* *jewelry* - contributes to a complete *fashion* statement that expresses individual *style* and follows current *trend*s while maintaining personal authenticity.",
+    "additionalExamples": [
+      {
+        "word": "fashion",
+        "example": "Fashion is ever-changing.",
+        "translation": "Мода постоянно меняется."
+      },
+      {
+        "word": "accessory",
+        "example": "Accessory completes the look.",
+        "translation": "Аксессуар завершает образ."
+      },
+      {
+        "word": "style",
+        "example": "Style is personal.",
+        "translation": "Стиль личный."
+      },
+      {
+        "word": "trend",
+        "example": "Trend is popular.",
+        "translation": "Тренд популярен."
+      },
+      {
+        "word": "clothing",
+        "example": "Clothing is essential.",
+        "translation": "Одежда необходима."
+      },
+      {
+        "word": "dress",
+        "example": "Dress is elegant.",
+        "translation": "Платье элегантное."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Fashion fades, style is eternal",
+        "translation": "Мода проходит, стиль остается"
+      },
+      {
+        "phrase": "Dress for success",
+        "translation": "Одевайся для успеха"
+      },
+      {
+        "phrase": "Beauty is in the eye of the beholder",
+        "translation": "Красота в глазах смотрящего"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Clothes make the man",
+        "translation": "По одежке встречают"
+      },
+      {
+        "phrase": "Fashion victim",
+        "translation": "Жертва моды"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Fashion** is uncountable and refers to the style of clothing.\n- **Accessory** is countable and refers to an additional item.\n- **Style** is uncountable and refers to a distinctive manner.\n- **Clothing** is uncountable and refers to clothes in general.",
+    "relatedTopics": [
+      {
+        "name": "Beauty Cosmetics",
+        "slug": "beauty-cosmetics",
+        "url": "/lessons/eng/b1b2/beauty-cosmetics"
+      },
+      {
+        "name": "Shopping Retail",
+        "slug": "shopping-retail",
+        "url": "/lessons/eng/b1b2/shopping-retail"
+      },
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/fashion-accessories"
+  },
+  {
+    "id": 38,
     "slug": "feelings-emotions",
     "title": "Feelings & Emotions",
     "titleRu": "Чувства и эмоции",
@@ -2509,13 +7889,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
     ],
-    "category": "Feelings Emotions",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/feelings-emotions"
   },
   {
-    "id": 12,
+    "id": 39,
+    "slug": "film-cinema",
+    "title": "Film & Cinema",
+    "titleRu": "Фильм и кино",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: film, cinema, movie, director, actor and practical usage examples.",
+    "keywords": [
+      {
+        "word": "film",
+        "translation": "фильм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cinema",
+        "translation": "кино",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "movie",
+        "translation": "фильм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "director",
+        "translation": "режиссер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "actor",
+        "translation": "актер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "actress",
+        "translation": "актриса",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "screen",
+        "translation": "экран",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "scene",
+        "translation": "сцена",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "story",
+        "translation": "история",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "character",
+        "translation": "персонаж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plot",
+        "translation": "сюжет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "script",
+        "translation": "сценарий",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "camera",
+        "translation": "камера",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "production",
+        "translation": "производство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "audience",
+        "translation": "аудитория",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "theater",
+        "translation": "театр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "entertainment",
+        "translation": "развлечение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drama",
+        "translation": "драма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "comedy",
+        "translation": "комедия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "action",
+        "translation": "боевик",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Film* and *cinema* represent one of the most powerful and influential art forms of the modern era, combining visual storytelling, dramatic performance, and technological innovation to create experiences that entertain, educate, and inspire audiences around the world. Through the collaborative efforts of *directors*, *actors*, and countless other professionals, *movies* transport us to different worlds and help us understand the human experience in profound ways. Let me share a story about how I discovered the incredible artistry and cultural significance of *film* and *cinema*.\n\nLast *year*, I attended a *film* festival that showcased both classic and contemporary *cinema*, which opened my eyes to the incredible diversity and artistic achievement of the *film* industry. I had always enjoyed watching *movies*, but this experience taught me about the complex creative and technical processes that bring *films* to life on the *screen*.\n\nMy journey began with understanding the role of the *director* as the creative visionary who orchestrates all elements of *film* production. I learned that a *director* is not just someone who tells *actors* what to do – they're artists who interpret *scripts*, guide *actors*' performances, and make countless creative decisions that shape the final *film*. The *directors* I studied taught me about the importance of vision, leadership, and the ability to collaborate with diverse creative professionals.\n\n*Actors* and *actresses* revealed the incredible skill and dedication required to bring *characters* to life on *screen*. I discovered that *acting* is not just about memorizing lines – it's about understanding human psychology, developing *characters*, and creating authentic emotional experiences that resonate with *audiences*. The *actors* I observed taught me about the importance of empathy, vulnerability, and the courage to explore complex human emotions.\n\n*Scripts* and *storytelling* showed me how *films* begin with compelling narratives and well-developed *characters*. I learned that a good *script* is not just about dialogue – it's about structure, pacing, and the ability to create *stories* that engage *audiences* from beginning to end. The *scripts* I analyzed taught me about the importance of conflict, character development, and the art of visual storytelling.\n\n*Camera* work and cinematography revealed the visual artistry that makes *films* so compelling and memorable. I discovered that *camera* work is not just about recording action – it's about composition, lighting, and movement that enhance the emotional impact of *scenes* and guide the *audience*'s attention. The cinematography I studied taught me about the importance of visual language and the way images can communicate meaning without words.\n\n*Production* and the collaborative nature of *film* making showed me how hundreds of professionals work together to create a single *movie*. I learned that *film* *production* is not just about creativity – it's about organization, problem-solving, and the ability to manage complex projects with tight deadlines and budgets. The *production* process I observed taught me about the importance of teamwork and the way individual contributions combine to create something greater than the sum of its parts.\n\n*Theaters* and the *cinema* experience revealed the communal aspect of *film* viewing and the way *movies* bring people together. I discovered that watching *films* in a *theater* is not just about seeing a *movie* – it's about sharing an experience with other *audience* members and being part of a collective emotional journey. The *theater* experiences I had taught me about the importance of shared cultural experiences and the way *cinema* creates community.\n\nDifferent *genres* like *drama*, *comedy*, and *action* showed me how *films* can serve different purposes and appeal to different *audiences*. I learned that *genre* is not just about categorization – it's about understanding *audience* expectations and using established conventions to create new and innovative *stories*. The different *genres* I explored taught me about the importance of understanding *audience* needs while still pushing creative boundaries.\n\n*Entertainment* and cultural impact revealed how *films* influence society and reflect the values and concerns of their time. I discovered that *cinema* is not just about *entertainment* – it's about cultural expression, social commentary, and the ability to shape public opinion and awareness. The *films* I studied taught me about the responsibility that comes with creating *movies* and the power of *cinema* to influence culture and society.\n\nWhat I love most about my exploration of *film* and *cinema* is how it revealed the incredible collaborative nature of *movie* making and the way different artistic disciplines combine to create powerful storytelling experiences. I learned that great *films* are not just the work of individual artists – they're the result of hundreds of people working together to bring a shared vision to life.\n\n*Film* and *cinema* have taught me that *movies* are more than just *entertainment* – they're a powerful medium for exploring human experience, sharing stories, and creating connections between people across cultures and generations. By understanding and appreciating the art of *cinema*, we can become more thoughtful viewers and better appreciate the incredible creativity and collaboration that goes into making the *films* we love.",
+    "additionalExamples": [
+      {
+        "word": "film",
+        "example": "This film is very moving.",
+        "translation": "Этот фильм очень трогательный."
+      },
+      {
+        "word": "cinema",
+        "example": "Cinema is a powerful art form.",
+        "translation": "Кино - мощная форма искусства."
+      },
+      {
+        "word": "movie",
+        "example": "The movie was entertaining.",
+        "translation": "Фильм был развлекательным."
+      },
+      {
+        "word": "director",
+        "example": "The director is very talented.",
+        "translation": "Режиссер очень талантливый."
+      },
+      {
+        "word": "actor",
+        "example": "The actor gave a great performance.",
+        "translation": "Актер дал отличное выступление."
+      },
+      {
+        "word": "screen",
+        "example": "The screen was very large.",
+        "translation": "Экран был очень большой."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The show must go on",
+        "translation": "Шоу должно продолжаться"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "A picture is worth a thousand words",
+        "translation": "Лучше один раз увидеть"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Actions speak louder than words",
+        "translation": "Дела говорят громче слов"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Film** is countable and can refer to individual movies or the medium.\n- **Cinema** is uncountable and refers to the art form or industry.\n- **Movie** is countable and is more informal than \"film\".\n- **Actor** and **actress** are countable and refer to people who perform in films.",
+    "relatedTopics": [
+      {
+        "name": "Entertainment Media",
+        "slug": "entertainment-media",
+        "url": "/lessons/eng/b1b2/entertainment-media"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Storytelling Narrative",
+        "slug": "storytelling-narrative",
+        "url": "/lessons/eng/b1b2/storytelling-narrative"
+      },
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/film-cinema"
+  },
+  {
+    "id": 40,
     "slug": "food-cooking",
     "title": "Food & Cooking",
     "titleRu": "Еда и приготовление пищи",
@@ -2708,13 +8284,1605 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/family-relationships"
       }
     ],
-    "category": "Food Cooking",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/food-cooking"
   },
   {
-    "id": 13,
+    "id": 41,
+    "slug": "food-drink",
+    "title": "Food & Drink",
+    "titleRu": "Еда и напитки",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: food, drink, meal, breakfast, lunch and practical usage examples.",
+    "keywords": [
+      {
+        "word": "food",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drink",
+        "translation": "напиток",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meal",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "breakfast",
+        "translation": "завтрак",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lunch",
+        "translation": "обед",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dinner",
+        "translation": "ужин",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "snack",
+        "translation": "закуска",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "taste",
+        "translation": "вкус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "flavor",
+        "translation": "аромат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "recipe",
+        "translation": "рецепт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cooking",
+        "translation": "готовка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "eating",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drinking",
+        "translation": "питье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "healthy",
+        "translation": "здоровый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "delicious",
+        "translation": "вкусный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "fresh",
+        "translation": "свежий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "hot",
+        "translation": "горячий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "cold",
+        "translation": "холодный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "sweet",
+        "translation": "сладкий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "salty",
+        "translation": "соленый",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Food* and *drink* are the essential elements that nourish our bodies and bring people together through shared *meal*s and culinary experiences. From *breakfast* to *dinner*, *food* provides the energy and nutrients we need to live, while *drink*s quench our thirst and complement our *meal*s. Let me share a story about how I discovered the incredible world of *food* and *drink* and their role in our daily lives.\n\nLast year, I decided to learn more about *cooking* and *eating* after realizing that I was relying too heavily on processed *food*s and not paying attention to the *taste* and *flavor* of what I was consuming. I began by exploring different *recipe*s and learning about the *cooking* techniques that would help me create *delicious* and *healthy* *meal*s. The process taught me that *food* is not just about sustenance - it's about *taste*, *flavor*, and the joy of *eating* and *drinking*.\n\nMy journey into understanding *food* and *drink* started with *breakfast*, which I learned is the most important *meal* of the day. I discovered that a *healthy* *breakfast* should include a balance of nutrients and *flavor*s that would provide energy for the morning. I began experimenting with different *recipe*s, learning how to create *delicious* *breakfast* *meal*s that were both *healthy* and satisfying.\n\n*Lunch* became my next focus, as I learned about the importance of midday *eating* and *drinking*. I discovered that *lunch* should be substantial enough to provide energy for the afternoon but not so heavy that it would make me sleepy. I learned to prepare *fresh* and *healthy* *lunch* *meal*s that would keep me energized and focused throughout the day.\n\n*Dinner* taught me about the art of evening *cooking* and *eating*. I learned that *dinner* is often the most social *meal* of the day, providing an opportunity to share *food* and *drink* with *family* and friends. I discovered that *dinner* *recipe*s could be more elaborate and *delicious*, allowing for more complex *flavor*s and *cooking* techniques.\n\n*Snack*s became an important part of my *eating* routine, providing energy between *meal*s. I learned that *healthy* *snack*s should be *fresh* and nutritious, offering *taste* and satisfaction without being too heavy. I discovered that *snack*s could be both *sweet* and *salty*, providing variety in *flavor* and *taste*.\n\n*Cooking* became a creative and therapeutic activity that I thoroughly enjoyed. I learned that *cooking* is not just about following *recipe*s - it's about understanding *flavor*s, *taste*s, and how different ingredients work together. I discovered that *cooking* allows for experimentation and creativity, enabling me to create *delicious* and *healthy* *meal*s that reflected my personal *taste* preferences.\n\n*Drinking* became an important complement to *eating*, and I learned about the role of different *drink*s in our daily lives. I discovered that *drinking* water is essential for *health*, while other *drink*s like tea and coffee can provide comfort and energy. I learned that *drinking* should be balanced with *eating* to maintain proper hydration and nutrition.\n\n*Taste* and *flavor* became central to my understanding of *food* and *drink*. I learned that *taste* refers to the basic sensations we experience when *eating* and *drinking*, while *flavor* is the combination of *taste*, aroma, and texture that creates the overall sensory experience. I discovered that developing my *taste* for different *flavor*s would expand my appreciation for *food* and *drink*.\n\n*Food* and *drink* have taught me that *eating* and *drinking* are not just biological necessities - they're cultural experiences that bring people together and provide opportunities for creativity and enjoyment. Each *meal* - from *breakfast* to *dinner* - offers a chance to explore *taste*s and *flavor*s, while *cooking* and *drinking* provide ways to express creativity and share experiences with others.",
+    "additionalExamples": [
+      {
+        "word": "food",
+        "example": "Food is essential.",
+        "translation": "Еда необходима."
+      },
+      {
+        "word": "drink",
+        "example": "Drink is refreshing.",
+        "translation": "Напиток освежающий."
+      },
+      {
+        "word": "meal",
+        "example": "Meal is delicious.",
+        "translation": "Еда вкусная."
+      },
+      {
+        "word": "breakfast",
+        "example": "Breakfast is important.",
+        "translation": "Завтрак важен."
+      },
+      {
+        "word": "lunch",
+        "example": "Lunch is satisfying.",
+        "translation": "Обед сытный."
+      },
+      {
+        "word": "dinner",
+        "example": "Dinner is elegant.",
+        "translation": "Ужин элегантный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "You are what you eat",
+        "translation": "Мы то, что мы едим"
+      },
+      {
+        "phrase": "An apple a day keeps the doctor away",
+        "translation": "Яблоко в день - и врач не нужен"
+      },
+      {
+        "phrase": "Don't put all your eggs in one basket",
+        "translation": "Не клади все яйца в одну корзину"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "Too many cooks spoil the broth",
+        "translation": "У семи нянек дитя без глазу"
+      },
+      {
+        "phrase": "A watched pot never boils",
+        "translation": "За кипящим чайником не следят"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Food** is uncountable and refers to things we eat.\n- **Drink** is countable and refers to a liquid we consume.\n- **Meal** is countable and refers to an occasion of eating.\n- **Taste** is countable and refers to the flavor of something.",
+    "relatedTopics": [
+      {
+        "name": "Kitchen Cooking",
+        "slug": "kitchen-cooking",
+        "url": "/lessons/eng/b1b2/kitchen-cooking"
+      },
+      {
+        "name": "Health Wellness",
+        "slug": "health-wellness",
+        "url": "/lessons/eng/b1b2/health-wellness"
+      },
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Daily Life Routines",
+        "slug": "daily-life-routines",
+        "url": "/lessons/eng/b1b2/daily-life-routines"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/food-drink"
+  },
+  {
+    "id": 42,
+    "slug": "food-types-cuisine",
+    "title": "Food Types & Cuisine",
+    "titleRu": "Типы еды и кухня",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: food, type, cuisine, dish, meal and practical usage examples.",
+    "keywords": [
+      {
+        "word": "food",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "type",
+        "translation": "тип",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cuisine",
+        "translation": "кухня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dish",
+        "translation": "блюдо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meal",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "recipe",
+        "translation": "рецепт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ingredient",
+        "translation": "ингредиент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "flavor",
+        "translation": "вкус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "taste",
+        "translation": "вкус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "spice",
+        "translation": "специя",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "herb",
+        "translation": "трава",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sauce",
+        "translation": "соус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "soup",
+        "translation": "суп",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "salad",
+        "translation": "салат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dessert",
+        "translation": "десерт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "appetizer",
+        "translation": "закуска",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "main",
+        "translation": "основной",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "course",
+        "translation": "блюдо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "traditional",
+        "translation": "традиционный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "international",
+        "translation": "международный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Food* *type*s and *cuisine* represent the incredible diversity of culinary traditions and flavors that reflect the rich tapestry of human culture and geography. From the *traditional* *dish*es passed down through generations to the *international* fusion *cuisine*s that blend different culinary traditions, *food* *type*s and *cuisine* offer endless opportunities to explore new *flavor*s and expand our culinary horizons. Let me share a story about how I discovered the fascinating world of *food* *type*s and *cuisine* through a culinary journey around the world.\n\nLast year, I decided to explore different *cuisine*s and *food* *type*s by trying restaurants from various cultural backgrounds. I began by learning about the basic *ingredient*s and *flavor*s that define different *cuisine*s, understanding how *traditional* cooking methods and *recipe*s create unique *dish*es that reflect the history and geography of different regions. The process taught me that *food* *type*s and *cuisine* are not just about satisfying hunger - they're expressions of culture, history, and creativity that bring people together and create lasting memories.\n\nMy journey into understanding *food* *type*s and *cuisine* started with exploring different *course*s and their purposes in a *meal*. I learned that an *appetizer* is a small *dish* served at the beginning of a *meal* to stimulate the appetite, while the *main* *course* is the primary *dish* that forms the centerpiece of the *meal*. I discovered that *dessert* is a sweet *dish* served at the end of a *meal*, and that understanding the structure of different *course*s helps create balanced and satisfying *meal*s.\n\n*Soup* and *salad* became important concepts for understanding different *food* *type*s and their characteristics. I learned that *soup* is a liquid *dish* made by combining *ingredient*s with broth or water, while *salad* is a *dish* made from fresh vegetables, fruits, or other *ingredient*s. I discovered that both *soup* and *salad* can be served as *appetizer*s or as part of the *main* *course*, and that they offer opportunities to incorporate fresh, healthy *ingredient*s into *meal*s.\n\n*Sauce* and *spice* taught me about the importance of *flavor* enhancement in *cuisine*. I learned that a *sauce* is a liquid or semi-liquid *ingredient* used to add *flavor* and moisture to *dish*es, while a *spice* is a dried plant part used to add *flavor* and aroma to *food*. I discovered that both *sauce*s and *spice*s are essential for creating complex *flavor* profiles and that they often define the character of different *cuisine*s.\n\n*Herb* and *taste* became important concepts for understanding the sensory aspects of *food* and *cuisine*. I learned that an *herb* is a fresh or dried plant used to add *flavor* to *food*, while *taste* refers to the sensation experienced when eating *food*. I discovered that both *herb*s and *taste* are crucial for creating enjoyable *meal*s and that understanding how to balance different *flavor*s is an essential skill in cooking and *cuisine* appreciation.\n\n*Recipe* and *ingredient* became central to my understanding of how *dish*es are created and *cuisine*s are developed. I learned that a *recipe* is a set of instructions for preparing a specific *dish*, while *ingredient*s are the individual *food* items used in cooking. I discovered that both *recipe*s and *ingredient*s are the building blocks of *cuisine*, and that understanding their properties and interactions is essential for creating successful *dish*es.\n\n*Traditional* and *international* became important categories for understanding different approaches to *cuisine*. I learned that *traditional* *cuisine* refers to *food* *type*s and cooking methods that have been passed down through generations within a specific culture, while *international* *cuisine* refers to *food* *type*s and *dish*es that blend elements from different cultural traditions. I discovered that both *traditional* and *international* *cuisine*s offer unique experiences and that they reflect different aspects of culinary evolution and cultural exchange.\n\n*Dish* and *meal* taught me about the different levels of *food* organization and consumption. I learned that a *dish* is a specific prepared *food* item, while a *meal* is a complete eating occasion that may include multiple *dish*es and *course*s. I discovered that both *dish*es and *meal*s are important for understanding *cuisine* and that they provide opportunities to experience the full range of *flavor*s and *ingredient*s that define different culinary traditions.\n\n*Flavor* became the central concept for understanding what makes *food* *type*s and *cuisine* appealing and memorable. I learned that *flavor* refers to the combination of *taste*, aroma, and other sensory qualities that make *food* enjoyable, and that different *cuisine*s are characterized by their unique *flavor* profiles. I discovered that understanding *flavor* is essential for appreciating *cuisine* and that it's the key to creating *dish*es that are both satisfying and memorable.\n\n*Food* *type*s and *cuisine* have taught me that the culinary world is incredibly diverse and offers endless opportunities for exploration and discovery. From the simple *appetizer* to the elaborate *main* *course*, *food* *type*s and *cuisine* reflect the creativity, history, and culture of different peoples and regions. Understanding the different *food* *type*s and *cuisine*s has given me a greater appreciation for the art of cooking and the role that *food* plays in bringing people together and creating shared experiences that transcend cultural boundaries.",
+    "additionalExamples": [
+      {
+        "word": "food",
+        "example": "Food is delicious.",
+        "translation": "Еда вкусная."
+      },
+      {
+        "word": "type",
+        "example": "Type is popular.",
+        "translation": "Тип популярный."
+      },
+      {
+        "word": "cuisine",
+        "example": "Cuisine is authentic.",
+        "translation": "Кухня аутентичная."
+      },
+      {
+        "word": "dish",
+        "example": "Dish is traditional.",
+        "translation": "Блюдо традиционное."
+      },
+      {
+        "word": "meal",
+        "example": "Meal is satisfying.",
+        "translation": "Еда сытная."
+      },
+      {
+        "word": "recipe",
+        "example": "Recipe is simple.",
+        "translation": "Рецепт простой."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "This cuisine is absolutely delicious",
+        "translation": "Эта кухня абсолютно вкусная"
+      },
+      {
+        "phrase": "I love trying new food types",
+        "translation": "Я люблю пробовать новые типы еды"
+      },
+      {
+        "phrase": "The dish has amazing flavors",
+        "translation": "Блюдо имеет потрясающие вкусы"
+      },
+      {
+        "phrase": "Traditional recipes are the best",
+        "translation": "Традиционные рецепты лучшие"
+      },
+      {
+        "phrase": "The meal was perfectly balanced",
+        "translation": "Еда была идеально сбалансирована"
+      },
+      {
+        "phrase": "International cuisine is fascinating",
+        "translation": "Международная кухня увлекательная"
+      },
+      {
+        "phrase": "The ingredients are fresh and local",
+        "translation": "Ингредиенты свежие и местные"
+      },
+      {
+        "phrase": "This dessert is the perfect ending",
+        "translation": "Этот десерт - идеальное завершение"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Food** is uncountable and refers to things people eat.\n- **Type** is countable and refers to a category of food.\n- **Cuisine** is countable and refers to a style of cooking.\n- **Dish** is countable and refers to a specific prepared food.",
+    "relatedTopics": [
+      {
+        "name": "Food Drink",
+        "slug": "food-drink",
+        "url": "/lessons/eng/b1b2/food-drink"
+      },
+      {
+        "name": "Kitchen Cooking",
+        "slug": "kitchen-cooking",
+        "url": "/lessons/eng/b1b2/kitchen-cooking"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/food-types-cuisine"
+  },
+  {
+    "id": 43,
+    "slug": "free-society",
+    "title": "Free Society",
+    "titleRu": "Свободное общество",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: freedom, liberty, democracy, rights, choice and practical usage examples.",
+    "keywords": [
+      {
+        "word": "freedom",
+        "translation": "свобода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "liberty",
+        "translation": "свобода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "democracy",
+        "translation": "демократия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rights",
+        "translation": "права",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "choice",
+        "translation": "выбор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "opportunity",
+        "translation": "возможность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "equality",
+        "translation": "равенство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "justice",
+        "translation": "справедливость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "law",
+        "translation": "закон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "government",
+        "translation": "правительство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "citizen",
+        "translation": "гражданин",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vote",
+        "translation": "голосовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "participate",
+        "translation": "участвовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "express",
+        "translation": "выражать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "believe",
+        "translation": "верить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "think",
+        "translation": "думать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "speak",
+        "translation": "говорить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "assemble",
+        "translation": "собираться",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "protest",
+        "translation": "протестовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "protect",
+        "translation": "защищать",
+        "partOfSpeech": "verb"
+      }
+    ],
+    "mainText": "A *free* society represents humanity's highest aspiration for organizing human relationships and governance, where *freedom*, *liberty*, and *democracy* create the conditions for human flourishing and individual dignity. The principles of a *free* society provide the foundation for *rights*, *opportunities*, and *justice* that allow people to pursue their dreams and contribute to the common good. Let me share a story about how I discovered the incredible value and fragility of living in a *free* society.\n\nLast *year*, I had the opportunity to study the history and principles of *democracy* and *freedom*, which opened my eyes to the incredible achievements and ongoing challenges of building and maintaining a *free* society. I had always taken my *freedoms* for granted, but this experience taught me about the complex systems, institutions, and *citizen* participation that make *liberty* possible.\n\nMy journey began with understanding the fundamental *rights* that form the foundation of a *free* society. I learned that *rights* are not just legal concepts – they're the essential conditions that allow people to live with dignity, pursue their goals, and participate fully in society. The *right* to *speak* freely, *think* independently, and *express* one's beliefs became more meaningful as I understood their role in protecting human dignity and enabling social progress.\n\n*Democracy* revealed itself as the political system that best protects and promotes *freedom* and *liberty*. I discovered that *democracy* is not just about voting – it's about creating institutions and processes that allow *citizens* to *participate* in governance, hold leaders accountable, and ensure that *government* serves the people rather than the other way around. The *democratic* process taught me about the importance of *citizen* engagement and the responsibility that comes with *freedom*.\n\n*Choice* and *opportunity* showed me how *freedom* enables human potential and creativity. I learned that *choice* is not just about personal preferences – it's about the ability to make decisions about one's life, career, relationships, and beliefs without coercion or fear. The *opportunities* I enjoyed taught me about the importance of creating conditions where everyone can pursue their dreams and contribute their talents to society.\n\n*Equality* and *justice* revealed the moral foundations of a *free* society. I discovered that *equality* is not just about treating everyone the same – it's about ensuring that everyone has equal *opportunities* to succeed and that *justice* is applied fairly regardless of background or circumstances. The *equality* I experienced taught me about the importance of removing barriers and creating conditions where everyone can thrive.\n\n*Law* and *government* showed me how *freedom* requires structure and protection. I learned that *law* is not just about rules and restrictions – it's about creating a framework that protects *rights*, resolves conflicts, and ensures that *freedom* for one person doesn't infringe on the *freedom* of others. The *government* I observed taught me about the importance of limited, accountable *government* that serves the people rather than ruling over them.\n\n*Citizen* participation revealed the active role that people must play in maintaining a *free* society. I discovered that being a *citizen* is not just about having *rights* – it's about taking *responsibility* for participating in *democracy*, staying informed about issues, and working to improve society for everyone. The *citizen* engagement I witnessed taught me about the importance of civic *duty* and the power of collective action.\n\n*Protest* and *assembly* showed me how *freedom* of expression enables social change and progress. I learned that the *right* to *protest* and *assemble* is not just about expressing disagreement – it's about creating space for dialogue, debate, and peaceful change that strengthens *democracy* and protects *liberty*. The *protests* I observed taught me about the importance of protecting *freedom* of expression even when we disagree with the message.\n\nWhat I love most about my exploration of *free* society is how it revealed the incredible complexity and beauty of systems that protect and promote human *freedom*. I learned that *freedom* is not just the absence of restrictions – it's the presence of conditions that allow people to flourish and contribute to the common good.\n\n*Free* society has taught me that *liberty* and *democracy* are precious achievements that require constant vigilance, *citizen* participation, and commitment to the *principles* that make them possible. By understanding and appreciating the value of *freedom*, we can become better *citizens* and work to protect and strengthen the *free* society that allows us to pursue our dreams and live with dignity.",
+    "additionalExamples": [
+      {
+        "word": "freedom",
+        "example": "Freedom is precious.",
+        "translation": "Свобода драгоценна."
+      },
+      {
+        "word": "liberty",
+        "example": "Liberty must be protected.",
+        "translation": "Свободу нужно защищать."
+      },
+      {
+        "word": "democracy",
+        "example": "Democracy requires participation.",
+        "translation": "Демократия требует участия."
+      },
+      {
+        "word": "rights",
+        "example": "Everyone has basic rights.",
+        "translation": "У всех есть основные права."
+      },
+      {
+        "word": "choice",
+        "example": "You have the right to choose.",
+        "translation": "У вас есть право выбирать."
+      },
+      {
+        "word": "opportunity",
+        "example": "Equal opportunity is important.",
+        "translation": "Равные возможности важны."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Freedom is not free",
+        "translation": "Свобода не бесплатна"
+      },
+      {
+        "phrase": "The price of liberty is eternal vigilance",
+        "translation": "Цена свободы - вечная бдительность"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Freedom** and **liberty** are usually uncountable and refer to the state of being free.\n- **Democracy** is uncountable and refers to the political system.\n- **Rights** is plural and refers to legal or moral entitlements.\n- **Choice** is countable and refers to specific options or decisions.",
+    "relatedTopics": [
+      {
+        "name": "Government Politics",
+        "slug": "government-politics",
+        "url": "/lessons/eng/b1b2/government-politics"
+      },
+      {
+        "name": "Law Justice",
+        "slug": "law-justice",
+        "url": "/lessons/eng/b1b2/law-justice"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      },
+      {
+        "name": "Philosophy Thought",
+        "slug": "philosophy-thought",
+        "url": "/lessons/eng/b1b2/philosophy-thought"
+      }
+    ],
+    "category": "politics_law",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/free-society"
+  },
+  {
+    "id": 44,
+    "slug": "furniture-home-decor",
+    "title": "Furniture & Home Decor",
+    "titleRu": "Мебель и домашний декор",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: furniture, chair, table, bed, sofa and practical usage examples.",
+    "keywords": [
+      {
+        "word": "furniture",
+        "translation": "мебель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "chair",
+        "translation": "стул",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "table",
+        "translation": "стол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bed",
+        "translation": "кровать",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sofa",
+        "translation": "диван",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "desk",
+        "translation": "письменный стол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shelf",
+        "translation": "полка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cabinet",
+        "translation": "шкаф",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lamp",
+        "translation": "лампа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mirror",
+        "translation": "зеркало",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "decoration",
+        "translation": "украшение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "design",
+        "translation": "дизайн",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "color",
+        "translation": "цвет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "material",
+        "translation": "материал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wood",
+        "translation": "дерево",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "metal",
+        "translation": "металл",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fabric",
+        "translation": "ткань",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "comfortable",
+        "translation": "удобный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "beautiful",
+        "translation": "красивый",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Furniture* and *home* *decor* play essential roles in creating comfortable, *beautiful* living spaces that reflect personal *style* and *design* preferences. From functional *chair*s and *table*s to decorative *lamp*s and *mirror*s, *furniture* serves both practical and aesthetic purposes in our homes. Let me share a story about how I discovered the art of *furniture* selection and *home* *decor*.\n\nLast year, I moved into a new apartment and faced the exciting *challenge* of furnishing it from scratch. I began by researching different *furniture* *style*s and *design* trends, learning about various *material*s like *wood*, *metal*, and *fabric* that could create the perfect living environment. The process taught me that *furniture* is not just about functionality - it's about creating a *beautiful* and *comfortable* space that reflects personal taste.\n\nMy first major purchase was a *sofa* that would serve as the centerpiece of my living room. I chose a *comfortable* *fabric* *sofa* in a neutral *color* that would complement various *decoration* styles. The *sofa* needed to be both *beautiful* and functional, providing seating for *family* and *friends* while enhancing the overall *design* of the room.\n\nNext, I selected a *table* for the dining area, choosing a *wood* *table* that would be durable and *beautiful*. The *table* needed to accommodate *family* meals and *party* gatherings, so I considered both size and *style* when making my decision. I paired it with *chair*s that matched the *table*'s *design* and provided *comfortable* seating for extended meals.\n\nThe bedroom required a *bed* that would be both *comfortable* and *beautiful*. I chose a *wood* *bed* frame with a simple *design* that would complement various *decoration* styles. The *bed* needed to provide restful sleep while serving as a focal point for the room's *decor*. I added a *lamp* for reading and a *mirror* for getting ready in the morning.\n\nStorage solutions included *cabinet*s and *shelf* units that would organize my belongings while contributing to the room's *design*. I selected *wood* *cabinet*s that matched the *style* of other *furniture* pieces, ensuring a cohesive look throughout the apartment. The *shelf* units provided display space for *decoration*s and books, adding personality to the living space.\n\n*Furniture* and *home* *decor* have taught me that creating a *beautiful* living space is about balancing functionality with aesthetics. Each piece of *furniture* - from the *chair* I sit in to the *table* where I eat - contributes to the overall *design* and *comfort* of my home. The *decoration*s, *color*s, and *material*s I choose reflect my personal *style* and create a space that feels both *comfortable* and *beautiful*.",
+    "additionalExamples": [
+      {
+        "word": "furniture",
+        "example": "Furniture is expensive.",
+        "translation": "Мебель дорогая."
+      },
+      {
+        "word": "chair",
+        "example": "The chair is comfortable.",
+        "translation": "Стул удобный."
+      },
+      {
+        "word": "table",
+        "example": "The table is large.",
+        "translation": "Стол большой."
+      },
+      {
+        "word": "bed",
+        "example": "The bed is soft.",
+        "translation": "Кровать мягкая."
+      },
+      {
+        "word": "sofa",
+        "example": "The sofa is modern.",
+        "translation": "Диван современный."
+      },
+      {
+        "word": "desk",
+        "example": "The desk is organized.",
+        "translation": "Письменный стол организован."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Home is where the heart is",
+        "translation": "Дом там, где сердце"
+      },
+      {
+        "phrase": "Make yourself at home",
+        "translation": "Чувствуйте себя как дома"
+      },
+      {
+        "phrase": "A place for everything and everything in its place",
+        "translation": "Всему свое место"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Beauty is in the eye of the beholder",
+        "translation": "Красота в глазах смотрящего"
+      },
+      {
+        "phrase": "Form follows function",
+        "translation": "Форма следует за функцией"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Furniture** is uncountable and refers to movable objects in a room.\n- **Chair** is countable and refers to a seat with a back.\n- **Table** is countable and refers to a flat surface on legs.\n- **Bed** is countable and refers to a piece of furniture for sleeping.",
+    "relatedTopics": [
+      {
+        "name": "Home Household",
+        "slug": "home-household",
+        "url": "/lessons/eng/b1b2/home-household"
+      },
+      {
+        "name": "Shopping Retail",
+        "slug": "shopping-retail",
+        "url": "/lessons/eng/b1b2/shopping-retail"
+      },
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      },
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/furniture-home-decor"
+  },
+  {
+    "id": 45,
+    "slug": "furniture-home-items",
+    "title": "Furniture & Home Items",
+    "titleRu": "Мебель и предметы домашнего обихода",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: furniture, home, item, chair, table and practical usage examples.",
+    "keywords": [
+      {
+        "word": "furniture",
+        "translation": "мебель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "home",
+        "translation": "дом",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "item",
+        "translation": "предмет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "chair",
+        "translation": "стул",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "table",
+        "translation": "стол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bed",
+        "translation": "кровать",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sofa",
+        "translation": "диван",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "desk",
+        "translation": "письменный стол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "shelf",
+        "translation": "полка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cabinet",
+        "translation": "шкаф",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lamp",
+        "translation": "лампа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mirror",
+        "translation": "зеркало",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "carpet",
+        "translation": "ковер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "curtain",
+        "translation": "занавеска",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pillow",
+        "translation": "подушка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "blanket",
+        "translation": "одеяло",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "decoration",
+        "translation": "украшение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "comfort",
+        "translation": "комфорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "design",
+        "translation": "дизайн",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Furniture* and *home* *item*s are the essential elements that transform a house into a comfortable and functional living space, from the *chair* where we sit to the *bed* where we rest. Understanding *furniture* and *home* *item*s helps us create living environments that reflect our personal *style* and provide the *comfort* and functionality we need for daily life. Let me share a story about how I discovered the importance of *furniture* and *home* *item*s through a home decorating project.\n\nLast year, I decided to redecorate my living room and found myself immersed in the world of *furniture* and *home* *item*s. I began by learning about different types of *furniture* and their functions, understanding how each piece contributes to the overall *design* and *comfort* of a living space. The process taught me that *furniture* and *home* *item*s are not just functional objects - they're expressions of personal *style* and essential components of a comfortable *home* environment.\n\nMy journey into understanding *furniture* and *home* *item*s started with exploring seating *furniture* like *chair*s and *sofa*s. I learned that a *chair* is a piece of *furniture* designed for sitting, while a *sofa* is a larger seating piece that can accommodate multiple people. I discovered that both *chair*s and *sofa*s come in various *style*s and materials, and that choosing the right seating *furniture* depends on factors like *comfort*, *style*, and the available space in the *home*.\n\n*Table* and *desk* became important concepts for understanding work and dining *furniture*. I learned that a *table* is a flat surface supported by legs, used for dining, work, or display purposes, while a *desk* is a specialized *table* designed for work or study. I discovered that both *table*s and *desk*s are essential for daily activities and that their *design* and placement can significantly affect the functionality and *comfort* of a living space.\n\n*Bed* and *pillow* taught me about bedroom *furniture* and sleep essentials. I learned that a *bed* is a piece of *furniture* designed for sleeping, while a *pillow* is a soft cushion used to support the head during sleep. I discovered that both *bed*s and *pillow*s are crucial for quality sleep and that their *comfort* and *design* can significantly impact overall well-being and rest.\n\n*Shelf* and *cabinet* introduced me to storage *furniture* and organization solutions. I learned that a *shelf* is a horizontal surface used for storing and displaying *item*s, while a *cabinet* is a piece of *furniture* with doors and shelves for storage. I discovered that both *shelf*s and *cabinet*s are essential for keeping a *home* organized and that their *design* and placement can affect both functionality and aesthetic appeal.\n\n*Lamp* and *mirror* became important concepts for understanding lighting and reflection *home* *item*s. I learned that a *lamp* is a *home* *item* that provides light and can also serve as a *decoration*, while a *mirror* is a reflective surface used for grooming and as a decorative element. I discovered that both *lamp*s and *mirror*s are essential for creating a well-lit and visually appealing living space.\n\n*Carpet* and *curtain* taught me about floor and window *home* *item*s. I learned that a *carpet* is a floor covering that provides *comfort* and warmth, while a *curtain* is a fabric covering for windows that provides privacy and light control. I discovered that both *carpet*s and *curtain*s are important for creating a comfortable and private living environment and that their *style* and *design* can significantly affect the overall aesthetic of a room.\n\n*Blanket* and *decoration* became important concepts for understanding comfort and aesthetic *home* *item*s. I learned that a *blanket* is a soft covering used for warmth and *comfort*, while *decoration* refers to *item*s used to enhance the visual appeal of a space. I discovered that both *blanket*s and *decoration*s are essential for creating a comfortable and visually appealing living environment.\n\n*Comfort* and *style* became central to my understanding of *furniture* and *home* *item* selection. I learned that *comfort* refers to the physical and psychological well-being provided by *furniture* and *home* *item*s, while *style* refers to the aesthetic characteristics that define the appearance of a living space. I discovered that both *comfort* and *style* are important considerations when choosing *furniture* and *home* *item*s, and that the best choices balance both factors.\n\n*Design* became important for understanding how *furniture* and *home* *item*s work together to create cohesive living spaces. I learned that *design* refers to the planning and arrangement of *furniture* and *home* *item*s to create functional and aesthetically pleasing spaces. I discovered that good *design* considers factors like space utilization, traffic flow, and visual harmony, and that it's essential for creating a comfortable and functional *home* environment.\n\n*Furniture* and *home* *item*s have taught me that creating a comfortable and functional living space requires careful consideration of both practical needs and aesthetic preferences. From the essential *chair* and *table* to the decorative *lamp* and *mirror*, each piece of *furniture* and *home* *item* contributes to the overall *comfort* and *style* of a living environment. Understanding the different types of *furniture* and *home* *item*s has helped me make better choices about how to furnish and decorate my living space, creating a *home* that reflects my personal *style* and provides the *comfort* and functionality I need for daily life.",
+    "additionalExamples": [
+      {
+        "word": "furniture",
+        "example": "Furniture is comfortable.",
+        "translation": "Мебель удобная."
+      },
+      {
+        "word": "home",
+        "example": "Home is cozy.",
+        "translation": "Дом уютный."
+      },
+      {
+        "word": "item",
+        "example": "Item is useful.",
+        "translation": "Предмет полезный."
+      },
+      {
+        "word": "chair",
+        "example": "Chair is ergonomic.",
+        "translation": "Стул эргономичный."
+      },
+      {
+        "word": "table",
+        "example": "Table is sturdy.",
+        "translation": "Стол прочный."
+      },
+      {
+        "word": "bed",
+        "example": "Bed is comfortable.",
+        "translation": "Кровать удобная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I need to buy new furniture",
+        "translation": "Мне нужно купить новую мебель"
+      },
+      {
+        "phrase": "The chair is very comfortable",
+        "translation": "Стул очень удобный"
+      },
+      {
+        "phrase": "The table needs to be cleaned",
+        "translation": "Стол нужно почистить"
+      },
+      {
+        "phrase": "I love the style of this sofa",
+        "translation": "Мне нравится стиль этого дивана"
+      },
+      {
+        "phrase": "The bed is too soft",
+        "translation": "Кровать слишком мягкая"
+      },
+      {
+        "phrase": "The lamp provides good lighting",
+        "translation": "Лампа дает хорошее освещение"
+      },
+      {
+        "phrase": "The mirror makes the room look bigger",
+        "translation": "Зеркало делает комнату больше"
+      },
+      {
+        "phrase": "The carpet adds warmth to the room",
+        "translation": "Ковер добавляет тепла в комнату"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Furniture** is uncountable and refers to movable objects in a room.\n- **Home** is countable and refers to a place where someone lives.\n- **Item** is countable and refers to a single object.\n- **Chair** is countable and refers to a seat with a back.",
+    "relatedTopics": [
+      {
+        "name": "Home Household",
+        "slug": "home-household",
+        "url": "/lessons/eng/b1b2/home-household"
+      },
+      {
+        "name": "Design Architecture",
+        "slug": "design-architecture",
+        "url": "/lessons/eng/b1b2/design-architecture"
+      },
+      {
+        "name": "Comfort Luxury",
+        "slug": "comfort-luxury",
+        "url": "/lessons/eng/b1b2/comfort-luxury"
+      },
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/furniture-home-items"
+  },
+  {
+    "id": 46,
+    "slug": "games-recreation",
+    "title": "Games & Recreation",
+    "titleRu": "Игры и отдых",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: game, play, fun, sport, team and practical usage examples.",
+    "keywords": [
+      {
+        "word": "game",
+        "translation": "игра",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "play",
+        "translation": "играть",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "fun",
+        "translation": "веселье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sport",
+        "translation": "спорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "team",
+        "translation": "команда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "player",
+        "translation": "игрок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "win",
+        "translation": "побеждать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "lose",
+        "translation": "проигрывать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "score",
+        "translation": "счет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "competition",
+        "translation": "соревнование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "activity",
+        "translation": "активность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hobby",
+        "translation": "хобби",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "leisure",
+        "translation": "досуг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "entertainment",
+        "translation": "развлечение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "challenge",
+        "translation": "вызов",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "skill",
+        "translation": "навык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "strategy",
+        "translation": "стратегия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rules",
+        "translation": "правила",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "equipment",
+        "translation": "оборудование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tournament",
+        "translation": "турнир",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Games* and *recreation* provide essential opportunities for *fun*, relaxation, and personal growth through various *activities* and *entertainment* options. Whether playing *sports* with a *team* or enjoying individual *hobbies*, *games* offer *challenges* that help develop *skills* and create lasting memories. Let me share a story about how I discovered the incredible value of *games* and *recreation* in my life.\n\nLast summer, I joined a local *sports* *team* and began participating in regular *competitions*, which completely changed my perspective on *games* and *recreation*. At first, I was nervous about my *skills* and worried about whether I could contribute to the *team*. However, I quickly learned that *games* are not just about *winning* or *losing* - they're about *fun*, *challenge*, and personal growth.\n\nThe *team* welcomed me warmly, and I discovered that *play* is a universal language that brings people together. Each *game* presented new *challenges* that required different *strategies* and *skills*. I learned that *sports* teach valuable life lessons about *competition*, teamwork, and perseverance. The *rules* of each *game* created a fair framework for *play*, ensuring that every *player* had an equal opportunity to participate and improve.\n\nWhat I loved most about *games* was the *fun* factor. Whether we were *winning* or *losing*, the *activity* itself brought joy and excitement. The *score* became less important than the experience of *play* and the relationships I built with my *team*mates. *Games* provided a perfect balance of *challenge* and *entertainment*, making each *competition* an opportunity for growth and enjoyment.\n\n*Recreation* extended beyond *sports* to include various *hobbies* and *leisure* *activities*. I discovered that *games* come in many forms - from board *games* that require *strategy* and thinking, to outdoor *activities* that challenge physical *skills*. Each type of *game* offered unique *challenges* and *entertainment* value, contributing to a well-rounded *recreation* experience.\n\nThe *equipment* needed for different *games* varied greatly, from simple items for casual *play* to specialized gear for serious *competition*. I learned that *games* can be enjoyed with minimal *equipment* or with professional-grade gear, depending on the level of *challenge* and *competition* desired. The *tournament* I participated in required specific *equipment* and *skills*, but the *fun* and *challenge* made the investment worthwhile.\n\n*Games* and *recreation* have taught me that *play* is not just for children - it's a vital part of adult life that provides *fun*, *challenge*, and personal growth. Whether *winning* or *losing*, *games* offer valuable opportunities to develop *skills*, build relationships, and enjoy *leisure* time in meaningful ways. The *competition* and *challenge* of *games* make *recreation* more engaging and rewarding.",
+    "additionalExamples": [
+      {
+        "word": "game",
+        "example": "The game is exciting.",
+        "translation": "Игра захватывающая."
+      },
+      {
+        "word": "play",
+        "example": "Children love to play.",
+        "translation": "Дети любят играть."
+      },
+      {
+        "word": "fun",
+        "example": "Fun is important.",
+        "translation": "Веселье важно."
+      },
+      {
+        "word": "sport",
+        "example": "Sport is healthy.",
+        "translation": "Спорт полезен."
+      },
+      {
+        "word": "team",
+        "example": "The team is strong.",
+        "translation": "Команда сильная."
+      },
+      {
+        "word": "player",
+        "example": "The player is skilled.",
+        "translation": "Игрок умелый."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "All work and no play makes Jack a dull boy",
+        "translation": "Делу время, потехе час"
+      },
+      {
+        "phrase": "Play it by ear",
+        "translation": "Действовать по обстоятельствам"
+      },
+      {
+        "phrase": "The ball is in your court",
+        "translation": "Теперь твоя очередь"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "It's not whether you win or lose, it's how you play the game",
+        "translation": "Главное не победа, а участие"
+      },
+      {
+        "phrase": "Game on!",
+        "translation": "Игра началась!"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Game** is countable and refers to a form of play or sport.\n- **Play** can be both a verb (to play) and a noun (the play).\n- **Fun** is uncountable and refers to enjoyment or amusement.\n- **Sport** is countable and refers to a physical activity.",
+    "relatedTopics": [
+      {
+        "name": "Sports Recreation",
+        "slug": "sports-recreation",
+        "url": "/lessons/eng/b1b2/sports-recreation"
+      },
+      {
+        "name": "Entertainment Media",
+        "slug": "entertainment-media",
+        "url": "/lessons/eng/b1b2/entertainment-media"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/games-recreation"
+  },
+  {
+    "id": 47,
+    "slug": "geography-landscape",
+    "title": "Geography & Landscape",
+    "titleRu": "География и ландшафт",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: geography, landscape, mountain, hill, valley and practical usage examples.",
+    "keywords": [
+      {
+        "word": "geography",
+        "translation": "география",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "landscape",
+        "translation": "ландшафт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mountain",
+        "translation": "гора",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hill",
+        "translation": "холм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "valley",
+        "translation": "долина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "river",
+        "translation": "река",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lake",
+        "translation": "озеро",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ocean",
+        "translation": "океан",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sea",
+        "translation": "море",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "coast",
+        "translation": "побережье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "beach",
+        "translation": "пляж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "forest",
+        "translation": "лес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "desert",
+        "translation": "пустыня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "island",
+        "translation": "остров",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "continent",
+        "translation": "континент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "country",
+        "translation": "страна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "city",
+        "translation": "город",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "town",
+        "translation": "город",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "village",
+        "translation": "деревня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "region",
+        "translation": "регион",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Geography* and *landscape* shape not just the physical world around us, but also the cultures, economies, and ways of life that develop in different regions. From towering *mountains* to vast *oceans*, the earth's diverse *landscapes* create the foundation for human civilization and natural ecosystems. Let me share a story about how I discovered the incredible diversity and significance of *geography* and *landscape* in our world.\n\nLast *year*, I embarked on a journey to explore different *landscapes* and *geographical* regions, which opened my eyes to the incredible variety and beauty of our planet's natural features. I had always appreciated the beauty of nature, but this experience taught me about the complex relationships between *geography*, climate, and human activity that shape the world we live in.\n\nMy journey began with exploring *mountains*, which I discovered are not just tall landforms – they're complex ecosystems that influence weather patterns, provide water resources, and create unique habitats for plants and animals. I learned that *mountains* are formed by tectonic forces and erosion, and that they play crucial roles in the water cycle and climate systems. The *mountains* taught me about the incredible power of geological processes and the importance of preserving these fragile environments.\n\n*Rivers* and *lakes* revealed the vital role of water in shaping *landscapes* and supporting life. I discovered that *rivers* are not just flowing water – they're dynamic systems that transport nutrients, create fertile valleys, and provide essential resources for human communities. The *rivers* taught me about the importance of water management and the need to protect these vital resources from pollution and overuse.\n\n*Oceans* and *seas* showed me the incredible scale and importance of marine environments. I learned that *oceans* are not just vast bodies of water – they're complex ecosystems that regulate global climate, provide food resources, and support countless species of marine life. The *oceans* taught me about the interconnectedness of global systems and the importance of ocean conservation.\n\n*Forests* revealed the incredible biodiversity and ecological importance of terrestrial ecosystems. I discovered that *forests* are not just collections of trees – they're complex communities of plants, animals, and microorganisms that provide essential services like oxygen production, carbon storage, and soil protection. The *forests* taught me about the importance of biodiversity and the need to protect these vital ecosystems.\n\n*Deserts* taught me about the incredible adaptability of life and the harsh beauty of arid environments. I learned that *deserts* are not just empty wastelands – they're unique ecosystems with specialized plants and animals that have evolved to survive in extreme conditions. The *deserts* taught me about the importance of water conservation and the resilience of life in challenging environments.\n\n*Islands* showed me the unique characteristics of isolated ecosystems and the importance of geographical isolation in evolution. I discovered that *islands* are not just pieces of land surrounded by water – they're unique environments that often develop distinctive species and ecosystems due to their isolation. The *islands* taught me about the importance of protecting unique ecosystems and the role of geography in biological diversity.\n\n*Cities* and *towns* revealed how human communities adapt to and modify their *geographical* environments. I learned that *cities* are not just collections of buildings – they're complex systems that reflect the *geography*, climate, and resources of their regions. The *cities* taught me about the importance of sustainable urban planning and the need to balance human development with environmental protection.\n\n*Countries* and *regions* showed me how *geography* influences political boundaries, economic development, and cultural identity. I discovered that *countries* are not just political entities – they're *geographical* regions with unique characteristics, resources, and challenges that shape their development and relationships with other nations. The *countries* taught me about the importance of understanding *geographical* context in international relations and global cooperation.\n\nWhat I love most about my exploration of *geography* and *landscape* is how it revealed the incredible diversity and interconnectedness of our planet's natural systems. I learned that every *landscape* tells a story about geological processes, climatic conditions, and the complex relationships between humans and their environment.\n\n*Geography* and *landscape* have taught me that we are all connected to the natural world through the *geographical* features that surround us. By understanding and appreciating the diversity of *landscapes* and *geographical* regions, we can become better stewards of our planet and create more sustainable relationships with the natural environment that sustains all life on earth.",
+    "additionalExamples": [
+      {
+        "word": "geography",
+        "example": "Geography is very interesting.",
+        "translation": "География очень интересная."
+      },
+      {
+        "word": "landscape",
+        "example": "The landscape is beautiful.",
+        "translation": "Ландшафт красивый."
+      },
+      {
+        "word": "mountain",
+        "example": "The mountain is very high.",
+        "translation": "Гора очень высокая."
+      },
+      {
+        "word": "river",
+        "example": "The river is flowing.",
+        "translation": "Река течет."
+      },
+      {
+        "word": "ocean",
+        "example": "The ocean is vast.",
+        "translation": "Океан обширный."
+      },
+      {
+        "word": "forest",
+        "example": "The forest is dense.",
+        "translation": "Лес густой."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The grass is always greener on the other side",
+        "translation": "Хорошо там, где нас нет"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Geography** is uncountable and refers to the study of earth's features.\n- **Landscape** is countable and refers to the visible features of land.\n- **Mountain** is countable and can be used with articles.\n- **Ocean** and **sea** are countable and can refer to specific bodies of water.",
+    "relatedTopics": [
+      {
+        "name": "Nature Environment",
+        "slug": "nature-environment",
+        "url": "/lessons/eng/b1b2/nature-environment"
+      },
+      {
+        "name": "Earth Geography",
+        "slug": "earth-geography",
+        "url": "/lessons/eng/b1b2/earth-geography"
+      },
+      {
+        "name": "Weather Nature",
+        "slug": "weather-nature",
+        "url": "/lessons/eng/b1b2/weather-nature"
+      },
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/geography-landscape"
+  },
+  {
+    "id": 48,
+    "slug": "government-politics",
+    "title": "Government & Politics",
+    "titleRu": "Правительство и политика",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: government, politics, democracy, election, vote and practical usage examples.",
+    "keywords": [
+      {
+        "word": "government",
+        "translation": "правительство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "politics",
+        "translation": "политика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "democracy",
+        "translation": "демократия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "election",
+        "translation": "выборы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vote",
+        "translation": "голосовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "candidate",
+        "translation": "кандидат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "party",
+        "translation": "партия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "policy",
+        "translation": "политика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "law",
+        "translation": "закон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "citizen",
+        "translation": "гражданин",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rights",
+        "translation": "права",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "freedom",
+        "translation": "свобода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "justice",
+        "translation": "справедливость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "power",
+        "translation": "власть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "leader",
+        "translation": "лидер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "minister",
+        "translation": "министр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "parliament",
+        "translation": "парламент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "constitution",
+        "translation": "конституция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "public",
+        "translation": "общественный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "national",
+        "translation": "национальный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Government* and *politics* are the systems and processes that shape how societies are organized, governed, and how *citizen*s participate in decision-making that affects their lives. From *democracy* and *election*s to *law*s and *policy*, *government* and *politics* provide the framework for *public* life and the protection of *rights* and *freedom*s. Let me share a story about how I discovered the importance of understanding *government* and *politics* in modern society.\n\nLast year, I decided to become more engaged in *politics* and learn about how *government* works after realizing that many of the issues affecting my community were connected to *political* decisions and *government* *policy*. I began by understanding the basic principles of *democracy* and how *citizen*s can participate in the *political* process. The process taught me that *government* and *politics* are not just abstract concepts - they're systems that directly impact our daily lives and the *freedom*s we enjoy.\n\nMy journey into understanding *government* and *politics* started with learning about *democracy* and how it enables *citizen*s to participate in *government*. I discovered that *democracy* is not just about *vote*ing in *election*s - it's about creating a system where *citizen*s have a voice in *government* decisions and where *power* is distributed among different branches and levels of *government*. I learned that *democracy* requires active participation from *citizen*s to function effectively.\n\n*Election*s and *vote*ing became central to my understanding of *political* participation. I learned that *election*s are not just events that happen every few years - they're opportunities for *citizen*s to choose their *leader*s and influence *government* *policy*. I discovered that *vote*ing is both a *right* and a responsibility, and that participating in *election*s is essential for maintaining *democracy* and ensuring that *government* represents the will of the people.\n\n*Candidate*s and *party*s taught me about the *political* process and how *leader*s are chosen. I learned that *candidate*s are individuals who seek *public* office and represent different *political* views and *policy* positions. I discovered that *party*s are organizations that bring together *candidate*s and *citizen*s who share similar *political* beliefs and work together to influence *government* and *policy*.\n\n*Policy* and *law* became important aspects of my *political* education. I learned that *policy* refers to the decisions and actions that *government* takes to address *public* issues, while *law*s are the rules and regulations that govern society. I discovered that *policy* and *law* are created through *political* processes and that understanding these processes is crucial for effective *citizen* participation.\n\n*Rights* and *freedom* taught me about the fundamental principles that *government* is designed to protect. I learned that *right*s are the basic *freedom*s and protections that *citizen*s are entitled to, and that *government* has a responsibility to protect these *right*s. I discovered that *freedom* is not just the absence of restrictions - it's the ability to exercise *right*s and participate fully in society.\n\n*Power* and *leader*ship became important concepts for understanding how *government* functions. I learned that *power* in *democracy* is distributed among different branches of *government* and that *leader*s are chosen through *political* processes to exercise *power* on behalf of *citizen*s. I discovered that *leader*ship in *government* requires balancing different interests and making decisions that serve the *public* good.\n\n*Minister*s and *parliament* introduced me to the structure and organization of *government*. I learned that *minister*s are *leader*s who head different departments of *government* and are responsible for implementing *policy* in specific areas. I discovered that *parliament* is the legislative body where *law*s are debated and passed, and where *citizen*s are represented through their elected officials.\n\n*Constitution* and *national* *government* taught me about the foundational principles and structure of *government*. I learned that a *constitution* is the fundamental *law* that establishes the structure and powers of *government*, and that it serves as the foundation for all other *law*s and *policy*. I discovered that *national* *government* is responsible for issues that affect the entire *nation*, while local *government*s handle more specific *public* needs.\n\n*Government* and *politics* have taught me that *democracy* is not just a system of *government* - it's a way of life that requires active participation from *citizen*s. Each aspect of *politics* - from *election*s and *vote*ing to *policy* and *law* - contributes to the functioning of *democracy* and the protection of *right*s and *freedom*s. Understanding *government* and *politics* is essential for being an informed and engaged *citizen* who can contribute to the *public* good.",
+    "additionalExamples": [
+      {
+        "word": "government",
+        "example": "Government is responsible.",
+        "translation": "Правительство ответственно."
+      },
+      {
+        "word": "politics",
+        "example": "Politics is complex.",
+        "translation": "Политика сложна."
+      },
+      {
+        "word": "democracy",
+        "example": "Democracy is important.",
+        "translation": "Демократия важна."
+      },
+      {
+        "word": "election",
+        "example": "Election is fair.",
+        "translation": "Выборы справедливы."
+      },
+      {
+        "word": "vote",
+        "example": "Vote carefully.",
+        "translation": "Голосуй внимательно."
+      },
+      {
+        "word": "candidate",
+        "example": "Candidate is qualified.",
+        "translation": "Кандидат квалифицирован."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Every vote counts",
+        "translation": "Каждый голос имеет значение"
+      },
+      {
+        "phrase": "The power of the people",
+        "translation": "Сила народа"
+      },
+      {
+        "phrase": "Democracy in action",
+        "translation": "Демократия в действии"
+      },
+      {
+        "phrase": "I'm going to the polls",
+        "translation": "Я иду на избирательный участок"
+      },
+      {
+        "phrase": "That's a political hot potato",
+        "translation": "Это политическая горячая картошка"
+      },
+      {
+        "phrase": "The government is listening",
+        "translation": "Правительство слушает"
+      },
+      {
+        "phrase": "It's time for change",
+        "translation": "Время перемен"
+      },
+      {
+        "phrase": "The voice of the people",
+        "translation": "Голос народа"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Government** is countable and refers to the system of ruling.\n- **Politics** is uncountable and refers to political activities.\n- **Democracy** is uncountable and refers to a system of government.\n- **Election** is countable and refers to a voting process.",
+    "relatedTopics": [
+      {
+        "name": "Law Justice",
+        "slug": "law-justice",
+        "url": "/lessons/eng/b1b2/law-justice"
+      },
+      {
+        "name": "Social Issues Problems",
+        "slug": "social-issues-problems",
+        "url": "/lessons/eng/b1b2/social-issues-problems"
+      },
+      {
+        "name": "Community Relationships",
+        "slug": "community-relationships",
+        "url": "/lessons/eng/b1b2/community-relationships"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      }
+    ],
+    "category": "politics_law",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/government-politics"
+  },
+  {
+    "id": 49,
     "slug": "health-medicine",
     "title": "Health & Medicine",
     "titleRu": "Здоровье и медицина",
@@ -2907,13 +10075,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/family-relationships"
       }
     ],
-    "category": "Health Medicine",
+    "category": "health_medicine",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/health-medicine"
   },
   {
-    "id": 14,
+    "id": 50,
+    "slug": "health-wellness",
+    "title": "Health & Wellness",
+    "titleRu": "Здоровье и благополучие",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: health, wellness, fitness, exercise, nutrition and practical usage examples.",
+    "keywords": [
+      {
+        "word": "health",
+        "translation": "здоровье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wellness",
+        "translation": "благополучие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fitness",
+        "translation": "фитнес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "exercise",
+        "translation": "упражнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nutrition",
+        "translation": "питание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "diet",
+        "translation": "диета",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mental",
+        "translation": "умственный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "physical",
+        "translation": "физический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "lifestyle",
+        "translation": "образ жизни",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "balance",
+        "translation": "баланс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stress",
+        "translation": "стресс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "relaxation",
+        "translation": "расслабление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meditation",
+        "translation": "медитация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sleep",
+        "translation": "сон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "energy",
+        "translation": "энергия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vitality",
+        "translation": "жизненность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "prevention",
+        "translation": "профилактика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "recovery",
+        "translation": "восстановление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "habit",
+        "translation": "привычка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "routine",
+        "translation": "распорядок",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Health* and *wellness* represent the foundation of a fulfilling life, encompassing not just the absence of disease but the presence of *vitality*, *balance*, and overall well-being. Through conscious choices about *nutrition*, *exercise*, and *lifestyle*, we can create sustainable patterns that support both *physical* and *mental* *health*. Let me share a story about how I discovered the transformative power of embracing a holistic approach to *health* and *wellness*.\n\nLast *year*, I decided to completely restructure my approach to *health* and *wellness*, which opened my eyes to the incredible interconnections between *physical* *fitness*, *mental* well-being, and *lifestyle* choices. I had always focused on individual aspects of *health*, but this experience taught me about the importance of *balance* and the synergistic effects of comprehensive *wellness* practices.\n\nMy journey began with understanding the crucial role of regular *exercise* in maintaining both *physical* and *mental* *health*. I learned that *exercise* is not just about building muscle or losing weight – it's about creating *energy*, reducing *stress*, and establishing a foundation for overall *wellness*. The *fitness* routine I developed taught me about the importance of consistency and how *physical* activity can dramatically improve mood, *sleep*, and daily *energy* levels.\n\n*Nutrition* and healthy eating revealed themselves as the fuel that powers all other aspects of *wellness*. I discovered that *nutrition* is not just about following a *diet* – it's about understanding how different foods affect *energy*, mood, and long-term *health*. The *dietary* changes I implemented taught me about the connection between what we eat and how we feel, and how proper *nutrition* can support both *physical* performance and *mental* clarity.\n\n*Sleep* and *recovery* showed me the often-overlooked foundation of *health* and *wellness*. I learned that *sleep* is not just time when nothing happens – it's when the body repairs itself, the mind processes information, and *energy* is restored for the next day. The *sleep* improvements I made taught me about the importance of *rest* and how quality *sleep* affects every aspect of *health* and *wellness*.\n\n*Stress* management and *relaxation* techniques revealed the critical importance of *mental* *health* in overall *wellness*. I discovered that *stress* is not just an uncomfortable feeling – it's a physiological response that can significantly impact *physical* *health* when not properly managed. The *stress* reduction practices I learned taught me about the importance of finding healthy ways to cope with challenges and maintain *mental* *balance*.\n\n*Meditation* and mindfulness practices opened up new dimensions of *mental* *wellness* and self-awareness. I learned that *meditation* is not just about sitting quietly – it's about developing awareness, focus, and the ability to respond rather than react to life's challenges. The *meditation* practice I developed taught me about the connection between mind and body and how *mental* training can improve overall *wellness*.\n\n*Lifestyle* *balance* emerged as the key to sustainable *health* and *wellness*. I discovered that *wellness* is not about perfection – it's about creating sustainable *habits* and *routines* that support long-term *health* while still allowing for enjoyment and flexibility. The *lifestyle* changes I made taught me about the importance of finding approaches to *wellness* that fit into real life.\n\n*Prevention* and proactive *health* care showed me the wisdom of addressing *health* before problems arise. I learned that *prevention* is not just about avoiding illness – it's about creating conditions that support optimal *health* and *vitality*. The preventive measures I adopted taught me about the importance of regular check-ups, healthy *habits*, and early intervention.\n\n*Energy* and *vitality* became the tangible rewards of consistent *wellness* practices. I discovered that true *energy* is not just about feeling awake – it's about having the *physical* and *mental* resources to pursue goals, enjoy relationships, and engage fully with life. The increased *vitality* I experienced taught me about the cumulative effects of good *health* and *wellness* practices.\n\nWhat I love most about my *health* and *wellness* journey is how it revealed the incredible capacity we have to influence our own well-being through conscious choices and consistent practices. I learned that *wellness* is not a destination but a way of living that honors both our *physical* and *mental* needs.\n\n*Health* and *wellness* have taught me that taking care of ourselves is not selfish – it's essential for being able to care for others and contribute meaningfully to the world. By prioritizing *health* and *wellness*, we can create more *energy*, resilience, and joy in our lives while setting a positive example for those around us.",
+    "additionalExamples": [
+      {
+        "word": "health",
+        "example": "Health is our greatest wealth.",
+        "translation": "Здоровье - наше главное богатство."
+      },
+      {
+        "word": "wellness",
+        "example": "Wellness requires balance.",
+        "translation": "Благополучие требует баланса."
+      },
+      {
+        "word": "fitness",
+        "example": "Fitness improves quality of life.",
+        "translation": "Фитнес улучшает качество жизни."
+      },
+      {
+        "word": "exercise",
+        "example": "Exercise boosts energy.",
+        "translation": "Упражнения повышают энергию."
+      },
+      {
+        "word": "nutrition",
+        "example": "Good nutrition is essential.",
+        "translation": "Хорошее питание необходимо."
+      },
+      {
+        "word": "sleep",
+        "example": "Quality sleep is vital.",
+        "translation": "Качественный сон жизненно важен."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Health is wealth",
+        "translation": "Здоровье дороже богатства"
+      },
+      {
+        "phrase": "An apple a day keeps the doctor away",
+        "translation": "Одно яблоко в день и врач не нужен"
+      },
+      {
+        "phrase": "Early to bed and early to rise makes a man healthy, wealthy, and wise",
+        "translation": "Кто рано ложится и рано встает, здоровье, богатство и ум наживет"
+      },
+      {
+        "phrase": "You are what you eat",
+        "translation": "Мы то, что мы едим"
+      },
+      {
+        "phrase": "A healthy mind in a healthy body",
+        "translation": "В здоровом теле здоровый дух"
+      },
+      {
+        "phrase": "Prevention is better than cure",
+        "translation": "Лучше предупредить, чем лечить"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Health** is uncountable and refers to the state of being well.\n- **Wellness** is uncountable and refers to overall well-being.\n- **Exercise** can be countable (specific exercises) or uncountable (general activity).\n- **Sleep** is usually uncountable and refers to the state of rest.",
+    "relatedTopics": [
+      {
+        "name": "Body Health",
+        "slug": "body-health",
+        "url": "/lessons/eng/b1b2/body-health"
+      },
+      {
+        "name": "Sports Recreation",
+        "slug": "sports-recreation",
+        "url": "/lessons/eng/b1b2/sports-recreation"
+      },
+      {
+        "name": "Medicine Healthcare",
+        "slug": "medicine-healthcare",
+        "url": "/lessons/eng/b1b2/medicine-healthcare"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      }
+    ],
+    "category": "health_medicine",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/health-wellness"
+  },
+  {
+    "id": 51,
     "slug": "history-civilization",
     "title": "History & Civilization",
     "titleRu": "История и цивилизация",
@@ -3101,21 +10465,426 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/philosophy-thought"
       }
     ],
-    "category": "History Civilization",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/history-civilization"
   },
   {
-    "id": 15,
-    "slug": "home-housing",
-    "title": "Home & Housing",
-    "titleRu": "Дом и жилье",
-    "description": "Learn English at the B1-B2 level through thematic texts with key words: home, house, apartment, room, bedroom and practical usage examples.",
+    "id": 52,
+    "slug": "holidays-celebrations",
+    "title": "Holidays & Celebrations",
+    "titleRu": "Праздники и торжества",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: holiday, celebration, party, festival, tradition and practical usage examples.",
+    "keywords": [
+      {
+        "word": "holiday",
+        "translation": "праздник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "celebration",
+        "translation": "празднование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "party",
+        "translation": "вечеринка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "festival",
+        "translation": "фестиваль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tradition",
+        "translation": "традиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "custom",
+        "translation": "обычай",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ceremony",
+        "translation": "церемония",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "event",
+        "translation": "событие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "occasion",
+        "translation": "повод",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "anniversary",
+        "translation": "годовщина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "birthday",
+        "translation": "день рождения",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wedding",
+        "translation": "свадьба",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gift",
+        "translation": "подарок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "present",
+        "translation": "подарок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "decoration",
+        "translation": "украшение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "music",
+        "translation": "музыка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dance",
+        "translation": "танец",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "food",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "family",
+        "translation": "семья",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "friends",
+        "translation": "друзья",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Holidays* and *celebrations* bring people together to honor *traditions*, create memories, and share joy through special *events* and *occasions*. From intimate *family* gatherings to grand *festivals*, *celebrations* provide opportunities to connect with loved ones and participate in meaningful *customs*. Let me share a story about how I discovered the profound importance of *holidays* and *celebrations* in bringing people together.\n\nLast Christmas, I organized a *celebration* for my extended *family* and *friends*, which taught me the true value of *holidays* and *traditions*. The *event* required careful planning, from choosing the perfect *decoration*s to preparing special *food* that would honor our *family* *customs*. I learned that *celebrations* are not just about the *party* itself, but about creating meaningful *occasions* that strengthen relationships and preserve *traditions*.\n\nThe *festival* atmosphere was magical, with *music* filling the air and *dance* bringing everyone together. Each *family* member contributed to the *celebration*, sharing their favorite *traditions* and *customs* that had been passed down through generations. The *ceremony* of exchanging *gift*s and *present*s created moments of joy and connection that reminded us why *holidays* are so special.\n\nWhat made the *celebration* truly memorable was how it honored our *family* *traditions* while creating new memories. The *event* included both formal *ceremonies* and informal *party* activities, allowing everyone to participate in ways that felt comfortable and meaningful. The *music* and *dance* provided entertainment, while the *food* and *decoration*s created a festive atmosphere that enhanced the *holiday* spirit.\n\nThe *occasion* also included recognizing important *anniversary* dates and *birthday*s that had occurred throughout the year. Each *celebration* of these special *events* reminded us of the milestones and achievements that make life worth *celebrating*. The *wedding* *anniversary* of my grandparents was particularly touching, as it represented decades of love and commitment that inspired everyone present.\n\n*Holidays* and *celebrations* have taught me that these *events* serve as anchors in our lives, providing regular *occasions* to pause, reflect, and connect with the people who matter most. Whether it's a simple *birthday* *party* or a grand *festival*, *celebrations* create opportunities to honor *traditions*, share *gift*s, and strengthen the bonds between *family* and *friends*. The *music*, *dance*, *food*, and *decoration*s all contribute to creating memorable *events* that bring joy and meaning to our lives.",
+    "additionalExamples": [
+      {
+        "word": "holiday",
+        "example": "Holiday is special.",
+        "translation": "Праздник особенный."
+      },
+      {
+        "word": "celebration",
+        "example": "Celebration is joyful.",
+        "translation": "Празднование радостное."
+      },
+      {
+        "word": "party",
+        "example": "Party is fun.",
+        "translation": "Вечеринка веселая."
+      },
+      {
+        "word": "festival",
+        "example": "Festival is colorful.",
+        "translation": "Фестиваль красочный."
+      },
+      {
+        "word": "tradition",
+        "example": "Tradition is important.",
+        "translation": "Традиция важна."
+      },
+      {
+        "word": "custom",
+        "example": "Custom is meaningful.",
+        "translation": "Обычай значимый."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The more the merrier",
+        "translation": "В тесноте, да не в обиде"
+      },
+      {
+        "phrase": "Party pooper",
+        "translation": "Человек, портящий веселье"
+      },
+      {
+        "phrase": "Break the ice",
+        "translation": "Растопить лед"
+      },
+      {
+        "phrase": "Kill two birds with one stone",
+        "translation": "Убить двух зайцев одним выстрелом"
+      },
+      {
+        "phrase": "Don't rain on my parade",
+        "translation": "Не порть мне праздник"
+      },
+      {
+        "phrase": "The party's over",
+        "translation": "Праздник окончен"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Holiday** is countable and refers to a special day or period.\n- **Celebration** is countable and refers to the act of celebrating.\n- **Party** is countable and refers to a social gathering.\n- **Festival** is countable and refers to a special celebration.",
+    "relatedTopics": [
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      },
+      {
+        "name": "Events Celebrations",
+        "slug": "events-celebrations",
+        "url": "/lessons/eng/b1b2/events-celebrations"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/holidays-celebrations"
+  },
+  {
+    "id": 53,
+    "slug": "holidays-seasons",
+    "title": "Holidays & Seasons",
+    "titleRu": "Праздники и сезоны",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: holiday, season, spring, summer, autumn and practical usage examples.",
+    "keywords": [
+      {
+        "word": "holiday",
+        "translation": "праздник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "season",
+        "translation": "сезон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "spring",
+        "translation": "весна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "summer",
+        "translation": "лето",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "autumn",
+        "translation": "осень",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "winter",
+        "translation": "зима",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Christmas",
+        "translation": "Рождество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "Easter",
+        "translation": "Пасха",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "New Year",
+        "translation": "Новый год",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "birthday",
+        "translation": "день рождения",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vacation",
+        "translation": "отпуск",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "celebration",
+        "translation": "празднование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tradition",
+        "translation": "традиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "weather",
+        "translation": "погода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "temperature",
+        "translation": "температура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "festival",
+        "translation": "фестиваль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "party",
+        "translation": "вечеринка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gift",
+        "translation": "подарок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "family",
+        "translation": "семья",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "special",
+        "translation": "особенный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Holiday*s and *season*s are the natural rhythms that structure our lives and provide opportunities for *celebration*, reflection, and connection with others. From the *special* *holiday*s that mark important religious and cultural events to the changing *season*s that bring different *weather* and activities, *holiday*s and *season*s create the framework for our annual experiences and traditions. Let me share a story about how I discovered the beauty and significance of *holiday*s and *season*s through experiencing a full year of seasonal changes and celebrations.\n\nLast year, I decided to pay closer attention to the natural cycle of *season*s and the *holiday*s that punctuate the year, learning to appreciate how each *season* brings its own unique *weather*, activities, and *celebration*s. I began by understanding the four main *season*s and their characteristics, then exploring how different *holiday*s and *tradition*s are connected to these natural cycles. The process taught me that *holiday*s and *season*s are not just calendar events - they're opportunities to connect with nature, culture, and community in meaningful ways.\n\nMy journey into understanding *holiday*s and *season*s started with exploring the four main *season*s and their unique qualities. I learned that *spring* is the *season* of renewal and growth, when *weather* becomes warmer and nature begins to bloom, while *summer* is the warmest *season* with long days and abundant sunshine. I discovered that *autumn* is the *season* of harvest and change, when leaves turn colors and *temperature*s begin to cool, while *winter* is the coldest *season* with short days and often snowy *weather*. Each *season* offers its own beauty and opportunities for different activities and *celebration*s.\n\n*Christmas* and *Easter* became important *holiday*s for understanding religious and cultural celebrations. I learned that *Christmas* is a *special* *holiday* celebrated in *winter* that commemorates the birth of Jesus Christ and involves *family* gatherings, *gift* giving, and festive *celebration*s, while *Easter* is a *holiday* celebrated in *spring* that commemorates the resurrection of Jesus and involves religious services and *family* meals. I discovered that both *Christmas* and *Easter* have deep religious significance and that they bring *family*s and communities together for *celebration* and reflection.\n\n*New Year* and *birthday* taught me about personal and universal *holiday*s. I learned that *New Year* is a *holiday* celebrated worldwide that marks the beginning of a new calendar year and involves *celebration*s, resolutions, and hope for the future, while a *birthday* is a personal *holiday* that celebrates the anniversary of a person's birth and involves *family* and friends gathering to honor the individual. I discovered that both *New Year* and *birthday*s are opportunities for reflection, gratitude, and *celebration* with loved ones.\n\n*Vacation* and *festival* became important concepts for understanding leisure and cultural *celebration*s. I learned that a *vacation* is a period of time away from work or school that allows people to rest, travel, and enjoy leisure activities, while a *festival* is a *celebration* that often involves music, food, and cultural activities. I discovered that both *vacation*s and *festival*s provide opportunities for relaxation, entertainment, and cultural enrichment, and that they often coincide with *holiday*s and *season*s.\n\n*Tradition* and *celebration* taught me about the cultural and social aspects of *holiday*s and *season*s. I learned that a *tradition* is a custom or practice that is passed down through generations and often associated with *holiday*s and *season*s, while a *celebration* is an event or activity that marks a *special* occasion. I discovered that both *tradition*s and *celebration*s are important for maintaining cultural identity and creating shared experiences that bring people together.\n\n*Weather* and *temperature* became important factors for understanding how *season*s affect daily life and *holiday* activities. I learned that *weather* refers to the atmospheric conditions that change with *season*s, while *temperature* is a measure of heat or cold that varies throughout the year. I discovered that both *weather* and *temperature* influence the types of activities and *celebration*s that are appropriate for different *season*s, and that they play important roles in shaping our experiences of *holiday*s and *season*s.\n\n*Party* and *gift* taught me about the social and material aspects of *holiday* celebrations. I learned that a *party* is a social gathering that often accompanies *holiday*s and *celebration*s, while a *gift* is something given to someone as a token of affection or celebration. I discovered that both *party*s and *gift*s are important elements of many *holiday* traditions and that they help create joy and connection during *special* occasions.\n\n*Family* and *special* became important concepts for understanding the personal and emotional significance of *holiday*s and *season*s. I learned that *family* gatherings are central to many *holiday* traditions and that they provide opportunities for connection and shared experiences, while *special* describes occasions that are unique, important, or out of the ordinary. I discovered that both *family* and *special* elements are essential for creating meaningful *holiday* experiences and that they help make these occasions memorable and significant.\n\n*Holiday*s and *season*s have taught me that the natural and cultural cycles of the year provide structure, meaning, and joy to our lives. From the changing *weather* and *temperature*s of different *season*s to the *special* *celebration*s and *tradition*s of various *holiday*s, these rhythms create opportunities for connection, reflection, and celebration. Understanding the significance of *holiday*s and *season*s has given me a greater appreciation for the natural world and the cultural traditions that enrich our lives and bring us together as communities and *family*s.",
+    "additionalExamples": [
+      {
+        "word": "holiday",
+        "example": "Holiday is special.",
+        "translation": "Праздник особенный."
+      },
+      {
+        "word": "season",
+        "example": "Season is beautiful.",
+        "translation": "Сезон красивый."
+      },
+      {
+        "word": "spring",
+        "example": "Spring is refreshing.",
+        "translation": "Весна освежающая."
+      },
+      {
+        "word": "summer",
+        "example": "Summer is warm.",
+        "translation": "Лето теплое."
+      },
+      {
+        "word": "autumn",
+        "example": "Autumn is colorful.",
+        "translation": "Осень красочная."
+      },
+      {
+        "word": "winter",
+        "example": "Winter is cold.",
+        "translation": "Зима холодная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Happy holidays to you and your family",
+        "translation": "Счастливых праздников вам и вашей семье"
+      },
+      {
+        "phrase": "I love the spring season",
+        "translation": "Я люблю весенний сезон"
+      },
+      {
+        "phrase": "The weather is perfect for a holiday",
+        "translation": "Погода идеальна для праздника"
+      },
+      {
+        "phrase": "Christmas is my favorite holiday",
+        "translation": "Рождество - мой любимый праздник"
+      },
+      {
+        "phrase": "The summer vacation was wonderful",
+        "translation": "Летний отпуск был замечательным"
+      },
+      {
+        "phrase": "The autumn colors are beautiful",
+        "translation": "Осенние цвета красивые"
+      },
+      {
+        "phrase": "Winter holidays are cozy",
+        "translation": "Зимние праздники уютные"
+      },
+      {
+        "phrase": "The festival celebrates the season",
+        "translation": "Фестиваль празднует сезон"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Holiday** is countable and refers to a special day.\n- **Season** is countable and refers to a period of the year.\n- **Spring** is uncountable and refers to the season.\n- **Summer** is uncountable and refers to the warm season.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Weather Nature",
+        "slug": "weather-nature",
+        "url": "/lessons/eng/b1b2/weather-nature"
+      },
+      {
+        "name": "Events Celebrations",
+        "slug": "events-celebrations",
+        "url": "/lessons/eng/b1b2/events-celebrations"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/holidays-seasons"
+  },
+  {
+    "id": 54,
+    "slug": "home-household",
+    "title": "Home & Household",
+    "titleRu": "Дом и домашнее хозяйство",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: home, household, house, room, kitchen and practical usage examples.",
     "keywords": [
       {
         "word": "home",
         "translation": "дом",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "household",
+        "translation": "домашнее хозяйство",
         "partOfSpeech": "noun"
       },
       {
@@ -3124,13 +10893,13 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "partOfSpeech": "noun"
       },
       {
-        "word": "apartment",
-        "translation": "квартира",
+        "word": "room",
+        "translation": "комната",
         "partOfSpeech": "noun"
       },
       {
-        "word": "room",
-        "translation": "комната",
+        "word": "kitchen",
+        "translation": "кухня",
         "partOfSpeech": "noun"
       },
       {
@@ -3144,38 +10913,33 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "partOfSpeech": "noun"
       },
       {
-        "word": "kitchen",
-        "translation": "кухня",
+        "word": "living",
+        "translation": "жилой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "family",
+        "translation": "семья",
         "partOfSpeech": "noun"
       },
       {
-        "word": "living room",
-        "translation": "гостиная",
+        "word": "comfort",
+        "translation": "комфорт",
         "partOfSpeech": "noun"
       },
       {
-        "word": "door",
-        "translation": "дверь",
+        "word": "safety",
+        "translation": "безопасность",
         "partOfSpeech": "noun"
       },
       {
-        "word": "window",
-        "translation": "окно",
+        "word": "privacy",
+        "translation": "приватность",
         "partOfSpeech": "noun"
       },
       {
-        "word": "floor",
-        "translation": "пол",
-        "partOfSpeech": "noun"
-      },
-      {
-        "word": "wall",
-        "translation": "стена",
-        "partOfSpeech": "noun"
-      },
-      {
-        "word": "ceiling",
-        "translation": "потолок",
+        "word": "space",
+        "translation": "пространство",
         "partOfSpeech": "noun"
       },
       {
@@ -3184,129 +10948,126 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "partOfSpeech": "noun"
       },
       {
-        "word": "table",
-        "translation": "стол",
+        "word": "decoration",
+        "translation": "украшение",
         "partOfSpeech": "noun"
       },
       {
-        "word": "chair",
-        "translation": "стул",
+        "word": "cleaning",
+        "translation": "уборка",
         "partOfSpeech": "noun"
       },
       {
-        "word": "sofa",
-        "translation": "диван",
+        "word": "maintenance",
+        "translation": "обслуживание",
         "partOfSpeech": "noun"
       },
       {
-        "word": "bed",
-        "translation": "кровать",
+        "word": "organization",
+        "translation": "организация",
         "partOfSpeech": "noun"
       },
       {
-        "word": "desk",
-        "translation": "письменный стол",
-        "partOfSpeech": "noun"
+        "word": "cozy",
+        "translation": "уютный",
+        "partOfSpeech": "adjective"
       },
       {
-        "word": "lamp",
-        "translation": "лампа",
-        "partOfSpeech": "noun"
+        "word": "peaceful",
+        "translation": "спокойный",
+        "partOfSpeech": "adjective"
       }
     ],
-    "mainText": "Emma just moved into her first *apartment*, and she's absolutely thrilled about having her own place. The *apartment* has two *bedrooms*, a spacious *living room*, and a modern *kitchen* that she's really excited to cook in. The *bathroom* is small but functional, and she loves the big *windows* in the *living room* that let in lots of natural light.\n\nWhen Emma first walked through the *door*, she was amazed by how much space there was. The *floors* are hardwood, which she really likes, and the *walls* are painted a nice neutral color. She's been spending a lot of time thinking about how to arrange her *furniture* to make the most of the space. She wants to put her *bed* in the *bedroom* facing the *window*, and she's planning to set up her *desk* in the corner of the *living room* where she can work from *home*.\n\nEmma's been shopping for *furniture* and *home* decor items to make the *apartment* feel more like *home*. She found a beautiful *sofa* for the *living room* and a comfortable *chair* for reading. She also bought a new *table* for the *kitchen* and some *lamps* to create a cozy atmosphere. She's really looking forward to having friends over for dinner parties and movie nights.\n\nThe *apartment* building has a great community feel, and Emma has already met some of her neighbors. She loves that she can walk to work from her new *home*, and there are lots of shops and restaurants nearby. She's been thinking about getting a pet, maybe a cat, since the *apartment* allows pets and she has enough space for a small animal. She also has a cozy *bedroom* with a comfortable *bed* and a spacious *bathroom*.",
+    "mainText": "*Home* and *household* represent the foundation of our daily lives, providing *comfort*, *safety*, and *privacy* in a *space* that reflects our *family* values and personal *organization*. From the *kitchen* where meals are prepared to the *bedroom* where we rest, each *room* in our *house* serves a specific purpose in creating a *cozy* and *peaceful* living environment. Let me share a story about how I discovered the true meaning of *home* and *household* management.\n\nLast year, I moved into my first apartment and began learning about *household* management and creating a *home* that would provide *comfort* and *safety* for my *family*. I started by understanding the different *room*s and their purposes, learning how to organize each *space* to maximize both functionality and *comfort*. The process taught me that a *home* is not just a *house* - it's a carefully managed *household* that requires attention to *cleaning*, *maintenance*, and *organization*.\n\nMy journey into *household* management began with the *kitchen*, which I quickly learned is the heart of any *home*. I discovered that *kitchen* *organization* is crucial for efficient meal preparation and *family* gatherings. The *kitchen* needed to be both functional and *cozy*, with proper *furniture* and *decoration* that would make cooking and dining enjoyable experiences.\n\nThe *bedroom* became my sanctuary for rest and *privacy*. I learned that *bedroom* design should prioritize *comfort* and *peaceful* atmosphere, with *furniture* arranged to promote relaxation and sleep. The *bedroom* needed to be a *space* where I could retreat from the world and recharge for the next day.\n\nThe *bathroom* taught me about the importance of *cleaning* and *maintenance* in *household* management. I discovered that *bathroom* *organization* and regular *cleaning* are essential for *safety* and hygiene. The *bathroom* needed to be a *space* that was both functional and *cozy*, with proper *decoration* and *furniture* that would make daily routines more pleasant.\n\n*Living* *room* became the central gathering *space* for *family* and friends. I learned that *living* *room* design should balance *comfort* with functionality, providing *space* for relaxation, entertainment, and social interaction. The *room* needed *furniture* that would accommodate different activities while maintaining a *cozy* and *peaceful* atmosphere.\n\n*Household* *organization* became a crucial skill that I had to develop. I learned that *organization* is not just about *cleaning* and *maintenance* - it's about creating systems that make daily life more efficient and enjoyable. Each *room* needed its own *organization* system, from *kitchen* storage to *bedroom* closets.\n\n*Cleaning* and *maintenance* taught me about the ongoing responsibilities of *household* management. I discovered that regular *cleaning* is essential for *safety* and *comfort*, while *maintenance* ensures that *furniture* and appliances continue to function properly. These tasks became part of my daily routine, contributing to the overall *organization* and *peaceful* atmosphere of my *home*.\n\n*Decoration* became an important aspect of making my *house* feel like a *home*. I learned that *decoration* should reflect personal *family* values and create a *cozy* atmosphere that promotes *comfort* and *safety*. Each *room* needed *decoration* that would enhance its function while creating a *peaceful* and welcoming environment.\n\n*Home* and *household* have taught me that creating a *home* is about more than just having a *house* - it's about managing a *household* that provides *comfort*, *safety*, and *privacy* for your *family*. Each *room* serves a specific purpose, each piece of *furniture* contributes to *organization*, and each *decoration* adds to the *cozy* and *peaceful* atmosphere that makes a *house* a true *home*.",
     "additionalExamples": [
       {
         "word": "home",
-        "example": "There's no place like home, especially after a long day at work.",
-        "translation": "Нет места лучше дома, особенно после долгого рабочего дня."
+        "example": "Home is where the heart is.",
+        "translation": "Дом там, где сердце."
       },
       {
-        "word": "apartment",
-        "example": "I'm looking for a two-bedroom apartment in the city center.",
-        "translation": "Я ищу двухкомнатную квартиру в центре города."
+        "word": "household",
+        "example": "Household management is important.",
+        "translation": "Управление домашним хозяйством важно."
+      },
+      {
+        "word": "house",
+        "example": "The house is large.",
+        "translation": "Дом большой."
       },
       {
         "word": "room",
-        "example": "My favorite room in the house is the living room because it's so comfortable.",
-        "translation": "Моя любимая комната в доме - гостиная, потому что она очень уютная."
-      },
-      {
-        "word": "furniture",
-        "example": "We need to buy new furniture for the guest bedroom.",
-        "translation": "Нам нужно купить новую мебель для гостевой спальни."
+        "example": "The room is comfortable.",
+        "translation": "Комната удобная."
       },
       {
         "word": "kitchen",
-        "example": "I love cooking in my new kitchen because it has so much counter space.",
-        "translation": "Я люблю готовить на своей новой кухне, потому что там много места на столешнице."
+        "example": "The kitchen is modern.",
+        "translation": "Кухня современная."
+      },
+      {
+        "word": "bedroom",
+        "example": "The bedroom is cozy.",
+        "translation": "Спальня уютная."
       }
     ],
     "practicalPhrases": [
       {
-        "phrase": "I'm moving to a new apartment",
-        "translation": "Я переезжаю в новую квартиру"
+        "phrase": "Home is where the heart is",
+        "translation": "Дом там, где сердце"
       },
       {
-        "phrase": "This house has three bedrooms",
-        "translation": "В этом доме три спальни"
+        "phrase": "Make yourself at home",
+        "translation": "Чувствуйте себя как дома"
       },
       {
-        "phrase": "I need to buy furniture",
-        "translation": "Мне нужно купить мебель"
+        "phrase": "There's no place like home",
+        "translation": "В гостях хорошо, а дома лучше"
       },
       {
-        "phrase": "The living room is very spacious",
-        "translation": "Гостиная очень просторная"
+        "phrase": "Home sweet home",
+        "translation": "Дом, милый дом"
       },
       {
-        "phrase": "I love the big windows",
-        "translation": "Я люблю большие окна"
+        "phrase": "A man's home is his castle",
+        "translation": "Мой дом - моя крепость"
       },
       {
-        "phrase": "The kitchen is fully equipped",
-        "translation": "Кухня полностью оборудована"
-      },
-      {
-        "phrase": "I'm decorating my bedroom",
-        "translation": "Я украшаю свою спальню"
-      },
-      {
-        "phrase": "The apartment has hardwood floors",
-        "translation": "В квартире паркетные полы"
+        "phrase": "Home is where you hang your hat",
+        "translation": "Дом там, где ты вешаешь шляпу"
       }
     ],
     "synonyms": [],
-    "grammarNotes": "- **Present Perfect**: \"has moved\", \"has been spending\", \"has met\"\n- **Present Continuous**: \"is moving\", \"is shopping\", \"is decorating\"\n- **Future plans**: \"is planning to\", \"is going to\", \"will put\"\n- **Gerunds**: \"moving\", \"shopping\", \"decorating\", \"cooking\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely thrilled, really excited, lots of, make the most of\n- **Linking words**: because, and, but, so, when\n- **Contractions**: she's, there's, I'm, don't\n- **Home vocabulary**: hardwood floors, natural light, community feel, counter space",
+    "grammarNotes": "- **Home** is countable and refers to a place where someone lives.\n- **Household** is countable and refers to a family living together.\n- **House** is countable and refers to a building for living.\n- **Room** is countable and refers to a part of a house.",
     "relatedTopics": [
-      {
-        "name": "Daily Life Routines",
-        "slug": "daily-life-routines",
-        "url": "/lessons/eng/b1b2/daily-life-routines"
-      },
-      {
-        "name": "Shopping Money",
-        "slug": "shopping-money",
-        "url": "/lessons/eng/b1b2/shopping-money"
-      },
       {
         "name": "Family Relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
+        "name": "Furniture Home Decor",
+        "slug": "furniture-home-decor",
+        "url": "/lessons/eng/b1b2/furniture-home-decor"
+      },
+      {
         "name": "Personal Care Hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      },
+      {
+        "name": "Daily Life Routines",
+        "slug": "daily-life-routines",
+        "url": "/lessons/eng/b1b2/daily-life-routines"
       }
     ],
-    "category": "Home Housing",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
-    "url": "/lessons/eng/b1b2/home-housing"
+    "url": "/lessons/eng/b1b2/home-household"
   },
   {
-    "id": 16,
+    "id": 55,
     "slug": "idioms-expressions",
     "title": "Idioms & Expressions",
     "titleRu": "Идиомы и выражения",
@@ -3494,13 +11255,821 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
     ],
-    "category": "Idioms Expressions",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/idioms-expressions"
   },
   {
-    "id": 17,
+    "id": 56,
+    "slug": "internet-digital-world",
+    "title": "Internet & Digital World",
+    "titleRu": "Интернет и цифровой мир",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: internet, digital, world, website, online and practical usage examples.",
+    "keywords": [
+      {
+        "word": "internet",
+        "translation": "интернет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "digital",
+        "translation": "цифровой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "world",
+        "translation": "мир",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "website",
+        "translation": "веб-сайт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "online",
+        "translation": "онлайн",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "email",
+        "translation": "электронная почта",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "social",
+        "translation": "социальный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "network",
+        "translation": "сеть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "data",
+        "translation": "данные",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "information",
+        "translation": "информация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "search",
+        "translation": "поиск",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "download",
+        "translation": "скачивание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "upload",
+        "translation": "загрузка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "password",
+        "translation": "пароль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "security",
+        "translation": "безопасность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "privacy",
+        "translation": "приватность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "connection",
+        "translation": "соединение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "browser",
+        "translation": "браузер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "virtual",
+        "translation": "виртуальный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "global",
+        "translation": "глобальный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "The *internet* and *digital* *world* have transformed human civilization, creating a *global* network that connects billions of people and provides instant access to vast amounts of *information* and services. From the *website*s we visit daily to the *social* *network*s that keep us connected, the *internet* has become an essential part of modern life that shapes how we work, learn, and interact with others. Let me share a story about how I discovered the incredible possibilities of the *internet* and *digital* *world* through my first *online* experience.\n\nLast year, I decided to explore the *internet* more deeply and learn about the various *digital* platforms and services available *online*. I began by understanding how *website*s work and learning about *email* communication, discovering the vast *network* of *information* and services that make up the *digital* *world*. The process taught me that the *internet* is not just a tool for entertainment - it's a *global* platform that enables communication, education, commerce, and innovation on an unprecedented scale.\n\nMy journey into understanding the *internet* and *digital* *world* started with learning about *website*s and how they function. I discovered that a *website* is a collection of *digital* pages accessible through the *internet*, and that *website*s can serve various purposes from providing *information* to facilitating commerce. I learned that *website*s are accessed through a *browser*, which is software that displays *web* content and allows users to navigate the *internet*.\n\n*Email* and *social* *network*s became important concepts for understanding *online* communication. I learned that *email* is a *digital* messaging system that allows people to send and receive messages instantly across the *internet*, while *social* *network*s are *online* platforms that enable people to connect, share *information*, and communicate with others. I discovered that both *email* and *social* *network*s have revolutionized how we maintain relationships and share *information*.\n\n*Data* and *information* taught me about the content that flows through the *internet* and *digital* *world*. I learned that *data* refers to raw facts and figures, while *information* is *data* that has been processed and organized to be meaningful and useful. I discovered that the *internet* contains vast amounts of *data* and *information*, and that learning to find and evaluate this content is an essential skill for navigating the *digital* *world*.\n\n*Search* and *browser* became important tools for understanding how we access *information* on the *internet*. I learned that *search* engines help us find *information* by indexing *website*s and providing relevant results, while a *browser* is the software we use to view and interact with *web* content. I discovered that both *search* and *browser* technology have made the *internet* more accessible and user-friendly.\n\n*Download* and *upload* taught me about data transfer in the *digital* *world*. I learned that *download* refers to receiving *data* from the *internet* to a local *device*, while *upload* refers to sending *data* from a local *device* to the *internet*. I discovered that both *download* and *upload* capabilities are essential for sharing *information* and accessing *digital* content.\n\n*Password* and *security* became important concepts for understanding *privacy* and protection in the *digital* *world*. I learned that a *password* is a secret code used to protect accounts and *data*, while *security* refers to measures taken to protect *information* and systems from unauthorized access. I discovered that maintaining strong *password*s and understanding *security* practices are essential for safe *online* activity.\n\n*Privacy* and *connection* taught me about the social and technical aspects of the *internet*. I learned that *privacy* refers to the right to control personal *information* and activities, while *connection* refers to the technical link that allows *device*s to access the *internet*. I discovered that both *privacy* and *connection* are important considerations for anyone using the *internet* and *digital* services.\n\n*Virtual* and *global* became important adjectives for understanding the nature of the *internet* and *digital* *world*. I learned that *virtual* refers to things that exist in *digital* form rather than physical reality, while *global* refers to the worldwide reach of the *internet* and *digital* services. I discovered that the *virtual* and *global* nature of the *internet* has created new opportunities for communication, collaboration, and innovation.\n\n*Online* became the key adjective for understanding activities that take place on the *internet*. I learned that *online* refers to being connected to the *internet* and participating in *digital* activities, and that many aspects of modern life now take place *online*. I discovered that being *online* provides access to a vast *network* of *information*, services, and people that would be impossible to access otherwise.\n\nThe *internet* and *digital* *world* have taught me that we live in an age of unprecedented connectivity and *information* access. From the simple *website* to the complex *social* *network*, the *internet* has created a *global* platform that enables communication, education, and innovation on a scale never before possible. Understanding the *internet* and *digital* *world* has given me a greater appreciation for the technology that connects us and the importance of using it responsibly and effectively.",
+    "additionalExamples": [
+      {
+        "word": "internet",
+        "example": "Internet is fast.",
+        "translation": "Интернет быстрый."
+      },
+      {
+        "word": "digital",
+        "example": "Digital world is vast.",
+        "translation": "Цифровой мир обширный."
+      },
+      {
+        "word": "world",
+        "example": "World is connected.",
+        "translation": "Мир связан."
+      },
+      {
+        "word": "website",
+        "example": "Website is informative.",
+        "translation": "Веб-сайт информативный."
+      },
+      {
+        "word": "online",
+        "example": "Online services are convenient.",
+        "translation": "Онлайн-сервисы удобные."
+      },
+      {
+        "word": "social",
+        "example": "Social networks are popular.",
+        "translation": "Социальные сети популярны."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I'm going online to check my email",
+        "translation": "Я иду в интернет проверить почту"
+      },
+      {
+        "phrase": "The website is loading slowly",
+        "translation": "Веб-сайт загружается медленно"
+      },
+      {
+        "phrase": "I need to update my password",
+        "translation": "Мне нужно обновить пароль"
+      },
+      {
+        "phrase": "The internet connection is unstable",
+        "translation": "Интернет-соединение нестабильное"
+      },
+      {
+        "phrase": "I'm downloading a file",
+        "translation": "Я скачиваю файл"
+      },
+      {
+        "phrase": "Social media is addictive",
+        "translation": "Социальные сети вызывают зависимость"
+      },
+      {
+        "phrase": "The digital world is constantly changing",
+        "translation": "Цифровой мир постоянно меняется"
+      },
+      {
+        "phrase": "Online privacy is important",
+        "translation": "Онлайн-приватность важна"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Internet** is uncountable and refers to the global network.\n- **Digital** is an adjective describing electronic technology.\n- **World** is countable and refers to the realm of digital technology.\n- **Website** is countable and refers to a collection of web pages.",
+    "relatedTopics": [
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Electronics Gadgets",
+        "slug": "electronics-gadgets",
+        "url": "/lessons/eng/b1b2/electronics-gadgets"
+      },
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Media Journalism",
+        "slug": "media-journalism",
+        "url": "/lessons/eng/b1b2/media-journalism"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/internet-digital-world"
+  },
+  {
+    "id": 57,
+    "slug": "jobs-professions",
+    "title": "Jobs & Professions",
+    "titleRu": "Работы и профессии",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: job, profession, career, work, employee and practical usage examples.",
+    "keywords": [
+      {
+        "word": "job",
+        "translation": "работа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "profession",
+        "translation": "профессия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "career",
+        "translation": "карьера",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "work",
+        "translation": "работа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "employee",
+        "translation": "сотрудник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "employer",
+        "translation": "работодатель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "manager",
+        "translation": "менеджер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "teacher",
+        "translation": "учитель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "doctor",
+        "translation": "врач",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "engineer",
+        "translation": "инженер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lawyer",
+        "translation": "юрист",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "artist",
+        "translation": "художник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "musician",
+        "translation": "музыкант",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "chef",
+        "translation": "повар",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pilot",
+        "translation": "пилот",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nurse",
+        "translation": "медсестра",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "police",
+        "translation": "полиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "firefighter",
+        "translation": "пожарный",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "salary",
+        "translation": "зарплата",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "experience",
+        "translation": "опыт",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Job*s and *profession*s are the foundation of human society, representing the diverse ways people contribute their skills, knowledge, and talents to create value and serve others. From the dedicated *teacher* who educates future generations to the skilled *engineer* who designs innovative solutions, *job*s and *profession*s shape our daily lives and drive economic progress. Let me share a story about how I discovered the incredible variety of *job*s and *profession*s through exploring different career paths.\n\nLast year, I decided to research various *career* options and learn about different *profession*s that might interest me. I began by understanding the difference between a *job* and a *profession*, learning how people develop skills and *experience* to advance in their chosen fields. The process taught me that *job*s and *profession*s are not just ways to earn a *salary* - they're opportunities to make meaningful contributions to society while pursuing personal fulfillment and growth.\n\nMy journey into understanding *job*s and *profession*s started with exploring healthcare *profession*s like *doctor* and *nurse*. I learned that a *doctor* is a medical *professional* who diagnoses and treats patients, while a *nurse* is a healthcare worker who provides direct patient care and supports *doctor*s in their work. I discovered that both *doctor*s and *nurse*s require extensive education and training, and that they work together as a team to provide quality healthcare services.\n\n*Teacher* and *engineer* taught me about education and technical *profession*s. I learned that a *teacher* is an educator who helps students learn and develop knowledge and skills, while an *engineer* is a technical *professional* who applies scientific principles to solve practical problems. I discovered that both *teacher*s and *engineer*s play crucial roles in society, with *teacher*s shaping future generations and *engineer*s creating the technology and infrastructure that supports modern life.\n\n*Lawyer* and *artist* introduced me to the diverse range of *profession*s available. I learned that a *lawyer* is a legal *professional* who represents clients in legal matters and provides legal advice, while an *artist* is a creative *professional* who expresses ideas and emotions through various forms of art. I discovered that both *lawyer*s and *artist*s require different types of skills and training, and that they serve different but equally important functions in society.\n\n*Musician* and *chef* taught me about creative and service-oriented *profession*s. I learned that a *musician* is a *professional* who creates and performs music, while a *chef* is a culinary *professional* who prepares and creates food. I discovered that both *musician*s and *chef*s combine technical skills with creativity, and that they provide entertainment and nourishment that enriches people's lives.\n\n*Pilot* and *police* introduced me to transportation and public safety *profession*s. I learned that a *pilot* is a *professional* who operates aircraft and ensures safe air travel, while a *police* officer is a public safety *professional* who maintains law and order and protects communities. I discovered that both *pilot*s and *police* officers require specialized training and must make quick decisions in high-pressure situations.\n\n*Firefighter* and *manager* taught me about emergency services and leadership *profession*s. I learned that a *firefighter* is an emergency services *professional* who responds to fires and other emergencies, while a *manager* is a leadership *professional* who oversees teams and coordinates business operations. I discovered that both *firefighter*s and *manager*s require strong leadership skills and the ability to work effectively under pressure.\n\n*Employee* and *employer* became important concepts for understanding the relationship between workers and organizations. I learned that an *employee* is a person who works for an organization in exchange for a *salary*, while an *employer* is an organization or person who hires and manages *employee*s. I discovered that the relationship between *employee*s and *employer*s is based on mutual benefit, with *employee*s providing skills and labor in exchange for compensation and career opportunities.\n\n*Salary* and *experience* became important factors for understanding career development. I learned that a *salary* is the regular payment that *employee*s receive for their *work*, while *experience* refers to the knowledge and skills gained through practice and time in a *job* or *profession*. I discovered that both *salary* and *experience* are important considerations when choosing a *career*, and that they often increase as people advance in their *profession*s.\n\n*Work* and *career* taught me about the broader context of professional life. I learned that *work* refers to the activities people perform in their *job*s, while a *career* is the long-term progression of *work* and *profession* over a person's lifetime. I discovered that building a successful *career* requires dedication, continuous learning, and the ability to adapt to changing circumstances and opportunities.\n\n*Job*s and *profession*s have taught me that the world of *work* is incredibly diverse and offers opportunities for people with different interests, skills, and talents. From the creative *artist* to the technical *engineer*, each *profession* plays a unique role in society and offers different rewards and challenges. Understanding the variety of *job*s and *profession*s has given me a greater appreciation for the contributions that different people make to society and has helped me think more clearly about my own *career* goals and aspirations.",
+    "additionalExamples": [
+      {
+        "word": "job",
+        "example": "Job is challenging.",
+        "translation": "Работа сложная."
+      },
+      {
+        "word": "profession",
+        "example": "Profession is rewarding.",
+        "translation": "Профессия вознаграждающая."
+      },
+      {
+        "word": "career",
+        "example": "Career is successful.",
+        "translation": "Карьера успешная."
+      },
+      {
+        "word": "work",
+        "example": "Work is important.",
+        "translation": "Работа важна."
+      },
+      {
+        "word": "employee",
+        "example": "Employee is skilled.",
+        "translation": "Сотрудник квалифицированный."
+      },
+      {
+        "word": "employer",
+        "example": "Employer is fair.",
+        "translation": "Работодатель справедливый."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I'm looking for a new job",
+        "translation": "Я ищу новую работу"
+      },
+      {
+        "phrase": "The profession requires special training",
+        "translation": "Профессия требует специальной подготовки"
+      },
+      {
+        "phrase": "My career is progressing well",
+        "translation": "Моя карьера развивается хорошо"
+      },
+      {
+        "phrase": "The work is very demanding",
+        "translation": "Работа очень требовательная"
+      },
+      {
+        "phrase": "The employee is highly qualified",
+        "translation": "Сотрудник высококвалифицированный"
+      },
+      {
+        "phrase": "The employer offers good benefits",
+        "translation": "Работодатель предлагает хорошие льготы"
+      },
+      {
+        "phrase": "The salary is competitive",
+        "translation": "Зарплата конкурентоспособная"
+      },
+      {
+        "phrase": "Experience is valuable in this field",
+        "translation": "Опыт ценен в этой области"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Job** is countable and refers to a specific position of employment.\n- **Profession** is countable and refers to a type of work requiring special training.\n- **Career** is countable and refers to a person's work life.\n- **Work** is uncountable and refers to the activity of working.",
+    "relatedTopics": [
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Business Economy",
+        "slug": "business-economy",
+        "url": "/lessons/eng/b1b2/business-economy"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      }
+    ],
+    "category": "economics_business",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/jobs-professions"
+  },
+  {
+    "id": 58,
+    "slug": "kitchen-cooking",
+    "title": "Kitchen & Cooking",
+    "titleRu": "Кухня и приготовление пищи",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: kitchen, cooking, cook, recipe, ingredient and practical usage examples.",
+    "keywords": [
+      {
+        "word": "kitchen",
+        "translation": "кухня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cooking",
+        "translation": "приготовление пищи",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cook",
+        "translation": "готовить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "recipe",
+        "translation": "рецепт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ingredient",
+        "translation": "ингредиент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "food",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meal",
+        "translation": "еда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dish",
+        "translation": "блюдо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "taste",
+        "translation": "вкус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "flavor",
+        "translation": "вкус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "spice",
+        "translation": "специя",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "herb",
+        "translation": "трава",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "oven",
+        "translation": "духовка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stove",
+        "translation": "плита",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pan",
+        "translation": "сковорода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pot",
+        "translation": "кастрюля",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "knife",
+        "translation": "нож",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "spoon",
+        "translation": "ложка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fork",
+        "translation": "вилка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plate",
+        "translation": "тарелка",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Kitchen* and *cooking* are the heart of home life, where *food* is transformed from raw *ingredient*s into delicious *meal*s that nourish and bring people together. From the simple act of *cook*ing a *recipe* to the complex art of creating *dish*es with perfect *taste* and *flavor*, the *kitchen* is a place where creativity meets practicality. Let me share a story about how I discovered the joy of *kitchen* and *cooking* through learning to prepare my first *meal*.\n\nLast year, I decided to learn how to *cook* and found myself spending hours in the *kitchen* experimenting with different *recipe*s and *ingredient*s. I began by understanding the basic *cooking* techniques and learning how to use essential *kitchen* tools like the *oven*, *stove*, *pan*, and *pot*. The process taught me that *cooking* is not just about following *recipe*s - it's about understanding *ingredient*s, developing *taste*, and creating *meal*s that bring joy and satisfaction.\n\nMy journey into understanding *kitchen* and *cooking* started with learning about essential *kitchen* equipment and tools. I discovered that an *oven* is used for baking and roasting *food*, while a *stove* is used for boiling, frying, and sautéing. I learned that a *pan* is perfect for frying and sautéing, while a *pot* is ideal for boiling and stewing. Each piece of *kitchen* equipment serves specific purposes and understanding how to use them properly is essential for successful *cooking*.\n\n*Knife*, *spoon*, and *fork* became important tools for understanding basic *kitchen* utensils. I learned that a *knife* is essential for cutting and preparing *ingredient*s, while a *spoon* is used for stirring, serving, and eating. I discovered that a *fork* is used for eating and sometimes for mixing, and that having the right utensils makes *cooking* and eating much more enjoyable and efficient.\n\n*Plate* and *dish* taught me about serving and presentation in *cooking*. I learned that a *plate* is used for serving *food* and that presentation is an important part of *cooking*. I discovered that a *dish* refers to a specific type of *food* or *meal*, and that creating beautiful *dish*es involves both *cooking* skills and presentation techniques.\n\n*Recipe* and *ingredient* became central to my understanding of how *cooking* works. I learned that a *recipe* is a set of instructions for preparing a specific *dish*, while *ingredient*s are the individual *food* items used in *cooking*. I discovered that following *recipe*s helps ensure consistent results, but that understanding *ingredient*s and their properties allows for creativity and improvisation in *cooking*.\n\n*Food* and *meal* taught me about the broader context of *cooking* and nutrition. I learned that *food* refers to any substance that provides nourishment, while a *meal* is a specific occasion of eating *food*. I discovered that *cooking* is about transforming raw *food* into delicious *meal*s that provide both nutrition and pleasure.\n\n*Taste* and *flavor* became important concepts for understanding the sensory aspects of *cooking*. I learned that *taste* refers to the sensation experienced when eating *food*, while *flavor* refers to the combination of *taste*, aroma, and other sensory qualities. I discovered that developing a good sense of *taste* and understanding how to enhance *flavor* are essential skills for successful *cooking*.\n\n*Spice* and *herb* introduced me to the world of seasoning and *flavor* enhancement. I learned that a *spice* is a dried plant part used to add *flavor* to *food*, while an *herb* is a fresh or dried plant used for the same purpose. I discovered that *spice*s and *herb*s are essential for creating complex *flavor*s and that learning to use them properly can transform simple *ingredient*s into extraordinary *dish*es.\n\n*Cook* became the central verb for understanding the action of *cooking*. I learned that to *cook* means to prepare *food* by heating it, and that *cooking* involves various techniques like boiling, frying, baking, and roasting. I discovered that *cooking* is both a science and an art, requiring knowledge of *ingredient*s, techniques, and *flavor* combinations.\n\n*Kitchen* and *cooking* have taught me that preparing *food* is one of the most fundamental and rewarding human activities. From the simple *recipe* to the complex *dish*, *cooking* allows us to nourish ourselves and others while expressing creativity and sharing culture. Understanding the principles of *kitchen* and *cooking* has given me a greater appreciation for *food* and the art of preparing *meal*s, and has provided me with skills that will serve me throughout my life.",
+    "additionalExamples": [
+      {
+        "word": "kitchen",
+        "example": "Kitchen is modern.",
+        "translation": "Кухня современная."
+      },
+      {
+        "word": "cooking",
+        "example": "Cooking is fun.",
+        "translation": "Приготовление пищи веселое."
+      },
+      {
+        "word": "cook",
+        "example": "Cook carefully.",
+        "translation": "Готовь осторожно."
+      },
+      {
+        "word": "recipe",
+        "example": "Recipe is clear.",
+        "translation": "Рецепт понятный."
+      },
+      {
+        "word": "ingredient",
+        "example": "Ingredient is fresh.",
+        "translation": "Ингредиент свежий."
+      },
+      {
+        "word": "food",
+        "example": "Food is delicious.",
+        "translation": "Еда вкусная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I love cooking in my kitchen",
+        "translation": "Я люблю готовить на своей кухне"
+      },
+      {
+        "phrase": "The recipe calls for fresh ingredients",
+        "translation": "Рецепт требует свежих ингредиентов"
+      },
+      {
+        "phrase": "The dish tastes amazing",
+        "translation": "Блюдо потрясающе вкусное"
+      },
+      {
+        "phrase": "I need to preheat the oven",
+        "translation": "Мне нужно разогреть духовку"
+      },
+      {
+        "phrase": "The spices add great flavor",
+        "translation": "Специи добавляют отличный вкус"
+      },
+      {
+        "phrase": "Cooking is a creative process",
+        "translation": "Приготовление пищи - творческий процесс"
+      },
+      {
+        "phrase": "The meal was a success",
+        "translation": "Еда была успешной"
+      },
+      {
+        "phrase": "I enjoy trying new recipes",
+        "translation": "Мне нравится пробовать новые рецепты"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Kitchen** is countable and refers to a room for cooking.\n- **Cooking** is uncountable and refers to the activity of preparing food.\n- **Cook** is a verb meaning to prepare food by heating.\n- **Recipe** is countable and refers to cooking instructions.",
+    "relatedTopics": [
+      {
+        "name": "Food Drink",
+        "slug": "food-drink",
+        "url": "/lessons/eng/b1b2/food-drink"
+      },
+      {
+        "name": "Home Household",
+        "slug": "home-household",
+        "url": "/lessons/eng/b1b2/home-household"
+      },
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Health Wellness",
+        "slug": "health-wellness",
+        "url": "/lessons/eng/b1b2/health-wellness"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/kitchen-cooking"
+  },
+  {
+    "id": 59,
+    "slug": "languages-linguistics",
+    "title": "Languages & Linguistics",
+    "titleRu": "Языки и лингвистика",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: language, linguistics, grammar, vocabulary, pronunciation and practical usage examples.",
+    "keywords": [
+      {
+        "word": "language",
+        "translation": "язык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "linguistics",
+        "translation": "лингвистика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "grammar",
+        "translation": "грамматика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vocabulary",
+        "translation": "словарный запас",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pronunciation",
+        "translation": "произношение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "accent",
+        "translation": "акцент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dialect",
+        "translation": "диалект",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "translation",
+        "translation": "перевод",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conversation",
+        "translation": "разговор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "communication",
+        "translation": "общение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "speak",
+        "translation": "говорить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "listen",
+        "translation": "слушать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "read",
+        "translation": "читать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "write",
+        "translation": "писать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "understand",
+        "translation": "понимать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "learn",
+        "translation": "учить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "practice",
+        "translation": "практиковать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "fluent",
+        "translation": "беглый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "native",
+        "translation": "родной",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "foreign",
+        "translation": "иностранный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Languages* and *linguistics* represent one of humanity's most remarkable achievements, enabling complex thought, cultural transmission, and global communication. The study of *language* reveals the incredible complexity of human cognition and the beautiful diversity of how different cultures organize and express their understanding of the world. Let me share a story about how I discovered the fascinating world of *languages* and *linguistics*.\n\nLast *year*, I decided to seriously *learn* a *foreign* *language*, which opened my eyes to the intricate world of *linguistics* and the incredible challenges and rewards of language acquisition. I had always been curious about how *languages* work, but this experience taught me about the complex systems of *grammar*, *vocabulary*, and *pronunciation* that make human communication possible.\n\nMy journey began with understanding the basic structure of *language* and how *grammar* provides the framework for meaningful communication. I learned that *grammar* is not just a set of rules – it's a sophisticated system that allows infinite creativity within structured patterns. The *grammar* taught me about the logical relationships between words and ideas that make complex thought and communication possible.\n\nBuilding my *vocabulary* revealed the incredible richness and precision of *language*. I discovered that *vocabulary* is not just a collection of words – it's a vast network of meanings, associations, and cultural knowledge that shapes how we understand and describe our experiences. Each new word became a window into different ways of thinking and perceiving the world.\n\nWorking on my *pronunciation* taught me about the physical and cognitive aspects of *language* production. I learned that *pronunciation* is not just about making sounds – it's about coordinating complex movements of the mouth, tongue, and throat while simultaneously processing meaning and *grammar*. The *pronunciation* practice helped me understand how *accents* and *dialects* develop and why they're important markers of cultural identity.\n\n*Listening* and *speaking* revealed the dynamic nature of real-time communication. I discovered that *conversation* is not just an exchange of information – it's a complex social dance that requires understanding *grammar*, *vocabulary*, *pronunciation*, and cultural context simultaneously. The *speaking* practice taught me about the confidence and fluency that come from regular *practice* and immersion.\n\n*Reading* and *writing* showed me the relationship between spoken and written *language*. I learned that *reading* and *writing* are not just technical skills – they're gateways to literature, knowledge, and cross-cultural *communication*. The written *language* taught me about the permanence and precision that writing adds to human communication.\n\n*Translation* became one of the most challenging and rewarding aspects of my language learning. I discovered that *translation* is not just converting words from one *language* to another – it's about bridging cultural gaps and finding equivalent expressions for concepts that may not exist directly in both *languages*. The *translation* practice taught me about the unique worldview embedded in each *language*.\n\nInteracting with *native* speakers revealed the natural flow and cultural context of authentic *language* use. I learned that *native* speakers don't just know the rules – they have an intuitive understanding of the rhythms, idioms, and cultural references that make *language* come alive. The *native* speakers taught me about the importance of cultural context in effective *communication*.\n\nStudying *linguistics* as a science showed me the systematic patterns that underlie all human *languages*. I discovered that *linguistics* reveals universal principles of human cognition and the remarkable consistency in how different cultures develop complex communication systems. The *linguistics* study taught me about the scientific approach to understanding *language* structure and evolution.\n\nWhat I love most about my exploration of *languages* and *linguistics* is how it revealed the incredible capacity of the human mind for learning and communication. I learned that every *language* represents thousands of years of cultural evolution and collective human intelligence, embodied in systems that are both logical and beautiful.\n\n*Languages* and *linguistics* have taught me that communication is one of our most powerful tools for understanding each other and building connections across cultural boundaries. By studying *languages* and understanding how they work, we can become better communicators, more empathetic global citizens, and more effective participants in our increasingly interconnected world.",
+    "additionalExamples": [
+      {
+        "word": "language",
+        "example": "English is a global language.",
+        "translation": "Английский - глобальный язык."
+      },
+      {
+        "word": "grammar",
+        "example": "Grammar is important for clarity.",
+        "translation": "Грамматика важна для ясности."
+      },
+      {
+        "word": "vocabulary",
+        "example": "I'm expanding my vocabulary.",
+        "translation": "Я расширяю свой словарный запас."
+      },
+      {
+        "word": "pronunciation",
+        "example": "Your pronunciation is excellent.",
+        "translation": "Ваше произношение отличное."
+      },
+      {
+        "word": "speak",
+        "example": "I can speak three languages.",
+        "translation": "Я могу говорить на трех языках."
+      },
+      {
+        "word": "learn",
+        "example": "I want to learn Spanish.",
+        "translation": "Я хочу изучать испанский."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "When in Rome, do as the Romans do",
+        "translation": "В чужой монастырь со своим уставом не ходят"
+      },
+      {
+        "phrase": "Lost in translation",
+        "translation": "Потерялось в переводе"
+      },
+      {
+        "phrase": "Actions speak louder than words",
+        "translation": "Дела говорят громче слов"
+      },
+      {
+        "phrase": "A picture is worth a thousand words",
+        "translation": "Лучше один раз увидеть"
+      },
+      {
+        "phrase": "The pen is mightier than the sword",
+        "translation": "Перо сильнее меча"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Language** is countable and can refer to specific languages.\n- **Grammar** is usually uncountable and refers to the system of rules.\n- **Vocabulary** is uncountable and refers to the collection of words.\n- **Speak**, **listen**, **read**, **write** are action verbs requiring objects.",
+    "relatedTopics": [
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Countries Nationalities",
+        "slug": "countries-nationalities",
+        "url": "/lessons/eng/b1b2/countries-nationalities"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/languages-linguistics"
+  },
+  {
+    "id": 60,
     "slug": "law-justice",
     "title": "Law & Justice",
     "titleRu": "Право и правосудие",
@@ -3688,13 +12257,813 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
     ],
-    "category": "Law Justice",
+    "category": "politics_law",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/law-justice"
   },
   {
-    "id": 18,
+    "id": 61,
+    "slug": "literature-writing",
+    "title": "Literature & Writing",
+    "titleRu": "Литература и письмо",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: literature, writing, book, novel, story and practical usage examples.",
+    "keywords": [
+      {
+        "word": "literature",
+        "translation": "литература",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "writing",
+        "translation": "письмо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "book",
+        "translation": "книга",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "novel",
+        "translation": "роман",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "story",
+        "translation": "рассказ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "poem",
+        "translation": "стихотворение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "author",
+        "translation": "автор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "writer",
+        "translation": "писатель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "poet",
+        "translation": "поэт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "character",
+        "translation": "персонаж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plot",
+        "translation": "сюжет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "theme",
+        "translation": "тема",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "style",
+        "translation": "стиль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "language",
+        "translation": "язык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "creativity",
+        "translation": "творчество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "imagination",
+        "translation": "воображение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "expression",
+        "translation": "выражение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "narrative",
+        "translation": "повествование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "genre",
+        "translation": "жанр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "publication",
+        "translation": "публикация",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Literature* and *writing* represent humanity's most profound attempts to capture, explore, and share the depths of human experience through the power of *language* and *imagination*. Through *novels*, *poems*, and *stories*, *writers* and *authors* create worlds that illuminate truth, inspire empathy, and preserve the complexity of human existence for future generations. Let me share a story about how I discovered the transformative power and enduring significance of *literature* and *writing* in our culture.\n\nLast *year*, I joined a *writing* workshop and began exploring both classic and contemporary *literature*, which opened my eyes to the incredible artistry and cultural importance of *literary* expression. I had always enjoyed reading *books*, but this experience taught me about the craft, dedication, and profound responsibility that *writers* undertake when they create *literature*.\n\nMy journey began with understanding the fundamental elements that make great *literature*, particularly the development of compelling *characters* and engaging *plots*. I learned that effective *literature* is not just about telling *stories* – it's about creating authentic *characters* who face meaningful challenges and grow through their experiences. The *character* development I studied taught me about the importance of psychological depth and the way great *authors* use *characters* to explore universal human experiences.\n\n*Writing* as a craft revealed the incredible skill and discipline required to transform ideas into compelling *narratives*. I discovered that *writing* is not just about having good ideas – it's about mastering *language*, structure, and *style* to communicate those ideas effectively and beautifully. The *writing* exercises I completed taught me about the importance of revision, precision, and the constant search for the perfect word or phrase.\n\n*Novels* and long-form *literature* showed me how *writers* can create entire worlds and explore complex *themes* through extended *narratives*. I learned that *novels* are not just long *stories* – they're sophisticated structures that allow *authors* to examine multiple perspectives, develop intricate *plots*, and explore the complexity of human relationships and society. The *novels* I studied taught me about the power of sustained *narrative* and the patience required for long-form *writing*.\n\n*Poetry* and *poetic* expression revealed the concentrated power of *language* and the ability of *writers* to distill profound emotions and insights into precise, beautiful forms. I discovered that *poetry* is not just about rhyme and meter – it's about using *language* with maximum precision and impact to create emotional and intellectual responses. The *poems* I analyzed taught me about the importance of economy in *language* and the power of metaphor and imagery.\n\n*Authors* and *poets* showed me the diverse approaches and *styles* that different *writers* bring to their craft. I learned that great *writers* are not just talented individuals – they're dedicated artists who develop unique voices and spend years perfecting their craft. The *authors* I studied taught me about the importance of persistence, originality, and the courage to express personal vision through *writing*.\n\n*Themes* and *literary* exploration revealed how *literature* addresses the fundamental questions and concerns of human existence. I discovered that great *literature* is not just entertainment – it's a form of philosophical and emotional exploration that helps readers understand themselves and their world more deeply. The *themes* I encountered taught me about the power of *literature* to illuminate truth and inspire personal growth.\n\n*Genre* and *literary* forms showed me the diverse traditions and conventions that *writers* work within and against. I learned that *literary* *genres* are not just categories – they're traditions that provide frameworks for *expression* while also offering opportunities for innovation and experimentation. The different *genres* I explored taught me about the importance of understanding tradition while finding new ways to express contemporary concerns.\n\n*Publication* and the *literary* world revealed the complex systems that bring *literature* to readers and support *writers* in their work. I discovered that *publication* is not just about printing *books* – it's about the entire ecosystem of editors, publishers, critics, and readers who participate in the creation and preservation of *literary* culture. The *publication* process I learned about taught me about the collaborative nature of bringing *literature* to the world.\n\n*Creativity* and *imagination* emerged as the essential qualities that enable *writers* to create original and meaningful *literature*. I learned that *creativity* in *writing* is not just about having unusual ideas – it's about the ability to see familiar experiences in new ways and to find fresh *language* for expressing complex emotions and ideas. The creative processes I observed taught me about the importance of observation, empathy, and the willingness to explore difficult or uncomfortable truths.\n\nWhat I love most about my exploration of *literature* and *writing* is how it revealed the incredible power of *language* to create meaning, connection, and understanding across time and cultures. I learned that *literature* is not just about individual *authors* – it's about the ongoing conversation between *writers* and readers that preserves and transmits human wisdom and experience.\n\n*Literature* and *writing* have taught me that *language* is our most powerful tool for understanding and expressing the complexity of human existence. By reading great *literature* and practicing *writing*, we can develop greater empathy, clearer thinking, and more effective *communication* while participating in the timeless tradition of preserving and sharing human experience through the written word.",
+    "additionalExamples": [
+      {
+        "word": "literature",
+        "example": "Literature enriches our understanding.",
+        "translation": "Литература обогащает наше понимание."
+      },
+      {
+        "word": "writing",
+        "example": "Writing requires practice and patience.",
+        "translation": "Письмо требует практики и терпения."
+      },
+      {
+        "word": "book",
+        "example": "This book changed my perspective.",
+        "translation": "Эта книга изменила мое мировоззрение."
+      },
+      {
+        "word": "author",
+        "example": "The author has a unique style.",
+        "translation": "У автора уникальный стиль."
+      },
+      {
+        "word": "story",
+        "example": "The story is compelling and moving.",
+        "translation": "История убедительная и трогательная."
+      },
+      {
+        "word": "character",
+        "example": "The character is well-developed.",
+        "translation": "Персонаж хорошо проработан."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The pen is mightier than the sword",
+        "translation": "Перо сильнее меча"
+      },
+      {
+        "phrase": "Don't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      },
+      {
+        "phrase": "Knowledge is power",
+        "translation": "Знание - сила"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A picture is worth a thousand words",
+        "translation": "Лучше один раз увидеть"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Literature** is uncountable and refers to written works of artistic value.\n- **Writing** can be countable (pieces of writing) or uncountable (the activity).\n- **Book** is countable and refers to published written works.\n- **Author** and **writer** are countable and refer to people who create literature.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Language Linguistics",
+        "slug": "language-linguistics",
+        "url": "/lessons/eng/b1b2/language-linguistics"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Creativity Imagination",
+        "slug": "creativity-imagination",
+        "url": "/lessons/eng/b1b2/creativity-imagination"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/literature-writing"
+  },
+  {
+    "id": 62,
+    "slug": "materials-substances",
+    "title": "Materials & Substances",
+    "titleRu": "Материалы и вещества",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: material, substance, wood, metal, plastic and practical usage examples.",
+    "keywords": [
+      {
+        "word": "material",
+        "translation": "материал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "substance",
+        "translation": "вещество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wood",
+        "translation": "дерево",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "metal",
+        "translation": "металл",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plastic",
+        "translation": "пластик",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "glass",
+        "translation": "стекло",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "paper",
+        "translation": "бумага",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fabric",
+        "translation": "ткань",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stone",
+        "translation": "камень",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "clay",
+        "translation": "глина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rubber",
+        "translation": "резина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "leather",
+        "translation": "кожа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "steel",
+        "translation": "сталь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "aluminum",
+        "translation": "алюминий",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "concrete",
+        "translation": "бетон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ceramic",
+        "translation": "керамика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "natural",
+        "translation": "естественный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "synthetic",
+        "translation": "синтетический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "durable",
+        "translation": "прочный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "flexible",
+        "translation": "гибкий",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Material*s and *substance*s are the fundamental building blocks of our physical world, from the *natural* *wood* of a forest to the *synthetic* *plastic* of modern technology. Understanding different *material*s and *substance*s helps us make informed choices about the products we use, the buildings we inhabit, and the environmental impact of our consumption. Let me share a story about how I discovered the fascinating world of *material*s and *substance*s through a furniture shopping experience.\n\nLast year, I decided to furnish my new apartment and found myself overwhelmed by the variety of *material*s and *substance*s available for furniture and home goods. I began by learning about the properties of different *material*s, understanding how *natural* and *synthetic* *substance*s differ in terms of *durability*, *flexibility*, and environmental impact. The process taught me that *material*s and *substance*s are not just physical objects - they're the result of human innovation and natural processes that shape our daily lives.\n\nMy journey into understanding *material*s and *substance*s started with exploring *natural* *material*s like *wood* and *stone*. I learned that *wood* is a *natural* *material* that comes from trees and offers warmth, beauty, and *durability* when properly treated. I discovered that *stone* is another *natural* *substance* that provides strength and longevity, making it ideal for construction and decorative purposes. Both *wood* and *stone* have been used by humans for thousands of years and continue to be valued for their *natural* beauty and practical properties.\n\n*Metal* and *steel* became important *material*s in my education about industrial *substance*s. I learned that *metal* is a *natural* element that can be extracted from the earth and processed into various forms, while *steel* is an alloy made from iron and carbon that offers exceptional strength and *durability*. I discovered that *aluminum* is a lightweight *metal* that's resistant to corrosion and widely used in modern manufacturing. These *metal* *material*s are essential for construction, transportation, and many other applications.\n\n*Plastic* and *rubber* introduced me to the world of *synthetic* *material*s and *substance*s. I learned that *plastic* is a *synthetic* *material* made from petroleum that can be molded into various shapes and forms, offering *flexibility* and versatility in design. I discovered that *rubber* is a *natural* or *synthetic* *substance* that's *flexible* and elastic, making it ideal for tires, seals, and other applications that require *flexibility* and resilience.\n\n*Glass* and *ceramic* taught me about *material*s that are created through heating and cooling processes. I learned that *glass* is made by heating sand and other *substance*s to high temperatures, creating a transparent *material* that's used for windows, containers, and decorative objects. I discovered that *ceramic* is made from *clay* and other *natural* *substance*s that are fired at high temperatures, creating *durable* and heat-resistant *material*s for dishes, tiles, and other applications.\n\n*Fabric* and *leather* became important *material*s for understanding textiles and soft goods. I learned that *fabric* can be made from *natural* fibers like cotton and wool or *synthetic* fibers like polyester, offering different properties in terms of comfort, *durability*, and care requirements. I discovered that *leather* is a *natural* *material* made from animal hides that's *durable* and develops a beautiful patina over time.\n\n*Paper* and *concrete* taught me about *material*s that are essential for communication and construction. I learned that *paper* is made from wood pulp or other plant fibers and is used for writing, printing, and packaging. I discovered that *concrete* is a construction *material* made from cement, sand, and water that's extremely *durable* and widely used in building construction.\n\n*Natural* and *synthetic* *material*s became important categories for understanding the origin and properties of different *substance*s. I learned that *natural* *material*s come from the earth and living organisms, while *synthetic* *material*s are created through chemical processes. I discovered that both *natural* and *synthetic* *material*s have their advantages and disadvantages, and that the choice between them depends on the intended use and environmental considerations.\n\n*Durable* and *flexible* became important properties for evaluating *material*s and *substance*s. I learned that *durable* *material*s can withstand wear and tear over time, while *flexible* *material*s can bend and adapt to different shapes and conditions. I discovered that the ideal *material* for any application depends on the specific requirements for *durability*, *flexibility*, and other properties.\n\n*Material*s and *substance*s have taught me that the physical world is composed of an incredible variety of *natural* and *synthetic* *material*s, each with its own unique properties and applications. From the *natural* beauty of *wood* and *stone* to the *synthetic* versatility of *plastic* and *rubber*, *material*s and *substance*s shape our daily lives and influence our choices about the products we use and the environments we create.",
+    "additionalExamples": [
+      {
+        "word": "material",
+        "example": "Material is durable.",
+        "translation": "Материал прочный."
+      },
+      {
+        "word": "substance",
+        "example": "Substance is natural.",
+        "translation": "Вещество естественное."
+      },
+      {
+        "word": "wood",
+        "example": "Wood is beautiful.",
+        "translation": "Дерево красивое."
+      },
+      {
+        "word": "metal",
+        "example": "Metal is strong.",
+        "translation": "Металл прочный."
+      },
+      {
+        "word": "plastic",
+        "example": "Plastic is flexible.",
+        "translation": "Пластик гибкий."
+      },
+      {
+        "word": "glass",
+        "example": "Glass is transparent.",
+        "translation": "Стекло прозрачное."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "What material is this made of?",
+        "translation": "Из какого материала это сделано?"
+      },
+      {
+        "phrase": "This substance is very durable",
+        "translation": "Это вещество очень прочное"
+      },
+      {
+        "phrase": "I prefer natural materials",
+        "translation": "Я предпочитаю натуральные материалы"
+      },
+      {
+        "phrase": "The quality of the material matters",
+        "translation": "Качество материала имеет значение"
+      },
+      {
+        "phrase": "This is a synthetic substance",
+        "translation": "Это синтетическое вещество"
+      },
+      {
+        "phrase": "The material feels smooth",
+        "translation": "Материал на ощупь гладкий"
+      },
+      {
+        "phrase": "I need something more flexible",
+        "translation": "Мне нужно что-то более гибкое"
+      },
+      {
+        "phrase": "The durability is impressive",
+        "translation": "Прочность впечатляет"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Material** is countable and refers to a substance used to make things.\n- **Substance** is countable and refers to a particular kind of matter.\n- **Wood** is uncountable and refers to the material from trees.\n- **Metal** is countable and refers to a chemical element.",
+    "relatedTopics": [
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Design Architecture",
+        "slug": "design-architecture",
+        "url": "/lessons/eng/b1b2/design-architecture"
+      },
+      {
+        "name": "Manufacturing Production",
+        "slug": "manufacturing-production",
+        "url": "/lessons/eng/b1b2/manufacturing-production"
+      },
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/materials-substances"
+  },
+  {
+    "id": 63,
+    "slug": "measurement-quantity",
+    "title": "Measurement & Quantity",
+    "titleRu": "Измерение и количество",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: measurement, quantity, measure, count, calculate and practical usage examples.",
+    "keywords": [
+      {
+        "word": "measurement",
+        "translation": "измерение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "quantity",
+        "translation": "количество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "measure",
+        "translation": "измерять",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "count",
+        "translation": "считать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "calculate",
+        "translation": "вычислять",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "size",
+        "translation": "размер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "amount",
+        "translation": "количество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "number",
+        "translation": "число",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "unit",
+        "translation": "единица",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "scale",
+        "translation": "шкала",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meter",
+        "translation": "метр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "kilogram",
+        "translation": "килограмм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "liter",
+        "translation": "литр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "inch",
+        "translation": "дюйм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pound",
+        "translation": "фунт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gallon",
+        "translation": "галлон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "precise",
+        "translation": "точный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "accurate",
+        "translation": "точный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "exact",
+        "translation": "точный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "approximate",
+        "translation": "приблизительный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Measurement* and *quantity* are the fundamental concepts that enable us to understand and quantify the world around us, from the *precise* *measurement* of ingredients in a recipe to the *accurate* *calculation* of distances in navigation. Understanding *measurement* and *quantity* helps us make informed decisions, solve problems, and communicate effectively about the physical world. Let me share a story about how I discovered the importance of *measurement* and *quantity* through a cooking experiment.\n\nLast year, I decided to learn how to bake bread and quickly realized that *measurement* and *quantity* were crucial for success. I began by understanding the difference between *precise* and *approximate* *measurement*s, learning how different *unit*s of *measurement* like *meter*s, *kilogram*s, and *liter*s are used to express *quantity*. The process taught me that *measurement* and *quantity* are not just mathematical concepts - they're practical tools that enable us to achieve consistent and *accurate* results in everyday activities.\n\nMy journey into understanding *measurement* and *quantity* started with learning about different *unit*s of *measurement* and their applications. I discovered that a *meter* is the basic *unit* of length in the metric system, while an *inch* is a *unit* of length in the imperial system. I learned that a *kilogram* is the basic *unit* of mass, while a *pound* is the imperial *unit* of weight. Each *unit* has its own *scale* and is used for measuring different types of *quantity*.\n\n*Liter* and *gallon* taught me about *measurement*s of volume and capacity. I learned that a *liter* is the metric *unit* for measuring liquid volume, while a *gallon* is the imperial *unit* for the same purpose. I discovered that understanding these *unit*s is essential for cooking, where *precise* *measurement*s of liquids can make the difference between success and failure.\n\n*Measure* and *count* became important verbs for understanding how we determine *quantity* and *amount*. I learned that to *measure* means to determine the *size*, *amount*, or degree of something using a *scale* or *unit*, while to *count* means to determine the *number* of items in a group. I discovered that both *measure*ing and *count*ing are essential skills for understanding *quantity* and making *accurate* assessments.\n\n*Calculate* and *number* taught me about the mathematical aspects of *measurement* and *quantity*. I learned that to *calculate* means to determine a *number* or *amount* using mathematical operations, while a *number* is a mathematical value that represents *quantity*. I discovered that *calculation* is often necessary when converting between different *unit*s of *measurement* or when determining *quantity* based on given information.\n\n*Size* and *amount* became important concepts for understanding different types of *quantity*. I learned that *size* refers to the physical dimensions or magnitude of something, while *amount* refers to the *quantity* or *number* of something. I discovered that both *size* and *amount* are important considerations when making decisions about *quantity* and *measurement*.\n\n*Scale* and *unit* taught me about the systems used for *measurement* and *quantity*. I learned that a *scale* is a system of *measurement* with regular intervals, while a *unit* is a standard *quantity* used for *measurement*. I discovered that different *scale*s and *unit*s are used for different purposes, and that understanding these systems is essential for *accurate* *measurement* and communication.\n\n*Precise*, *accurate*, and *exact* became important adjectives for understanding the quality of *measurement*s. I learned that *precise* means marked by *exact*ness and *accuracy*, while *accurate* means free from error and conforming to truth. I discovered that *exact* means *precise* and *accurate* in all details, and that these qualities are essential for reliable *measurement* and *calculation*.\n\n*Approximate* taught me about *measurement*s that are close but not *exact*. I learned that *approximate* means close to the *exact* value but not necessarily *precise*. I discovered that *approximate* *measurement*s are often sufficient for many purposes and that understanding when *approximate* values are acceptable is an important skill.\n\n*Measurement* and *quantity* have taught me that the ability to *measure*, *count*, and *calculate* is essential for understanding and navigating the physical world. From the *precise* *measurement* of ingredients in cooking to the *accurate* *calculation* of distances in travel, *measurement* and *quantity* enable us to make informed decisions and achieve consistent results. Understanding different *unit*s of *measurement* and the principles of *quantity* has helped me become more confident in my ability to work with numbers and make *accurate* assessments in various situations.",
+    "additionalExamples": [
+      {
+        "word": "measurement",
+        "example": "Measurement is accurate.",
+        "translation": "Измерение точное."
+      },
+      {
+        "word": "quantity",
+        "example": "Quantity is sufficient.",
+        "translation": "Количество достаточное."
+      },
+      {
+        "word": "measure",
+        "example": "Measure carefully.",
+        "translation": "Измеряй осторожно."
+      },
+      {
+        "word": "count",
+        "example": "Count the items.",
+        "translation": "Считай предметы."
+      },
+      {
+        "word": "calculate",
+        "example": "Calculate precisely.",
+        "translation": "Вычисляй точно."
+      },
+      {
+        "word": "size",
+        "example": "Size is appropriate.",
+        "translation": "Размер подходящий."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Can you measure this for me?",
+        "translation": "Можешь измерить это для меня?"
+      },
+      {
+        "phrase": "The quantity is just right",
+        "translation": "Количество как раз подходит"
+      },
+      {
+        "phrase": "I need to calculate the total",
+        "translation": "Мне нужно вычислить общую сумму"
+      },
+      {
+        "phrase": "What's the exact measurement?",
+        "translation": "Какое точное измерение?"
+      },
+      {
+        "phrase": "The size is perfect",
+        "translation": "Размер идеальный"
+      },
+      {
+        "phrase": "Let me count the items",
+        "translation": "Позвольте мне сосчитать предметы"
+      },
+      {
+        "phrase": "The measurement is approximate",
+        "translation": "Измерение приблизительное"
+      },
+      {
+        "phrase": "I need to double-check the quantity",
+        "translation": "Мне нужно перепроверить количество"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Measurement** is countable and refers to the act of measuring.\n- **Quantity** is uncountable and refers to the amount of something.\n- **Measure** is a verb meaning to determine size or amount.\n- **Count** is a verb meaning to determine the number of items.",
+    "relatedTopics": [
+      {
+        "name": "Numbers Quantity",
+        "slug": "numbers-quantity",
+        "url": "/lessons/eng/b1b2/numbers-quantity"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Mathematics Science",
+        "slug": "mathematics-science",
+        "url": "/lessons/eng/b1b2/mathematics-science"
+      },
+      {
+        "name": "Tools Equipment",
+        "slug": "tools-equipment",
+        "url": "/lessons/eng/b1b2/tools-equipment"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/measurement-quantity"
+  },
+  {
+    "id": 64,
+    "slug": "media-journalism",
+    "title": "Media & Journalism",
+    "titleRu": "СМИ и журналистика",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: media, journalism, news, reporter, journalist and practical usage examples.",
+    "keywords": [
+      {
+        "word": "media",
+        "translation": "медиа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "journalism",
+        "translation": "журналистика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "news",
+        "translation": "новости",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "reporter",
+        "translation": "репортер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "journalist",
+        "translation": "журналист",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "article",
+        "translation": "статья",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "story",
+        "translation": "история",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "interview",
+        "translation": "интервью",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "broadcast",
+        "translation": "трансляция",
+        "partOfSpeech": "noun, verb"
+      },
+      {
+        "word": "television",
+        "translation": "телевидение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "radio",
+        "translation": "радио",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "newspaper",
+        "translation": "газета",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "magazine",
+        "translation": "журнал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "internet",
+        "translation": "интернет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "social",
+        "translation": "социальный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "information",
+        "translation": "информация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "truth",
+        "translation": "правда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fact",
+        "translation": "факт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "opinion",
+        "translation": "мнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "audience",
+        "translation": "аудитория",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Media* and *journalism* represent the vital systems that inform, educate, and connect people in our modern world. Through *news*, *stories*, and *information*, *journalists* and *reporters* play a crucial role in maintaining *democracy*, holding power accountable, and helping citizens make informed decisions. Let me share a story about how I discovered the incredible importance and complexity of *media* and *journalism* in our society.\n\nLast *year*, I had the opportunity to work with a local *newspaper* and learn about the *journalism* process, which opened my eyes to the rigorous standards, ethical principles, and public service mission that define quality *journalism*. I had always consumed *news* and *media*, but this experience taught me about the complex responsibilities and challenges that *journalists* face in their work.\n\nMy journey began with understanding the role of *journalists* and *reporters* in gathering and presenting *information*. I learned that *journalism* is not just about writing *stories* – it's about seeking *truth*, verifying *facts*, and presenting *information* in ways that help *audiences* understand complex issues. The *journalists* I worked with taught me about the importance of accuracy, fairness, and *objectivity* in *news* reporting.\n\n*News* and *information* revealed the incredible responsibility that *media* organizations have in shaping public understanding. I discovered that *news* is not just about reporting events – it's about providing context, analysis, and *information* that helps people understand the world around them. The *news* process I observed taught me about the importance of *fact*-checking and the challenges of presenting complex *information* clearly and accurately.\n\n*Articles* and *stories* showed me the art and craft of *journalistic* writing. I learned that writing *articles* is not just about putting words on paper – it's about structuring *information*, engaging *audiences*, and presenting *facts* in ways that are both informative and compelling. The *article* writing I practiced taught me about the importance of clear communication and the power of well-crafted *stories*.\n\n*Interviews* and *reporting* revealed the human dimension of *journalism* and the importance of building relationships and trust. I discovered that *interviews* are not just about asking questions – they're about listening carefully, following up on answers, and creating an environment where people feel comfortable sharing *information*. The *interview* process I learned about taught me about the importance of empathy and respect in *journalistic* work.\n\n*Broadcast* *media* showed me how *television* and *radio* bring *news* and *information* to life through sound and images. I learned that *broadcast* *journalism* is not just about reading scripts – it's about using visual and audio elements to enhance *storytelling* and connect with *audiences* in powerful ways. The *broadcast* work I observed taught me about the importance of multimedia *storytelling* and the unique challenges of live *reporting*.\n\n*Social* *media* and *internet* *journalism* revealed the evolving landscape of *media* and the new opportunities and challenges they present. I discovered that *social* *media* is not just about sharing *information* – it's about engaging with *audiences*, building communities, and adapting *journalistic* practices to new platforms and formats. The *social* *media* work I explored taught me about the importance of adapting to technological change while maintaining *journalistic* standards.\n\n*Truth* and *facts* emerged as the fundamental principles that guide quality *journalism*. I learned that *journalism* is not just about reporting what people say – it's about seeking *truth*, verifying *facts*, and presenting *information* that helps *audiences* understand reality. The *truth*-seeking process I observed taught me about the importance of *fact*-checking and the challenges of distinguishing between *facts* and *opinions*.\n\n*Audience* and public service showed me how *media* and *journalism* serve the public interest and contribute to *democratic* society. I discovered that *journalism* is not just about attracting *audiences* – it's about serving the public interest, holding power accountable, and providing *information* that enables citizens to participate effectively in *democracy*. The public service mission I learned about taught me about the importance of *journalism* in maintaining *democratic* institutions.\n\nWhat I love most about my exploration of *media* and *journalism* is how it revealed the incredible responsibility and public service mission that defines quality *journalism*. I learned that *media* and *journalism* are not just about entertainment or *information* – they're about seeking *truth*, serving the public interest, and contributing to the health of *democratic* society.\n\n*Media* and *journalism* have taught me that *information* is power, and that quality *journalism* is essential for informed citizenship and *democratic* participation. By understanding and appreciating the role of *media* and *journalism*, we can become more critical consumers of *information* and better participants in the *democratic* process that depends on an informed and engaged citizenry.",
+    "additionalExamples": [
+      {
+        "word": "media",
+        "example": "The media is influential.",
+        "translation": "Медиа влиятельны."
+      },
+      {
+        "word": "journalism",
+        "example": "Journalism is important for democracy.",
+        "translation": "Журналистика важна для демократии."
+      },
+      {
+        "word": "news",
+        "example": "The news is breaking.",
+        "translation": "Новости срочные."
+      },
+      {
+        "word": "reporter",
+        "example": "The reporter is experienced.",
+        "translation": "Репортер опытный."
+      },
+      {
+        "word": "article",
+        "example": "This article is well-written.",
+        "translation": "Эта статья хорошо написана."
+      },
+      {
+        "word": "story",
+        "example": "The story is compelling.",
+        "translation": "История захватывающая."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The pen is mightier than the sword",
+        "translation": "Перо сильнее меча"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Media** is usually treated as singular (\"the media is\") but can be plural (\"the media are\").\n- **Journalism** is uncountable and refers to the profession.\n- **News** is uncountable and refers to information about current events.\n- **Reporter** and **journalist** are countable and refer to people.",
+    "relatedTopics": [
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Government Politics",
+        "slug": "government-politics",
+        "url": "/lessons/eng/b1b2/government-politics"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/media-journalism"
+  },
+  {
+    "id": 65,
     "slug": "medical-conditions",
     "title": "Medical Conditions",
     "titleRu": "Медицинские состояния",
@@ -3882,13 +13251,617 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
     ],
-    "category": "Medical Conditions",
+    "category": "health_medicine",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/medical-conditions"
   },
   {
-    "id": 19,
+    "id": 66,
+    "slug": "medicine-healthcare",
+    "title": "Medicine & Healthcare",
+    "titleRu": "Медицина и здравоохранение",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: medicine, healthcare, doctor, nurse, patient and practical usage examples.",
+    "keywords": [
+      {
+        "word": "medicine",
+        "translation": "медицина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "healthcare",
+        "translation": "здравоохранение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "doctor",
+        "translation": "врач",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nurse",
+        "translation": "медсестра",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "patient",
+        "translation": "пациент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hospital",
+        "translation": "больница",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "clinic",
+        "translation": "клиника",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "treatment",
+        "translation": "лечение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "therapy",
+        "translation": "терапия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "surgery",
+        "translation": "хирургия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "medication",
+        "translation": "лекарство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "prescription",
+        "translation": "рецепт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "diagnosis",
+        "translation": "диагноз",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "symptom",
+        "translation": "симптом",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "disease",
+        "translation": "болезнь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "illness",
+        "translation": "заболевание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "health",
+        "translation": "здоровье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "medical",
+        "translation": "медицинский",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "professional",
+        "translation": "профессиональный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "emergency",
+        "translation": "экстренный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Medicine* and *healthcare* represent the vital systems that protect and restore human *health*, encompassing everything from preventive care and routine checkups to *emergency* *treatment* and life-saving *surgery*. From the *professional* *doctor*s who diagnose and treat *disease*s to the dedicated *nurse*s who provide compassionate care, *medicine* and *healthcare* are essential services that touch every aspect of human life. Let me share a story about how I discovered the incredible world of *medicine* and *healthcare* through a personal experience.\n\nLast year, I had to visit a *hospital* for a routine *medical* procedure and found myself immersed in the complex world of *medicine* and *healthcare*. I began by understanding the different roles of *healthcare* *professional*s, learning how *doctor*s, *nurse*s, and other *medical* staff work together to provide comprehensive care for *patient*s. The process taught me that *medicine* and *healthcare* are not just about treating *illness* - they're about promoting *health*, preventing *disease*, and supporting patients through their *medical* journeys.\n\nMy journey into understanding *medicine* and *healthcare* started with learning about the different types of *healthcare* facilities. I discovered that a *hospital* is a large *medical* facility that provides comprehensive care including *emergency* services, *surgery*, and specialized *treatment*, while a *clinic* is a smaller facility that focuses on outpatient care and routine *medical* services. I learned that both *hospital*s and *clinic*s play important roles in the *healthcare* system and that choosing the right facility depends on the type of care needed.\n\n*Doctor* and *nurse* became central to my understanding of *healthcare* *professional*s. I learned that a *doctor* is a *medical* *professional* who diagnoses *disease*s, prescribes *treatment*, and performs *surgery*, while a *nurse* is a *healthcare* *professional* who provides direct patient care, administers *medication*, and supports *doctor*s in their work. I discovered that both *doctor*s and *nurse*s are essential for providing quality *healthcare* and that they work as a team to ensure the best outcomes for *patient*s.\n\n*Patient* and *treatment* taught me about the care process in *medicine* and *healthcare*. I learned that a *patient* is a person receiving *medical* care, while *treatment* refers to the *medical* care provided to address a *disease* or *illness*. I discovered that *treatment* can take many forms, from *medication* and *therapy* to *surgery* and lifestyle changes, and that the choice of *treatment* depends on the *diagnosis* and the *patient*'s individual needs.\n\n*Therapy* and *surgery* became important concepts for understanding different types of *medical* *treatment*. I learned that *therapy* refers to *treatment* that helps patients recover from *illness* or injury, while *surgery* is a *medical* procedure that involves cutting into the body to repair or remove damaged tissue. I discovered that both *therapy* and *surgery* require specialized skills and that *healthcare* *professional*s must be highly trained to perform these procedures safely and effectively.\n\n*Medication* and *prescription* taught me about the pharmaceutical aspects of *medicine* and *healthcare*. I learned that *medication* is a drug or medicine used to treat *disease* or *illness*, while a *prescription* is a written order from a *doctor* for *medication* or *treatment*. I discovered that *medication* must be prescribed by a licensed *doctor* and that *patient*s must follow *prescription* instructions carefully to ensure safe and effective *treatment*.\n\n*Diagnosis* and *symptom* became important concepts for understanding how *doctor*s identify and treat *disease*s. I learned that a *diagnosis* is the identification of a *disease* or *illness* based on *symptom*s and *medical* tests, while *symptom*s are signs or indications of *disease* or *illness*. I discovered that accurate *diagnosis* is essential for effective *treatment* and that *patient*s should report all *symptom*s to their *doctor*s to help with the *diagnosis* process.\n\n*Disease* and *illness* taught me about the conditions that *medicine* and *healthcare* aim to prevent and treat. I learned that a *disease* is a specific *medical* condition with known causes and *symptom*s, while *illness* refers to a state of poor *health* that may or may not be caused by a specific *disease*. I discovered that both *disease* and *illness* can affect people's quality of life and that *healthcare* *professional*s work to prevent, diagnose, and treat these conditions.\n\n*Health* and *medical* became important concepts for understanding the broader goals of *medicine* and *healthcare*. I learned that *health* is a state of physical, mental, and social well-being, while *medical* refers to anything related to *medicine* and *healthcare*. I discovered that maintaining good *health* is the ultimate goal of *medicine* and *healthcare* and that preventive care is just as important as *treatment* for existing conditions.\n\n*Medicine* and *healthcare* have taught me that these systems are essential for human well-being and that they require the dedication and expertise of many *professional*s working together. From the *doctor*s who diagnose and treat *disease*s to the *nurse*s who provide compassionate care, *medicine* and *healthcare* represent humanity's commitment to preserving and restoring *health*. Understanding the principles of *medicine* and *healthcare* has given me a greater appreciation for the *medical* *professional*s who work to keep us healthy and the importance of taking care of our own *health*.",
+    "additionalExamples": [
+      {
+        "word": "medicine",
+        "example": "Medicine is advancing.",
+        "translation": "Медицина развивается."
+      },
+      {
+        "word": "healthcare",
+        "example": "Healthcare is important.",
+        "translation": "Здравоохранение важно."
+      },
+      {
+        "word": "doctor",
+        "example": "Doctor is experienced.",
+        "translation": "Врач опытный."
+      },
+      {
+        "word": "nurse",
+        "example": "Nurse is caring.",
+        "translation": "Медсестра заботливая."
+      },
+      {
+        "word": "patient",
+        "example": "Patient is recovering.",
+        "translation": "Пациент выздоравливает."
+      },
+      {
+        "word": "hospital",
+        "example": "Hospital is modern.",
+        "translation": "Больница современная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I need to see a doctor",
+        "translation": "Мне нужно обратиться к врачу"
+      },
+      {
+        "phrase": "The healthcare system is overwhelmed",
+        "translation": "Система здравоохранения перегружена"
+      },
+      {
+        "phrase": "The patient is in good hands",
+        "translation": "Пациент в надежных руках"
+      },
+      {
+        "phrase": "The medication is working well",
+        "translation": "Лекарство хорошо действует"
+      },
+      {
+        "phrase": "I have an emergency situation",
+        "translation": "У меня экстренная ситуация"
+      },
+      {
+        "phrase": "The treatment is very effective",
+        "translation": "Лечение очень эффективное"
+      },
+      {
+        "phrase": "The diagnosis was accurate",
+        "translation": "Диагноз был точным"
+      },
+      {
+        "phrase": "The surgery was successful",
+        "translation": "Операция прошла успешно"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Medicine** is uncountable and refers to the practice of healing.\n- **Healthcare** is uncountable and refers to medical services.\n- **Doctor** is countable and refers to a medical professional.\n- **Nurse** is countable and refers to a healthcare worker.",
+    "relatedTopics": [
+      {
+        "name": "Body Health",
+        "slug": "body-health",
+        "url": "/lessons/eng/b1b2/body-health"
+      },
+      {
+        "name": "Psychology Behavior",
+        "slug": "psychology-behavior",
+        "url": "/lessons/eng/b1b2/psychology-behavior"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Personal Care Hygiene",
+        "slug": "personal-care-hygiene",
+        "url": "/lessons/eng/b1b2/personal-care-hygiene"
+      }
+    ],
+    "category": "health_medicine",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/medicine-healthcare"
+  },
+  {
+    "id": 67,
+    "slug": "mental-processes",
+    "title": "Mental Processes",
+    "titleRu": "Мыслительные процессы",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: mental, process, thinking, thought, mind and practical usage examples.",
+    "keywords": [
+      {
+        "word": "mental",
+        "translation": "умственный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "process",
+        "translation": "процесс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "thinking",
+        "translation": "мышление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "thought",
+        "translation": "мысль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mind",
+        "translation": "ум",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "brain",
+        "translation": "мозг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "memory",
+        "translation": "память",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "learning",
+        "translation": "обучение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "understanding",
+        "translation": "понимание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "knowledge",
+        "translation": "знание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "intelligence",
+        "translation": "интеллект",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wisdom",
+        "translation": "мудрость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "creativity",
+        "translation": "креативность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "imagination",
+        "translation": "воображение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "concentration",
+        "translation": "концентрация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "focus",
+        "translation": "фокус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "attention",
+        "translation": "внимание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "awareness",
+        "translation": "осознание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "consciousness",
+        "translation": "сознание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "perception",
+        "translation": "восприятие",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Mental* *process*es are the complex cognitive activities that occur within our *mind*s, encompassing everything from basic *thinking* and *memory* to advanced *creativity* and *wisdom*. From the simple *process* of *learning* new *knowledge* to the sophisticated *mental* activities involved in *understanding* complex concepts, our *mental* *process*es shape how we perceive and interact with the world. Let me share a story about how I discovered the fascinating world of *mental* *process*es and their impact on personal growth.\n\nLast year, I decided to study *mental* *process*es and cognitive psychology after realizing that understanding how my *mind* works could help me improve my *learning* and *thinking* abilities. I began by exploring the basic *mental* *process*es like *memory*, *attention*, and *concentration*, learning how these cognitive functions influence our daily experiences. The process taught me that *mental* *process*es are not just abstract concepts - they're the foundation of human *intelligence* and *consciousness*.\n\nMy journey into understanding *mental* *process*es started with exploring *thinking* and *thought* formation. I learned that *thinking* is the *mental* *process* of considering information and forming *thought*s, while *thought*s are the individual units of *mental* activity that arise during *thinking*. I discovered that *thinking* involves various *mental* *process*es including analysis, synthesis, and evaluation, and that developing *thinking* skills can improve decision-making and problem-solving abilities.\n\n*Memory* and *learning* became central to my understanding of cognitive *process*es. I learned that *memory* is the *mental* *process* of storing and retrieving *knowledge* and experiences, while *learning* is the *process* of acquiring new *knowledge* and skills. I discovered that *memory* and *learning* work together to build our *knowledge* base and that understanding these *process*es can help improve educational outcomes and personal development.\n\n*Understanding* and *knowledge* taught me about the deeper aspects of cognitive *process*es. I learned that *understanding* involves not just acquiring *knowledge* but also comprehending the relationships and implications of that *knowledge*. I discovered that *knowledge* is the accumulation of information and *understanding* gained through *learning* and experience, and that building *knowledge* requires active engagement with *mental* *process*es.\n\n*Intelligence* and *wisdom* became important concepts for understanding different levels of cognitive ability. I learned that *intelligence* refers to the ability to acquire and apply *knowledge* and skills, while *wisdom* involves the ability to make sound judgments based on *knowledge* and experience. I discovered that both *intelligence* and *wisdom* can be developed through practice and reflection, and that they represent different aspects of *mental* development.\n\n*Creativity* and *imagination* introduced me to the more creative aspects of *mental* *process*es. I learned that *creativity* is the *mental* *process* of generating new and original ideas, while *imagination* involves the ability to form *mental* images and concepts that are not present in immediate experience. I discovered that *creativity* and *imagination* are essential for innovation and artistic expression, and that they can be cultivated through practice and exposure to diverse experiences.\n\n*Concentration* and *focus* taught me about the importance of directed *attention* in *mental* *process*es. I learned that *concentration* is the *mental* *process* of focusing *attention* on a specific task or object, while *focus* refers to the ability to maintain *attention* and avoid distractions. I discovered that developing *concentration* and *focus* skills can improve *learning* efficiency and overall cognitive performance.\n\n*Awareness* and *consciousness* became important aspects of my understanding of *mental* *process*es. I learned that *awareness* is the *mental* *process* of being conscious of something, while *consciousness* refers to the state of being aware of and responsive to one's surroundings. I discovered that *awareness* and *consciousness* are fundamental to all *mental* *process*es and that developing greater *awareness* can enhance *understanding* and personal growth.\n\n*Perception* taught me about how *mental* *process*es interpret sensory information. I learned that *perception* is the *mental* *process* of interpreting and organizing sensory information to create meaningful experiences. I discovered that *perception* influences how we *understand* the world and that *perception* can be influenced by *knowledge*, experience, and *mental* *process*es.\n\n*Mental* *process*es have taught me that the human *mind* is a complex and fascinating system that enables us to *think*, *learn*, *understand*, and create. Each *mental* *process* - from basic *memory* and *attention* to advanced *creativity* and *wisdom* - contributes to our cognitive abilities and personal development. Understanding *mental* *process*es has helped me develop greater *awareness* of my own *thinking* patterns and has provided insights into how to improve *learning* and cognitive performance.",
+    "additionalExamples": [
+      {
+        "word": "mental",
+        "example": "Mental health is important.",
+        "translation": "Психическое здоровье важно."
+      },
+      {
+        "word": "process",
+        "example": "Process is complex.",
+        "translation": "Процесс сложен."
+      },
+      {
+        "word": "thinking",
+        "example": "Thinking is active.",
+        "translation": "Мышление активно."
+      },
+      {
+        "word": "thought",
+        "example": "Thought is clear.",
+        "translation": "Мысль ясна."
+      },
+      {
+        "word": "mind",
+        "example": "Mind is powerful.",
+        "translation": "Ум мощный."
+      },
+      {
+        "word": "brain",
+        "example": "Brain is complex.",
+        "translation": "Мозг сложен."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I need to think about this",
+        "translation": "Мне нужно подумать об этом"
+      },
+      {
+        "phrase": "That's food for thought",
+        "translation": "Это пища для размышлений"
+      },
+      {
+        "phrase": "I'm having a brain freeze",
+        "translation": "У меня мозговой затор"
+      },
+      {
+        "phrase": "Let me wrap my head around this",
+        "translation": "Позвольте мне разобраться с этим"
+      },
+      {
+        "phrase": "I'm drawing a blank",
+        "translation": "У меня пустота в голове"
+      },
+      {
+        "phrase": "That's a brilliant idea",
+        "translation": "Это блестящая идея"
+      },
+      {
+        "phrase": "I need to focus my attention",
+        "translation": "Мне нужно сосредоточить внимание"
+      },
+      {
+        "phrase": "My mind is racing",
+        "translation": "Мой ум работает на полную скорость"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Mental** is an adjective describing things related to the mind.\n- **Process** is countable and refers to a series of actions.\n- **Thinking** is uncountable and refers to the act of thinking.\n- **Thought** is countable and refers to an individual idea.",
+    "relatedTopics": [
+      {
+        "name": "Psychology Behavior",
+        "slug": "psychology-behavior",
+        "url": "/lessons/eng/b1b2/psychology-behavior"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      },
+      {
+        "name": "Basic Concepts Grammar",
+        "slug": "basic-concepts-grammar",
+        "url": "/lessons/eng/b1b2/basic-concepts-grammar"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/mental-processes"
+  },
+  {
+    "id": 68,
+    "slug": "money-finance",
+    "title": "Money & Finance",
+    "titleRu": "Деньги и финансы",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: money, finance, budget, income, expense and practical usage examples.",
+    "keywords": [
+      {
+        "word": "money",
+        "translation": "деньги",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "finance",
+        "translation": "финансы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "budget",
+        "translation": "бюджет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "income",
+        "translation": "доход",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "expense",
+        "translation": "расход",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "savings",
+        "translation": "сбережения",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "investment",
+        "translation": "инвестиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "debt",
+        "translation": "долг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "credit",
+        "translation": "кредит",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "loan",
+        "translation": "заем",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bank",
+        "translation": "банк",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "account",
+        "translation": "счет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "payment",
+        "translation": "платеж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cost",
+        "translation": "стоимость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "price",
+        "translation": "цена",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "value",
+        "translation": "ценность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wealth",
+        "translation": "богатство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "financial",
+        "translation": "финансовый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "economic",
+        "translation": "экономический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "profitable",
+        "translation": "прибыльный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Money* and *finance* are the fundamental systems that drive economic activity and enable individuals and organizations to manage their *financial* resources, make *investment*s, and achieve their *economic* goals. From personal *budget*ing to corporate *finance*, understanding *money* and *financial* principles is essential for making informed decisions about *income*, *expense*s, and *wealth* accumulation. Let me share a story about how I discovered the importance of *money* and *finance* management.\n\nLast year, I decided to take control of my *financial* situation after realizing that I needed to better understand *money* management and *finance* principles. I began by learning about *budget*ing, understanding how to track *income* and *expense*s, and developing strategies for building *savings* and making *investment*s. The process taught me that *money* and *finance* are not just about earning and spending - they're about creating *financial* security and building *wealth* over time.\n\nMy journey into *finance* started with understanding *budget*ing and *money* management. I learned that a *budget* is a plan for managing *income* and *expense*s, helping to ensure that *money* is allocated effectively and *financial* goals are met. I discovered that *budget*ing requires careful tracking of *income* sources and *expense* categories, enabling better decision-making about *money* allocation and *savings* strategies.\n\n*Income* and *expense*s became central to my understanding of *financial* management. I learned that *income* represents the *money* earned from various sources, while *expense*s represent the *cost*s associated with living and operating. I discovered that managing the relationship between *income* and *expense*s is crucial for maintaining *financial* stability and building *wealth* over time.\n\n*Savings* and *investment*s taught me about the importance of planning for the future and growing *wealth*. I learned that *savings* provide a safety net for unexpected *expense*s, while *investment*s offer opportunities to grow *money* over time. I discovered that *investment* decisions require understanding *financial* markets, *risk* assessment, and long-term *economic* trends.\n\n*Debt* and *credit* became important aspects of my *financial* education. I learned that *debt* represents *money* owed to others, while *credit* refers to the ability to borrow *money* based on *financial* history and *credit*worthiness. I discovered that managing *debt* and *credit* responsibly is essential for maintaining *financial* health and accessing *loan* opportunities when needed.\n\n*Bank*ing and *account* management taught me about the *financial* services available to individuals and businesses. I learned that *bank*s provide *account*s for storing *money*, processing *payment*s, and accessing *credit* and *loan* services. I discovered that *account* management involves understanding *bank*ing fees, *interest* rates, and *financial* service options.\n\n*Cost* and *price* became important concepts for understanding *value* and *economic* decision-making. I learned that *cost* refers to the *expense* of producing or acquiring something, while *price* represents the *value* assigned to goods and services in the market. I discovered that understanding *cost* and *price* relationships helps in making *financial* decisions and evaluating *investment* opportunities.\n\n*Money* and *finance* have taught me that *financial* literacy is essential for navigating the *economic* world and achieving *financial* security. Each aspect of *finance* - from *budget*ing and *savings* to *investment*s and *debt* management - contributes to overall *financial* well-being. The *money* we earn, spend, and *invest* reflects our *economic* choices and determines our ability to build *wealth* and achieve *financial* goals.",
+    "additionalExamples": [
+      {
+        "word": "money",
+        "example": "Money is important.",
+        "translation": "Деньги важны."
+      },
+      {
+        "word": "finance",
+        "example": "Finance is complex.",
+        "translation": "Финансы сложны."
+      },
+      {
+        "word": "budget",
+        "example": "Budget is balanced.",
+        "translation": "Бюджет сбалансирован."
+      },
+      {
+        "word": "income",
+        "example": "Income is steady.",
+        "translation": "Доход стабильный."
+      },
+      {
+        "word": "expense",
+        "example": "Expense is high.",
+        "translation": "Расход высокий."
+      },
+      {
+        "word": "savings",
+        "example": "Savings are growing.",
+        "translation": "Сбережения растут."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Money makes the world go round",
+        "translation": "Деньги правят миром"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "A penny saved is a penny earned",
+        "translation": "Копейка рубль бережет"
+      },
+      {
+        "phrase": "Time is money",
+        "translation": "Время - деньги"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Money** is uncountable and refers to the medium of exchange.\n- **Finance** is uncountable and refers to the management of money.\n- **Budget** is countable and refers to a financial plan.\n- **Income** is uncountable and refers to money earned.",
+    "relatedTopics": [
+      {
+        "name": "Business Economy",
+        "slug": "business-economy",
+        "url": "/lessons/eng/b1b2/business-economy"
+      },
+      {
+        "name": "Shopping Retail",
+        "slug": "shopping-retail",
+        "url": "/lessons/eng/b1b2/shopping-retail"
+      },
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      }
+    ],
+    "category": "economics_business",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/money-finance"
+  },
+  {
+    "id": 69,
     "slug": "movement-directions",
     "title": "Movement & Directions",
     "titleRu": "Движение и направления",
@@ -4196,13 +14169,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/nature-environment"
       }
     ],
-    "category": "Movement Directions",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/movement-directions"
   },
   {
-    "id": 20,
+    "id": 70,
+    "slug": "music-instruments",
+    "title": "Music & Instruments",
+    "titleRu": "Музыка и инструменты",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: music, instrument, piano, guitar, violin and practical usage examples.",
+    "keywords": [
+      {
+        "word": "music",
+        "translation": "музыка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "instrument",
+        "translation": "инструмент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "piano",
+        "translation": "пианино",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "guitar",
+        "translation": "гитара",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "violin",
+        "translation": "скрипка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drum",
+        "translation": "барабан",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "flute",
+        "translation": "флейта",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "trumpet",
+        "translation": "труба",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "song",
+        "translation": "песня",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "melody",
+        "translation": "мелодия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rhythm",
+        "translation": "ритм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "harmony",
+        "translation": "гармония",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "concert",
+        "translation": "концерт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "performance",
+        "translation": "выступление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "musician",
+        "translation": "музыкант",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "composer",
+        "translation": "композитор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "orchestra",
+        "translation": "оркестр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "band",
+        "translation": "группа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "singer",
+        "translation": "певец",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "audience",
+        "translation": "аудитория",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Music* is the universal language that transcends cultural boundaries and speaks directly to the human soul. Through *instruments* and *melodies*, *musicians* create emotional landscapes that connect people across time and space. Let me share a story about how I discovered the profound power and beauty of *music* and *instruments* in our lives.\n\nLast *year*, I attended a series of *concerts* and *performances* that completely transformed my understanding of *music* and its role in human culture. I had always enjoyed listening to *music*, but this experience taught me about the incredible skill, dedication, and artistry that goes into creating beautiful *sounds* and *melodies*.\n\nMy journey began with a classical *concert* featuring a full *orchestra* performing symphonic works. I learned that an *orchestra* is not just a collection of *musicians* – it's a complex organism where each *instrument* contributes its unique voice to create something greater than the sum of its parts. The *violin* section provided soaring *melodies*, while the *drums* and *trumpets* added power and drama to the *music*.\n\nA solo *piano* *performance* revealed the incredible versatility and expressiveness of this magnificent *instrument*. I discovered that the *piano* is not just a *musical* *instrument* – it's a complete orchestra in itself, capable of producing *melodies*, *harmony*, and *rhythm* simultaneously. The *pianist*'s fingers danced across the keys, creating cascades of *sound* that ranged from delicate whispers to thunderous crescendos.\n\nA *guitar* recital showed me the intimate and personal nature of stringed *instruments*. I learned that the *guitar* is not just a popular *instrument* – it's a versatile companion that can accompany *singers*, provide *rhythm* for *bands*, or stand alone as a solo *instrument*. The *guitarist*'s technique and passion transformed simple strings into complex *melodies* and *harmonies*.\n\nA *flute* performance taught me about the ethereal beauty of wind *instruments*. I discovered that the *flute* is not just a simple *instrument* – it's a voice that can mimic birdsong, create haunting *melodies*, or dance with playful *rhythms*. The *flutist*'s breath control and finger technique created *sounds* that seemed to float effortlessly through the air.\n\nA *drum* ensemble revealed the primal power and *rhythm* that lies at the heart of all *music*. I learned that *drums* are not just *rhythm* *instruments* – they're the heartbeat of *music*, providing the foundation that allows other *instruments* to create *melodies* and *harmonies*. The *drummers*' coordination and timing created complex *rhythms* that moved the entire *audience*.\n\nA *band* *performance* showed me how different *instruments* can work together to create contemporary *music*. I discovered that a *band* is not just a group of *musicians* – it's a collaborative effort where each *instrument* and *singer* contributes to a unified artistic vision. The *band*'s energy and chemistry created an electric atmosphere that connected the *musicians* with their *audience*.\n\nMeeting a *composer* gave me insight into the creative process behind *music*. I learned that *composers* are not just *musicians* – they're architects of *sound* who design *melodies*, *harmonies*, and *rhythms* to create emotional and intellectual experiences. The *composer*'s work showed me how *music* can tell stories, express emotions, and communicate ideas that words cannot capture.\n\nWhat I love most about my exploration of *music* and *instruments* is how it revealed the incredible diversity and universality of *musical* expression. I learned that every *instrument* has its own personality and capabilities, and that *musicians* spend years developing the skills and sensitivity needed to bring these *instruments* to life.\n\n*Music* and *instruments* have taught me that *musical* expression is one of humanity's greatest achievements, providing comfort, inspiration, and connection in our daily lives. By understanding and appreciating the artistry and skill involved in creating *music*, we can develop deeper connections with the *musical* experiences that enrich our lives and bring us together as a global community.",
+    "additionalExamples": [
+      {
+        "word": "music",
+        "example": "I love listening to music.",
+        "translation": "Я люблю слушать музыку."
+      },
+      {
+        "word": "instrument",
+        "example": "The piano is a beautiful instrument.",
+        "translation": "Пианино - красивый инструмент."
+      },
+      {
+        "word": "song",
+        "example": "This song is very popular.",
+        "translation": "Эта песня очень популярна."
+      },
+      {
+        "word": "melody",
+        "example": "The melody is beautiful.",
+        "translation": "Мелодия красивая."
+      },
+      {
+        "word": "concert",
+        "example": "The concert was amazing.",
+        "translation": "Концерт был потрясающий."
+      },
+      {
+        "word": "musician",
+        "example": "She is a talented musician.",
+        "translation": "Она талантливый музыкант."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Music is the universal language",
+        "translation": "Музыка - универсальный язык"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The show must go on",
+        "translation": "Шоу должно продолжаться"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Music** is usually uncountable and refers to the art form.\n- **Instrument** is countable and can refer to musical or other tools.\n- **Song** is countable and refers to a specific musical composition.\n- **Musician** is countable and refers to a person who plays music.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Entertainment Media",
+        "slug": "entertainment-media",
+        "url": "/lessons/eng/b1b2/entertainment-media"
+      },
+      {
+        "name": "Events Celebrations",
+        "slug": "events-celebrations",
+        "url": "/lessons/eng/b1b2/events-celebrations"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/music-instruments"
+  },
+  {
+    "id": 71,
     "slug": "nature-environment",
     "title": "Nature & Environment",
     "titleRu": "Природа и окружающая среда",
@@ -4395,13 +14564,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/science-research"
       }
     ],
-    "category": "Nature Environment",
+    "category": "nature_environment",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/nature-environment"
   },
   {
-    "id": 21,
+    "id": 72,
+    "slug": "numbers-quantity",
+    "title": "Numbers & Quantity",
+    "titleRu": "Числа и количество",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: number, quantity, count, add, subtract and practical usage examples.",
+    "keywords": [
+      {
+        "word": "number",
+        "translation": "число",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "quantity",
+        "translation": "количество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "count",
+        "translation": "считать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "add",
+        "translation": "добавлять",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "subtract",
+        "translation": "вычитать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "multiply",
+        "translation": "умножать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "divide",
+        "translation": "делить",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "total",
+        "translation": "общий",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "amount",
+        "translation": "сумма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sum",
+        "translation": "сумма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "many",
+        "translation": "много",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "few",
+        "translation": "мало",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "some",
+        "translation": "несколько",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "all",
+        "translation": "все",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "none",
+        "translation": "ничего",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "more",
+        "translation": "больше",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "less",
+        "translation": "меньше",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "enough",
+        "translation": "достаточно",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "too",
+        "translation": "слишком",
+        "partOfSpeech": "adverb"
+      },
+      {
+        "word": "very",
+        "translation": "очень",
+        "partOfSpeech": "adverb"
+      }
+    ],
+    "mainText": "*Number*s and *quantity* are the mathematical foundation of our daily lives, helping us *count*, measure, and understand the world around us through precise calculations and estimations. From simple *count*ing to complex mathematical operations like *add*, *subtract*, *multiply*, and *divide*, *number*s provide the language for expressing *amount*s and *quantity* in every aspect of life. Let me share a story about how I discovered the practical importance of *number*s and *quantity* in everyday situations.\n\nLast year, I decided to improve my mathematical skills after realizing how often I needed to work with *number*s in my daily life. I began by practicing basic operations like *add*ing and *subtract*ing, learning how to *count* accurately and calculate *total*s for various situations. The process taught me that *number*s are not just abstract concepts - they're practical tools for managing *quantity* and making informed decisions.\n\nMy journey into understanding *number*s started with learning to *count* accurately and efficiently. I discovered that *count*ing is not just about reciting *number*s in sequence - it's about understanding *quantity* and being able to determine how *many* items are in a group. I learned that *count*ing helps us organize information and make sense of the world around us.\n\n*Add*ing became my next focus, as I learned how to combine *number*s to find *total*s and *sum*s. I discovered that *add*ing is not just about putting *number*s together - it's about understanding how different *quantity*ies combine to create larger *amount*s. I learned to *add* prices when shopping, *add* *number*s when calculating expenses, and *add* measurements when planning projects.\n\n*Subtract*ing taught me about taking away and finding differences between *number*s. I learned that *subtract*ing helps us understand how *quantity* changes when we remove items or when *amount*s decrease. I discovered that *subtract*ing is essential for calculating change, determining remaining *amount*s, and understanding how *number*s relate to each other.\n\n*Multiply*ing and *divide*ing opened up new possibilities for working with *number*s and *quantity*. I learned that *multiply*ing is about finding *total*s when we have *many* groups of the same *amount*, while *divide*ing is about splitting *amount*s into equal parts. These operations became essential for calculating percentages, understanding ratios, and solving complex problems involving *quantity*.\n\n*Total* and *sum* became important concepts for understanding the results of mathematical operations. I discovered that a *total* represents the complete *amount* when all parts are combined, while a *sum* is the result of *add*ing *number*s together. These terms helped me communicate mathematical results clearly and understand the relationship between different *quantity*ies.\n\n*Many*, *few*, *some*, *all*, and *none* taught me about describing *quantity* in relative terms. I learned that *many* indicates a large *quantity*, *few* indicates a small *quantity*, *some* indicates an unspecified *quantity*, *all* indicates the complete *quantity*, and *none* indicates zero *quantity*. These words became essential for expressing *amount*s when exact *number*s are not known or not important.\n\n*More*, *less*, *enough*, *too*, and *very* helped me understand comparisons and degrees of *quantity*. I learned that *more* indicates a greater *amount*, *less* indicates a smaller *amount*, *enough* indicates sufficient *quantity*, *too* indicates excessive *amount*, and *very* indicates a high degree. These words became crucial for making comparisons and expressing satisfaction or dissatisfaction with *quantity*.\n\n*Number*s and *quantity* have taught me that mathematics is not just about abstract calculations - it's about understanding and managing the *amount*s and *quantity*ies that shape our daily lives. Each *number* represents a specific *quantity*, each operation helps us work with *amount*s, and each comparison helps us make decisions based on *quantity* and *total*s.",
+    "additionalExamples": [
+      {
+        "word": "number",
+        "example": "The number is large.",
+        "translation": "Число большое."
+      },
+      {
+        "word": "quantity",
+        "example": "Quantity is important.",
+        "translation": "Количество важно."
+      },
+      {
+        "word": "count",
+        "example": "Count carefully.",
+        "translation": "Считай внимательно."
+      },
+      {
+        "word": "add",
+        "example": "Add the numbers.",
+        "translation": "Добавь числа."
+      },
+      {
+        "word": "subtract",
+        "example": "Subtract the amount.",
+        "translation": "Вычти сумму."
+      },
+      {
+        "word": "multiply",
+        "example": "Multiply by two.",
+        "translation": "Умножь на два."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Count your blessings",
+        "translation": "Считай свои благословения"
+      },
+      {
+        "phrase": "The more the merrier",
+        "translation": "В тесноте, да не в обиде"
+      },
+      {
+        "phrase": "Less is more",
+        "translation": "Меньше значит больше"
+      },
+      {
+        "phrase": "Too many cooks spoil the broth",
+        "translation": "У семи нянек дитя без глазу"
+      },
+      {
+        "phrase": "All's well that ends well",
+        "translation": "Все хорошо, что хорошо кончается"
+      },
+      {
+        "phrase": "None the wiser",
+        "translation": "Ничуть не умнее"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Number** is countable and refers to a mathematical value.\n- **Quantity** is uncountable and refers to the amount of something.\n- **Count** is a verb meaning to determine the number of items.\n- **Add** is a verb meaning to combine numbers or amounts.",
+    "relatedTopics": [
+      {
+        "name": "Time Calendar",
+        "slug": "time-calendar",
+        "url": "/lessons/eng/b1b2/time-calendar"
+      },
+      {
+        "name": "Measurement Quantity",
+        "slug": "measurement-quantity",
+        "url": "/lessons/eng/b1b2/measurement-quantity"
+      },
+      {
+        "name": "Money Finance",
+        "slug": "money-finance",
+        "url": "/lessons/eng/b1b2/money-finance"
+      },
+      {
+        "name": "Basic Concepts Grammar",
+        "slug": "basic-concepts-grammar",
+        "url": "/lessons/eng/b1b2/basic-concepts-grammar"
+      }
+    ],
+    "category": "language_basics",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/numbers-quantity"
+  },
+  {
+    "id": 73,
     "slug": "numbers-time",
     "title": "Numbers & Time",
     "titleRu": "Числа и время",
@@ -4689,13 +15054,186 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/education-learning"
       }
     ],
-    "category": "Numbers Time",
+    "category": "language_basics",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/numbers-time"
   },
   {
-    "id": 22,
+    "id": 74,
+    "slug": "office-workplace",
+    "title": "Office & Workplace",
+    "titleRu": "Офис и рабочее место",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: office, workplace, desk, computer, meeting and practical usage examples.",
+    "keywords": [
+      {
+        "word": "office",
+        "translation": "офис",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "workplace",
+        "translation": "рабочее место",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "desk",
+        "translation": "стол",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "computer",
+        "translation": "компьютер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meeting",
+        "translation": "встреча",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "colleague",
+        "translation": "коллега",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "boss",
+        "translation": "босс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "manager",
+        "translation": "менеджер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "project",
+        "translation": "проект",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "deadline",
+        "translation": "дедлайн",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "schedule",
+        "translation": "расписание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "task",
+        "translation": "задача",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "report",
+        "translation": "отчет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "presentation",
+        "translation": "презентация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "email",
+        "translation": "электронная почта",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "phone",
+        "translation": "телефон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conference",
+        "translation": "конференция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "teamwork",
+        "translation": "командная работа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "productivity",
+        "translation": "продуктивность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "professional",
+        "translation": "профессиональный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "The *office* and *workplace* are the environments where millions of people spend their working hours, collaborating with *colleague*s, completing *task*s, and contributing to organizational goals. From the individual *desk* where we focus on our *project*s to the *conference* room where teams gather for *meeting*s, the *office* and *workplace* are designed to support productivity, collaboration, and *professional* development. Let me share a story about how I discovered the dynamics of *office* life and *workplace* culture through my first corporate job.\n\nLast year, I started my first job in a corporate *office* and found myself immersed in the complex world of *workplace* dynamics and *professional* relationships. I began by learning about the physical layout of the *office*, understanding how different spaces like *desk*s, *meeting* rooms, and common areas support different types of work activities. The process taught me that the *office* and *workplace* are not just physical spaces - they're social environments where people collaborate, learn, and build careers together.\n\nMy journey into understanding *office* and *workplace* culture started with learning about the basic tools and equipment that support daily work. I discovered that a *desk* is the personal workspace where individuals complete their *task*s, while a *computer* is the essential tool for most modern office work. I learned that both *desk* and *computer* are central to individual productivity, and that organizing these workspaces effectively can significantly impact work performance.\n\n*Meeting* and *conference* became important concepts for understanding collaborative work in the *office*. I learned that a *meeting* is a gathering of people to discuss *project*s, make decisions, or share *information*, while a *conference* is a larger gathering that often involves multiple teams or external participants. I discovered that both *meeting*s and *conference*s are essential for coordination and communication, and that effective participation in these gatherings is crucial for career success.\n\n*Colleague* and *boss* taught me about the social hierarchy and relationships in the *workplace*. I learned that a *colleague* is a fellow worker who shares similar responsibilities and goals, while a *boss* is a supervisor who manages and directs the work of others. I discovered that building positive relationships with both *colleague*s and *boss*es is essential for career advancement and job satisfaction.\n\n*Manager* and *teamwork* became important concepts for understanding leadership and collaboration in the *office*. I learned that a *manager* is a leader who oversees teams and coordinates *project*s, while *teamwork* refers to the collaborative effort of group members working toward common goals. I discovered that both *manager*s and *teamwork* are essential for organizational success, and that developing leadership and collaboration skills is important for career growth.\n\n*Project* and *deadline* taught me about the structured nature of office work. I learned that a *project* is a specific undertaking with defined goals and timelines, while a *deadline* is the target date for completing a *task* or *project*. I discovered that managing *project*s and meeting *deadline*s requires planning, organization, and time management skills, and that these abilities are highly valued in the *workplace*.\n\n*Schedule* and *task* became important concepts for understanding daily work organization. I learned that a *schedule* is a plan that outlines when specific activities should occur, while a *task* is a specific piece of work that needs to be completed. I discovered that effective *schedule* management and *task* completion are essential for maintaining productivity and meeting expectations in the *office*.\n\n*Report* and *presentation* taught me about communication and documentation in the *workplace*. I learned that a *report* is a formal document that presents *information* and analysis, while a *presentation* is an oral delivery of *information* to an audience. I discovered that both *report*s and *presentation*s are important tools for sharing *information* and influencing decisions, and that developing strong communication skills is essential for career success.\n\n*Email* and *phone* became important tools for understanding communication in the modern *office*. I learned that *email* is a digital messaging system used for formal and informal communication, while a *phone* is used for voice communication and urgent matters. I discovered that both *email* and *phone* communication require different skills and etiquette, and that mastering these communication tools is essential for effective *workplace* interaction.\n\n*Productivity* and *professional* became important concepts for understanding work performance and behavior. I learned that *productivity* refers to the efficiency and effectiveness of work output, while *professional* behavior involves maintaining appropriate conduct and standards in the *workplace*. I discovered that both *productivity* and *professional* behavior are essential for career success and that they can be developed through practice and self-awareness.\n\nThe *office* and *workplace* have taught me that professional environments are complex social systems that require both technical skills and interpersonal abilities. From the individual *desk* where we focus on *task*s to the *conference* room where teams collaborate on *project*s, the *office* and *workplace* provide opportunities for learning, growth, and contribution. Understanding the dynamics of *office* life and *workplace* culture has given me valuable insights into how organizations function and how individuals can succeed in professional environments.",
+    "additionalExamples": [],
+    "practicalPhrases": [
+      {
+        "phrase": "I have a meeting at 3 PM",
+        "translation": "У меня встреча в 3 часа дня"
+      },
+      {
+        "phrase": "The office is very busy today",
+        "translation": "Офис сегодня очень занят"
+      },
+      {
+        "phrase": "My colleague is very supportive",
+        "translation": "Мой коллега очень поддерживает"
+      },
+      {
+        "phrase": "The project deadline is approaching",
+        "translation": "Дедлайн проекта приближается"
+      },
+      {
+        "phrase": "I need to prepare a presentation",
+        "translation": "Мне нужно подготовить презентацию"
+      },
+      {
+        "phrase": "The workplace culture is positive",
+        "translation": "Корпоративная культура позитивная"
+      },
+      {
+        "phrase": "Teamwork is essential for success",
+        "translation": "Командная работа необходима для успеха"
+      },
+      {
+        "phrase": "The office environment is professional",
+        "translation": "Офисная среда профессиональная"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Office** is countable and refers to a place of work.\n- **Workplace** is countable and refers to the environment where work is done.\n- **Meeting** is countable and refers to a gathering of people.\n- **Colleague** is countable and refers to a fellow worker.",
+    "relatedTopics": [
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      },
+      {
+        "name": "Jobs Professions",
+        "slug": "jobs-professions",
+        "url": "/lessons/eng/b1b2/jobs-professions"
+      },
+      {
+        "name": "Business Economy",
+        "slug": "business-economy",
+        "url": "/lessons/eng/b1b2/business-economy"
+      },
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      }
+    ],
+    "category": "economics_business",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/office-workplace"
+  },
+  {
+    "id": 75,
     "slug": "personal-care-hygiene",
     "title": "Personal Care & Hygiene",
     "titleRu": "Личная гигиена и уход",
@@ -4883,13 +15421,405 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/home-housing"
       }
     ],
-    "category": "Personal Care Hygiene",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/personal-care-hygiene"
   },
   {
-    "id": 23,
+    "id": 76,
+    "slug": "personal-development",
+    "title": "Personal Development",
+    "titleRu": "Личностное развитие",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: personal, development, growth, improvement, learning and practical usage examples.",
+    "keywords": [
+      {
+        "word": "personal",
+        "translation": "личный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "development",
+        "translation": "развитие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "growth",
+        "translation": "рост",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "improvement",
+        "translation": "улучшение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "learning",
+        "translation": "обучение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "skills",
+        "translation": "навыки",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "goals",
+        "translation": "цели",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "motivation",
+        "translation": "мотивация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "confidence",
+        "translation": "уверенность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "self-esteem",
+        "translation": "самооценка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "potential",
+        "translation": "потенциал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "achievement",
+        "translation": "достижение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "success",
+        "translation": "успех",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "challenge",
+        "translation": "вызов",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "change",
+        "translation": "изменение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "habit",
+        "translation": "привычка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discipline",
+        "translation": "дисциплина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mindset",
+        "translation": "мышление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "reflection",
+        "translation": "размышление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "progress",
+        "translation": "прогресс",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Personal* *development* represents the lifelong journey of self-improvement, *growth*, and the realization of human *potential* through conscious effort, *learning*, and the cultivation of positive *habits* and *mindset*. Through setting *goals*, developing *skills*, and embracing *challenges*, individuals can transform their lives and achieve levels of *success* and fulfillment that seemed impossible before. Let me share a story about how I discovered the transformative power and profound importance of *personal* *development* in creating a meaningful and successful life.\n\nLast *year*, I committed to a comprehensive *personal* *development* program that focused on multiple areas of *growth*, which opened my eyes to the incredible potential for *improvement* and *achievement* that exists within each person. I had always been interested in self-improvement, but this experience taught me about the systematic approach and consistent effort required to create lasting *change* and *development*.\n\nMy journey began with understanding the importance of setting clear, meaningful *goals* and creating actionable plans to achieve them. I learned that *goal*-setting is not just about having dreams – it's about creating specific, measurable objectives that provide direction and *motivation* for daily actions and decisions. The *goal*-setting process I developed taught me about the importance of clarity, commitment, and the way well-defined *goals* can transform vague aspirations into concrete *achievements*.\n\n*Skills* development revealed the incredible power of focused *learning* and deliberate practice in building competence and *confidence*. I discovered that *skill* development is not just about acquiring new abilities – it's about systematically improving existing capabilities and expanding one's capacity to contribute value in different areas of life. The *skills* I developed taught me about the importance of continuous *learning* and the way competence builds *confidence* and opens new opportunities.\n\n*Motivation* and *mindset* showed me how internal attitudes and beliefs shape *personal* *development* and *achievement*. I learned that *motivation* is not just about feeling enthusiastic – it's about understanding what drives you, maintaining focus during difficult times, and developing the mental resilience needed to overcome obstacles. The *motivation* strategies I studied taught me about the importance of intrinsic drive and the way *mindset* can either support or hinder *personal* *growth*.\n\n*Confidence* and *self-esteem* emerged as crucial foundations for *personal* *development* and the willingness to take on new *challenges*. I discovered that *confidence* is not just about feeling good about yourself – it's about developing competence, taking calculated risks, and building a track record of *achievements* that reinforce positive self-perception. The *confidence*-building activities I engaged in taught me about the importance of stepping outside comfort zones and the way *success* builds upon *success*.\n\n*Habits* and *discipline* revealed the importance of consistent daily actions in creating lasting *change* and *development*. I learned that *personal* *development* is not just about occasional efforts – it's about creating positive *habits* and maintaining the *discipline* needed to stick with beneficial practices even when motivation wanes. The *habit*-building process I undertook taught me about the importance of consistency and the way small daily actions compound into significant *progress* over time.\n\n*Challenge* and *change* showed me how embracing difficult situations and stepping outside comfort zones accelerates *personal* *growth*. I discovered that *challenges* are not just obstacles to overcome – they're opportunities for *development* that test and expand one's capabilities while building resilience and adaptability. The *challenges* I faced taught me about the importance of courage and the way difficult experiences can become catalysts for *growth* and *improvement*.\n\n*Reflection* and self-awareness revealed the importance of understanding oneself and learning from experiences in the *personal* *development* process. I learned that *reflection* is not just about thinking about the past – it's about analyzing experiences, identifying patterns, and using insights to make better decisions and create more effective strategies for *growth*. The *reflection* practices I developed taught me about the importance of self-awareness and the way understanding oneself enables more effective *personal* *development*.\n\n*Progress* and *achievement* showed me how *personal* *development* creates measurable *improvements* in various areas of life. I discovered that *progress* is not just about reaching final destinations – it's about the journey of *growth*, the *skills* developed along the way, and the person you become through the process of *development*. The *progress* I made taught me about the importance of celebrating small wins and the way consistent effort leads to significant *achievements* over time.\n\nWhat I love most about my *personal* *development* journey is how it revealed the incredible capacity for *growth* and *improvement* that exists within every person. I learned that *personal* *development* is not just about individual benefit – it's about becoming the best version of yourself so you can contribute more effectively to your relationships, work, and *community*.\n\n*Personal* *development* has taught me that *growth* and *improvement* are not just possible but essential for living a fulfilling and meaningful life. By committing to continuous *learning*, *skill* development, and *personal* *growth*, we can unlock our *potential*, achieve our *goals*, and create the kind of life that reflects our values and aspirations while making a positive impact on the world around us.",
+    "additionalExamples": [
+      {
+        "word": "personal",
+        "example": "Personal growth is important.",
+        "translation": "Личностный рост важен."
+      },
+      {
+        "word": "development",
+        "example": "Development requires effort.",
+        "translation": "Развитие требует усилий."
+      },
+      {
+        "word": "growth",
+        "example": "Growth comes from challenges.",
+        "translation": "Рост приходит от вызовов."
+      },
+      {
+        "word": "goals",
+        "example": "Set clear goals for success.",
+        "translation": "Ставьте четкие цели для успеха."
+      },
+      {
+        "word": "skills",
+        "example": "Skills can be developed.",
+        "translation": "Навыки можно развивать."
+      },
+      {
+        "word": "motivation",
+        "example": "Motivation drives achievement.",
+        "translation": "Мотивация движет достижениями."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Personal** is an adjective that describes individual development.\n- **Development** is uncountable and refers to the process of growth.\n- **Goals** is plural and refers to specific objectives.\n- **Skills** is plural and refers to learned abilities.",
+    "relatedTopics": [
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Psychology Behavior",
+        "slug": "psychology-behavior",
+        "url": "/lessons/eng/b1b2/psychology-behavior"
+      },
+      {
+        "name": "Success Achievement",
+        "slug": "success-achievement",
+        "url": "/lessons/eng/b1b2/success-achievement"
+      },
+      {
+        "name": "Motivation Inspiration",
+        "slug": "motivation-inspiration",
+        "url": "/lessons/eng/b1b2/motivation-inspiration"
+      }
+    ],
+    "category": "education_development",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/personal-development"
+  },
+  {
+    "id": 77,
+    "slug": "personal-pronouns-identity",
+    "title": "Personal Pronouns & Identity",
+    "titleRu": "Личные местоимения и идентичность",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: pronoun, identity, personal, self, myself and practical usage examples.",
+    "keywords": [
+      {
+        "word": "pronoun",
+        "translation": "местоимение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "identity",
+        "translation": "идентичность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "personal",
+        "translation": "личный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "self",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "myself",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "yourself",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "himself",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "herself",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "itself",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "ourselves",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "themselves",
+        "translation": "себя",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "I",
+        "translation": "я",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "you",
+        "translation": "ты/вы",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "he",
+        "translation": "он",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "she",
+        "translation": "она",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "it",
+        "translation": "оно",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "we",
+        "translation": "мы",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "they",
+        "translation": "они",
+        "partOfSpeech": "pronoun"
+      },
+      {
+        "word": "individual",
+        "translation": "индивидуальный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "unique",
+        "translation": "уникальный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Personal* *pronoun*s are the building blocks of *identity* and *self*-expression in language, allowing us to refer to ourselves and others in conversation and writing. These *pronoun*s - *I*, *you*, *he*, *she*, *it*, *we*, and *they* - help us establish our *individual* *identity* and connect with others through shared *personal* experiences. Let me share a story about how I discovered the profound connection between *personal* *pronoun*s and *identity*.\n\nLast year, I began learning a new language and realized how *personal* *pronoun*s shape our understanding of *self* and *identity*. When I first tried to introduce *myself* in the new language, I struggled with the concept of *I* - this simple *pronoun* that represents my entire *individual* existence. The process taught me that *pronoun*s are not just grammatical tools - they're expressions of *personal* *identity* and *unique* perspective.\n\nMy journey into understanding *personal* *pronoun*s started with *I* - the *pronoun* that represents *myself* and my *individual* thoughts, feelings, and experiences. I learned that when I say \"*I* think\" or \"*I* feel,\" I'm not just using a *pronoun* - I'm asserting my *personal* *identity* and *unique* perspective on the world. The *pronoun* *I* becomes a bridge between my inner *self* and the external world.\n\n*You* became equally fascinating as I explored how this *pronoun* creates connection and relationship. When I address someone as *you*, I'm recognizing their *individual* *identity* and inviting them into a *personal* conversation. The *pronoun* *you* transforms abstract communication into *personal* interaction, acknowledging that the other person has their own *unique* *self* and perspective.\n\n*He*, *she*, and *it* taught me about referring to others and objects while respecting their *individual* *identity*. I discovered that *he* and *she* acknowledge gender *identity*, while *it* refers to objects or animals without gender. These *pronoun*s help us navigate the world by categorizing and referencing the *unique* entities around us while maintaining respect for their *individual* nature.\n\n*We* opened up the concept of collective *identity* and shared experience. When I use *we*, I'm including *myself* in a group *identity* that transcends my *individual* *self*. This *pronoun* creates a sense of belonging and shared *personal* connection with others who are part of the same group or experience.\n\n*They* taught me about referring to groups of people while respecting their *individual* *identity*s. I learned that *they* can refer to multiple people, but it also serves as a respectful way to refer to someone whose gender *identity* may not fit traditional categories. This *pronoun* demonstrates how language evolves to be more inclusive of *unique* *identity* expressions.\n\n*Personal* *pronoun*s have taught me that language is deeply connected to *identity* and *self*-expression. Each *pronoun* - from *I* representing my *individual* *self* to *we* representing collective *identity* - serves as a tool for expressing *personal* experience and connecting with others. These *pronoun*s help us navigate the complex relationship between our *unique* *individual* *identity* and our shared human experience.",
+    "additionalExamples": [
+      {
+        "word": "pronoun",
+        "example": "The pronoun is personal.",
+        "translation": "Местоимение личное."
+      },
+      {
+        "word": "identity",
+        "example": "Identity is important.",
+        "translation": "Идентичность важна."
+      },
+      {
+        "word": "personal",
+        "example": "Personal experience matters.",
+        "translation": "Личный опыт важен."
+      },
+      {
+        "word": "self",
+        "example": "Self-awareness is key.",
+        "translation": "Самосознание ключевое."
+      },
+      {
+        "word": "myself",
+        "example": "I can do it myself.",
+        "translation": "Я могу сделать это сам."
+      },
+      {
+        "word": "yourself",
+        "example": "Take care of yourself.",
+        "translation": "Заботься о себе."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Be yourself",
+        "translation": "Будь собой"
+      },
+      {
+        "phrase": "Know thyself",
+        "translation": "Познай себя"
+      },
+      {
+        "phrase": "To each his own",
+        "translation": "Каждому свое"
+      },
+      {
+        "phrase": "We're all in this together",
+        "translation": "Мы все в этом вместе"
+      },
+      {
+        "phrase": "It takes two to tango",
+        "translation": "Один в поле не воин"
+      },
+      {
+        "phrase": "You can't judge a book by its cover",
+        "translation": "Не суди книгу по обложке"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Pronoun** is countable and refers to a word that replaces a noun.\n- **Identity** is uncountable and refers to who someone is.\n- **Personal** is an adjective describing things related to a person.\n- **Self** is a pronoun referring to the person speaking.",
+    "relatedTopics": [
+      {
+        "name": "Basic Concepts Grammar",
+        "slug": "basic-concepts-grammar",
+        "url": "/lessons/eng/b1b2/basic-concepts-grammar"
+      },
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      },
+      {
+        "name": "Relationships Interactions",
+        "slug": "relationships-interactions",
+        "url": "/lessons/eng/b1b2/relationships-interactions"
+      }
+    ],
+    "category": "language_basics",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/personal-pronouns-identity"
+  },
+  {
+    "id": 78,
     "slug": "philosophy-thought",
     "title": "Philosophy & Thought",
     "titleRu": "Философия и мышление",
@@ -5077,13 +16007,13 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/education-learning"
       }
     ],
-    "category": "Philosophy Thought",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/philosophy-thought"
   },
   {
-    "id": 24,
+    "id": 79,
     "slug": "phrasal-verbs-context",
     "title": "Phrasal Verbs in Context",
     "titleRu": "Фразовые глаголы в контексте",
@@ -5271,13 +16201,421 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/social-interactions"
       }
     ],
-    "category": "Phrasal Verbs Context",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/phrasal-verbs-context"
   },
   {
-    "id": 25,
+    "id": 80,
+    "slug": "places-locations",
+    "title": "Places & Locations",
+    "titleRu": "Места и локации",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: place, location, city, country, street and practical usage examples.",
+    "keywords": [
+      {
+        "word": "place",
+        "translation": "место",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "location",
+        "translation": "локация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "city",
+        "translation": "город",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "country",
+        "translation": "страна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "street",
+        "translation": "улица",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "building",
+        "translation": "здание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "house",
+        "translation": "дом",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "park",
+        "translation": "парк",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "school",
+        "translation": "школа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hospital",
+        "translation": "больница",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "restaurant",
+        "translation": "ресторан",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "store",
+        "translation": "магазин",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "office",
+        "translation": "офис",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "airport",
+        "translation": "аэропорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "station",
+        "translation": "станция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "museum",
+        "translation": "музей",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "library",
+        "translation": "библиотека",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "beach",
+        "translation": "пляж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mountain",
+        "translation": "гора",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "river",
+        "translation": "река",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Place*s and *location*s are the geographical coordinates that anchor our experiences and provide the physical context for our daily lives. From the bustling energy of a *city* to the peaceful tranquility of a *park*, different *place*s offer unique environments that shape our activities, interactions, and memories. Let me share a story about how I discovered the importance of *place*s and *location*s in creating meaningful experiences.\n\nLast year, I decided to explore my *city* more thoroughly and learn about the various *place*s and *location*s that make it unique. I began by mapping out different *location*s and understanding how each *place* serves specific purposes in the community. The process taught me that *place*s are not just physical spaces - they're environments that influence our behavior, emotions, and connections with others.\n\nMy journey into understanding *place*s and *location*s started with exploring the *street*s and *building*s that make up the urban landscape. I learned that *street*s are not just pathways for transportation - they're the arteries of a *city* that connect different *location*s and create opportunities for interaction and commerce. I discovered that *building*s serve as the physical infrastructure that supports various activities, from residential *house*s to commercial *store*s and professional *office*s.\n\nThe *park* became one of my favorite *place*s to visit, offering a *natural* oasis within the urban environment. I learned that *park*s are not just green spaces - they're *location*s that provide opportunities for recreation, relaxation, and community gathering. I discovered that *park*s serve as important *place*s for physical activity, social interaction, and connection with *nature*.\n\n*School* and *hospital* taught me about the essential *location*s that serve community needs. I learned that *school*s are not just *building*s for education - they're *place*s where knowledge is shared, relationships are formed, and future generations are prepared for life. I discovered that *hospital*s are critical *location*s that provide healthcare services and support during times of illness and injury.\n\n*Restaurant* and *store* became important *place*s for understanding commercial activity and social interaction. I learned that *restaurant*s are not just *location*s for eating - they're *place*s where people gather to share meals, celebrate occasions, and build relationships. I discovered that *store*s serve as *location*s where goods and services are exchanged, creating economic activity and meeting consumer needs.\n\n*Office* and *airport* taught me about the *place*s that support work and travel. I learned that *office*s are not just *building*s for business - they're *location*s where professional relationships are formed, projects are completed, and careers are developed. I discovered that *airport*s are crucial *place*s that connect different *city*s and *country*s, enabling travel and cultural exchange.\n\n*Station* and *museum* introduced me to the *location*s that support transportation and culture. I learned that *station*s are not just *place*s for boarding trains or buses - they're *location*s that facilitate movement between different *place*s and create opportunities for travel and exploration. I discovered that *museum*s are important *place*s that preserve history, showcase art, and provide educational experiences for visitors.\n\n*Library* and *beach* taught me about the *place*s that support learning and recreation. I learned that *library*s are not just *building*s with books - they're *location*s that provide access to knowledge, quiet study spaces, and community resources. I discovered that *beach*es are special *place*s that offer opportunities for relaxation, water activities, and connection with the *natural* environment.\n\n*Mountain* and *river* became important *location*s for understanding *natural* *place*s and their significance. I learned that *mountain*s are not just elevated landforms - they're *place*s that offer breathtaking views, challenging hiking opportunities, and connection with *nature*. I discovered that *river*s are vital *location*s that provide water resources, transportation routes, and *natural* beauty that enhances the landscape.\n\n*Place*s and *location*s have taught me that our physical environment plays a crucial role in shaping our experiences and opportunities. Each *place* - from the busy *street*s of a *city* to the peaceful *park*s and *beach*es - offers unique possibilities for activity, interaction, and personal growth. Understanding the different *location*s in our communities helps us navigate the world more effectively and appreciate the diverse *place*s that make up our shared environment.",
+    "additionalExamples": [
+      {
+        "word": "place",
+        "example": "Place is important.",
+        "translation": "Место важно."
+      },
+      {
+        "word": "location",
+        "example": "Location is convenient.",
+        "translation": "Локация удобная."
+      },
+      {
+        "word": "city",
+        "example": "City is busy.",
+        "translation": "Город оживленный."
+      },
+      {
+        "word": "country",
+        "example": "Country is beautiful.",
+        "translation": "Страна красивая."
+      },
+      {
+        "word": "street",
+        "example": "Street is crowded.",
+        "translation": "Улица переполнена."
+      },
+      {
+        "word": "building",
+        "example": "Building is tall.",
+        "translation": "Здание высокое."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "There's no place like home",
+        "translation": "В гостях хорошо, а дома лучше"
+      },
+      {
+        "phrase": "I'm in the right place at the right time",
+        "translation": "Я в нужном месте в нужное время"
+      },
+      {
+        "phrase": "Let's meet at the usual place",
+        "translation": "Давайте встретимся в обычном месте"
+      },
+      {
+        "phrase": "This place has a great atmosphere",
+        "translation": "В этом месте отличная атмосфера"
+      },
+      {
+        "phrase": "I need to find my way around this city",
+        "translation": "Мне нужно освоиться в этом городе"
+      },
+      {
+        "phrase": "The location is perfect for our needs",
+        "translation": "Локация идеально подходит для наших нужд"
+      },
+      {
+        "phrase": "I'm lost, can you help me find this place?",
+        "translation": "Я заблудился, поможешь найти это место?"
+      },
+      {
+        "phrase": "This is my favorite spot in the whole city",
+        "translation": "Это мое любимое место во всем городе"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Place** is countable and refers to a specific location.\n- **Location** is countable and refers to a particular position.\n- **City** is countable and refers to a large town.\n- **Country** is countable and refers to a nation.",
+    "relatedTopics": [
+      {
+        "name": "Travel Transportation",
+        "slug": "travel-transportation",
+        "url": "/lessons/eng/b1b2/travel-transportation"
+      },
+      {
+        "name": "Urban City Life",
+        "slug": "urban-city-life",
+        "url": "/lessons/eng/b1b2/urban-city-life"
+      },
+      {
+        "name": "Geography Landscape",
+        "slug": "geography-landscape",
+        "url": "/lessons/eng/b1b2/geography-landscape"
+      },
+      {
+        "name": "Community Relationships",
+        "slug": "community-relationships",
+        "url": "/lessons/eng/b1b2/community-relationships"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/places-locations"
+  },
+  {
+    "id": 81,
+    "slug": "plants-botany",
+    "title": "Plants & Botany",
+    "titleRu": "Растения и ботаника",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: plant, botany, tree, flower, leaf and practical usage examples.",
+    "keywords": [
+      {
+        "word": "plant",
+        "translation": "растение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "botany",
+        "translation": "ботаника",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tree",
+        "translation": "дерево",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "flower",
+        "translation": "цветок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "leaf",
+        "translation": "лист",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "root",
+        "translation": "корень",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "seed",
+        "translation": "семя",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fruit",
+        "translation": "фрукт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "vegetable",
+        "translation": "овощ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "grass",
+        "translation": "трава",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bush",
+        "translation": "куст",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "garden",
+        "translation": "сад",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "forest",
+        "translation": "лес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "garden",
+        "translation": "сад",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "soil",
+        "translation": "почва",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "water",
+        "translation": "вода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sunlight",
+        "translation": "солнечный свет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "growth",
+        "translation": "рост",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "photosynthesis",
+        "translation": "фотосинтез",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "oxygen",
+        "translation": "кислород",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Plant*s and *botany* represent the green foundation of life on Earth, from the towering *tree*s that provide oxygen and shelter to the delicate *flower*s that bring beauty and color to our world. Understanding *plant*s and *botany* helps us appreciate the vital role that vegetation plays in sustaining life and maintaining the delicate balance of our planet's ecosystems. Let me share a story about how I discovered the fascinating world of *plant*s and *botany* through starting my first *garden*.\n\nLast year, I decided to start a small *garden* in my backyard and found myself immersed in the incredible world of *plant*s and *botany*. I began by learning about different types of *plant*s and their needs, understanding how *seed*s grow into mature *plant*s through the process of *growth* and *photosynthesis*. The process taught me that *plant*s and *botany* are not just about growing flowers and vegetables - they're about understanding the fundamental processes that sustain all life on Earth.\n\nMy journey into understanding *plant*s and *botany* started with learning about the basic parts of *plant*s and their functions. I discovered that *root*s anchor *plant*s in the *soil* and absorb water and nutrients, while *leaf*s capture *sunlight* and perform *photosynthesis* to produce food. I learned that *flower*s are the reproductive parts of *plant*s that produce *seed*s, and that *fruit*s develop from flowers and contain *seed*s for reproduction. Each part of a *plant* serves essential functions that contribute to the *plant*'s survival and reproduction.\n\n*Tree* and *bush* taught me about different growth forms and sizes of *plant*s. I learned that a *tree* is a large *plant* with a woody trunk and branches that can grow to great heights, while a *bush* is a smaller woody *plant* with multiple stems. I discovered that both *tree*s and *bush*es provide important *habitat*s for wildlife and contribute to the overall health of ecosystems, and that they require different care and maintenance in a *garden* setting.\n\n*Grass* and *vegetable* introduced me to different types of *plant*s and their uses. I learned that *grass* is a type of *plant* with narrow leaves that forms lawns and meadows, while *vegetable*s are *plant*s grown for their edible parts like leaves, stems, or roots. I discovered that both *grass* and *vegetable*s are important for human life, with *grass* providing ground cover and *vegetable*s providing essential nutrition.\n\n*Garden* and *forest* became important concepts for understanding different environments where *plant*s grow. I learned that a *garden* is a cultivated area where *plant*s are grown for beauty, food, or other purposes, while a *forest* is a large area covered with *tree*s and other *plant*s that grows naturally. I discovered that both *garden*s and *forest*s are important for biodiversity and environmental health, and that they provide different benefits to humans and wildlife.\n\n*Soil* and *water* taught me about the essential resources that *plant*s need to grow and thrive. I learned that *soil* is the natural medium that provides nutrients and support for *plant* roots, while *water* is essential for *plant* survival and *growth*. I discovered that both *soil* and *water* quality are crucial for successful *plant* cultivation, and that understanding their properties is essential for effective *garden*ing and *botany*.\n\n*Sunlight* and *photosynthesis* became important concepts for understanding how *plant*s produce their own food. I learned that *sunlight* provides the energy that *plant*s need for *photosynthesis*, while *photosynthesis* is the process by which *plant*s convert *sunlight*, water, and carbon dioxide into glucose and *oxygen*. I discovered that *photosynthesis* is one of the most important biological processes on Earth, as it produces the *oxygen* that most living things need to survive.\n\n*Growth* and *oxygen* taught me about the life processes and benefits of *plant*s. I learned that *growth* is the process by which *plant*s increase in size and develop new parts, while *oxygen* is a gas that *plant*s produce during *photosynthesis* and that is essential for animal and human respiration. I discovered that *plant* *growth* is influenced by many factors including *soil*, *water*, *sunlight*, and temperature, and that *plant*s play a crucial role in maintaining the *oxygen* levels in Earth's atmosphere.\n\n*Seed* became important for understanding how *plant*s reproduce and spread. I learned that a *seed* is the reproductive structure of a *plant* that contains the embryo and stored food, and that *seed*s can remain dormant for long periods before germinating. I discovered that *seed*s are essential for *plant* reproduction and that they can be dispersed by wind, water, animals, or human activities, allowing *plant*s to colonize new areas and maintain genetic diversity.\n\n*Plant*s and *botany* have taught me that the green world is incredibly diverse and essential for life on Earth. From the smallest *seed* to the tallest *tree*, *plant*s provide the foundation for most terrestrial ecosystems and play crucial roles in producing *oxygen*, providing food, and maintaining environmental balance. Understanding *plant*s and *botany* has given me a greater appreciation for the natural world and the importance of protecting and cultivating vegetation for the benefit of all living things.",
+    "additionalExamples": [
+      {
+        "word": "plant",
+        "example": "Plant is healthy.",
+        "translation": "Растение здоровое."
+      },
+      {
+        "word": "botany",
+        "example": "Botany is fascinating.",
+        "translation": "Ботаника увлекательная."
+      },
+      {
+        "word": "tree",
+        "example": "Tree is tall.",
+        "translation": "Дерево высокое."
+      },
+      {
+        "word": "flower",
+        "example": "Flower is beautiful.",
+        "translation": "Цветок красивый."
+      },
+      {
+        "word": "leaf",
+        "example": "Leaf is green.",
+        "translation": "Лист зеленый."
+      },
+      {
+        "word": "root",
+        "example": "Root is deep.",
+        "translation": "Корень глубокий."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The plant needs more water",
+        "translation": "Растению нужно больше воды"
+      },
+      {
+        "phrase": "I love gardening and growing plants",
+        "translation": "Я люблю садоводство и выращивание растений"
+      },
+      {
+        "phrase": "The tree provides shade in summer",
+        "translation": "Дерево дает тень летом"
+      },
+      {
+        "phrase": "The flower smells wonderful",
+        "translation": "Цветок пахнет замечательно"
+      },
+      {
+        "phrase": "Plants produce oxygen for us",
+        "translation": "Растения производят кислород для нас"
+      },
+      {
+        "phrase": "The garden is full of beautiful flowers",
+        "translation": "Сад полон красивых цветов"
+      },
+      {
+        "phrase": "Botany is the study of plant life",
+        "translation": "Ботаника - это изучение растительной жизни"
+      },
+      {
+        "phrase": "The forest is home to many trees",
+        "translation": "Лес является домом для многих деревьев"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Plant** is countable and refers to a living organism.\n- **Botany** is uncountable and refers to the study of plants.\n- **Tree** is countable and refers to a large woody plant.\n- **Flower** is countable and refers to the reproductive part of a plant.",
+    "relatedTopics": [
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      },
+      {
+        "name": "Agriculture Farming",
+        "slug": "agriculture-farming",
+        "url": "/lessons/eng/b1b2/agriculture-farming"
+      },
+      {
+        "name": "Nature Weather",
+        "slug": "nature-weather",
+        "url": "/lessons/eng/b1b2/nature-weather"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/plants-botany"
+  },
+  {
+    "id": 82,
     "slug": "politics-government",
     "title": "Politics & Government",
     "titleRu": "Политика и правительство",
@@ -5465,13 +16803,13 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
     ],
-    "category": "Politics Government",
+    "category": "politics_law",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/politics-government"
   },
   {
-    "id": 26,
+    "id": 83,
     "slug": "psychology-behavior",
     "title": "Psychology & Behavior",
     "titleRu": "Психология и поведение",
@@ -5659,13 +16997,217 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/education-learning"
       }
     ],
-    "category": "Psychology Behavior",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/psychology-behavior"
   },
   {
-    "id": 27,
+    "id": 84,
+    "slug": "qualities-characteristics",
+    "title": "Qualities & Characteristics",
+    "titleRu": "Качества и характеристики",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: quality, characteristic, trait, feature, attribute and practical usage examples.",
+    "keywords": [
+      {
+        "word": "quality",
+        "translation": "качество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "characteristic",
+        "translation": "характеристика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "trait",
+        "translation": "черта",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "feature",
+        "translation": "особенность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "attribute",
+        "translation": "атрибут",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "property",
+        "translation": "свойство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nature",
+        "translation": "природа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "personality",
+        "translation": "личность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "behavior",
+        "translation": "поведение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "attitude",
+        "translation": "отношение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "skill",
+        "translation": "навык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ability",
+        "translation": "способность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "talent",
+        "translation": "талант",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "strength",
+        "translation": "сила",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "weakness",
+        "translation": "слабость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "advantage",
+        "translation": "преимущество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "disadvantage",
+        "translation": "недостаток",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "positive",
+        "translation": "положительный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "negative",
+        "translation": "отрицательный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "unique",
+        "translation": "уникальный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Qualities* and *characteristics* are the distinctive *trait*s and *feature*s that define who we are as individuals, shaping our *personality*, *behavior*, and interactions with others. From *positive* *attribute*s like *talent* and *strength* to *negative* aspects like *weakness* and *disadvantage*, our *qualities* and *characteristics* create the *unique* combination that makes each person special. Let me share a story about how I discovered the importance of understanding *qualities* and *characteristics* in personal development.\n\nLast year, I decided to conduct a thorough self-assessment to better understand my *qualities* and *characteristics* after realizing that I needed to develop greater self-awareness. I began by identifying my *positive* *trait*s and *negative* aspects, learning how different *qualities* and *characteristics* influence my *personality* and *behavior*. The process taught me that *qualities* are not just fixed *attribute*s - they're dynamic *feature*s that can be developed and improved over time.\n\nMy journey into understanding *qualities* and *characteristics* started with examining my *personality* *trait*s and how they affect my daily *behavior*. I learned that *personality* is the combination of *characteristics* that make each person *unique*, including *trait*s like introversion or extroversion, openness to experience, and emotional stability. I discovered that understanding my *personality* *qualities* helps me make better decisions and build stronger relationships.\n\n*Skill*s and *ability* became important aspects of my self-assessment. I learned that *skill*s are learned *qualities* that can be developed through practice and experience, while *ability* refers to natural *talent* or capacity for certain activities. I discovered that identifying my *skill*s and *ability* helps me understand my *strength*s and areas for improvement, enabling me to set realistic goals and pursue meaningful development.\n\n*Talent* and *strength* taught me about my *positive* *qualities* and *advantage*s. I learned that *talent* represents natural *ability* or *skill* in specific areas, while *strength* refers to *qualities* that I excel at or find energizing. I discovered that focusing on my *talent* and *strength* can lead to greater *satisfaction* and success, while also contributing to my overall *positive* *attitude* and *behavior*.\n\n*Weakness* and *disadvantage* became important areas for honest self-reflection. I learned that *weakness* refers to *qualities* or *characteristics* that I find challenging or that limit my effectiveness, while *disadvantage* represents *negative* *attribute*s that may hinder my progress. I discovered that acknowledging *weakness* and *disadvantage* is not about self-criticism but about understanding areas for growth and development.\n\n*Attitude* and *behavior* taught me about how *qualities* and *characteristics* manifest in daily life. I learned that *attitude* represents my mental approach to situations and challenges, while *behavior* refers to my actions and responses to different circumstances. I discovered that *positive* *attitude* and *behavior* can enhance my *qualities* and *characteristics*, while *negative* patterns can limit my potential and relationships.\n\n*Nature* and *property* became important concepts for understanding the fundamental *characteristics* that define who I am. I learned that *nature* refers to the inherent *qualities* and *trait*s that are part of my core identity, while *property* represents the *attribute*s and *feature*s that I possess. I discovered that understanding my *nature* and *property* helps me make authentic choices and live in alignment with my true self.\n\n*Unique* and *positive* *qualities* became the focus of my personal development efforts. I learned that *unique* *characteristics* are what make me special and different from others, while *positive* *qualities* are *attribute*s that contribute to my well-being and success. I discovered that embracing my *unique* *qualities* and developing *positive* *characteristics* can lead to greater self-confidence and fulfillment.\n\n*Qualities* and *characteristics* have taught me that self-awareness is the foundation of personal growth and development. Each *quality* and *characteristic* - from *positive* *trait*s like *talent* and *strength* to areas for improvement like *weakness* and *disadvantage* - contributes to the *unique* person I am. Understanding my *qualities* and *characteristics* helps me make better decisions, build stronger relationships, and pursue a life that aligns with my *nature* and *personality*.",
+    "additionalExamples": [
+      {
+        "word": "quality",
+        "example": "Quality is important.",
+        "translation": "Качество важно."
+      },
+      {
+        "word": "characteristic",
+        "example": "Characteristic is unique.",
+        "translation": "Характеристика уникальна."
+      },
+      {
+        "word": "trait",
+        "example": "Trait is inherited.",
+        "translation": "Черта наследуется."
+      },
+      {
+        "word": "feature",
+        "example": "Feature is distinctive.",
+        "translation": "Особенность отличительная."
+      },
+      {
+        "word": "attribute",
+        "example": "Attribute is positive.",
+        "translation": "Атрибут положительный."
+      },
+      {
+        "word": "property",
+        "example": "Property is valuable.",
+        "translation": "Свойство ценно."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "That's a great quality to have",
+        "translation": "Это отличное качество"
+      },
+      {
+        "phrase": "I admire that characteristic in you",
+        "translation": "Я восхищаюсь этой чертой в тебе"
+      },
+      {
+        "phrase": "We all have our strengths and weaknesses",
+        "translation": "У всех нас есть сильные и слабые стороны"
+      },
+      {
+        "phrase": "That's one of your best traits",
+        "translation": "Это одна из твоих лучших черт"
+      },
+      {
+        "phrase": "I need to work on that aspect",
+        "translation": "Мне нужно поработать над этим аспектом"
+      },
+      {
+        "phrase": "You have a unique personality",
+        "translation": "У тебя уникальная личность"
+      },
+      {
+        "phrase": "That's a positive attitude",
+        "translation": "Это позитивное отношение"
+      },
+      {
+        "phrase": "We all have different abilities",
+        "translation": "У всех нас разные способности"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Quality** is countable and refers to a characteristic or feature.\n- **Characteristic** is countable and refers to a distinguishing feature.\n- **Trait** is countable and refers to a distinguishing quality.\n- **Feature** is countable and refers to a distinctive attribute.",
+    "relatedTopics": [
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      },
+      {
+        "name": "Psychology Behavior",
+        "slug": "psychology-behavior",
+        "url": "/lessons/eng/b1b2/psychology-behavior"
+      },
+      {
+        "name": "Relationships Interactions",
+        "slug": "relationships-interactions",
+        "url": "/lessons/eng/b1b2/relationships-interactions"
+      },
+      {
+        "name": "Human Traits",
+        "slug": "human-traits",
+        "url": "/lessons/eng/b1b2/human-traits"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/qualities-characteristics"
+  },
+  {
+    "id": 85,
     "slug": "quantities-negation",
     "title": "Quantities & Negation",
     "titleRu": "Количества и отрицание",
@@ -5903,13 +17445,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
     ],
-    "category": "Quantities Negation",
+    "category": "language_basics",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/quantities-negation"
   },
   {
-    "id": 28,
+    "id": 86,
+    "slug": "relationships-interactions",
+    "title": "Relationships & Interactions",
+    "titleRu": "Отношения и взаимодействия",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: relationships, interactions, communication, connection, friendship and practical usage examples.",
+    "keywords": [
+      {
+        "word": "relationships",
+        "translation": "отношения",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "interactions",
+        "translation": "взаимодействия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "communication",
+        "translation": "общение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "connection",
+        "translation": "связь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "friendship",
+        "translation": "дружба",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "love",
+        "translation": "любовь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "trust",
+        "translation": "доверие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "respect",
+        "translation": "уважение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "understanding",
+        "translation": "понимание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "empathy",
+        "translation": "эмпатия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "support",
+        "translation": "поддержка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "conflict",
+        "translation": "конфликт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "resolution",
+        "translation": "разрешение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "intimacy",
+        "translation": "близость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "commitment",
+        "translation": "обязательство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "loyalty",
+        "translation": "верность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "honesty",
+        "translation": "честность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "forgiveness",
+        "translation": "прощение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "boundaries",
+        "translation": "границы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "harmony",
+        "translation": "гармония",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Relationships* and *interactions* form the foundation of human experience, creating the social connections that provide meaning, support, and joy in our lives. Through *communication*, *empathy*, and mutual *respect*, people build *relationships* that can last a lifetime while learning to navigate the complexities of human *interactions* with grace and understanding. Let me share a story about how I discovered the incredible depth and importance of *relationships* and *interactions* in creating a fulfilling life.\n\nLast *year*, I went through a period of significant change in my *relationships* and social *interactions*, which opened my eyes to the profound impact that human connections have on our well-being and personal *development*. I had always valued my *relationships*, but this experience taught me about the skills, effort, and wisdom required to build and maintain healthy *relationships* throughout life.\n\nMy journey began with understanding the fundamental importance of *communication* in all *relationships* and *interactions*. I learned that effective *communication* is not just about speaking clearly – it's about listening actively, expressing thoughts and feelings honestly, and creating an environment where both people feel heard and understood. The *communication* skills I developed taught me about the importance of clarity, patience, and the way good *communication* can prevent misunderstandings and strengthen *connections*.\n\n*Friendship* revealed itself as one of life's greatest treasures and a source of joy, *support*, and companionship that enriches our daily experiences. I discovered that *friendship* is not just about having fun together – it's about mutual *respect*, *trust*, and the willingness to be there for each other through both good times and challenges. The *friendships* I nurtured taught me about the importance of *loyalty*, *honesty*, and the way authentic *friendship* provides a foundation for other *relationships* in life.\n\n*Love* and romantic *relationships* showed me the incredible depth and complexity of intimate human *connections*. I learned that *love* is not just about feelings – it's about *commitment*, *understanding*, and the daily choice to care for and support another person's growth and happiness. The romantic *relationships* I experienced taught me about the importance of *intimacy*, *trust*, and the way *love* requires both vulnerability and strength.\n\n*Trust* and *respect* emerged as the essential foundations that enable *relationships* to flourish and grow stronger over time. I discovered that *trust* is not just about believing someone won't hurt you – it's about having confidence in their character, their intentions, and their ability to be reliable and honest in the *relationship*. The *trust* I built taught me about the importance of consistency, *honesty*, and the way *trust* creates safety and security in *relationships*.\n\n*Empathy* and *understanding* revealed the importance of seeing situations from other people's perspectives and responding with compassion and wisdom. I learned that *empathy* is not just about feeling sorry for someone – it's about truly *understanding* their experience, validating their feelings, and providing *support* that meets their actual needs. The *empathy* I developed taught me about the importance of perspective-taking and the way *understanding* others deepens *relationships* and reduces *conflict*.\n\n*Conflict* and *resolution* showed me how disagreements and misunderstandings are natural parts of *relationships* that can actually strengthen *connections* when handled well. I discovered that *conflict* is not just about winning or losing – it's about addressing differences honestly, finding solutions that work for both people, and using disagreements as opportunities for *understanding* and growth. The *conflict* *resolution* skills I learned taught me about the importance of compromise, *forgiveness*, and the way healthy *relationships* can survive and thrive through difficult times.\n\n*Support* and *commitment* revealed how *relationships* provide the foundation for personal growth and the courage to pursue dreams and overcome challenges. I learned that *support* is not just about helping when asked – it's about being present, offering encouragement, and believing in someone's potential even when they doubt themselves. The *support* I received and gave taught me about the importance of *commitment* and the way strong *relationships* enable people to become their best selves.\n\n*Boundaries* and *harmony* showed me how healthy *relationships* require clear expectations, mutual *respect*, and the ability to maintain individual identity while being part of a *relationship*. I discovered that *boundaries* are not just about saying no – they're about defining what's acceptable and unacceptable, protecting your well-being, and creating *relationships* that are mutually beneficial and respectful. The *boundaries* I established taught me about the importance of self-respect and the way clear *boundaries* actually strengthen *relationships* and create *harmony*.\n\nWhat I love most about my exploration of *relationships* and *interactions* is how it revealed the incredible capacity for *connection*, *understanding*, and mutual *support* that exists in human *relationships*. I learned that *relationships* are not just about individual benefit – they're about creating *connections* that enrich both people's lives and contribute to a more compassionate and connected world.\n\n*Relationships* and *interactions* have taught me that human *connection* is one of life's greatest sources of meaning and joy, but it also requires skill, effort, and wisdom to build and maintain healthy *relationships*. By developing *communication* skills, practicing *empathy*, and investing in *relationships* with *honesty* and *respect*, we can create *connections* that provide *support*, joy, and meaning throughout our lives while contributing to the well-being of others and our communities.",
+    "additionalExamples": [
+      {
+        "word": "relationships",
+        "example": "Relationships require effort.",
+        "translation": "Отношения требуют усилий."
+      },
+      {
+        "word": "communication",
+        "example": "Communication is key to success.",
+        "translation": "Общение - ключ к успеху."
+      },
+      {
+        "word": "friendship",
+        "example": "Friendship is precious.",
+        "translation": "Дружба драгоценна."
+      },
+      {
+        "word": "love",
+        "example": "Love makes life meaningful.",
+        "translation": "Любовь делает жизнь осмысленной."
+      },
+      {
+        "word": "trust",
+        "example": "Trust is earned over time.",
+        "translation": "Доверие зарабатывается со временем."
+      },
+      {
+        "word": "respect",
+        "example": "Respect is fundamental.",
+        "translation": "Уважение фундаментально."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Actions speak louder than words",
+        "translation": "Дела говорят громче слов"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Relationships** is plural and refers to connections between people.\n- **Communication** is uncountable and refers to the process of exchanging information.\n- **Friendship** is uncountable and refers to the state of being friends.\n- **Love** is uncountable and refers to the emotion or state of loving.",
+    "relatedTopics": [
+      {
+        "name": "Family Relationships",
+        "slug": "family-relationships",
+        "url": "/lessons/eng/b1b2/family-relationships"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      },
+      {
+        "name": "Communication Language",
+        "slug": "communication-language",
+        "url": "/lessons/eng/b1b2/communication-language"
+      },
+      {
+        "name": "Psychology Behavior",
+        "slug": "psychology-behavior",
+        "url": "/lessons/eng/b1b2/psychology-behavior"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/relationships-interactions"
+  },
+  {
+    "id": 87,
     "slug": "religion-spirituality",
     "title": "Religion & Spirituality",
     "titleRu": "Религия и духовность",
@@ -6097,13 +17835,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/arts-culture"
       }
     ],
-    "category": "Religion Spirituality",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/religion-spirituality"
   },
   {
-    "id": 29,
+    "id": 88,
+    "slug": "science-disciplines",
+    "title": "Science & Disciplines",
+    "titleRu": "Наука и дисциплины",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: science, discipline, physics, chemistry, biology and practical usage examples.",
+    "keywords": [
+      {
+        "word": "science",
+        "translation": "наука",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discipline",
+        "translation": "дисциплина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "physics",
+        "translation": "физика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "chemistry",
+        "translation": "химия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "biology",
+        "translation": "биология",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mathematics",
+        "translation": "математика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "research",
+        "translation": "исследование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "experiment",
+        "translation": "эксперимент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discovery",
+        "translation": "открытие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "theory",
+        "translation": "теория",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hypothesis",
+        "translation": "гипотеза",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "evidence",
+        "translation": "доказательство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "method",
+        "translation": "метод",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "analysis",
+        "translation": "анализ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "observation",
+        "translation": "наблюдение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "measurement",
+        "translation": "измерение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "data",
+        "translation": "данные",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "knowledge",
+        "translation": "знание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "understanding",
+        "translation": "понимание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "innovation",
+        "translation": "инновация",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Science* and its various *disciplines* represent humanity's systematic pursuit of *knowledge* and *understanding* about the natural world and universe. Through rigorous *research*, careful *observation*, and innovative *experiments*, scientists across different *disciplines* work to expand human *knowledge* and create *innovations* that improve our lives. Let me share a story about how I discovered the fascinating world of *scientific* *disciplines* and their profound impact on our understanding of reality.\n\nLast *year*, I enrolled in a comprehensive *science* program that introduced me to multiple *scientific* *disciplines*, which opened my eyes to the incredible diversity and interconnectedness of *scientific* knowledge. I had always been curious about how things work, but this experience taught me about the rigorous *methods* and collaborative nature of *scientific* inquiry across different fields.\n\nMy journey began with *physics*, which revealed the fundamental laws that govern everything from subatomic particles to massive galaxies. I learned that *physics* is not just about abstract equations – it's about understanding the basic principles that explain how energy, matter, and forces interact throughout the universe. The *physics* concepts I studied taught me about the importance of mathematical thinking and the power of *theories* to predict and explain natural phenomena.\n\n*Chemistry* showed me the fascinating world of atoms, molecules, and chemical reactions that form the basis of all matter. I discovered that *chemistry* is not just about mixing substances in a laboratory – it's about understanding how different elements combine and interact to create everything from the air we breathe to the complex molecules that make up living organisms. The *chemistry* *experiments* I conducted taught me about the importance of precision and safety in *scientific* work.\n\n*Biology* revealed the incredible complexity and diversity of living systems, from microscopic bacteria to complex ecosystems. I learned that *biology* is not just about memorizing facts about plants and animals – it's about understanding the processes and relationships that make life possible and sustainable. The *biological* *research* I explored taught me about the importance of observation, classification, and the interconnectedness of all living things.\n\n*Mathematics* emerged as the universal language that underlies all *scientific* *disciplines*. I discovered that *mathematics* is not just about numbers and calculations – it's about patterns, relationships, and logical reasoning that provide the foundation for *scientific* thinking and *analysis*. The mathematical concepts I learned taught me about the importance of precise thinking and the power of mathematical models to describe reality.\n\n*Research* and *experimentation* revealed the systematic *methods* that scientists use to investigate questions and test *hypotheses*. I learned that *scientific* *research* is not just about curiosity – it's about following rigorous procedures, controlling variables, and gathering reliable *evidence* to support or refute *theories*. The *research* projects I participated in taught me about the importance of objectivity and the peer review process in *scientific* work.\n\n*Observation* and *measurement* showed me the fundamental skills that all scientists must develop to gather accurate *data*. I discovered that *scientific* *observation* is not just about looking at things – it's about systematic recording, precise *measurement*, and careful documentation that allows *discoveries* to be verified and replicated. The *observation* techniques I learned taught me about the importance of attention to detail and the use of instruments to extend human senses.\n\n*Theory* and *hypothesis* formation revealed the creative and logical thinking that drives *scientific* progress. I learned that *scientific* *theories* are not just guesses – they're well-supported explanations that integrate *evidence* from multiple sources and make predictions about future observations. The *theoretical* work I studied taught me about the importance of logical reasoning and the relationship between *theory* and *experiment*.\n\n*Discovery* and *innovation* showed me how *scientific* knowledge leads to practical applications that improve human life. I discovered that *scientific* *discoveries* are not just academic achievements – they're the foundation for technological *innovations* that solve problems and create new possibilities. The *innovations* I learned about taught me about the importance of translating *scientific* knowledge into practical solutions.\n\nWhat I love most about my exploration of *science* and its *disciplines* is how it revealed the incredible power of systematic inquiry and the collaborative nature of *scientific* knowledge. I learned that *science* is not just about individual brilliance – it's about building on the work of others, sharing *discoveries*, and constantly refining our *understanding* of the world.\n\n*Science* and its *disciplines* have taught me that *knowledge* is not fixed but constantly evolving as new *evidence* emerges and new *theories* are developed. By understanding and appreciating the *scientific* *method* and the work of different *scientific* *disciplines*, we can become better critical thinkers and more informed participants in our increasingly technological world.",
+    "additionalExamples": [
+      {
+        "word": "science",
+        "example": "Science advances human knowledge.",
+        "translation": "Наука продвигает человеческое знание."
+      },
+      {
+        "word": "research",
+        "example": "Research requires patience.",
+        "translation": "Исследования требуют терпения."
+      },
+      {
+        "word": "experiment",
+        "example": "The experiment was successful.",
+        "translation": "Эксперимент был успешным."
+      },
+      {
+        "word": "discovery",
+        "example": "The discovery was groundbreaking.",
+        "translation": "Открытие было революционным."
+      },
+      {
+        "word": "theory",
+        "example": "The theory explains the phenomenon.",
+        "translation": "Теория объясняет явление."
+      },
+      {
+        "word": "evidence",
+        "example": "Evidence supports the hypothesis.",
+        "translation": "Доказательства подтверждают гипотезу."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Knowledge is power",
+        "translation": "Знание - сила"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Science** is uncountable and refers to the systematic study of the natural world.\n- **Research** is usually uncountable and refers to systematic investigation.\n- **Experiment** is countable and refers to specific scientific tests.\n- **Discovery** is countable and refers to specific findings.",
+    "relatedTopics": [
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Education Learning",
+        "slug": "education-learning",
+        "url": "/lessons/eng/b1b2/education-learning"
+      },
+      {
+        "name": "Space Astronomy",
+        "slug": "space-astronomy",
+        "url": "/lessons/eng/b1b2/space-astronomy"
+      },
+      {
+        "name": "Medicine Healthcare",
+        "slug": "medicine-healthcare",
+        "url": "/lessons/eng/b1b2/medicine-healthcare"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/science-disciplines"
+  },
+  {
+    "id": 89,
     "slug": "science-research",
     "title": "Science & Research",
     "titleRu": "Наука и исследования",
@@ -6291,13 +18225,217 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/nature-environment"
       }
     ],
-    "category": "Science Research",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/science-research"
   },
   {
-    "id": 30,
+    "id": 90,
+    "slug": "shapes-dimensions",
+    "title": "Shapes & Dimensions",
+    "titleRu": "Формы и размеры",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: shape, dimension, size, length, width and practical usage examples.",
+    "keywords": [
+      {
+        "word": "shape",
+        "translation": "форма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dimension",
+        "translation": "размер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "size",
+        "translation": "размер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "length",
+        "translation": "длина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "width",
+        "translation": "ширина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "height",
+        "translation": "высота",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "depth",
+        "translation": "глубина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "circle",
+        "translation": "круг",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "square",
+        "translation": "квадрат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "triangle",
+        "translation": "треугольник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rectangle",
+        "translation": "прямоугольник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "oval",
+        "translation": "овал",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "round",
+        "translation": "круглый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "flat",
+        "translation": "плоский",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "thick",
+        "translation": "толстый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "thin",
+        "translation": "тонкий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "large",
+        "translation": "большой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "small",
+        "translation": "маленький",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "wide",
+        "translation": "широкий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "narrow",
+        "translation": "узкий",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Shape*s and *dimension*s are the fundamental geometric properties that define the physical world around us, from the *round* *circle* of a clock face to the *square* tiles on a kitchen floor. Understanding *shape*s and *dimension*s helps us navigate space, create *design*s, and appreciate the mathematical beauty that surrounds us in everyday life. Let me share a story about how I discovered the fascinating world of *shape*s and *dimension*s through a home renovation project.\n\nLast year, I decided to renovate my kitchen and found myself immersed in the world of *shape*s and *dimension*s as I planned the new layout and selected materials. I began by measuring the *length*, *width*, and *height* of the space, learning how different *dimension*s affect the functionality and *appearance* of a room. The process taught me that *shape*s and *dimension*s are not just mathematical concepts - they're practical tools that influence our daily lives and aesthetic experiences.\n\nMy journey into understanding *shape*s and *dimension*s started with learning about basic geometric *shape*s and their properties. I discovered that a *circle* is a *round* *shape* with no corners, while a *square* has four equal sides and four right angles. I learned that a *triangle* has three sides and three angles, while a *rectangle* has four sides with opposite sides being equal and parallel. Each *shape* has its own unique *dimension*s and characteristics that make it suitable for different purposes.\n\n*Oval* and *round* *shape*s became particularly interesting as I explored their applications in *design*. I learned that an *oval* is an elongated *circle* that creates a softer, more organic feel than a perfect *circle*. I discovered that *round* *shape*s are often used in *design* to create a sense of harmony and flow, while angular *shape*s like *square*s and *triangle*s can create more dynamic and structured compositions.\n\n*Length*, *width*, and *height* became crucial measurements for my renovation project. I learned that *length* refers to the longest *dimension* of an object, *width* refers to the shorter horizontal *dimension*, and *height* refers to the vertical *dimension*. I discovered that understanding these *dimension*s is essential for planning furniture placement, ensuring proper clearances, and creating a functional living space.\n\n*Depth* and *thickness* taught me about the third *dimension* and how objects occupy space. I learned that *depth* refers to how far back an object extends, while *thickness* refers to the *dimension* between opposite surfaces. I discovered that *depth* and *thickness* are important considerations for storage solutions, countertop materials, and overall spatial planning.\n\n*Size* and scale became important concepts for understanding how *shape*s and *dimension*s work together. I learned that *size* refers to the overall magnitude of an object, while scale refers to the relationship between different *size*s. I discovered that choosing the right *size* and scale for furniture and fixtures is crucial for creating a balanced and harmonious living environment.\n\n*Large* and *small* taught me about relative *size* and how it affects perception and functionality. I learned that *large* objects can create a sense of grandeur and importance, while *small* objects can add detail and interest. I discovered that the balance between *large* and *small* elements is essential for creating visually appealing and functional *design*s.\n\n*Wide* and *narrow* became important considerations for understanding horizontal *dimension*s. I learned that *wide* spaces can feel open and spacious, while *narrow* spaces can feel cozy and intimate. I discovered that the choice between *wide* and *narrow* *dimension*s depends on the intended use of the space and the desired atmosphere.\n\n*Flat* and *thick* taught me about surface *dimension*s and how they affect both *appearance* and functionality. I learned that *flat* surfaces are easier to clean and maintain, while *thick* materials can provide better insulation and durability. I discovered that the choice between *flat* and *thick* elements depends on both aesthetic preferences and practical requirements.\n\n*Shape*s and *dimension*s have taught me that geometry is not just an abstract mathematical concept - it's a practical tool that shapes our physical environment and influences our daily experiences. Each *shape* - from the simple *circle* to the complex *rectangle* - has its own unique *dimension*s and properties that make it suitable for different purposes. Understanding *shape*s and *dimension*s has helped me make better *design* decisions and appreciate the mathematical beauty that surrounds us in everyday life.",
+    "additionalExamples": [
+      {
+        "word": "shape",
+        "example": "Shape is geometric.",
+        "translation": "Форма геометрическая."
+      },
+      {
+        "word": "dimension",
+        "example": "Dimension is important.",
+        "translation": "Размер важен."
+      },
+      {
+        "word": "size",
+        "example": "Size is appropriate.",
+        "translation": "Размер подходящий."
+      },
+      {
+        "word": "length",
+        "example": "Length is measured.",
+        "translation": "Длина измерена."
+      },
+      {
+        "word": "width",
+        "example": "Width is sufficient.",
+        "translation": "Ширина достаточна."
+      },
+      {
+        "word": "height",
+        "example": "Height is standard.",
+        "translation": "Высота стандартная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "What's the size of this room?",
+        "translation": "Какой размер этой комнаты?"
+      },
+      {
+        "phrase": "The shape is perfect for this space",
+        "translation": "Форма идеально подходит для этого пространства"
+      },
+      {
+        "phrase": "I need to measure the dimensions",
+        "translation": "Мне нужно измерить размеры"
+      },
+      {
+        "phrase": "That's too large for this area",
+        "translation": "Это слишком большое для этой области"
+      },
+      {
+        "phrase": "The proportions look good",
+        "translation": "Пропорции выглядят хорошо"
+      },
+      {
+        "phrase": "Can you make it a bit wider?",
+        "translation": "Можете сделать это немного шире?"
+      },
+      {
+        "phrase": "The depth is just right",
+        "translation": "Глубина как раз подходит"
+      },
+      {
+        "phrase": "I love the round shape",
+        "translation": "Мне нравится круглая форма"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Shape** is countable and refers to a geometric form.\n- **Dimension** is countable and refers to a measurement.\n- **Size** is countable and refers to the magnitude of something.\n- **Length** is countable and refers to the longest dimension.",
+    "relatedTopics": [
+      {
+        "name": "Measurement Quantity",
+        "slug": "measurement-quantity",
+        "url": "/lessons/eng/b1b2/measurement-quantity"
+      },
+      {
+        "name": "Design Architecture",
+        "slug": "design-architecture",
+        "url": "/lessons/eng/b1b2/design-architecture"
+      },
+      {
+        "name": "Colors Visual Properties",
+        "slug": "colors-visual-properties",
+        "url": "/lessons/eng/b1b2/colors-visual-properties"
+      },
+      {
+        "name": "Mathematics Science",
+        "slug": "mathematics-science",
+        "url": "/lessons/eng/b1b2/mathematics-science"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/shapes-dimensions"
+  },
+  {
+    "id": 91,
     "slug": "shopping-money",
     "title": "Shopping & Money",
     "titleRu": "Покупки и деньги",
@@ -6490,13 +18628,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/family-relationships"
       }
     ],
-    "category": "Shopping Money",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/shopping-money"
   },
   {
-    "id": 31,
+    "id": 92,
+    "slug": "shopping-retail",
+    "title": "Shopping & Retail",
+    "titleRu": "Покупки и розничная торговля",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: shopping, retail, store, customer, product and practical usage examples.",
+    "keywords": [
+      {
+        "word": "shopping",
+        "translation": "покупки",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "retail",
+        "translation": "розничная торговля",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "store",
+        "translation": "магазин",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "customer",
+        "translation": "клиент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "product",
+        "translation": "продукт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "price",
+        "translation": "цена",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sale",
+        "translation": "распродажа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discount",
+        "translation": "скидка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "quality",
+        "translation": "качество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "service",
+        "translation": "услуга",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "experience",
+        "translation": "опыт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "convenience",
+        "translation": "удобство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "choice",
+        "translation": "выбор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "variety",
+        "translation": "разнообразие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "satisfaction",
+        "translation": "удовлетворение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "purchase",
+        "translation": "покупка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "payment",
+        "translation": "платеж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "delivery",
+        "translation": "доставка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "return",
+        "translation": "возврат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "guarantee",
+        "translation": "гарантия",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Shopping* and *retail* represent the dynamic world of commerce where *customers* and businesses interact to exchange *products* and *services* for *payment*, creating *experiences* that can be both practical and enjoyable. Through *retail* *stores*, *online* shopping, and various *retail* channels, *customers* can find *products* and *services* that meet their needs while *retail* businesses work to provide *quality*, *convenience*, and *satisfaction*. Let me share a story about how I discovered the incredible complexity and importance of *shopping* and *retail* in our modern economy.\n\nLast *year*, I worked part-time in a *retail* *store*, which opened my eyes to the incredible complexity and *customer* service involved in *retail* operations. I had always been a *customer*, but this experience taught me about the *retail* processes, *customer* service, and *business* operations that make *shopping* *experiences* successful and *customers* satisfied.\n\nMy journey began with understanding the fundamental importance of *customer* service in *retail* and how *retail* businesses work to provide *quality* *service* and *customer* *satisfaction*. I learned that *retail* is not just about selling *products* – it's about providing *customer* *service*, creating positive *shopping* *experiences*, and the way *retail* businesses must balance *profit* with *customer* *satisfaction*. The *customer* service I provided taught me about the importance of *service* and the way *retail* businesses must focus on *customer* *satisfaction*.\n\n*Products* and *quality* revealed the incredible importance of *product* *quality* in *retail* and the way *retail* businesses must ensure *product* *quality* to maintain *customer* *satisfaction* and *business* success. I discovered that *retail* *products* are not just about selling items – they're about providing *quality* *products*, ensuring *product* *satisfaction*, and the way *retail* businesses must maintain *product* *quality* to ensure *customer* *satisfaction*. The *products* I sold taught me about the importance of *quality* and the way *retail* businesses must focus on *product* *quality*.\n\n*Price* and *value* showed me how *retail* businesses must balance *price* with *value* and the way *customers* evaluate *price* and *value* in their *shopping* decisions. I learned that *retail* *pricing* is not just about setting *prices* – it's about providing *value*, ensuring *price* *satisfaction*, and the way *retail* businesses must balance *price* with *value* to ensure *customer* *satisfaction*. The *pricing* strategies I observed taught me about the importance of *value* and the way *retail* businesses must focus on providing *value*.\n\n*Sales* and *discounts* revealed the incredible importance of *sales* and *discounts* in *retail* and the way *retail* businesses use *sales* and *discounts* to attract *customers* and increase *sales*. I discovered that *retail* *sales* are not just about reducing *prices* – they're about attracting *customers*, increasing *sales*, and the way *retail* businesses must use *sales* and *discounts* strategically to achieve *business* goals. The *sales* and *discounts* I promoted taught me about the importance of *sales* strategy and the way *retail* businesses must use *sales* and *discounts* effectively.\n\n*Convenience* and *choice* showed me how *retail* businesses must provide *convenience* and *choice* to *customers* and the way *customers* value *convenience* and *choice* in their *shopping* *experiences*. I learned that *retail* *convenience* is not just about easy *shopping* – it's about providing *choice*, ensuring *convenience*, and the way *retail* businesses must provide *convenience* and *choice* to ensure *customer* *satisfaction*. The *convenience* and *choice* I provided taught me about the importance of *convenience* and the way *retail* businesses must focus on *customer* *convenience*.\n\n*Experience* and *satisfaction* revealed the incredible importance of *shopping* *experiences* in *retail* and the way *retail* businesses must create positive *shopping* *experiences* to ensure *customer* *satisfaction*. I discovered that *retail* *experiences* are not just about *shopping* – they're about creating positive *experiences*, ensuring *customer* *satisfaction*, and the way *retail* businesses must focus on *experience* to ensure *customer* *satisfaction*. The *experiences* I created taught me about the importance of *experience* and the way *retail* businesses must focus on *customer* *experience*.\n\n*Payment* and *delivery* showed me how *retail* businesses must provide convenient *payment* and *delivery* options to *customers* and the way *customers* value convenient *payment* and *delivery* options. I learned that *retail* *payment* and *delivery* are not just about processing *payments* – they're about providing *convenience*, ensuring *satisfaction*, and the way *retail* businesses must provide convenient *payment* and *delivery* options. The *payment* and *delivery* options I provided taught me about the importance of *convenience* and the way *retail* businesses must focus on *customer* *convenience*.\n\n*Return* and *guarantee* revealed the important role that *return* policies and *guarantees* play in *retail* and the way *retail* businesses must provide *return* and *guarantee* options to ensure *customer* *satisfaction*. I discovered that *retail* *returns* and *guarantees* are not just about *product* *returns* – they're about ensuring *customer* *satisfaction*, providing *confidence*, and the way *retail* businesses must provide *return* and *guarantee* options. The *return* and *guarantee* policies I implemented taught me about the importance of *customer* *confidence* and the way *retail* businesses must focus on *customer* *satisfaction*.\n\nWhat I love most about my exploration of *shopping* and *retail* is how it revealed the incredible complexity and importance of *retail* operations and the way *retail* businesses must balance *profit* with *customer* *satisfaction*. I learned that *retail* is not just about selling *products* – it's about providing *service*, creating *experiences*, and the way *retail* businesses must focus on *customer* *satisfaction* to achieve *business* success.\n\n*Shopping* and *retail* have taught me that *retail* represents a complex *business* system that must balance *profit* with *customer* *satisfaction* and the way *retail* businesses must provide *quality*, *service*, and *convenience* to ensure *customer* *satisfaction*. By understanding and appreciating *retail* operations, we can become more informed *customers* and better understand the *business* processes that make *shopping* *experiences* successful and *customers* satisfied.",
+    "additionalExamples": [
+      {
+        "word": "shopping",
+        "example": "Shopping is a popular activity.",
+        "translation": "Покупки - популярное занятие."
+      },
+      {
+        "word": "retail",
+        "example": "Retail is a competitive industry.",
+        "translation": "Розничная торговля - конкурентная отрасль."
+      },
+      {
+        "word": "store",
+        "example": "The store is well-organized.",
+        "translation": "Магазин хорошо организован."
+      },
+      {
+        "word": "customer",
+        "example": "The customer is satisfied.",
+        "translation": "Клиент доволен."
+      },
+      {
+        "word": "product",
+        "example": "The product is high-quality.",
+        "translation": "Продукт высокого качества."
+      },
+      {
+        "word": "price",
+        "example": "The price is reasonable.",
+        "translation": "Цена разумная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The customer is always right",
+        "translation": "Клиент всегда прав"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Shopping** is uncountable and refers to the activity of buying goods.\n- **Retail** is uncountable and refers to the business of selling goods.\n- **Store** is countable and refers to a place where goods are sold.\n- **Customer** is countable and refers to a person who buys goods or services.",
+    "relatedTopics": [
+      {
+        "name": "Economics Business",
+        "slug": "economics-business",
+        "url": "/lessons/eng/b1b2/economics-business"
+      },
+      {
+        "name": "Daily Life",
+        "slug": "daily-life",
+        "url": "/lessons/eng/b1b2/daily-life"
+      },
+      {
+        "name": "Money Finance",
+        "slug": "money-finance",
+        "url": "/lessons/eng/b1b2/money-finance"
+      },
+      {
+        "name": "Consumer Behavior",
+        "slug": "consumer-behavior",
+        "url": "/lessons/eng/b1b2/consumer-behavior"
+      }
+    ],
+    "category": "economics_business",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/shopping-retail"
+  },
+  {
+    "id": 93,
     "slug": "social-interactions",
     "title": "Social Interactions",
     "titleRu": "Социальные взаимодействия",
@@ -6759,13 +19093,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
     ],
-    "category": "Social Interactions",
+    "category": "human_society",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/social-interactions"
   },
   {
-    "id": 32,
+    "id": 94,
+    "slug": "social-issues-problems",
+    "title": "Social Issues & Problems",
+    "titleRu": "Социальные проблемы",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: social, issues, problems, poverty, inequality and practical usage examples.",
+    "keywords": [
+      {
+        "word": "social",
+        "translation": "социальный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "issues",
+        "translation": "проблемы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "problems",
+        "translation": "проблемы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "poverty",
+        "translation": "бедность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "inequality",
+        "translation": "неравенство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discrimination",
+        "translation": "дискриминация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "racism",
+        "translation": "расизм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sexism",
+        "translation": "сексизм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "homelessness",
+        "translation": "бездомность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "unemployment",
+        "translation": "безработица",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "education",
+        "translation": "образование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "healthcare",
+        "translation": "здравоохранение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "violence",
+        "translation": "насилие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "crime",
+        "translation": "преступность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "addiction",
+        "translation": "зависимость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mental",
+        "translation": "психический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "health",
+        "translation": "здоровье",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "community",
+        "translation": "сообщество",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "support",
+        "translation": "поддержка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "solution",
+        "translation": "решение",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Social* *issues* and *problems* represent the complex challenges that societies face in creating fair, just, and prosperous communities where all people can thrive. From *poverty* and *inequality* to *discrimination* and *violence*, these *problems* require thoughtful analysis, compassionate understanding, and collaborative *solutions* that address root causes while providing immediate support to those in need. Let me share a story about how I discovered the profound importance and complexity of addressing *social* *issues* in our communities.\n\nLast *year*, I volunteered with several organizations working to address different *social* *problems*, which opened my eyes to the interconnected nature of *social* *issues* and the incredible dedication of people working to create positive change. I had always been aware of *social* *problems*, but this experience taught me about the systemic nature of these *issues* and the importance of comprehensive approaches to *social* change.\n\nMy journey began with understanding the complex causes and effects of *poverty* and how it intersects with other *social* *issues*. I learned that *poverty* is not just about lack of money – it's about limited access to *education*, *healthcare*, housing, and opportunities that create cycles of disadvantage that can persist across generations. The *poverty* relief work I participated in taught me about the importance of addressing both immediate needs and long-term systemic *solutions*.\n\n*Inequality* and *discrimination* revealed how *social* *problems* often stem from unfair treatment and unequal access to opportunities based on race, gender, or other characteristics. I discovered that *discrimination* is not just about individual prejudice – it's about systemic barriers and institutional practices that limit people's ability to participate fully in society. The anti-*discrimination* work I observed taught me about the importance of challenging both personal bias and structural *inequality*.\n\n*Racism* and *sexism* showed me how deeply embedded *social* *problems* can be in cultural attitudes and institutional practices. I learned that addressing *racism* and *sexism* requires not just changing individual behavior but transforming systems, policies, and cultural norms that perpetuate *inequality*. The anti-*racism* and anti-*sexism* initiatives I studied taught me about the importance of education, awareness, and the courage to challenge established patterns of *discrimination*.\n\n*Homelessness* and housing *issues* revealed how *social* *problems* often result from complex interactions between economic factors, *mental* *health* challenges, and inadequate *social* *support* systems. I discovered that *homelessness* is not just about lack of housing – it's about the breakdown of *community* *support* networks and the failure of systems to provide adequate assistance to vulnerable people. The *homelessness* support work I participated in taught me about the importance of comprehensive *solutions* that address multiple needs simultaneously.\n\n*Unemployment* and economic *issues* showed me how economic *problems* can create and exacerbate other *social* *issues*. I learned that *unemployment* is not just about individual job loss – it's about economic systems that don't provide adequate opportunities for all people to participate in meaningful work. The job training and placement programs I observed taught me about the importance of economic development and the way employment *solutions* can address multiple *social* *problems*.\n\n*Education* and *healthcare* access revealed how *social* *problems* often stem from inadequate access to essential services that enable people to participate fully in society. I discovered that *education* and *healthcare* are not just individual benefits – they're fundamental rights that enable people to develop their potential and contribute to their *communities*. The *education* and *healthcare* access programs I studied taught me about the importance of universal access to essential services.\n\n*Violence* and *crime* showed me how *social* *problems* can create cycles of harm that affect individuals, families, and entire *communities*. I learned that addressing *violence* and *crime* requires not just law enforcement but *community* development, *education*, and *support* systems that address the root causes of conflict and provide alternatives to violent behavior. The *violence* prevention work I observed taught me about the importance of *community* engagement and the way *social* *support* can prevent *problems* before they occur.\n\n*Mental* *health* and *addiction* *issues* revealed how *social* *problems* often involve complex interactions between individual challenges and *social* factors. I discovered that *mental* *health* and *addiction* are not just personal *problems* – they're *social* *issues* that require *community* *support*, access to treatment, and understanding from society at large. The *mental* *health* and *addiction* recovery programs I studied taught me about the importance of compassion and the way *social* *support* can enable healing and recovery.\n\nWhat I love most about my exploration of *social* *issues* and *problems* is how it revealed the incredible resilience and strength of people facing difficult circumstances and the dedication of those working to create positive change. I learned that addressing *social* *problems* is not just about providing services – it's about building *community*, fostering understanding, and creating *solutions* that empower people to overcome challenges and contribute to society.\n\n*Social* *issues* and *problems* have taught me that creating a just and equitable society requires ongoing commitment, collaboration, and the willingness to address both immediate needs and systemic causes. By understanding and engaging with *social* *issues*, we can become more compassionate citizens and more effective participants in building *communities* that support the well-being and dignity of all people.",
+    "additionalExamples": [
+      {
+        "word": "social",
+        "example": "Social issues require attention.",
+        "translation": "Социальные проблемы требуют внимания."
+      },
+      {
+        "word": "poverty",
+        "example": "Poverty affects many people.",
+        "translation": "Бедность затрагивает многих людей."
+      },
+      {
+        "word": "inequality",
+        "example": "Inequality is a serious problem.",
+        "translation": "Неравенство - серьезная проблема."
+      },
+      {
+        "word": "discrimination",
+        "example": "Discrimination must be stopped.",
+        "translation": "Дискриминацию нужно остановить."
+      },
+      {
+        "word": "community",
+        "example": "Community support is important.",
+        "translation": "Поддержка сообщества важна."
+      },
+      {
+        "word": "solution",
+        "example": "We need to find solutions.",
+        "translation": "Нам нужно найти решения."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "It takes a village to raise a child",
+        "translation": "Чтобы воспитать ребенка, нужна целая деревня"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Social** is an adjective that describes issues related to society.\n- **Issues** and **problems** are countable and refer to specific challenges.\n- **Poverty** is uncountable and refers to the state of being poor.\n- **Discrimination** is uncountable and refers to unfair treatment.",
+    "relatedTopics": [
+      {
+        "name": "Human Society",
+        "slug": "human-society",
+        "url": "/lessons/eng/b1b2/human-society"
+      },
+      {
+        "name": "Government Politics",
+        "slug": "government-politics",
+        "url": "/lessons/eng/b1b2/government-politics"
+      },
+      {
+        "name": "Community Support",
+        "slug": "community-support",
+        "url": "/lessons/eng/b1b2/community-support"
+      },
+      {
+        "name": "Social Justice",
+        "slug": "social-justice",
+        "url": "/lessons/eng/b1b2/social-justice"
+      }
+    ],
+    "category": "human_society",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/social-issues-problems"
+  },
+  {
+    "id": 95,
     "slug": "sounds-noises",
     "title": "Sounds & Noises",
     "titleRu": "Звуки и шумы",
@@ -6953,13 +19483,413 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/arts-culture"
       }
     ],
-    "category": "Sounds Noises",
+    "category": "culture_arts",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/sounds-noises"
   },
   {
-    "id": 33,
+    "id": 96,
+    "slug": "space-astronomy",
+    "title": "Space & Astronomy",
+    "titleRu": "Космос и астрономия",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: space, astronomy, planet, star, moon and practical usage examples.",
+    "keywords": [
+      {
+        "word": "space",
+        "translation": "космос",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "astronomy",
+        "translation": "астрономия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "planet",
+        "translation": "планета",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "star",
+        "translation": "звезда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "moon",
+        "translation": "луна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sun",
+        "translation": "солнце",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "galaxy",
+        "translation": "галактика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "universe",
+        "translation": "вселенная",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "earth",
+        "translation": "земля",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mars",
+        "translation": "марс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "telescope",
+        "translation": "телескоп",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "satellite",
+        "translation": "спутник",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rocket",
+        "translation": "ракета",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "astronaut",
+        "translation": "астронавт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "orbit",
+        "translation": "орбита",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gravity",
+        "translation": "гравитация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "light",
+        "translation": "свет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "distance",
+        "translation": "расстояние",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "exploration",
+        "translation": "исследование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "discovery",
+        "translation": "открытие",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Space* and *astronomy* represent humanity's quest to understand the vast universe beyond our planet, from the familiar *moon* that orbits our *earth* to the distant *galaxy*s that contain billions of *star*s. Understanding *space* and *astronomy* helps us appreciate our place in the cosmos and the incredible discoveries that continue to expand our knowledge of the *universe*. Let me share a story about how I discovered the fascinating world of *space* and *astronomy* through stargazing and learning about the solar system.\n\nLast year, I developed a deep interest in *space* and *astronomy* after attending a planetarium show and learning about the wonders of the *universe*. I began by understanding the basic components of our solar system, learning about the *sun*, *planet*s, and *moon* that make up our cosmic neighborhood. The process taught me that *space* and *astronomy* are not just subjects of scientific study - they're gateways to understanding the fundamental nature of reality and our place in the vast cosmos.\n\nMy journey into understanding *space* and *astronomy* started with learning about our solar system and its components. I discovered that the *sun* is the central *star* that provides *light* and energy to all the *planet*s in our system, while *earth* is the third *planet* from the *sun* and the only known *planet* with life. I learned that the *moon* is *earth*'s natural *satellite* that orbits our *planet* and affects tides and *light*ing, and that understanding these relationships is fundamental to *astronomy*.\n\n*Planet* and *star* became important concepts for understanding the different types of celestial objects. I learned that a *planet* is a large celestial body that orbits a *star* and has cleared its orbital path, while a *star* is a massive celestial body that produces *light* and heat through nuclear fusion. I discovered that our solar system contains eight *planet*s, including *earth* and *mars*, and that there are billions of *star*s in our *galaxy* alone, each potentially hosting their own planetary systems.\n\n*Galaxy* and *universe* taught me about the larger structures of *space* and the scale of cosmic *distance*s. I learned that a *galaxy* is a massive collection of *star*s, *planet*s, and other celestial objects held together by *gravity*, while the *universe* is the entirety of *space*, time, and matter that exists. I discovered that our *galaxy*, the Milky Way, contains hundreds of billions of *star*s, and that the *universe* contains billions of *galaxy*s, making the scale of cosmic *distance*s almost incomprehensible.\n\n*Telescope* and *satellite* became important tools for understanding how we observe and explore *space*. I learned that a *telescope* is an instrument that uses lenses or mirrors to observe distant celestial objects, while a *satellite* is an artificial object that orbits *earth* or another celestial body for communication, observation, or research purposes. I discovered that both *telescope*s and *satellite*s are essential for *astronomy* and *space* exploration, allowing us to observe and study objects that are millions of *light* years away.\n\n*Rocket* and *astronaut* taught me about human *space* exploration and the challenges of traveling beyond *earth*. I learned that a *rocket* is a vehicle that uses powerful engines to propel itself through *space*, while an *astronaut* is a person trained to travel and work in *space*. I discovered that both *rocket*s and *astronaut*s represent humanity's determination to explore the cosmos, and that *space* travel requires overcoming the challenges of *gravity*, *distance*, and the harsh environment of *space*.\n\n*Orbit* and *gravity* became important concepts for understanding the physics of *space* and celestial motion. I learned that an *orbit* is the path that a celestial object follows around another object due to *gravity*, while *gravity* is the force that attracts objects with mass toward each other. I discovered that both *orbit* and *gravity* are fundamental to understanding how *planet*s, *moon*s, and *satellite*s move through *space*, and that they govern the structure and behavior of the entire *universe*.\n\n*Light* and *distance* taught me about the challenges of observing and understanding *space*. I learned that *light* travels at a finite speed, which means that when we observe distant objects, we are seeing them as they were in the past, while *distance* in *space* is so vast that it is measured in *light* years, the *distance* that *light* travels in one year. I discovered that both *light* and *distance* create unique challenges for *astronomy* and *space* exploration, and that they require sophisticated instruments and techniques to overcome.\n\n*Exploration* and *discovery* became important concepts for understanding the ongoing quest to understand *space* and the *universe*. I learned that *exploration* refers to the systematic investigation of *space* and celestial objects, while *discovery* refers to the finding of new information or objects in *space*. I discovered that both *exploration* and *discovery* are ongoing processes that continue to expand our understanding of the cosmos, and that they represent humanity's insatiable curiosity about the *universe* and our place within it.\n\n*Space* and *astronomy* have taught me that the cosmos is an incredibly vast and mysterious place that continues to inspire wonder and curiosity. From the familiar *moon* and *sun* to the distant *galaxy*s and the edge of the observable *universe*, *space* and *astronomy* offer endless opportunities for *exploration* and *discovery*. Understanding the principles of *space* and *astronomy* has given me a greater appreciation for the beauty and complexity of the cosmos, and has inspired me to continue learning about the incredible universe that surrounds us.",
+    "additionalExamples": [
+      {
+        "word": "space",
+        "example": "Space is vast.",
+        "translation": "Космос обширный."
+      },
+      {
+        "word": "astronomy",
+        "example": "Astronomy is fascinating.",
+        "translation": "Астрономия увлекательная."
+      },
+      {
+        "word": "planet",
+        "example": "Planet is distant.",
+        "translation": "Планета далекая."
+      },
+      {
+        "word": "star",
+        "example": "Star is bright.",
+        "translation": "Звезда яркая."
+      },
+      {
+        "word": "moon",
+        "example": "Moon is beautiful.",
+        "translation": "Луна красивая."
+      },
+      {
+        "word": "sun",
+        "example": "Sun is powerful.",
+        "translation": "Солнце мощное."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The space exploration program is exciting",
+        "translation": "Программа исследования космоса захватывающая"
+      },
+      {
+        "phrase": "Astronomy helps us understand the universe",
+        "translation": "Астрономия помогает нам понять вселенную"
+      },
+      {
+        "phrase": "The planet Mars is fascinating",
+        "translation": "Планета Марс увлекательная"
+      },
+      {
+        "phrase": "The star is millions of light years away",
+        "translation": "Звезда находится в миллионах световых лет"
+      },
+      {
+        "phrase": "The moon affects the tides",
+        "translation": "Луна влияет на приливы"
+      },
+      {
+        "phrase": "The sun provides energy for life",
+        "translation": "Солнце обеспечивает энергию для жизни"
+      },
+      {
+        "phrase": "The galaxy contains billions of stars",
+        "translation": "Галактика содержит миллиарды звезд"
+      },
+      {
+        "phrase": "Space exploration continues to advance",
+        "translation": "Исследование космоса продолжает развиваться"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Space** is uncountable and refers to the area beyond Earth.\n- **Astronomy** is uncountable and refers to the study of space.\n- **Planet** is countable and refers to a celestial body.\n- **Star** is countable and refers to a luminous celestial object.",
+    "relatedTopics": [
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Nature Environment",
+        "slug": "nature-environment",
+        "url": "/lessons/eng/b1b2/nature-environment"
+      },
+      {
+        "name": "Exploration Discovery",
+        "slug": "exploration-discovery",
+        "url": "/lessons/eng/b1b2/exploration-discovery"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/space-astronomy"
+  },
+  {
+    "id": 97,
+    "slug": "sports-competition",
+    "title": "Sports & Competition",
+    "titleRu": "Спорт и соревнования",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: sports, competition, game, match, team and practical usage examples.",
+    "keywords": [
+      {
+        "word": "sports",
+        "translation": "спорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "competition",
+        "translation": "соревнование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "game",
+        "translation": "игра",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "match",
+        "translation": "матч",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "team",
+        "translation": "команда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "player",
+        "translation": "игрок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "athlete",
+        "translation": "спортсмен",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "coach",
+        "translation": "тренер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "training",
+        "translation": "тренировка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "practice",
+        "translation": "практика",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "skill",
+        "translation": "навык",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "performance",
+        "translation": "выступление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "victory",
+        "translation": "победа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "defeat",
+        "translation": "поражение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "score",
+        "translation": "счет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "championship",
+        "translation": "чемпионат",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tournament",
+        "translation": "турнир",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fitness",
+        "translation": "фитнес",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "exercise",
+        "translation": "упражнение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "health",
+        "translation": "здоровье",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Sports* and *competition* represent some of humanity's most universal and inspiring activities, bringing people together through shared challenges, achievements, and the pursuit of excellence. From individual *athletes* pushing their limits to *teams* working together toward common goals, *sports* create opportunities for personal growth, community building, and the celebration of human potential. Let me share a story about how I discovered the incredible power and significance of *sports* and *competition* in our lives.\n\nLast *year*, I joined a local *sports* club and began participating in regular *competitions*, which opened my eyes to the profound impact that *sports* can have on personal development and community connection. I had always enjoyed watching *sports*, but this experience taught me about the dedication, *skill*, and teamwork that make *athletic* achievement possible.\n\nMy journey began with understanding the importance of *training* and *practice* in developing *athletic* *skills*. I learned that *sports* are not just about natural talent – they're about consistent *practice*, proper *training*, and the gradual development of *skills* through repetition and refinement. The *training* I participated in taught me about the importance of *discipline*, *perseverance*, and *goal*-setting in achieving *athletic* success.\n\n*Competition* revealed itself as a powerful motivator for personal improvement and *performance* excellence. I discovered that *competition* is not just about winning and losing – it's about pushing yourself to perform at your best, learning from *defeat*, and celebrating *victory* while respecting your opponents. The *competitions* I participated in taught me about the importance of *sportsmanship*, *fair play*, and the value of *competition* in driving improvement.\n\n*Team* *sports* showed me the incredible power of collaboration and shared purpose. I learned that *team* *sports* are not just about individual *performance* – they're about working together, supporting teammates, and achieving goals that would be impossible for individuals working alone. The *team* experiences I had taught me about the importance of *communication*, *trust*, and *leadership* in *team* success.\n\n*Coaches* and *mentors* revealed the importance of guidance and *leadership* in *athletic* development. I discovered that *coaches* are not just *instructors* – they're *mentors* who provide *training*, motivation, and *support* that help *athletes* reach their potential. The *coaches* I worked with taught me about the importance of *leadership*, *patience*, and the ability to inspire and motivate others.\n\n*Fitness* and *health* showed me how *sports* contribute to physical and mental well-being. I learned that *sports* are not just about *competition* – they're about maintaining *fitness*, improving *health*, and developing the physical and mental *strength* needed for daily life. The *fitness* benefits I experienced taught me about the importance of regular *exercise* and *physical* activity for overall well-being.\n\n*Championships* and *tournaments* revealed the excitement and drama of high-level *competition*. I discovered that major *competitions* are not just about individual *athletes* – they're about bringing communities together, creating shared experiences, and celebrating the highest levels of *athletic* achievement. The *championships* I attended taught me about the importance of *sports* in creating community and cultural identity.\n\n*Performance* and *achievement* showed me how *sports* can inspire and motivate people to reach their potential. I learned that *athletic* *performance* is not just about physical ability – it's about mental *strength*, *focus*, and the ability to perform under pressure. The *performance* I observed taught me about the importance of *mental* *training* and *psychological* preparation in *athletic* success.\n\n*Sportsmanship* and *fair play* emerged as the ethical foundations that make *sports* meaningful and valuable. I discovered that *sportsmanship* is not just about following rules – it's about respecting opponents, accepting *defeat* gracefully, and celebrating *victory* with humility. The *sportsmanship* I witnessed taught me about the importance of *character* and *integrity* in all aspects of life.\n\nWhat I love most about my exploration of *sports* and *competition* is how it revealed the incredible potential for personal growth and community building that *athletic* activities provide. I learned that *sports* are not just about physical activity – they're about developing *character*, building relationships, and creating opportunities for people to challenge themselves and achieve their goals.\n\n*Sports* and *competition* have taught me that *athletic* achievement requires *dedication*, *discipline*, and *determination*, but also provides incredible rewards in terms of personal growth, community connection, and the satisfaction of pushing yourself to reach your potential. By participating in *sports* and *competition*, we can develop *skills*, build *character*, and create meaningful connections with others while pursuing excellence and having fun.",
+    "additionalExamples": [
+      {
+        "word": "sports",
+        "example": "Sports are very popular.",
+        "translation": "Спорт очень популярен."
+      },
+      {
+        "word": "competition",
+        "example": "The competition is fierce.",
+        "translation": "Соревнование ожесточенное."
+      },
+      {
+        "word": "game",
+        "example": "The game is exciting.",
+        "translation": "Игра захватывающая."
+      },
+      {
+        "word": "team",
+        "example": "The team is strong.",
+        "translation": "Команда сильная."
+      },
+      {
+        "word": "player",
+        "example": "The player is skilled.",
+        "translation": "Игрок умелый."
+      },
+      {
+        "word": "athlete",
+        "example": "The athlete is dedicated.",
+        "translation": "Спортсмен преданный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Sports** is usually plural and refers to athletic activities.\n- **Competition** is countable and can refer to specific events.\n- **Game** is countable and refers to specific sporting events.\n- **Team** is countable and refers to a group of players.",
+    "relatedTopics": [
+      {
+        "name": "Entertainment Media",
+        "slug": "entertainment-media",
+        "url": "/lessons/eng/b1b2/entertainment-media"
+      },
+      {
+        "name": "Health Wellness",
+        "slug": "health-wellness",
+        "url": "/lessons/eng/b1b2/health-wellness"
+      },
+      {
+        "name": "Social Interactions",
+        "slug": "social-interactions",
+        "url": "/lessons/eng/b1b2/social-interactions"
+      },
+      {
+        "name": "Personal Development",
+        "slug": "personal-development",
+        "url": "/lessons/eng/b1b2/personal-development"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/sports-competition"
+  },
+  {
+    "id": 98,
     "slug": "sports-recreation",
     "title": "Sports & Recreation",
     "titleRu": "Спорт и отдых",
@@ -7152,13 +20082,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/entertainment-media"
       }
     ],
-    "category": "Sports Recreation",
+    "category": "culture_arts",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/sports-recreation"
   },
   {
-    "id": 34,
+    "id": 99,
+    "slug": "technology-computers",
+    "title": "Technology & Computers",
+    "titleRu": "Технологии и компьютеры",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: technology, computer, software, hardware, internet and practical usage examples.",
+    "keywords": [
+      {
+        "word": "technology",
+        "translation": "технология",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "computer",
+        "translation": "компьютер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "software",
+        "translation": "программное обеспечение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hardware",
+        "translation": "аппаратное обеспечение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "internet",
+        "translation": "интернет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "network",
+        "translation": "сеть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "data",
+        "translation": "данные",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "information",
+        "translation": "информация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "system",
+        "translation": "система",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "program",
+        "translation": "программа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "application",
+        "translation": "приложение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "device",
+        "translation": "устройство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "digital",
+        "translation": "цифровой",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "electronic",
+        "translation": "электронный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "modern",
+        "translation": "современный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "advanced",
+        "translation": "продвинутый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "efficient",
+        "translation": "эффективный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "innovative",
+        "translation": "инновационный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "user",
+        "translation": "пользователь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "interface",
+        "translation": "интерфейс",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Technology* and *computer*s have revolutionized the way we live, work, and communicate, creating a *digital* world where *information* flows freely through *network*s and *system*s that connect people across the globe. From the *hardware* that powers our *device*s to the *software* that runs our *application*s, *technology* has become an integral part of modern life. Let me share a story about how I discovered the incredible power and potential of *technology* and *computer*s.\n\nLast year, I decided to deepen my understanding of *technology* and *computer*s after realizing how much they had transformed my daily life. I began by learning about the fundamental components of *computer* systems, understanding how *hardware* and *software* work together to create *digital* *system*s that process *data* and *information*. The process taught me that *technology* is not just about *device*s and *program*s - it's about creating *efficient* and *innovative* solutions to complex problems.\n\nMy journey into understanding *technology* started with *computer* *hardware*, the physical components that make *digital* processing possible. I learned that *hardware* includes everything from processors and memory to storage devices and input/output components. I discovered that *hardware* is the foundation that enables *software* to function, and that understanding *hardware* helps explain how *computer*s process *data* and execute *program*s.\n\n*Software* became my next focus, as I learned about the *program*s and *application*s that run on *computer* *hardware*. I discovered that *software* is what makes *computer*s useful, providing *user*s with tools and *interface*s for interacting with *digital* *system*s. I learned that *software* development requires both technical *skill*s and creative thinking, as *program*mers must design *application*s that are both *efficient* and *user*-friendly.\n\nThe *internet* and *network*s opened up new possibilities for understanding how *technology* connects people and *system*s. I learned that the *internet* is a global *network* of *computer*s that enables the sharing of *data* and *information* across vast distances. I discovered that *network* *technology* allows *device*s to communicate with each other, creating *digital* ecosystems that support everything from social media to e-commerce.\n\n*Data* and *information* became central to my understanding of how *technology* works. I learned that *data* refers to raw facts and figures, while *information* is *data* that has been processed and organized in a meaningful way. I discovered that *computer*s excel at processing large amounts of *data* quickly and *efficient*ly, turning raw *data* into useful *information* that can inform decisions and drive innovation.\n\n*System*s and *program*s taught me about the complexity and sophistication of *modern* *technology*. I learned that *system*s are collections of components that work together to achieve specific goals, while *program*s are sets of instructions that tell *computer*s how to process *data* and perform tasks. I discovered that *system* design requires careful planning and consideration of how different components will interact and function together.\n\n*Device*s and *interface*s became important aspects of my *technology* education. I learned that *device*s are the physical tools that *user*s interact with, while *interface*s are the *digital* environments that allow *user*s to communicate with *computer*s and *application*s. I discovered that good *interface* design is crucial for making *technology* accessible and *user*-friendly.\n\n*Technology* and *computer*s have taught me that we live in an *advanced* and *innovative* age where *digital* *system*s can process vast amounts of *data* and *information* with incredible *efficiency*. Each *device* - from smartphones to supercomputers - represents the culmination of *hardware* and *software* engineering, while each *application* demonstrates the power of *program*ming to solve real-world problems. The *internet* and *network*s have created a connected world where *information* flows freely and *user*s can access *digital* resources from anywhere on the planet.",
+    "additionalExamples": [
+      {
+        "word": "technology",
+        "example": "Technology is advancing.",
+        "translation": "Технология развивается."
+      },
+      {
+        "word": "computer",
+        "example": "Computer is powerful.",
+        "translation": "Компьютер мощный."
+      },
+      {
+        "word": "software",
+        "example": "Software is useful.",
+        "translation": "Программное обеспечение полезно."
+      },
+      {
+        "word": "hardware",
+        "example": "Hardware is reliable.",
+        "translation": "Аппаратное обеспечение надежно."
+      },
+      {
+        "word": "internet",
+        "example": "Internet is fast.",
+        "translation": "Интернет быстрый."
+      },
+      {
+        "word": "network",
+        "example": "Network is secure.",
+        "translation": "Сеть безопасна."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Technology is a double-edged sword",
+        "translation": "Технология - палка о двух концах"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Don't put all your eggs in one basket",
+        "translation": "Не клади все яйца в одну корзину"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Technology** is uncountable and refers to the application of scientific knowledge.\n- **Computer** is countable and refers to an electronic device.\n- **Software** is uncountable and refers to programs and applications.\n- **Hardware** is uncountable and refers to physical computer components.",
+    "relatedTopics": [
+      {
+        "name": "Internet Digital World",
+        "slug": "internet-digital-world",
+        "url": "/lessons/eng/b1b2/internet-digital-world"
+      },
+      {
+        "name": "Electronics Gadgets",
+        "slug": "electronics-gadgets",
+        "url": "/lessons/eng/b1b2/electronics-gadgets"
+      },
+      {
+        "name": "Science Research",
+        "slug": "science-research",
+        "url": "/lessons/eng/b1b2/science-research"
+      },
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      }
+    ],
+    "category": "science_technology",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/technology-computers"
+  },
+  {
+    "id": 100,
     "slug": "technology-innovation",
     "title": "Technology & Innovation",
     "titleRu": "Технологии и инновации",
@@ -7346,13 +20472,209 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
     ],
-    "category": "Technology Innovation",
+    "category": "science_technology",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/technology-innovation"
   },
   {
-    "id": 35,
+    "id": 101,
+    "slug": "theater-performing-arts",
+    "title": "Theater & Performing Arts",
+    "titleRu": "Театр и исполнительское искусство",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: theater, performing, arts, stage, performance and practical usage examples.",
+    "keywords": [
+      {
+        "word": "theater",
+        "translation": "театр",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "performing",
+        "translation": "исполнительский",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "arts",
+        "translation": "искусства",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "stage",
+        "translation": "сцена",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "performance",
+        "translation": "выступление",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "actor",
+        "translation": "актер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "actress",
+        "translation": "актриса",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "play",
+        "translation": "пьеса",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drama",
+        "translation": "драма",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "audience",
+        "translation": "аудитория",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "production",
+        "translation": "постановка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "director",
+        "translation": "режиссер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "script",
+        "translation": "сценарий",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "character",
+        "translation": "персонаж",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "scene",
+        "translation": "сцена",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "costume",
+        "translation": "костюм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lighting",
+        "translation": "освещение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "music",
+        "translation": "музыка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "dance",
+        "translation": "танец",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "live",
+        "translation": "живой",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Theater* and *performing* *arts* represent the most immediate and intimate form of artistic expression, where *actors* and *performers* create *live* experiences that unfold in real time before *audiences* who become active participants in the creative process. Through *plays*, *dramas*, and various *performing* *arts*, this ancient tradition continues to captivate and transform people by bringing stories to life on the *stage*. Let me share a story about how I discovered the incredible power and magic of *theater* and *performing* *arts*.\n\nLast *year*, I became involved with a local community *theater* group, which opened my eyes to the incredible artistry, dedication, and collaborative spirit that defines *theatrical* *production*. I had always enjoyed watching *performances*, but this experience taught me about the complex creative and technical processes that bring *theater* to life on the *stage*.\n\nMy journey began with understanding the unique power of *live* *performance* and the immediate connection between *performers* and *audience*. I learned that *theater* is not just about watching a *play* – it's about experiencing a shared moment in time where *actors* and *audience* members create something magical together. The *live* *performances* I participated in taught me about the importance of presence, spontaneity, and the way each *performance* is unique and unrepeatable.\n\n*Actors* and *actresses* revealed the incredible skill and courage required to perform on *stage* without the safety net of film editing or multiple takes. I discovered that *theatrical* *acting* is not just about memorizing lines – it's about developing *characters*, projecting emotions to the back of the *theater*, and maintaining energy throughout an entire *performance*. The *actors* I worked with taught me about the importance of voice training, movement, and the ability to connect with *audiences* across the distance of the *stage*.\n\n*Plays* and *dramas* showed me how *theater* serves as a powerful medium for exploring human experience and social issues. I learned that a well-written *play* is not just entertainment – it's a vehicle for examining complex themes, challenging assumptions, and creating dialogue about important issues. The *plays* I studied taught me about the importance of *script* analysis, character development, and the way *theater* can address contemporary concerns while drawing on timeless human experiences.\n\n*Stage* craft and *production* elements revealed the incredible technical artistry that supports *theatrical* *performances*. I discovered that *theater* *production* is not just about *actors* – it's about *costumes*, *lighting*, set design, and sound that work together to create immersive experiences. The *production* work I observed taught me about the importance of collaboration and the way every element contributes to the overall impact of a *performance*.\n\n*Directors* and their vision showed me how *theatrical* *productions* are shaped by creative leadership and artistic interpretation. I learned that *theatrical* *directing* is not just about blocking *scenes* – it's about interpreting *scripts*, guiding *actors*, and creating cohesive artistic visions that serve the *play* and engage *audiences*. The *directors* I worked with taught me about the importance of clear communication, creative vision, and the ability to inspire and motivate *performers*.\n\n*Costumes* and *lighting* revealed how visual elements enhance *theatrical* storytelling and create atmosphere. I discovered that *theatrical* design is not just about making things look pretty – it's about using visual elements to support the *story*, define *characters*, and create emotional responses in *audiences*. The design work I observed taught me about the importance of detail and the way visual elements can communicate meaning without words.\n\n*Music* and *dance* showed me how *performing* *arts* encompass multiple artistic disciplines working together. I learned that *theater* often incorporates *musical* elements and movement that enhance the emotional impact of *performances* and create richer artistic experiences. The *musical* and *dance* elements I encountered taught me about the importance of rhythm, timing, and the way different art forms can complement each other.\n\n*Audience* interaction and the communal nature of *theater* revealed how *performing* *arts* create shared experiences and build community. I discovered that *theater* *audiences* are not just passive observers – they're active participants whose energy and responses influence the *performance* and create a unique shared experience. The *audience* interactions I witnessed taught me about the importance of community and the way *theater* brings people together.\n\nWhat I love most about my exploration of *theater* and *performing* *arts* is how it revealed the incredible immediacy and intimacy of *live* *performance* and the way *theater* creates unique, unrepeatable experiences that connect *performers* and *audiences* in profound ways. I learned that *theater* is not just about entertainment – it's about creating shared experiences that can inspire, challenge, and transform everyone involved.\n\n*Theater* and *performing* *arts* have taught me that *live* *performance* offers something that no other art form can provide – the immediate, shared experience of human creativity and expression. By participating in and supporting *theater* and *performing* *arts*, we can become part of a tradition that has enriched human culture for thousands of years while creating new opportunities for artistic expression and community building.",
+    "additionalExamples": [
+      {
+        "word": "theater",
+        "example": "The theater is beautiful.",
+        "translation": "Театр красивый."
+      },
+      {
+        "word": "performance",
+        "example": "The performance was amazing.",
+        "translation": "Выступление было потрясающим."
+      },
+      {
+        "word": "stage",
+        "example": "The stage is well-lit.",
+        "translation": "Сцена хорошо освещена."
+      },
+      {
+        "word": "actor",
+        "example": "The actor is very talented.",
+        "translation": "Актер очень талантливый."
+      },
+      {
+        "word": "play",
+        "example": "The play is very moving.",
+        "translation": "Пьеса очень трогательная."
+      },
+      {
+        "word": "audience",
+        "example": "The audience was captivated.",
+        "translation": "Аудитория была заворожена."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The show must go on",
+        "translation": "Шоу должно продолжаться"
+      },
+      {
+        "phrase": "Break a leg",
+        "translation": "Ни пуха ни пера"
+      },
+      {
+        "phrase": "All the world's a stage",
+        "translation": "Весь мир - театр"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Practice makes perfect",
+        "translation": "Повторение - мать учения"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Theater** is countable and can refer to the building or the art form.\n- **Performance** is countable and refers to specific theatrical events.\n- **Stage** is countable and refers to the performance area.\n- **Actor** and **actress** are countable and refer to people who perform.",
+    "relatedTopics": [
+      {
+        "name": "Entertainment Media",
+        "slug": "entertainment-media",
+        "url": "/lessons/eng/b1b2/entertainment-media"
+      },
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Film Cinema",
+        "slug": "film-cinema",
+        "url": "/lessons/eng/b1b2/film-cinema"
+      },
+      {
+        "name": "Music Instruments",
+        "slug": "music-instruments",
+        "url": "/lessons/eng/b1b2/music-instruments"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/theater-performing-arts"
+  },
+  {
+    "id": 102,
     "slug": "thinking-processes",
     "title": "Thinking & Mental Processes",
     "titleRu": "Мышление и умственные процессы",
@@ -7615,13 +20937,609 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/education-learning"
       }
     ],
-    "category": "Thinking Processes",
+    "category": "education_development",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/thinking-processes"
   },
   {
-    "id": 36,
+    "id": 103,
+    "slug": "time-calendar",
+    "title": "Time & Calendar",
+    "titleRu": "Время и календарь",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: time, calendar, hour, minute, second and practical usage examples.",
+    "keywords": [
+      {
+        "word": "time",
+        "translation": "время",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "calendar",
+        "translation": "календарь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hour",
+        "translation": "час",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "minute",
+        "translation": "минута",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "second",
+        "translation": "секунда",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "day",
+        "translation": "день",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "week",
+        "translation": "неделя",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "month",
+        "translation": "месяц",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "year",
+        "translation": "год",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "date",
+        "translation": "дата",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "schedule",
+        "translation": "расписание",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "appointment",
+        "translation": "встреча",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "meeting",
+        "translation": "встреча",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "event",
+        "translation": "событие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "deadline",
+        "translation": "срок",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "past",
+        "translation": "прошлое",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "present",
+        "translation": "настоящее",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "future",
+        "translation": "будущее",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "early",
+        "translation": "ранний",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "late",
+        "translation": "поздний",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Time* and *calendar*s are the invisible threads that weave through our daily lives, organizing our *schedule*s, marking important *date*s, and helping us navigate the flow from *past* to *present* to *future*. From the ticking of *second*s to the planning of *year*s, *time* management and *calendar* organization are essential skills for modern life. Let me share a story about how I learned to master *time* and *calendar* management.\n\nLast year, I struggled with *time* management and often found myself running *late* for *appointment*s and missing important *deadline*s. I decided to overhaul my approach to *time* and *calendar* organization, starting with understanding how *time* works and how to use *calendar*s effectively. The process taught me that *time* is not just a measurement - it's a resource that must be managed carefully to achieve our goals.\n\nMy journey into *time* management began with understanding the basic units of *time*. I learned that *second*s make up *minute*s, *minute*s make up *hour*s, and *hour*s make up *day*s. Each *day* is part of a *week*, each *week* is part of a *month*, and each *month* is part of a *year*. This hierarchical structure of *time* became the foundation for organizing my *schedule* and planning my activities.\n\nThe *calendar* became my most important tool for *time* management. I discovered that a *calendar* is not just a way to track *date*s - it's a system for organizing *event*s, *meeting*s, and *appointment*s in a way that makes *time* visible and manageable. I learned to block out *time* for different activities, ensuring that I had enough *time* for work, rest, and personal pursuits.\n\n*Schedule*ing became an art form that required careful balance between different types of activities. I learned that *schedule*s must account for *time* needed for preparation, travel, and unexpected delays. *Appointment*s and *meeting*s needed to be scheduled with enough *time* between them to allow for transitions and preparation.\n\n*Deadline*s taught me the importance of *time* awareness and planning. I discovered that *deadline*s are not just arbitrary *date*s - they're commitments that require careful *time* management and preparation. I learned to work backwards from *deadline*s, breaking large projects into smaller tasks that could be completed over *time*.\n\nThe concept of *past*, *present*, and *future* became crucial for understanding how *time* affects our lives. I learned that the *past* provides lessons and experiences, the *present* is where we take action, and the *future* is where we direct our goals and aspirations. *Time* management became about balancing reflection on the *past*, action in the *present*, and planning for the *future*.\n\n*Early* and *late* became important concepts for *time* management. I discovered that being *early* for *appointment*s and *meeting*s shows respect for others' *time* and reduces stress, while being *late* can damage relationships and create unnecessary pressure. I learned to build buffer *time* into my *schedule* to account for unexpected delays.\n\n*Time* and *calendar*s have taught me that effective *time* management is about more than just tracking *hour*s and *minute*s - it's about creating a system that allows us to live intentionally and achieve our goals. Each *date* on the *calendar* represents an opportunity to make progress, each *appointment* is a commitment to others, and each *deadline* is a milestone in our journey through *time*.",
+    "additionalExamples": [
+      {
+        "word": "time",
+        "example": "Time is precious.",
+        "translation": "Время драгоценно."
+      },
+      {
+        "word": "calendar",
+        "example": "Calendar is organized.",
+        "translation": "Календарь организован."
+      },
+      {
+        "word": "hour",
+        "example": "Hour is long.",
+        "translation": "Час длинный."
+      },
+      {
+        "word": "minute",
+        "example": "Minute is short.",
+        "translation": "Минута короткая."
+      },
+      {
+        "word": "second",
+        "example": "Second is quick.",
+        "translation": "Секунда быстрая."
+      },
+      {
+        "word": "day",
+        "example": "Day is busy.",
+        "translation": "День занятой."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Time is money",
+        "translation": "Время - деньги"
+      },
+      {
+        "phrase": "Better late than never",
+        "translation": "Лучше поздно, чем никогда"
+      },
+      {
+        "phrase": "Time flies when you're having fun",
+        "translation": "Время летит, когда веселишься"
+      },
+      {
+        "phrase": "Don't put off until tomorrow what you can do today",
+        "translation": "Не откладывай на завтра то, что можешь сделать сегодня"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "Time heals all wounds",
+        "translation": "Время лечит все раны"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Time** is uncountable and refers to the continuous progression of events.\n- **Calendar** is countable and refers to a system for organizing dates.\n- **Hour** is countable and refers to a period of 60 minutes.\n- **Day** is countable and refers to a 24-hour period.",
+    "relatedTopics": [
+      {
+        "name": "Numbers Quantity",
+        "slug": "numbers-quantity",
+        "url": "/lessons/eng/b1b2/numbers-quantity"
+      },
+      {
+        "name": "Daily Life Routines",
+        "slug": "daily-life-routines",
+        "url": "/lessons/eng/b1b2/daily-life-routines"
+      },
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      },
+      {
+        "name": "Events Celebrations",
+        "slug": "events-celebrations",
+        "url": "/lessons/eng/b1b2/events-celebrations"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/time-calendar"
+  },
+  {
+    "id": 104,
+    "slug": "tools-equipment",
+    "title": "Tools & Equipment",
+    "titleRu": "Инструменты и оборудование",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: tool, equipment, hammer, screwdriver, wrench and practical usage examples.",
+    "keywords": [
+      {
+        "word": "tool",
+        "translation": "инструмент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "equipment",
+        "translation": "оборудование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "hammer",
+        "translation": "молоток",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "screwdriver",
+        "translation": "отвертка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wrench",
+        "translation": "гаечный ключ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "drill",
+        "translation": "дрель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "saw",
+        "translation": "пила",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "knife",
+        "translation": "нож",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "scissors",
+        "translation": "ножницы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "pliers",
+        "translation": "плоскогубцы",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "machine",
+        "translation": "машина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "device",
+        "translation": "устройство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "instrument",
+        "translation": "инструмент",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "appliance",
+        "translation": "прибор",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "gadget",
+        "translation": "гаджет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "technology",
+        "translation": "технология",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "power",
+        "translation": "мощность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "manual",
+        "translation": "ручной",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "electric",
+        "translation": "электрический",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "professional",
+        "translation": "профессиональный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Tool*s and *equipment* are the essential instruments that enable us to build, repair, create, and accomplish tasks that would be impossible with bare hands alone. From the simple *hammer* and *screwdriver* to complex *machine*s and *device*s, *tool*s and *equipment* extend our capabilities and make our work more efficient and precise. Let me share a story about how I discovered the importance of having the right *tool*s and *equipment* for any job.\n\nLast year, I decided to take on a home improvement project that required me to learn about various *tool*s and *equipment*. I began by understanding the difference between *manual* and *electric* *tool*s, learning how different *instrument*s serve specific purposes and how *technology* has revolutionized the way we work. The process taught me that *tool*s and *equipment* are not just objects - they're extensions of human capability that enable us to achieve remarkable results.\n\nMy journey into understanding *tool*s and *equipment* started with basic hand *tool*s like *hammer*s and *screwdriver*s. I learned that a *hammer* is a *manual* *tool* used for driving nails and breaking objects, while a *screwdriver* is designed for turning screws and fasteners. I discovered that these simple *tool*s are the foundation of any *tool*kit and that having the right *tool* for the job makes all the difference in achieving professional results.\n\n*Wrench* and *drill* introduced me to more specialized *tool*s and their applications. I learned that a *wrench* is used for tightening and loosening nuts and bolts, while a *drill* is an *electric* *tool* that creates holes in various materials. I discovered that *drill*s come in different sizes and *power* levels, and that choosing the right *drill* depends on the material and the size of the hole needed.\n\n*Saw* and *knife* taught me about cutting *tool*s and their importance in construction and crafting. I learned that a *saw* is used for cutting wood and other materials, while a *knife* is a versatile cutting *tool* that can be used for various tasks. I discovered that different types of *saw*s are designed for different materials and cutting applications, and that *knife*s require proper handling and maintenance for safety and effectiveness.\n\n*Scissors* and *pliers* became important *tool*s for understanding precision and gripping applications. I learned that *scissors* are cutting *tool*s with two blades that work together, while *pliers* are gripping *tool*s used for holding, bending, and cutting wire. I discovered that these *tool*s are essential for detailed work and that *professional* *tool*s offer better *power* and precision than basic models.\n\n*Machine* and *device* introduced me to the world of *electric* and automated *equipment*. I learned that a *machine* is a *device* that uses *power* to perform work, while a *device* is any *tool* or *instrument* designed for a specific purpose. I discovered that *electric* *machine*s can perform tasks that would be difficult or impossible with *manual* *tool*s, and that *technology* continues to advance the capabilities of *equipment*.\n\n*Instrument* and *appliance* taught me about specialized *tool*s and *equipment* for specific applications. I learned that an *instrument* is a *tool* used for measurement or precision work, while an *appliance* is a *device* designed for household or commercial use. I discovered that *professional* *instrument*s offer greater accuracy and *power* than basic models, and that *appliance*s are designed for specific tasks and environments.\n\n*Gadget* and *technology* became important concepts for understanding modern *tool*s and *equipment*. I learned that a *gadget* is a small *device* or *tool* with a specific function, while *technology* refers to the application of scientific knowledge to create *tool*s and *equipment*. I discovered that *technology* has revolutionized the way we work, making *tool*s more *power*ful, efficient, and user-friendly.\n\n*Power* and *professional* became important considerations for evaluating *tool*s and *equipment*. I learned that *power* refers to the ability of a *tool* or *machine* to perform work, while *professional* *tool*s are designed for heavy-duty use and offer superior *power* and *durability*. I discovered that investing in *professional* *equipment* can save time and money in the long run, and that *power*ful *tool*s can handle more demanding tasks.\n\n*Tool*s and *equipment* have taught me that having the right *instrument*s for any job is essential for success and efficiency. From the simple *hammer* and *screwdriver* to complex *machine*s and *device*s, *tool*s and *equipment* extend our capabilities and enable us to achieve remarkable results. Understanding the different types of *tool*s and *equipment* has helped me make better choices about which *instrument*s to use for specific tasks and has given me a greater appreciation for the *technology* that makes our work easier and more effective.",
+    "additionalExamples": [
+      {
+        "word": "tool",
+        "example": "Tool is useful.",
+        "translation": "Инструмент полезен."
+      },
+      {
+        "word": "equipment",
+        "example": "Equipment is modern.",
+        "translation": "Оборудование современное."
+      },
+      {
+        "word": "hammer",
+        "example": "Hammer is heavy.",
+        "translation": "Молоток тяжелый."
+      },
+      {
+        "word": "screwdriver",
+        "example": "Screwdriver is sharp.",
+        "translation": "Отвертка острая."
+      },
+      {
+        "word": "wrench",
+        "example": "Wrench is adjustable.",
+        "translation": "Гаечный ключ регулируемый."
+      },
+      {
+        "word": "drill",
+        "example": "Drill is powerful.",
+        "translation": "Дрель мощная."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The right tool for the job",
+        "translation": "Правильный инструмент для работы"
+      },
+      {
+        "phrase": "I need to get my tools",
+        "translation": "Мне нужно взять инструменты"
+      },
+      {
+        "phrase": "This equipment is top-notch",
+        "translation": "Это оборудование высшего класса"
+      },
+      {
+        "phrase": "Can you hand me that tool?",
+        "translation": "Можешь передать мне тот инструмент?"
+      },
+      {
+        "phrase": "The power tool makes it easier",
+        "translation": "Электроинструмент упрощает работу"
+      },
+      {
+        "phrase": "I'm not very handy with tools",
+        "translation": "Я не очень умею обращаться с инструментами"
+      },
+      {
+        "phrase": "This gadget is really useful",
+        "translation": "Этот гаджет действительно полезен"
+      },
+      {
+        "phrase": "The equipment is state-of-the-art",
+        "translation": "Оборудование самое современное"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Tool** is countable and refers to an instrument for work.\n- **Equipment** is uncountable and refers to tools and machinery.\n- **Hammer** is countable and refers to a tool for hitting.\n- **Drill** is countable and refers to a tool for making holes.",
+    "relatedTopics": [
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Work Career",
+        "slug": "work-career",
+        "url": "/lessons/eng/b1b2/work-career"
+      },
+      {
+        "name": "Manufacturing Production",
+        "slug": "manufacturing-production",
+        "url": "/lessons/eng/b1b2/manufacturing-production"
+      },
+      {
+        "name": "Home Household",
+        "slug": "home-household",
+        "url": "/lessons/eng/b1b2/home-household"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/tools-equipment"
+  },
+  {
+    "id": 105,
+    "slug": "transportation-infrastructure",
+    "title": "Transportation & Infrastructure",
+    "titleRu": "Транспорт и инфраструктура",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: transportation, infrastructure, road, highway, bridge and practical usage examples.",
+    "keywords": [
+      {
+        "word": "transportation",
+        "translation": "транспорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "infrastructure",
+        "translation": "инфраструктура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "road",
+        "translation": "дорога",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "highway",
+        "translation": "шоссе",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bridge",
+        "translation": "мост",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tunnel",
+        "translation": "тоннель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "airport",
+        "translation": "аэропорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "station",
+        "translation": "станция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "railway",
+        "translation": "железная дорога",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "subway",
+        "translation": "метро",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bus",
+        "translation": "автобус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "train",
+        "translation": "поезд",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plane",
+        "translation": "самолет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ship",
+        "translation": "корабль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "traffic",
+        "translation": "движение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "route",
+        "translation": "маршрут",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "network",
+        "translation": "сеть",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "system",
+        "translation": "система",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "development",
+        "translation": "развитие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "maintenance",
+        "translation": "обслуживание",
+        "partOfSpeech": "noun"
+      }
+    ],
+    "mainText": "*Transportation* and *infrastructure* form the vital circulatory system of modern civilization, enabling the movement of people, goods, and ideas that drive economic growth and social connection. Through networks of *roads*, *railways*, *airports*, and other *infrastructure*, societies create the physical foundations that support commerce, communication, and cultural exchange. Let me share a story about how I discovered the incredible complexity and importance of *transportation* and *infrastructure* systems in our interconnected world.\n\nLast *year*, I had the opportunity to study urban planning and *transportation* systems, which opened my eyes to the sophisticated engineering and strategic thinking that goes into building and maintaining the *infrastructure* that supports modern life. I had always taken *transportation* for granted, but this experience taught me about the incredible planning, investment, and coordination required to create efficient *transportation* networks.\n\nMy journey began with understanding how *roads* and *highways* form the backbone of land-based *transportation* systems. I learned that *road* construction is not just about laying asphalt – it's about careful planning, environmental considerations, and creating *routes* that efficiently connect communities while minimizing impact on natural landscapes. The *road* projects I studied taught me about the importance of long-term planning and the way *infrastructure* decisions affect generations of users.\n\n*Bridges* and *tunnels* revealed the incredible engineering achievements that overcome geographical obstacles and create new possibilities for *transportation*. I discovered that these structures are not just about crossing rivers or mountains – they're about connecting communities, enabling economic development, and creating *routes* that would otherwise be impossible. The *bridge* and *tunnel* projects I examined taught me about the importance of innovation and the way engineering solutions can transform regional connectivity.\n\n*Railways* and *trains* showed me how rail *transportation* provides efficient, environmentally friendly alternatives to road-based *transportation*. I learned that *railway* systems are not just about moving people and goods – they're about creating high-capacity *transportation* corridors that can reduce congestion and environmental impact. The *railway* projects I studied taught me about the importance of sustainable *transportation* and the way different modes of *transportation* can complement each other.\n\n*Airports* and air *transportation* revealed the global scale of modern *transportation* systems and their role in international commerce and travel. I discovered that *airports* are not just places where planes take off and land – they're complex *infrastructure* hubs that coordinate multiple *transportation* modes and serve as gateways to regional and international destinations. The *airport* operations I observed taught me about the importance of coordination and the way *transportation* systems must work together to serve users effectively.\n\n*Subway* and urban transit systems showed me how cities address the unique challenges of moving large numbers of people efficiently within dense urban areas. I learned that urban transit is not just about providing alternatives to driving – it's about creating *systems* that support urban density, reduce pollution, and make cities more livable. The transit *systems* I studied taught me about the importance of accessibility and the way *transportation* choices affect urban development patterns.\n\n*Traffic* management and *network* optimization revealed the complex challenges of coordinating multiple *transportation* modes and managing *traffic* flow efficiently. I discovered that *traffic* management is not just about controlling signals – it's about using technology, data analysis, and strategic planning to optimize *transportation* *networks* and improve user experience. The *traffic* management *systems* I examined taught me about the importance of technology and the way data can improve *transportation* efficiency.\n\n*System* integration and multimodal *transportation* showed me how different *transportation* modes must work together to create seamless user experiences. I learned that effective *transportation* *systems* are not just about individual modes – they're about creating integrated *networks* that allow users to move efficiently between different *transportation* options. The integrated *systems* I studied taught me about the importance of coordination and the way *transportation* planning affects user experience.\n\n*Development* and *maintenance* revealed the ongoing challenges of building new *infrastructure* while maintaining existing *systems*. I discovered that *infrastructure* *development* is not just about construction – it's about balancing current needs with future growth, managing costs, and ensuring that *infrastructure* investments provide long-term value. The *development* and *maintenance* projects I observed taught me about the importance of strategic investment and the way *infrastructure* decisions affect economic competitiveness.\n\nWhat I love most about my exploration of *transportation* and *infrastructure* is how it revealed the incredible interconnectedness of modern *transportation* *systems* and their role in supporting economic development and social connection. I learned that *transportation* *infrastructure* is not just about moving people and goods – it's about creating the physical foundations that enable commerce, communication, and cultural exchange.\n\n*Transportation* and *infrastructure* have taught me that efficient *transportation* *systems* are essential for economic competitiveness, environmental sustainability, and social equity. By understanding and supporting *transportation* and *infrastructure* development, we can contribute to building more connected, efficient, and sustainable communities that serve the needs of current and future generations.",
+    "additionalExamples": [
+      {
+        "word": "transportation",
+        "example": "Transportation is essential for commerce.",
+        "translation": "Транспорт необходим для торговли."
+      },
+      {
+        "word": "infrastructure",
+        "example": "Infrastructure requires investment.",
+        "translation": "Инфраструктура требует инвестиций."
+      },
+      {
+        "word": "road",
+        "example": "The road is well-maintained.",
+        "translation": "Дорога хорошо обслуживается."
+      },
+      {
+        "word": "bridge",
+        "example": "The bridge connects two cities.",
+        "translation": "Мост соединяет два города."
+      },
+      {
+        "word": "airport",
+        "example": "The airport is very busy.",
+        "translation": "Аэропорт очень загружен."
+      },
+      {
+        "word": "traffic",
+        "example": "Traffic is heavy during rush hour.",
+        "translation": "Движение интенсивное в час пик."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "All roads lead to Rome",
+        "translation": "Все дороги ведут в Рим"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      },
+      {
+        "phrase": "You can't have your cake and eat it too",
+        "translation": "Нельзя одновременно иметь и съесть пирог"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Transportation** is uncountable and refers to the system of moving people and goods.\n- **Infrastructure** is uncountable and refers to the basic physical systems.\n- **Road** is countable and refers to specific transportation routes.\n- **Traffic** is uncountable and refers to the movement of vehicles.",
+    "relatedTopics": [
+      {
+        "name": "Economics Finance",
+        "slug": "economics-finance",
+        "url": "/lessons/eng/b1b2/economics-finance"
+      },
+      {
+        "name": "Urban Planning",
+        "slug": "urban-planning",
+        "url": "/lessons/eng/b1b2/urban-planning"
+      },
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Government Politics",
+        "slug": "government-politics",
+        "url": "/lessons/eng/b1b2/government-politics"
+      }
+    ],
+    "category": "economics_business",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/transportation-infrastructure"
+  },
+  {
+    "id": 106,
     "slug": "travel-transportation",
     "title": "Travel & Transportation",
     "titleRu": "Путешествия и транспорт",
@@ -7814,13 +21732,813 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
     ],
-    "category": "Travel Transportation",
+    "category": "daily_life",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/travel-transportation"
   },
   {
-    "id": 37,
+    "id": 107,
+    "slug": "vehicles-transportation-modes",
+    "title": "Vehicles & Transportation Modes",
+    "titleRu": "Транспортные средства и способы передвижения",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: vehicle, transportation, mode, car, truck and practical usage examples.",
+    "keywords": [
+      {
+        "word": "vehicle",
+        "translation": "транспортное средство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "transportation",
+        "translation": "транспорт",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "mode",
+        "translation": "способ",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "car",
+        "translation": "машина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "truck",
+        "translation": "грузовик",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bus",
+        "translation": "автобус",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "train",
+        "translation": "поезд",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "plane",
+        "translation": "самолет",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "boat",
+        "translation": "лодка",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ship",
+        "translation": "корабль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "bicycle",
+        "translation": "велосипед",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "motorcycle",
+        "translation": "мотоцикл",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "taxi",
+        "translation": "такси",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "subway",
+        "translation": "метро",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "engine",
+        "translation": "двигатель",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fuel",
+        "translation": "топливо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "speed",
+        "translation": "скорость",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "distance",
+        "translation": "расстояние",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "travel",
+        "translation": "путешествовать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "commute",
+        "translation": "ездить на работу",
+        "partOfSpeech": "verb"
+      }
+    ],
+    "mainText": "*Vehicle*s and *transportation* *mode*s are the essential systems that enable human mobility and connect communities across vast distances, from the personal *car* that takes us to work to the massive *ship*s that transport goods across oceans. Understanding different *vehicle*s and *transportation* *mode*s helps us appreciate the engineering marvels that make modern travel possible and the complex infrastructure that supports global transportation networks. Let me share a story about how I discovered the incredible diversity of *vehicle*s and *transportation* *mode*s through a cross-country journey.\n\nLast year, I embarked on a cross-country trip that required me to use multiple *transportation* *mode*s, from *car*s and *train*s to *plane*s and *bus*es. I began by learning about the different types of *vehicle*s and their capabilities, understanding how each *mode* of *transportation* serves specific purposes and offers unique advantages for different types of travel. The process taught me that *vehicle*s and *transportation* *mode*s are not just tools for getting from place to place - they're the foundation of modern civilization and economic activity.\n\nMy journey into understanding *vehicle*s and *transportation* *mode*s started with exploring personal *vehicle*s like *car*s and *motorcycle*s. I learned that a *car* is a personal *vehicle* that provides flexibility and convenience for short to medium-distance travel, while a *motorcycle* offers a more economical and agile alternative for urban commuting. I discovered that both *car*s and *motorcycle*s require *fuel* and *engine* maintenance, and that choosing the right *vehicle* depends on factors like *distance*, *speed*, and personal preferences.\n\n*Truck* and *bus* taught me about commercial *vehicle*s and public *transportation*. I learned that a *truck* is a heavy *vehicle* designed for transporting goods and materials, while a *bus* is a large *vehicle* designed for transporting passengers on scheduled routes. I discovered that both *truck*s and *bus*es play crucial roles in the economy and that they require specialized *engine*s and *fuel* systems to handle their heavy loads and long *distance* travel.\n\n*Train* and *subway* introduced me to rail-based *transportation* systems. I learned that a *train* is a *vehicle* that runs on tracks and can transport both passengers and freight over long *distance*s, while a *subway* is an underground rail system designed for urban passenger *transportation*. I discovered that rail *transportation* is often more efficient than road *transportation* for long *distance*s and that *train*s and *subway*s can reduce traffic congestion in urban areas.\n\n*Plane* and *boat* taught me about air and water *transportation* *mode*s. I learned that a *plane* is an aircraft that can travel at high *speed* over long *distance*s, making it ideal for international travel, while a *boat* is a water *vehicle* that can transport people and goods across rivers, lakes, and coastal areas. I discovered that both *plane*s and *boat*s require specialized *engine*s and *fuel* systems, and that they offer unique advantages for specific types of travel and cargo transport.\n\n*Ship* and *bicycle* introduced me to the extremes of *transportation* *mode*s. I learned that a *ship* is a large water *vehicle* capable of carrying massive amounts of cargo across oceans, while a *bicycle* is a human-powered *vehicle* that's environmentally friendly and perfect for short *distance*s. I discovered that both *ship*s and *bicycle*s represent different approaches to *transportation* and that they serve important roles in the global *transportation* network.\n\n*Taxi* became important for understanding on-demand *transportation* services. I learned that a *taxi* is a *vehicle* that provides paid transportation services to passengers, offering convenience and flexibility for urban travel. I discovered that *taxi* services are an important part of the *transportation* ecosystem and that they complement other *transportation* *mode*s by providing door-to-door service.\n\n*Engine* and *fuel* taught me about the power systems that make *vehicle*s work. I learned that an *engine* is the mechanical device that converts *fuel* into motion, while *fuel* is the energy source that powers *vehicle*s. I discovered that different types of *engine*s and *fuel*s are used for different *vehicle*s, and that advances in *engine* technology and *fuel* efficiency are crucial for sustainable *transportation*.\n\n*Speed* and *distance* became important concepts for understanding *transportation* efficiency. I learned that *speed* refers to how fast a *vehicle* can travel, while *distance* refers to how far a *vehicle* can travel. I discovered that different *transportation* *mode*s offer different combinations of *speed* and *distance* capabilities, and that choosing the right *mode* depends on the specific travel requirements.\n\n*Travel* and *commute* taught me about the different purposes of *transportation*. I learned that *travel* refers to moving from one place to another for various purposes, while *commute* specifically refers to regular travel between home and work. I discovered that both *travel* and *commute* are essential activities that rely on *vehicle*s and *transportation* *mode*s, and that efficient *transportation* systems are crucial for economic productivity and quality of life.\n\n*Vehicle*s and *transportation* *mode*s have taught me that human mobility is a complex system that requires the coordination of many different types of *vehicle*s and infrastructure. From the personal *car* to the massive *ship*, each *vehicle* and *transportation* *mode* serves specific purposes and contributes to the overall *transportation* network. Understanding the different *vehicle*s and *transportation* *mode*s has given me a greater appreciation for the engineering and infrastructure that makes modern travel possible and the importance of sustainable *transportation* solutions for the future.",
+    "additionalExamples": [
+      {
+        "word": "vehicle",
+        "example": "Vehicle is modern.",
+        "translation": "Транспортное средство современное."
+      },
+      {
+        "word": "transportation",
+        "example": "Transportation is efficient.",
+        "translation": "Транспорт эффективный."
+      },
+      {
+        "word": "mode",
+        "example": "Mode is convenient.",
+        "translation": "Способ удобный."
+      },
+      {
+        "word": "car",
+        "example": "Car is reliable.",
+        "translation": "Машина надежная."
+      },
+      {
+        "word": "truck",
+        "example": "Truck is powerful.",
+        "translation": "Грузовик мощный."
+      },
+      {
+        "word": "bus",
+        "example": "Bus is comfortable.",
+        "translation": "Автобус комфортный."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "I need to catch the bus",
+        "translation": "Мне нужно сесть на автобус"
+      },
+      {
+        "phrase": "The train is running late",
+        "translation": "Поезд опаздывает"
+      },
+      {
+        "phrase": "I'm taking a taxi to the airport",
+        "translation": "Я еду на такси в аэропорт"
+      },
+      {
+        "phrase": "The car needs more fuel",
+        "translation": "Машине нужно больше топлива"
+      },
+      {
+        "phrase": "The plane is boarding now",
+        "translation": "Самолет сейчас садится"
+      },
+      {
+        "phrase": "I prefer to travel by train",
+        "translation": "Я предпочитаю путешествовать поездом"
+      },
+      {
+        "phrase": "The subway is the fastest way",
+        "translation": "Метро - самый быстрый способ"
+      },
+      {
+        "phrase": "The ship is leaving the port",
+        "translation": "Корабль покидает порт"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Vehicle** is countable and refers to a means of transport.\n- **Transportation** is uncountable and refers to the system of transport.\n- **Car** is countable and refers to a road vehicle.\n- **Train** is countable and refers to a rail vehicle.",
+    "relatedTopics": [
+      {
+        "name": "Travel Transportation",
+        "slug": "travel-transportation",
+        "url": "/lessons/eng/b1b2/travel-transportation"
+      },
+      {
+        "name": "Technology Innovation",
+        "slug": "technology-innovation",
+        "url": "/lessons/eng/b1b2/technology-innovation"
+      },
+      {
+        "name": "Urban City Life",
+        "slug": "urban-city-life",
+        "url": "/lessons/eng/b1b2/urban-city-life"
+      },
+      {
+        "name": "Energy Resources",
+        "slug": "energy-resources",
+        "url": "/lessons/eng/b1b2/energy-resources"
+      }
+    ],
+    "category": "daily_life",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/vehicles-transportation-modes"
+  },
+  {
+    "id": 108,
+    "slug": "water-marine-life",
+    "title": "Water & Marine Life",
+    "titleRu": "Вода и морская жизнь",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: water, ocean, sea, fish, marine and practical usage examples.",
+    "keywords": [
+      {
+        "word": "water",
+        "translation": "вода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "ocean",
+        "translation": "океан",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sea",
+        "translation": "море",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fish",
+        "translation": "рыба",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "marine",
+        "translation": "морской",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "aquatic",
+        "translation": "водный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "wave",
+        "translation": "волна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "current",
+        "translation": "течение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "depth",
+        "translation": "глубина",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "surface",
+        "translation": "поверхность",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "salt",
+        "translation": "соль",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "fresh",
+        "translation": "пресный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "blue",
+        "translation": "синий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "deep",
+        "translation": "глубокий",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "clear",
+        "translation": "прозрачный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "cold",
+        "translation": "холодный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "warm",
+        "translation": "теплый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "wet",
+        "translation": "мокрый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "swim",
+        "translation": "плавать",
+        "partOfSpeech": "verb"
+      },
+      {
+        "word": "dive",
+        "translation": "нырять",
+        "partOfSpeech": "verb"
+      }
+    ],
+    "mainText": "*Water* covers over seventy percent of our planet, creating vast *oceans* and *seas* that teem with *marine* life and *aquatic* ecosystems. From the *surface* to the *deep* *depths*, *water* supports an incredible diversity of *fish* and other *marine* creatures that have adapted to survive in both *salt* and *fresh* environments. Let me share a story about how I discovered the mesmerizing beauty and complexity of *water* and *marine* life.\n\nLast summer, I had the incredible opportunity to explore the *ocean* through scuba diving, which completely transformed my understanding of *marine* ecosystems. As I descended into the *blue* *water*, I was amazed by the *clear* visibility and the *cold* *currents* that flowed around me. The *surface* *waves* above created dancing patterns of light that illuminated the *deep* *water* below.\n\nMy first encounter with *marine* life was unforgettable. Schools of colorful *fish* swam gracefully through the *aquatic* environment, their movements synchronized like a beautiful underwater ballet. The *water* was surprisingly *clear*, allowing me to see the intricate details of coral reefs and the *marine* creatures that called them home. I learned that *ocean* *water* contains *salt* that makes it different from *fresh* *water* found in lakes and rivers.\n\nThe *currents* in the *ocean* were stronger than I expected, and I had to *swim* carefully to maintain my position. As I *dove* deeper, the *water* became *colder* and the *depth* increased dramatically. The *marine* life at greater *depths* was different from what I saw near the *surface* - larger *fish* and more mysterious *aquatic* creatures that had adapted to the *deep* *water* environment.\n\nWhat fascinated me most was how *water* serves as both a habitat and a medium for *marine* life. The *blue* *water* of the *ocean* provides the perfect environment for *fish* to *swim* and hunt, while the *salt* content creates unique *aquatic* conditions that support diverse *marine* ecosystems. The *waves* and *currents* constantly move the *water*, creating dynamic *marine* environments that change with the tides and seasons.\n\nThe experience taught me that *water* is not just a simple liquid - it's a complex *aquatic* system that supports life in ways I never imagined. From the *warm* *surface* *water* where *fish* feed, to the *cold* *deep* *water* where mysterious *marine* creatures dwell, every *depth* of the *ocean* tells a different story about *marine* life and *aquatic* adaptation.\n\n*Water* and *marine* life have shown me that our *oceans* and *seas* are not just bodies of *water* - they are living, breathing ecosystems that deserve our respect and protection. The *blue* *water* that covers our planet is home to countless *fish* and *marine* creatures, each playing a vital role in the *aquatic* food chain and *marine* biodiversity.",
+    "additionalExamples": [
+      {
+        "word": "water",
+        "example": "Water is essential for life.",
+        "translation": "Вода необходима для жизни."
+      },
+      {
+        "word": "ocean",
+        "example": "The ocean is vast.",
+        "translation": "Океан огромен."
+      },
+      {
+        "word": "sea",
+        "example": "The sea is calm.",
+        "translation": "Море спокойно."
+      },
+      {
+        "word": "fish",
+        "example": "Fish swim in schools.",
+        "translation": "Рыбы плавают стаями."
+      },
+      {
+        "word": "marine",
+        "example": "Marine life is diverse.",
+        "translation": "Морская жизнь разнообразна."
+      },
+      {
+        "word": "aquatic",
+        "example": "Aquatic plants grow underwater.",
+        "translation": "Водные растения растут под водой."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "Still waters run deep",
+        "translation": "В тихом омуте черти водятся"
+      },
+      {
+        "phrase": "Don't make waves",
+        "translation": "Не создавай проблем"
+      },
+      {
+        "phrase": "A fish out of water",
+        "translation": "Рыба, выброшенная на берег"
+      },
+      {
+        "phrase": "Go with the flow",
+        "translation": "Плыть по течению"
+      },
+      {
+        "phrase": "In deep water",
+        "translation": "В трудном положении"
+      },
+      {
+        "phrase": "Test the waters",
+        "translation": "Проверить обстановку"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Water** is uncountable and refers to the liquid substance.\n- **Ocean** is countable and refers to a large body of salt water.\n- **Fish** can be both countable (individual fish) and uncountable (as food).\n- **Marine** is an adjective describing things related to the sea.",
+    "relatedTopics": [
+      {
+        "name": "Weather Nature",
+        "slug": "weather-nature",
+        "url": "/lessons/eng/b1b2/weather-nature"
+      },
+      {
+        "name": "Animals Wildlife",
+        "slug": "animals-wildlife",
+        "url": "/lessons/eng/b1b2/animals-wildlife"
+      },
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      },
+      {
+        "name": "Geography Landscape",
+        "slug": "geography-landscape",
+        "url": "/lessons/eng/b1b2/geography-landscape"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/water-marine-life"
+  },
+  {
+    "id": 109,
+    "slug": "weather-nature",
+    "title": "Weather & Nature",
+    "titleRu": "Погода и природа",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: weather, nature, sun, rain, snow and practical usage examples.",
+    "keywords": [
+      {
+        "word": "weather",
+        "translation": "погода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "nature",
+        "translation": "природа",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sun",
+        "translation": "солнце",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "rain",
+        "translation": "дождь",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "snow",
+        "translation": "снег",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "wind",
+        "translation": "ветер",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "cloud",
+        "translation": "облако",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "sky",
+        "translation": "небо",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "temperature",
+        "translation": "температура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "season",
+        "translation": "сезон",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "spring",
+        "translation": "весна",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "summer",
+        "translation": "лето",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "autumn",
+        "translation": "осень",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "winter",
+        "translation": "зима",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "storm",
+        "translation": "буря",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "thunder",
+        "translation": "гром",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "lightning",
+        "translation": "молния",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "beautiful",
+        "translation": "красивый",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "peaceful",
+        "translation": "спокойный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "natural",
+        "translation": "естественный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Weather* and *nature* are the ever-changing forces that shape our daily lives and connect us to the rhythms of the *natural* world. From the gentle warmth of the *sun* to the powerful energy of a *storm*, *weather* patterns influence our activities, moods, and appreciation for the *beautiful* and *peaceful* aspects of *nature*. Let me share a story about how I discovered the profound connection between *weather* and *nature* and their impact on human experience.\n\nLast year, I decided to spend more time outdoors and develop a deeper appreciation for *weather* and *nature*. I began by learning to observe *weather* patterns and understand how different *natural* phenomena affect the environment and our daily lives. The process taught me that *weather* is not just a topic for small talk - it's a fundamental aspect of *nature* that influences everything from plant growth to human behavior.\n\nMy journey into understanding *weather* and *nature* started with learning about the *sun* and its role in creating *weather* patterns. I discovered that the *sun* provides the energy that drives *weather* systems, creating the *temperature* differences that cause *wind* and precipitation. I learned that *sun*light is essential for life on Earth, and that the *sun*'s position in the *sky* determines the length of days and the progression of *season*s.\n\n*Rain* became my next focus, as I learned about the water cycle and how *rain* sustains *nature* and supports life. I discovered that *rain* is not just water falling from the *sky* - it's a vital part of the *natural* cycle that nourishes plants, fills rivers, and maintains the balance of *nature*. I learned to appreciate *rain* not just for its practical benefits, but for its *beautiful* and *peaceful* qualities that can create a sense of calm and renewal.\n\n*Snow* and *winter* taught me about the seasonal changes that occur in *nature*. I learned that *snow* is not just frozen water - it's a *natural* phenomenon that transforms landscapes and creates *beautiful* winter scenes. I discovered that *winter* brings its own unique *weather* patterns and *natural* beauty, from the crisp air to the *peaceful* silence that *snow* can bring to the world.\n\n*Wind* and *cloud*s became important aspects of my *weather* education. I learned that *wind* is created by *temperature* differences in the atmosphere, and that *cloud*s are formed when water vapor condenses in the *sky*. I discovered that *wind* and *cloud*s work together to create the dynamic *weather* patterns that we experience, from gentle breezes to powerful *storm*s.\n\n*Season*s taught me about the cyclical nature of *weather* and *nature*. I learned that *spring* brings renewal and growth, *summer* provides warmth and abundance, *autumn* offers harvest and change, and *winter* brings rest and reflection. I discovered that each *season* has its own unique *weather* patterns and *natural* beauty, creating a rhythm that connects us to the larger cycles of *nature*.\n\n*Storm*s, *thunder*, and *lightning* introduced me to the more dramatic aspects of *weather* and *nature*. I learned that *storm*s are powerful *natural* phenomena that can bring both destruction and renewal. I discovered that *thunder* and *lightning* are the result of electrical charges in the atmosphere, and that *storm*s play important roles in maintaining the balance of *nature* and providing essential precipitation.\n\n*Temperature* became a crucial concept for understanding *weather* and its effects on *nature*. I learned that *temperature* influences everything from plant growth to animal behavior, and that *temperature* changes drive the *weather* patterns that we experience. I discovered that *temperature* is not just a number - it's a fundamental aspect of *nature* that affects the comfort and survival of all living things.\n\n*Weather* and *nature* have taught me that we are deeply connected to the *natural* world through the *weather* patterns that surround us. Each aspect of *weather* - from the gentle *sun*shine to the powerful *storm* - reflects the dynamic and *beautiful* nature of our planet. The *season*s remind us of the cyclical nature of life, while *temperature* and precipitation patterns sustain the *natural* ecosystems that support all life on Earth.",
+    "additionalExamples": [
+      {
+        "word": "weather",
+        "example": "Weather is changing.",
+        "translation": "Погода меняется."
+      },
+      {
+        "word": "nature",
+        "example": "Nature is beautiful.",
+        "translation": "Природа красивая."
+      },
+      {
+        "word": "sun",
+        "example": "Sun is shining.",
+        "translation": "Солнце светит."
+      },
+      {
+        "word": "rain",
+        "example": "Rain is falling.",
+        "translation": "Дождь идет."
+      },
+      {
+        "word": "snow",
+        "example": "Snow is white.",
+        "translation": "Снег белый."
+      },
+      {
+        "word": "wind",
+        "example": "Wind is blowing.",
+        "translation": "Ветер дует."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "It's raining cats and dogs",
+        "translation": "Льет как из ведра"
+      },
+      {
+        "phrase": "Every cloud has a silver lining",
+        "translation": "Нет худа без добра"
+      },
+      {
+        "phrase": "Don't rain on my parade",
+        "translation": "Не порть мне праздник"
+      },
+      {
+        "phrase": "The calm before the storm",
+        "translation": "Затишье перед бурей"
+      },
+      {
+        "phrase": "It's a beautiful day today",
+        "translation": "Сегодня прекрасный день"
+      },
+      {
+        "phrase": "I'm feeling under the weather",
+        "translation": "Я чувствую себя неважно"
+      },
+      {
+        "phrase": "The weather is perfect for a picnic",
+        "translation": "Погода идеальна для пикника"
+      },
+      {
+        "phrase": "Nature is calling",
+        "translation": "Природа зовет"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Weather** is uncountable and refers to atmospheric conditions.\n- **Nature** is uncountable and refers to the natural world.\n- **Sun** is countable and refers to the star that provides light.\n- **Rain** is uncountable and refers to falling water.",
+    "relatedTopics": [
+      {
+        "name": "Environment Ecology",
+        "slug": "environment-ecology",
+        "url": "/lessons/eng/b1b2/environment-ecology"
+      },
+      {
+        "name": "Animals Wildlife",
+        "slug": "animals-wildlife",
+        "url": "/lessons/eng/b1b2/animals-wildlife"
+      },
+      {
+        "name": "Geography Landscape",
+        "slug": "geography-landscape",
+        "url": "/lessons/eng/b1b2/geography-landscape"
+      },
+      {
+        "name": "Seasons Holidays",
+        "slug": "seasons-holidays",
+        "url": "/lessons/eng/b1b2/seasons-holidays"
+      }
+    ],
+    "category": "nature_environment",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/weather-nature"
+  },
+  {
+    "id": 110,
+    "slug": "western-culture",
+    "title": "Western Culture",
+    "titleRu": "Западная культура",
+    "description": "Learn English at the B1-B2 level through thematic texts with key words: western, culture, civilization, heritage, tradition and practical usage examples.",
+    "keywords": [
+      {
+        "word": "western",
+        "translation": "западный",
+        "partOfSpeech": "adjective"
+      },
+      {
+        "word": "culture",
+        "translation": "культура",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "civilization",
+        "translation": "цивилизация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "heritage",
+        "translation": "наследие",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "tradition",
+        "translation": "традиция",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "philosophy",
+        "translation": "философия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "art",
+        "translation": "искусство",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "literature",
+        "translation": "литература",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "science",
+        "translation": "наука",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "democracy",
+        "translation": "демократия",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "freedom",
+        "translation": "свобода",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "individualism",
+        "translation": "индивидуализм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "reason",
+        "translation": "разум",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "progress",
+        "translation": "прогресс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "innovation",
+        "translation": "инновация",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "education",
+        "translation": "образование",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "humanism",
+        "translation": "гуманизм",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "enlightenment",
+        "translation": "просвещение",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "renaissance",
+        "translation": "ренессанс",
+        "partOfSpeech": "noun"
+      },
+      {
+        "word": "modern",
+        "translation": "современный",
+        "partOfSpeech": "adjective"
+      }
+    ],
+    "mainText": "*Western* *culture* represents a rich tapestry of ideas, *traditions*, and achievements that have shaped human civilization for centuries. From the philosophical foundations of ancient Greece to the *modern* innovations of today, *Western* *culture* has contributed to the development of *democracy*, *science*, *art*, and *humanism* that continue to influence the world. Let me share a story about how I discovered the incredible depth and influence of *Western* *culture* in our global society.\n\nLast *year*, I embarked on a journey to explore the historical roots and contemporary expressions of *Western* *culture*, which opened my eyes to the complex evolution and global impact of this *civilization*. I had always been aware of *Western* influences in my daily life, but this experience taught me about the philosophical foundations, artistic achievements, and intellectual *traditions* that define *Western* *culture*.\n\nMy journey began with studying the philosophical foundations of *Western* thought, particularly the emphasis on *reason* and rational inquiry. I learned that *Western* *philosophy* is not just abstract thinking – it's a *tradition* of questioning, analyzing, and seeking truth through logical argumentation and empirical observation. The philosophical *heritage* I discovered taught me about the importance of critical thinking and the pursuit of knowledge for its own sake.\n\n*Art* and *literature* revealed the creative achievements and aesthetic values of *Western* *culture*. I discovered that *Western* *art* is not just about beauty – it's about expressing human experience, exploring universal themes, and pushing the boundaries of creative expression. The *art* and *literature* I studied taught me about the power of creativity to inspire, challenge, and transform human understanding.\n\n*Science* and *innovation* showed me how *Western* *culture* has contributed to human knowledge and technological progress. I learned that the *scientific* method is not just a research tool – it's a *Western* contribution to human understanding that emphasizes observation, experimentation, and logical reasoning. The *scientific* achievements I explored taught me about the importance of evidence-based thinking and the pursuit of objective truth.\n\n*Democracy* and *freedom* revealed the political values and institutions that define *Western* *culture*. I discovered that *democracy* is not just a form of government – it's a *Western* contribution to human organization that emphasizes individual *rights*, popular participation, and the rule of law. The *democratic* *traditions* I studied taught me about the importance of protecting individual *freedom* while maintaining social order.\n\n*Education* and *humanism* showed me how *Western* *culture* values human potential and intellectual development. I learned that *education* is not just about acquiring skills – it's about developing critical thinking, creativity, and the capacity for lifelong learning. The *educational* *traditions* I explored taught me about the importance of cultivating human potential and preparing people to contribute to society.\n\nThe *Renaissance* and *Enlightenment* periods revealed the transformative power of *Western* *culture* in human history. I discovered that these movements were not just historical periods – they were expressions of *Western* values that emphasized human dignity, intellectual *freedom*, and the pursuit of knowledge. The *Renaissance* and *Enlightenment* taught me about the importance of questioning authority and seeking truth through *reason* and experience.\n\n*Individualism* and *progress* showed me how *Western* *culture* values personal achievement and social advancement. I learned that *individualism* is not just about self-interest – it's about recognizing the unique value and potential of each person and creating conditions where individuals can flourish and contribute to society. The *individualistic* values I observed taught me about the importance of personal *freedom* and *responsibility*.\n\n*Modern* *Western* *culture* revealed the ongoing evolution and global influence of *Western* ideas and values. I discovered that *Western* *culture* is not static – it's a dynamic *tradition* that continues to evolve while maintaining its core values of *freedom*, *reason*, and human dignity. The *modern* expressions I explored taught me about the importance of adapting *traditions* to new circumstances while preserving their essential values.\n\nWhat I love most about my exploration of *Western* *culture* is how it revealed the incredible achievements and ongoing influence of this *civilization*. I learned that *Western* *culture* is not just about *Western* countries – it's about ideas, values, and achievements that have contributed to human progress and continue to influence global society.\n\n*Western* *culture* has taught me that *civilization* is built on the foundation of ideas, values, and achievements that transcend national boundaries and historical periods. By understanding and appreciating the contributions of *Western* *culture*, we can better understand our own *heritage* and the global *traditions* that continue to shape human civilization.",
+    "additionalExamples": [
+      {
+        "word": "western",
+        "example": "Western culture is influential.",
+        "translation": "Западная культура влиятельна."
+      },
+      {
+        "word": "culture",
+        "example": "Culture shapes our identity.",
+        "translation": "Культура формирует нашу идентичность."
+      },
+      {
+        "word": "civilization",
+        "example": "Western civilization is ancient.",
+        "translation": "Западная цивилизация древняя."
+      },
+      {
+        "word": "heritage",
+        "example": "Our heritage is rich.",
+        "translation": "Наше наследие богатое."
+      },
+      {
+        "word": "tradition",
+        "example": "This tradition is important.",
+        "translation": "Эта традиция важна."
+      },
+      {
+        "word": "philosophy",
+        "example": "Western philosophy is deep.",
+        "translation": "Западная философия глубокая."
+      }
+    ],
+    "practicalPhrases": [
+      {
+        "phrase": "The pen is mightier than the sword",
+        "translation": "Перо сильнее меча"
+      },
+      {
+        "phrase": "Knowledge is power",
+        "translation": "Знание - сила"
+      },
+      {
+        "phrase": "Don't count your chickens before they hatch",
+        "translation": "Не считай цыплят, пока они не вылупились"
+      },
+      {
+        "phrase": "The early bird catches the worm",
+        "translation": "Кто рано встает, тому Бог подает"
+      },
+      {
+        "phrase": "A rolling stone gathers no moss",
+        "translation": "Под лежачий камень вода не течет"
+      },
+      {
+        "phrase": "The proof is in the pudding",
+        "translation": "Доказательство в пудинге"
+      }
+    ],
+    "synonyms": [],
+    "grammarNotes": "- **Western** is an adjective that describes cultural or geographical origin.\n- **Culture** can be countable (\"cultures\") or uncountable (\"culture\").\n- **Civilization** is countable and refers to advanced societies.\n- **Heritage** is usually uncountable and refers to inherited traditions.",
+    "relatedTopics": [
+      {
+        "name": "Culture Arts",
+        "slug": "culture-arts",
+        "url": "/lessons/eng/b1b2/culture-arts"
+      },
+      {
+        "name": "Philosophy Thought",
+        "slug": "philosophy-thought",
+        "url": "/lessons/eng/b1b2/philosophy-thought"
+      },
+      {
+        "name": "History Civilization",
+        "slug": "history-civilization",
+        "url": "/lessons/eng/b1b2/history-civilization"
+      },
+      {
+        "name": "Democracy Freedom",
+        "slug": "democracy-freedom",
+        "url": "/lessons/eng/b1b2/democracy-freedom"
+      }
+    ],
+    "category": "culture_arts",
+    "level": "B1-B2",
+    "language": "eng",
+    "url": "/lessons/eng/b1b2/western-culture"
+  },
+  {
+    "id": 111,
     "slug": "work-career",
     "title": "Work & Career",
     "titleRu": "Работа и карьера",
@@ -8038,13 +22756,13 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/business-economy"
       }
     ],
-    "category": "Work Career",
+    "category": "economics_business",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/work-career"
   },
   {
-    "id": 38,
+    "id": 112,
     "slug": "workplace-professional",
     "title": "Workplace & Professional",
     "titleRu": "Рабочее место и профессионализм",
@@ -8332,14 +23050,14 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
     ],
-    "category": "Workplace Professional",
+    "category": "economics_business",
     "level": "B1-B2",
     "language": "eng",
     "url": "/lessons/eng/b1b2/workplace-professional"
   }
 ];
 
-export const LESSONS_COUNT = 38;
+export const LESSONS_COUNT = 112;
 
 export const LESSONS_BY_CATEGORY = ENG_B1_B2_LESSONS_DATA.reduce((acc, lesson) => {
   if (!acc[lesson.category]) {

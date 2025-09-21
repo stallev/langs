@@ -1,5 +1,9 @@
 # Science & Research / Наука и исследования
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - science (наука) - noun
 - research (исследование) - noun

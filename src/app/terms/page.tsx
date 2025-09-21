@@ -1,12 +1,15 @@
 import { Metadata } from 'next';
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
+import { SEO_CONSTANTS, generateSEOMetadata } from '@/shared/constants/seo';
 import type { BreadcrumbItem } from '@/types/navigation';
 
-export const metadata: Metadata = {
-  title: 'Terms of Service - LangLearn Platform',
-  description:
-    'Read our Terms of Service to understand the rules and guidelines for using LangLearn platform for language learning.',
-};
+export const metadata: Metadata = generateSEOMetadata(
+  SEO_CONSTANTS.TERMS_TITLE,
+  SEO_CONSTANTS.TERMS_DESCRIPTION,
+  SEO_CONSTANTS.TERMS_KEYWORDS,
+  '/terms',
+  SEO_CONSTANTS.ROBOTS_NOINDEX
+);
 
 export default function TermsPage() {
   const breadcrumbs: BreadcrumbItem[] = [

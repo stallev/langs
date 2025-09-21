@@ -1,5 +1,9 @@
 # Technology & Innovation / Технологии и инновации
 
+## Категория / Category
+science_technology
+
+
 ## Ключевые слова / Key Words
 - technology (технология) - noun
 - innovation (инновация) - noun

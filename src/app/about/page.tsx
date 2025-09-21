@@ -1,12 +1,15 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { NAVIGATION } from '@/shared/constants/navigation';
+import { SEO_CONSTANTS, generateSEOMetadata } from '@/shared/constants/seo';
 
-export const metadata: Metadata = {
-  title: 'About LangLearn - Language Learning Platform',
-  description:
-    'Learn about LangLearn, an interactive platform for learning languages through thematic texts and the most common words.',
-};
+export const metadata: Metadata = generateSEOMetadata(
+  SEO_CONSTANTS.ABOUT_TITLE,
+  SEO_CONSTANTS.ABOUT_DESCRIPTION,
+  SEO_CONSTANTS.ABOUT_KEYWORDS,
+  '/about',
+  SEO_CONSTANTS.ROBOTS_NOINDEX
+);
 
 export default function AboutPage() {
   return (

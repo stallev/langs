@@ -66,6 +66,7 @@ async function parseMarkdownContent(
       keywords: (frontmatter.keywords as string[]) || [],
       level: (frontmatter.level as string) || 'B1-B2',
       topic: (frontmatter.topic as string) || '',
+      category: (frontmatter.category as string) || '',
       estimatedTime: (frontmatter.estimatedTime as string) || '10-15 minutes',
       difficulty:
         (frontmatter.difficulty as 'beginner' | 'intermediate' | 'advanced') || 'intermediate',
@@ -86,6 +87,9 @@ async function parseMarkdownContent(
     const sectionContent = lines.slice(1).join('\n').trim();
 
     switch (sectionTitle) {
+      case 'Категория / Category':
+        lessonContent.metadata.category = parseCategorySection(sectionContent);
+        break;
       case 'Ключевые слова / Key Words':
         lessonContent.words = parseWordsSection(sectionContent);
         break;
@@ -111,6 +115,27 @@ async function parseMarkdownContent(
   }
 
   return lessonContent;
+}
+
+/**
+ * Parse category section
+ * @param content - Section content
+ * @returns Category value
+ */
+function parseCategorySection(content: string): string {
+  if (!content) return '';
+
+  // Extract category from content (should be a single line with category value)
+  const lines = content.split('\n');
+  for (const line of lines) {
+    const trimmedLine = line.trim();
+    if (trimmedLine && !trimmedLine.startsWith('[') && !trimmedLine.startsWith('<!--')) {
+      // Return the first non-empty line that's not a comment or placeholder
+      return trimmedLine;
+    }
+  }
+
+  return '';
 }
 
 /**

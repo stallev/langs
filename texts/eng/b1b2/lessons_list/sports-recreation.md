@@ -1,5 +1,9 @@
 # Sports & Recreation / Спорт и отдых
 
+## Категория / Category
+culture_arts
+
+
 ## Ключевые слова / Key Words
 - sport (спорт) - noun
 - game (игра) - noun

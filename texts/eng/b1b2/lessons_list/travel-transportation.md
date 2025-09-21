@@ -1,5 +1,9 @@
 # Travel & Transportation / Путешествия и транспорт
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - travel (путешествовать) - verb
 - trip (поездка) - noun

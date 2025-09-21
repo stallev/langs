@@ -1,12 +1,15 @@
 import { Metadata } from 'next';
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
+import { SEO_CONSTANTS, generateSEOMetadata } from '@/shared/constants/seo';
 import type { BreadcrumbItem } from '@/types/navigation';
 
-export const metadata: Metadata = {
-  title: 'Privacy Policy - LangLearn Platform',
-  description:
-    'Read our Privacy Policy to understand how LangLearn collects, uses, and protects your personal information.',
-};
+export const metadata: Metadata = generateSEOMetadata(
+  SEO_CONSTANTS.PRIVACY_TITLE,
+  SEO_CONSTANTS.PRIVACY_DESCRIPTION,
+  SEO_CONSTANTS.PRIVACY_KEYWORDS,
+  '/privacy',
+  SEO_CONSTANTS.ROBOTS_NOINDEX
+);
 
 export default function PrivacyPage() {
   const breadcrumbs: BreadcrumbItem[] = [

@@ -1,5 +1,9 @@
 # Текстуры и ощущения / Textures and Sensations
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - мягкий (soft) - adjective
 - твердый (hard) - adjective

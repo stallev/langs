@@ -1,5 +1,9 @@
 # Работа и профессии / Work and Professions
 
+## Категория / Category
+economics_business
+
+
 ## Ключевые слова / Key Words
 - работа (work) - noun
 - учитель (teacher) - noun
@@ -30,7 +34,7 @@
 ## Дополнительные примеры / Additional Examples
 
 ### Примеры использования ключевых слов:
-- **работа**: "Работа в офисе интересная." (Office work is interesting.)
+- **работа**: "Интересная работа в офисе." (Interesting office work.)
 - **учитель**: "Учитель объясняет урок." (Teacher explains the lesson.)
 - **врач**: "Врач лечит больных." (Doctor treats sick people.)
 - **инженер**: "Инженер строит мосты." (Engineer builds bridges.)
@@ -49,7 +53,7 @@
 ## Практические фразы / Practical Phrases
 
 - "Я работаю в офисе" - "I work in an office"
-- "Мой начальник добрый" - "My boss is kind"
+- "Добрый начальник" - "Kind boss"
 - "Коллеги помогают" - "Colleagues help"
 - "Получать зарплату" - "Receive salary"
 - "У нас отпуск" - "We have vacation"

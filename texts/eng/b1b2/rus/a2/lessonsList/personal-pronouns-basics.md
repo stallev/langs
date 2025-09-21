@@ -1,5 +1,9 @@
 # Личные местоимения и основы / Personal Pronouns and Basics
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - я (I) - pronoun
 - ты (you) - pronoun

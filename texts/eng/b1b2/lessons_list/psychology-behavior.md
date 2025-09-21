@@ -1,5 +1,9 @@
 # Psychology & Behavior / Психология и поведение
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - psychology (психология) - noun
 - behavior (поведение) - noun

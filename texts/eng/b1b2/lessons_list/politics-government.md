@@ -1,5 +1,9 @@
 # Politics & Government / Политика и правительство
 
+## Категория / Category
+politics_law
+
+
 ## Ключевые слова / Key Words
 - government (правительство) - noun
 - president (президент) - noun

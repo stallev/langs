@@ -1,5 +1,9 @@
 # Religion & Spirituality / Религия и духовность
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - religion (религия) - noun
 - faith (вера) - noun

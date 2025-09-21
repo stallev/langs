@@ -1,5 +1,9 @@
 # Business & Economy / Бизнес и экономика
 
+## Категория / Category
+economics_business
+
+
 ## Ключевые слова / Key Words
 - business (бизнес) - noun
 - company (компания) - noun

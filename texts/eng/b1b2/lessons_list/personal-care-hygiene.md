@@ -1,5 +1,9 @@
 # Personal Care & Hygiene / Личная гигиена и уход
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - care (уход) - noun
 - hygiene (гигиена) - noun

@@ -4,6 +4,7 @@ export interface LessonMetadata {
   keywords: string[];
   level: string;
   topic: string;
+  category: string;
   estimatedTime: string;
   difficulty: 'beginner' | 'intermediate' | 'advanced';
 }

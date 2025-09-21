@@ -1,5 +1,9 @@
 # Social Interactions / Социальные взаимодействия
 
+## Категория / Category
+human_society
+
+
 ## Ключевые слова / Key Words
 - meet (встречаться) - verb
 - greet (приветствовать) - verb

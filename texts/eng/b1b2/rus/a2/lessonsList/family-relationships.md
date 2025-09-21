@@ -1,5 +1,8 @@
 # Семья и отношения / Family and Relationships
 
+## Категория / Category
+human_society
+
 ## Ключевые слова / Key Words
 - семья (family) - noun
 - мать (mother) - noun

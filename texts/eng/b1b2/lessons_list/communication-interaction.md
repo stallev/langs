@@ -1,5 +1,9 @@
 # Communication & Interaction / Общение и взаимодействие
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - say (сказать) - verb
 - tell (рассказать) - verb

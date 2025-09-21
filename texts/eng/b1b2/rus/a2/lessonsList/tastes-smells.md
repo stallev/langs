@@ -1,5 +1,9 @@
 # Вкусы и запахи / Tastes and Smells
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - вкус (taste) - noun
 - сладкий (sweet) - adjective

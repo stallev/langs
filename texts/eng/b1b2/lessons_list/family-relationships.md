@@ -1,5 +1,9 @@
 # Family & Relationships / Семья и отношения
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - family (семья) - noun
 - parent (родитель) - noun

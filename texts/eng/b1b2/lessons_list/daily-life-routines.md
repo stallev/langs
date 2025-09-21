@@ -1,5 +1,9 @@
 # Daily Life & Routines / Повседневная жизнь и рутины
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - I (я) - pronoun
 - my (мой) - determiner

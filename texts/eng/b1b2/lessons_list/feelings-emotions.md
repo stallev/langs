@@ -1,5 +1,9 @@
 # Feelings & Emotions / Чувства и эмоции
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - feel (чувствовать) - verb
 - like (нравиться) - verb

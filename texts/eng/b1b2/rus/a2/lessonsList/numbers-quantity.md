@@ -1,5 +1,9 @@
 # Числа и количество / Numbers and Quantity
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - один (one) - numeral
 - два (two) - numeral

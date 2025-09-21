@@ -1,5 +1,9 @@
 # Чувства и эмоции / Feelings and Emotions
 
+## Категория / Category
+human_society
+
+
 ## Ключевые слова / Key Words
 - любить (to love) - verb
 - ненавидеть (to hate) - verb

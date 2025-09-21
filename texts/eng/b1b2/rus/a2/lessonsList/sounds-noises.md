@@ -1,5 +1,9 @@
 # Звуки и шумы / Sounds and Noises
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - звук (sound) - noun
 - шум (noise) - noun

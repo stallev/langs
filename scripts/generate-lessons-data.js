@@ -47,6 +47,10 @@ function parseMarkdownFile(filePath, index = 0, language = 'en') {
   const title = titleMatch ? titleMatch[1].trim() : filename;
   const titleRu = titleMatch && titleMatch[2] ? titleMatch[2].trim() : '';
   
+  // Extract category section
+  const categorySection = extractSection(normalizedContent, '## Категория / Category');
+  const category = parseCategory(categorySection);
+  
   // Extract keywords section
   const keywordsSection = extractSection(normalizedContent, '## Ключевые слова / Key Words');
   const keywords = parseKeywords(keywordsSection);
@@ -93,7 +97,7 @@ function parseMarkdownFile(filePath, index = 0, language = 'en') {
     synonyms,
     grammarNotes,
     relatedTopics,
-    category: extractCategoryFromFilename(filename),
+    category: category || extractCategoryFromFilename(filename),
     level: language === 'rus' ? 'A1-A2' : 'B1-B2',
     language,
     url
@@ -127,6 +131,27 @@ function extractSection(content, sectionTitle) {
   }
   
   return sectionContent.join('\n').trim();
+}
+
+/**
+ * Parse category from section content
+ * @param {string} content - Category section content
+ * @returns {string} Category value
+ */
+function parseCategory(content) {
+  if (!content) return null;
+  
+  // Extract category from content (should be a single line with category value)
+  const lines = content.split('\n');
+  for (const line of lines) {
+    const trimmedLine = line.trim();
+    if (trimmedLine && !trimmedLine.startsWith('[') && !trimmedLine.startsWith('<!--')) {
+      // Return the first non-empty line that's not a comment or placeholder
+      return trimmedLine;
+    }
+  }
+  
+  return null;
 }
 
 /**

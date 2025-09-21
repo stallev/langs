@@ -1,5 +1,9 @@
 # Thinking & Mental Processes / Мышление и умственные процессы
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - think (думать) - verb
 - believe (верить) - verb

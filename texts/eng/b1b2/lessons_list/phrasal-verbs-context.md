@@ -1,5 +1,9 @@
 # Phrasal Verbs in Context / Фразовые глаголы в контексте
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - get up (вставать) - phrasal verb
 - wake up (просыпаться) - phrasal verb

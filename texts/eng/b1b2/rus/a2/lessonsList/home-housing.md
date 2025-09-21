@@ -1,5 +1,9 @@
 # Дом и жилье / Home and Housing
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - дом (house) - noun
 - квартира (apartment) - noun

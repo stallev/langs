@@ -1,5 +1,9 @@
 # Sounds & Noises / Звуки и шумы
 
+## Категория / Category
+culture_arts
+
+
 ## Ключевые слова / Key Words
 - sound (звук) - noun
 - noise (шум) - noun

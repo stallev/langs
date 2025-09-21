@@ -33,7 +33,9 @@ export const ExamplesSection = ({
         {title}
       </h2>
 
-      <div className="space-y-4">
+      <div
+        className={`${title === 'Practical Phrases' ? 'grid grid-cols-1 xl:grid-cols-2 gap-4' : 'space-y-4'}`}
+      >
         {items.map((item, index) => {
           // Determine the text to display based on whether it's an example or phrase
           const displayText = 'example' in item ? item.example : item.phrase;

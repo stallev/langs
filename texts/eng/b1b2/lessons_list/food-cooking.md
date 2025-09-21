@@ -1,5 +1,9 @@
 # Food & Cooking / Еда и приготовление пищи
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - food (еда) - noun
 - meal (прием пищи) - noun

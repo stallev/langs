@@ -1,5 +1,9 @@
 # Shopping & Money / Покупки и деньги
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - shopping (покупки) - noun
 - store (магазин) - noun

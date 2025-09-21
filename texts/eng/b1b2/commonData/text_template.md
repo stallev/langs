@@ -1,5 +1,8 @@
 # [Название темы на английском] / [Название на русском]
 
+## Категория / Category
+[Одна из 10 категорий: language_basics, daily_life, human_society, nature_environment, science_technology, culture_arts, economics_business, politics_law, health_medicine, education_development]
+
 ## Ключевые слова / Key Words
 - word (перевод) - part of speech
 - word (перевод) - part of speech

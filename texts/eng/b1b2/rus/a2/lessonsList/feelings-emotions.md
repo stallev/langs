@@ -1,5 +1,9 @@
 # Чувства и эмоции / Feelings and Emotions
 
+## Категория / Category
+human_society
+
+
 ## Ключевые слова / Key Words
 - радость (joy) - noun
 - грусть (sadness) - noun

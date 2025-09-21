@@ -1,5 +1,9 @@
 # Work & Career / Работа и карьера
 
+## Категория / Category
+economics_business
+
+
 ## Ключевые слова / Key Words
 - work (работа) - noun/verb
 - job (работа) - noun

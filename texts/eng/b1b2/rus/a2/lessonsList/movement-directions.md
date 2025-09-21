@@ -1,5 +1,9 @@
 # Движение и направления / Movement and Directions
 
+## Категория / Category
+language_basics
+
+
 ## Ключевые слова / Key Words
 - идти (to go on foot) - verb
 - ехать (to go by transport) - verb

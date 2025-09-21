@@ -1,5 +1,8 @@
 # Цвета и размеры / Colors and Sizes
 
+## Категория / Category
+language_basics
+
 ## Ключевые слова / Key Words
 - красный (red) - adjective
 - синий (blue) - adjective

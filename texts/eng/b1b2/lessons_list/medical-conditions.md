@@ -1,5 +1,9 @@
 # Medical Conditions / Медицинские состояния
 
+## Категория / Category
+health_medicine
+
+
 ## Ключевые слова / Key Words
 - disease (болезнь) - noun
 - illness (болезнь) - noun

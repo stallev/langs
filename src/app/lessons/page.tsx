@@ -1,12 +1,15 @@
 import { BookOpen, Globe, Users, TrendingUp } from 'lucide-react';
 import { Metadata } from 'next';
 import Link from 'next/link';
+import { SEO_CONSTANTS, generateSEOMetadata } from '@/shared/constants/seo';
 
-export const metadata: Metadata = {
-  title: 'Language Lessons - LangLearn Platform',
-  description:
-    'Explore our comprehensive collection of language lessons designed to help you master the most common words and phrases. Choose from English B1-B2 or Russian A1-A2 levels.',
-};
+export const metadata: Metadata = generateSEOMetadata(
+  SEO_CONSTANTS.LESSONS_TITLE,
+  SEO_CONSTANTS.LESSONS_DESCRIPTION,
+  SEO_CONSTANTS.LESSONS_KEYWORDS,
+  '/lessons',
+  SEO_CONSTANTS.ROBOTS_NOINDEX
+);
 
 export default function LessonsPage() {
   return (

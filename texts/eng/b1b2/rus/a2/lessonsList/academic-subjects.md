@@ -1,5 +1,8 @@
 # Академические предметы / Academic Subjects
 
+## Категория / Category
+education_development
+
 ## Ключевые слова / Key Words
 - математика (mathematics) - noun
 - физика (physics) - noun

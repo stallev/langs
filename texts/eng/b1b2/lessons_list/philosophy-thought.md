@@ -1,5 +1,9 @@
 # Philosophy & Thought / Философия и мышление
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - philosophy (философия) - noun
 - thought (мысль) - noun

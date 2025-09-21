@@ -1,5 +1,9 @@
 # Медицинские состояния / Medical Conditions
 
+## Категория / Category
+health_medicine
+
+
 ## Ключевые слова / Key Words
 - простуда (cold) - noun
 - грипп (flu) - noun

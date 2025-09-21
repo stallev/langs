@@ -1,6 +1,11 @@
+'use client';
+
 import { Breadcrumbs } from '@/components/layout/Breadcrumbs';
 import { LessonCard } from '@/components/lesson/LessonCard';
-import { ENG_B1_B2_LESSONS_DATA, LESSONS_BY_CATEGORY } from '@/data/lessonsData';
+import { LessonFilters } from '@/components/lesson/LessonFilters';
+import { Pagination } from '@/components/ui/pagination';
+import { ENG_B1_B2_LESSONS_DATA } from '@/data/lessonsData';
+import { useLessonPagination } from '@/hooks/use-lesson-pagination';
 import type { LessonData } from '@/shared/types/lesson';
 import type { BreadcrumbItem } from '@/types/navigation';
 
@@ -10,7 +15,14 @@ export default function EnglishB1B2Page() {
     { label: 'English B1-B2', path: '/lessons/eng/b1b2', isCurrent: true },
   ];
 
-  const categories = Object.keys(LESSONS_BY_CATEGORY).sort();
+  const {
+    currentLessons,
+    paginationState,
+    filterState,
+    categories,
+    handleCategoryChange,
+    handlePageChange,
+  } = useLessonPagination({ lessons: ENG_B1_B2_LESSONS_DATA });
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -30,18 +42,20 @@ export default function EnglishB1B2Page() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
             <div className="text-3xl font-light text-primary mb-2">
-              {ENG_B1_B2_LESSONS_DATA.length}
+              {paginationState.totalItems}
             </div>
-            <div className="text-sm text-muted-foreground">Total Lessons</div>
+            <div className="text-sm text-muted-foreground">
+              {filterState.category === 'all' ? 'Total Lessons' : 'Filtered Lessons'}
+            </div>
           </div>
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
             <div className="text-3xl font-light text-primary mb-2">
-              {ENG_B1_B2_LESSONS_DATA.reduce(
+              {currentLessons.reduce(
                 (sum: number, lesson: LessonData) => sum + lesson.keywords.length,
                 0
               )}
             </div>
-            <div className="text-sm text-muted-foreground">Key Words</div>
+            <div className="text-sm text-muted-foreground">Key Words (Current Page)</div>
           </div>
           <div className="bg-muted/20 rounded-2xl p-6 border-0 text-center">
             <div className="text-3xl font-light text-primary mb-2">{categories.length}</div>
@@ -49,25 +63,50 @@ export default function EnglishB1B2Page() {
           </div>
         </div>
 
-        {/* All Lessons Section */}
-        <section className="mt-16 space-y-6">
+        {/* Filters Section */}
+        <LessonFilters
+          categories={categories}
+          selectedCategory={filterState.category}
+          onCategoryChange={handleCategoryChange}
+        />
+
+        {/* Lessons Section */}
+        <section className="space-y-6">
           <div className="space-y-2">
-            <h2 className="text-2xl font-light text-foreground">All Lessons</h2>
+            <h2 className="text-2xl font-light text-foreground">
+              {filterState.category === 'all' ? 'All Lessons' : 'Filtered Lessons'}
+            </h2>
+            <p className="text-muted-foreground">
+              Showing {currentLessons.length} of {paginationState.totalItems} lessons
+              {paginationState.totalPages > 1 &&
+                ` (Page ${paginationState.currentPage} of ${paginationState.totalPages})`}
+            </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-            {ENG_B1_B2_LESSONS_DATA.map((lesson: LessonData) => (
-              <LessonCard key={lesson.id} lesson={lesson} />
-            ))}
-          </div>
+          {currentLessons.length > 0 ? (
+            <>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+                {currentLessons.map((lesson: LessonData) => (
+                  <LessonCard key={lesson.id} lesson={lesson} categoryLanguage="en" />
+                ))}
+              </div>
+
+              <Pagination
+                currentPage={paginationState.currentPage}
+                totalPages={paginationState.totalPages}
+                onPageChange={handlePageChange}
+              />
+            </>
+          ) : (
+            <div className="text-center py-12">
+              <p className="text-muted-foreground text-lg">
+                No lessons found matching your criteria.
+              </p>
+              <p className="text-muted-foreground">Try adjusting your filters or search terms.</p>
+            </div>
+          )}
         </section>
       </div>
     </div>
   );
 }
-
-export const metadata = {
-  title: 'English B1-B2 Lessons - LangLearn',
-  description:
-    'Learn English at the intermediate level through thematic texts with the most common words.',
-};

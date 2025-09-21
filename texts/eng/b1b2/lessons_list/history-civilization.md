@@ -1,5 +1,9 @@
 # History & Civilization / История и цивилизация
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - history (история) - noun
 - past (прошлое) - noun

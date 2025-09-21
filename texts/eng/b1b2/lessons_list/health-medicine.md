@@ -1,5 +1,9 @@
 # Health & Medicine / Здоровье и медицина
 
+## Категория / Category
+health_medicine
+
+
 ## Ключевые слова / Key Words
 - health (здоровье) - noun
 - doctor (врач) - noun

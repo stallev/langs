@@ -1,5 +1,9 @@
 # Education & Learning / Образование и обучение
 
+## Категория / Category
+education_development
+
+
 ## Ключевые слова / Key Words
 - school (школа) - noun
 - university (университет) - noun

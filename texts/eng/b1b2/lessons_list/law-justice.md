@@ -1,5 +1,9 @@
 # Law & Justice / Право и правосудие
 
+## Категория / Category
+politics_law
+
+
 ## Ключевые слова / Key Words
 - law (закон) - noun
 - legal (законный) - adjective

@@ -1,5 +1,9 @@
 # Социальные взаимодействия / Social Interactions
 
+## Категория / Category
+human_society
+
+
 ## Ключевые слова / Key Words
 - помогать (to help) - verb
 - звонить (to call) - verb

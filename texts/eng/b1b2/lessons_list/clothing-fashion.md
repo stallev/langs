@@ -1,5 +1,9 @@
 # Clothing & Fashion / Одежда и мода
 
+## Категория / Category
+daily_life
+
+
 ## Ключевые слова / Key Words
 - clothes (одежда) - noun
 - shirt (рубашка) - noun
