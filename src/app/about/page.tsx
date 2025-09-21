@@ -110,7 +110,7 @@ export default function AboutPage() {
 
               <div className="bg-background/60 rounded-2xl p-8 border-0 text-center space-y-4">
                 <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
-                  <span className="text-2xl font-bold text-primary">38</span>
+                  <span className="text-2xl font-bold text-primary">112</span>
                 </div>
                 <h3 className="text-xl font-light text-foreground">Thematic Lessons</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">

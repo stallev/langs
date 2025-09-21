@@ -25,7 +25,7 @@ export const SEO_CONSTANTS = {
 
   // Page-specific descriptions
   HOME_DESCRIPTION:
-    'Master English and Russian through 200+ carefully crafted thematic texts. Learn vocabulary, grammar, and practical usage with our innovative language learning platform.',
+    'Master English and Russian through 207+ carefully crafted thematic texts. Learn vocabulary, grammar, and practical usage with our innovative language learning platform.',
   LESSONS_DESCRIPTION:
     'Explore our comprehensive collection of language lessons designed for different proficiency levels. Learn through thematic texts with practical examples.',
   ENGLISH_B1B2_DESCRIPTION:

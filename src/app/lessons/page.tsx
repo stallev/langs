@@ -58,7 +58,7 @@ export default function LessonsPage() {
                 <div className="space-y-4">
                   <div className="flex items-center gap-2">
                     <BookOpen className="h-4 w-4 text-muted-foreground" />
-                    <span className="text-sm text-muted-foreground">38 lessons</span>
+                    <span className="text-sm text-muted-foreground">112 lessons</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <Users className="h-4 w-4 text-muted-foreground" />
@@ -102,7 +102,7 @@ export default function LessonsPage() {
                 <div className="space-y-4">
                   <div className="flex items-center gap-2">
                     <BookOpen className="h-4 w-4 text-muted-foreground" />
-                    <span className="text-sm text-muted-foreground">25 lessons</span>
+                    <span className="text-sm text-muted-foreground">95 lessons</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <Users className="h-4 w-4 text-muted-foreground" />
