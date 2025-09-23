@@ -106,3 +106,5 @@ What I love most about my exploration of *shopping* and *retail* is how it revea
 - money-finance
 - consumer-behavior
 
+
+
