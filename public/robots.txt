@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
+Sitemap: https://langlearn-lovat.vercel.app/sitemap.xml
 Sitemap: https://langlearn-lovat.vercel.app/sitemapindex.xml
 
 # Allow all search engines to index the site
