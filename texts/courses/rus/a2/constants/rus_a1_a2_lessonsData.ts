@@ -1,5 +1,5 @@
 // Auto-generated file - do not edit manually
-// Generated on: 2025-09-24T00:09:50.628Z
+// Generated on: 2025-09-24T09:59:12.633Z
 // Source: C:\github\langs\texts\courses\rus\a2\lessonsList
 
 import type { LessonData } from '@/shared/types/lesson';
