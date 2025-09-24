@@ -6,7 +6,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.RUSSIAN_A1A2_DESCRIPTION,
   SEO_CONSTANTS.RUSSIAN_A1A2_KEYWORDS,
   '/lessons/rus/a1a2',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function RussianA1A2Layout({ children }: { children: React.ReactNode }) {

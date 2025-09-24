@@ -8,7 +8,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.PRIVACY_DESCRIPTION,
   SEO_CONSTANTS.PRIVACY_KEYWORDS,
   '/privacy',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function PrivacyPage() {

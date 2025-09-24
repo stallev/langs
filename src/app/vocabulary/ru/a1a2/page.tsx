@@ -10,7 +10,7 @@ export const metadata: Metadata = generateSEOMetadata(
   'Learn Russian at the beginner level with essential vocabulary including translations, examples, and categorized learning paths. Perfect for English speakers.',
   'russian vocabulary, russian a1, russian a2, beginner russian, russian words, russian dictionary, russian learning',
   '/vocabulary/ru/a1a2',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function RussianVocabularyPage() {

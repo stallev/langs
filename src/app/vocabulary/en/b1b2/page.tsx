@@ -10,7 +10,7 @@ export const metadata: Metadata = generateSEOMetadata(
   'Master English at the intermediate level with comprehensive vocabulary including translations, examples, and categorized learning paths. Based on the Oxford 3000 word list.',
   'english vocabulary, english b1, english b2, intermediate english, english words, english dictionary, oxford 3000, english learning',
   '/vocabulary/en/b1b2',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function EnglishVocabularyPage() {

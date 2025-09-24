@@ -7,7 +7,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.CONTACT_DESCRIPTION,
   SEO_CONSTANTS.CONTACT_KEYWORDS,
   '/contact',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function ContactPage() {

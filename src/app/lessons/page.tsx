@@ -8,7 +8,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.LESSONS_DESCRIPTION,
   SEO_CONSTANTS.LESSONS_KEYWORDS,
   '/lessons',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function LessonsPage() {

@@ -8,6 +8,7 @@ import { Footer } from '@/components/layout/Footer';
 import { Header } from '@/components/layout/Header';
 import { SkipLink } from '@/components/layout/SkipLink';
 import { ThemeProvider } from '@/components/layout/ThemeProvider';
+import { SEO_CONSTANTS } from '@/shared/constants/seo';
 import './globals.css';
 
 const geistSans = Geist({
@@ -24,6 +25,9 @@ export const metadata: Metadata = {
   title: 'LangLearn - Language Learning Platform',
   description: 'Learn languages through thematic texts with the most common words',
   keywords: 'language learning, English, Russian, vocabulary, B1-B2 level',
+  verification: {
+    google: SEO_CONSTANTS.GOOGLE_SITE_VERIFICATION,
+  },
 };
 
 export default function RootLayout({

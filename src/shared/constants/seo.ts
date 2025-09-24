@@ -4,8 +4,9 @@ export const SEO_CONSTANTS = {
   SITE_NAME: 'LangLearn',
   SITE_DESCRIPTION:
     'Learn languages through thematic texts with the most common words and practical usage examples',
-  SITE_URL: 'https://langlearn.com',
+  SITE_URL: process.env.NEXT_PUBLIC_SITE_URL || '',
   SITE_IMAGE: '/og-image.png',
+  GOOGLE_SITE_VERIFICATION: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '',
 
   // Default metadata
   DEFAULT_TITLE: 'LangLearn - Language Learning Platform',
@@ -115,7 +116,7 @@ export const generateSEOMetadata = (
   description: string,
   keywords: string,
   path: string = '',
-  robots: string = SEO_CONSTANTS.ROBOTS_NOINDEX
+  robots: string = SEO_CONSTANTS.ROBOTS_INDEX
 ): SEOMetadata => {
   const fullTitle = title.includes(SEO_CONSTANTS.SITE_NAME)
     ? title

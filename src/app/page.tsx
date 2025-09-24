@@ -9,7 +9,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.HOME_DESCRIPTION,
   SEO_CONSTANTS.HOME_KEYWORDS,
   '/',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function Home() {

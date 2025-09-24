@@ -8,7 +8,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.VOCABULARY_DESCRIPTION,
   SEO_CONSTANTS.VOCABULARY_KEYWORDS,
   '/vocabulary',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function VocabularyPage() {

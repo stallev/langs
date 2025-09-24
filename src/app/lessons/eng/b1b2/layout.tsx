@@ -6,7 +6,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.ENGLISH_B1B2_DESCRIPTION,
   SEO_CONSTANTS.ENGLISH_B1B2_KEYWORDS,
   '/lessons/eng/b1b2',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function EnglishB1B2Layout({ children }: { children: React.ReactNode }) {

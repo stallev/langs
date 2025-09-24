@@ -8,7 +8,7 @@ export const metadata: Metadata = generateSEOMetadata(
   SEO_CONSTANTS.ABOUT_DESCRIPTION,
   SEO_CONSTANTS.ABOUT_KEYWORDS,
   '/about',
-  SEO_CONSTANTS.ROBOTS_NOINDEX
+  SEO_CONSTANTS.ROBOTS_INDEX
 );
 
 export default function AboutPage() {
