@@ -10,9 +10,10 @@
 2. [Статический sitemap](#статический-sitemap)
 3. [Динамический sitemap](#динамический-sitemap)
 4. [Sitemap Index](#sitemap-index)
-5. [Лучшие практики](#лучшие-практики)
-6. [Примеры реализации](#примеры-реализации)
-7. [Отладка и тестирование](#отладка-и-тестирование)
+5. [Robots.txt](#robotstxt)
+6. [Лучшие практики](#лучшие-практики)
+7. [Примеры реализации](#примеры-реализации)
+8. [Отладка и тестирование](#отладка-и-тестирование)
 
 ## Основные концепции
 
@@ -200,6 +201,192 @@ Disallow: /admin/
 Disallow: /_next/
 ```
 
+## Robots.txt
+
+### Что такое robots.txt?
+
+Robots.txt - это файл, который сообщает поисковым роботам, какие страницы они могут или не могут сканировать на вашем сайте. В Next.js App Router вы можете создавать robots.txt как статический файл или генерировать его динамически.
+
+### Статический robots.txt
+
+Создайте файл `app/robots.txt` в корне вашего приложения:
+
+```txt
+User-Agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://acme.com/sitemap.xml
+```
+
+### Динамический robots.txt
+
+Создайте файл `app/robots.ts` для динамической генерации:
+
+```typescript
+import type { MetadataRoute } from 'next';
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: {
+      userAgent: '*',
+      allow: '/',
+      disallow: '/private/',
+    },
+    sitemap: 'https://acme.com/sitemap.xml',
+  };
+}
+```
+
+### Настройка для разных поисковых роботов
+
+```typescript
+import type { MetadataRoute } from 'next';
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: [
+      {
+        userAgent: 'Googlebot',
+        allow: ['/'],
+        disallow: '/private/',
+        crawlDelay: 1,
+      },
+      {
+        userAgent: ['Applebot', 'Bingbot'],
+        disallow: ['/'],
+      },
+    ],
+    sitemap: 'https://acme.com/sitemap.xml',
+  };
+}
+```
+
+### Использование переменных окружения
+
+```typescript
+import type { MetadataRoute } from 'next';
+
+export default function robots(): MetadataRoute.Robots {
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://yourdomain.com';
+  
+  return {
+    rules: [
+      {
+        userAgent: '*',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+        ],
+      },
+      {
+        userAgent: 'Googlebot',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+        ],
+        crawlDelay: 1,
+      },
+    ],
+    sitemap: [
+      `${baseUrl}/sitemap.xml`,
+      `${baseUrl}/sitemapindex.xml`,
+    ],
+    host: baseUrl,
+  };
+}
+```
+
+### Полный пример robots.ts
+
+```typescript
+import type { MetadataRoute } from 'next';
+import { SEO_CONSTANTS } from '@/shared/constants/seo';
+
+export default function robots(): MetadataRoute.Robots {
+  const baseUrl = SEO_CONSTANTS.SITE_URL;
+  
+  return {
+    rules: [
+      {
+        userAgent: '*',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+        ],
+      },
+      {
+        userAgent: 'Googlebot',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+        ],
+        crawlDelay: 1,
+      },
+      {
+        userAgent: ['Bingbot', 'Slurp'],
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+        ],
+        crawlDelay: 2,
+      },
+    ],
+    sitemap: [
+      `${baseUrl}/sitemap.xml`,
+      `${baseUrl}/sitemapindex.xml`,
+    ],
+    host: baseUrl,
+  };
+}
+```
+
+### Robots объект
+
+```typescript
+type Robots = {
+  rules:
+    | {
+        userAgent?: string | string[]
+        allow?: string | string[]
+        disallow?: string | string[]
+        crawlDelay?: number
+      }
+    | Array<{
+        userAgent: string | string[]
+        allow?: string | string[]
+        disallow?: string | string[]
+        crawlDelay?: number
+      }>
+  sitemap?: string | string[]
+  host?: string
+}
+```
+
+### Лучшие практики для robots.txt
+
+1. **Используйте динамическую генерацию** для гибкости
+2. **Блокируйте служебные директории** (`/api/`, `/_next/`, `/admin/`)
+3. **Настройте crawlDelay** для разных роботов
+4. **Указывайте все sitemap файлы** в robots.txt
+5. **Используйте переменные окружения** для URL
+6. **Тестируйте robots.txt** в Google Search Console
+
 ## Лучшие практики
 
 ### 1. Организация файлов
@@ -207,6 +394,7 @@ Disallow: /_next/
 ```
 src/app/
 ├── sitemap.ts                    # Основной sitemap
+├── robots.ts                     # Robots.txt генерация
 ├── sitemapindex.xml/
 │   └── route.ts                  # Sitemap index
 ├── blog/
@@ -304,7 +492,55 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
 ## Примеры реализации
 
-### Пример 1: E-commerce сайт
+### Пример 1: E-commerce сайт с robots.txt
+
+```typescript
+// src/app/robots.ts
+import type { MetadataRoute } from 'next';
+import { SEO_CONSTANTS } from '@/shared/constants/seo';
+
+export default function robots(): MetadataRoute.Robots {
+  const baseUrl = SEO_CONSTANTS.SITE_URL;
+  
+  return {
+    rules: [
+      {
+        userAgent: '*',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+          '/checkout/',
+          '/cart/',
+        ],
+      },
+      {
+        userAgent: 'Googlebot',
+        allow: '/',
+        disallow: [
+          '/api/',
+          '/_next/',
+          '/admin/',
+          '/private/',
+          '/checkout/',
+          '/cart/',
+        ],
+        crawlDelay: 1,
+      },
+    ],
+    sitemap: [
+      `${baseUrl}/sitemap.xml`,
+      `${baseUrl}/sitemapindex.xml`,
+      `${baseUrl}/products/sitemap.xml`,
+    ],
+    host: baseUrl,
+  };
+}
+```
+
+### Пример 2: E-commerce сайт
 
 ```typescript
 // src/app/sitemap.ts
@@ -463,12 +699,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
 ## Отладка и тестирование
 
-### 1. Проверка sitemap в браузере
+### 1. Проверка sitemap и robots.txt в браузере
 
 ```bash
 # Локальная разработка
 http://localhost:3000/sitemap.xml
 http://localhost:3000/sitemapindex.xml
+http://localhost:3000/robots.txt
 http://localhost:3000/blog/sitemap.xml
 ```
 
@@ -487,7 +724,42 @@ curl -s http://localhost:3000/sitemap.xml | xmllint --format -
 4. Добавьте URL вашего sitemap
 5. Проверьте статус индексации
 
-### 4. Отладка ошибок
+### 4. Тестирование robots.txt
+
+```bash
+# Проверка robots.txt в браузере
+curl -s http://localhost:3000/robots.txt
+
+# Проверка с помощью Google robots.txt Tester
+# https://www.google.com/webmasters/tools/robots-testing-tool
+```
+
+### 5. Валидация robots.txt
+
+```typescript
+// src/app/debug-robots/route.ts
+import { NextResponse } from 'next/server';
+import { robots } from '../robots';
+
+export async function GET() {
+  try {
+    const robotsConfig = robots();
+    
+    return NextResponse.json({
+      success: true,
+      config: robotsConfig,
+      generated: `User-Agent: ${robotsConfig.rules[0]?.userAgent || '*'}\nAllow: ${robotsConfig.rules[0]?.allow || '/'}\nDisallow: ${robotsConfig.rules[0]?.disallow || ''}\nSitemap: ${robotsConfig.sitemap}`
+    });
+  } catch (error) {
+    return NextResponse.json({
+      success: false,
+      error: error instanceof Error ? error.message : 'Unknown error'
+    }, { status: 500 });
+  }
+}
+```
+
+### 6. Отладка ошибок
 
 ```typescript
 // src/app/debug-sitemap/route.ts
@@ -516,7 +788,7 @@ export async function GET() {
 }
 ```
 
-### 5. Мониторинг производительности
+### 7. Мониторинг производительности
 
 ```typescript
 // src/app/sitemap.ts
@@ -581,18 +853,23 @@ const CHANGE_FREQUENCIES = {
 4. **Обрабатывайте ошибки** gracefully
 5. **Кэшируйте данные** для производительности
 6. **Тестируйте sitemap** перед деплоем
+7. **Настройте robots.txt** для контроля индексации
+8. **Блокируйте служебные директории** в robots.txt
+9. **Указывайте все sitemap файлы** в robots.txt
 
 ## Заключение
 
-Правильная реализация sitemap в Next.js App Router критически важна для SEO. Следуйте этим лучшим практикам:
+Правильная реализация sitemap и robots.txt в Next.js App Router критически важна для SEO. Следуйте этим лучшим практикам:
 
 1. Используйте правильную структуру файлов
 2. Реализуйте обработку ошибок
 3. Оптимизируйте производительность
-4. Тестируйте и валидируйте sitemap
+4. Тестируйте и валидируйте sitemap и robots.txt
 5. Мониторьте индексацию в поисковых системах
+6. Настройте robots.txt для контроля доступа роботов
+7. Используйте переменные окружения для гибкости
 
-Эти рекомендации помогут создать эффективную систему sitemap для вашего Next.js приложения.
+Эти рекомендации помогут создать эффективную систему SEO для вашего Next.js приложения.
 
 ---
 
