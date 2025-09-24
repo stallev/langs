@@ -1,9 +1,8 @@
 User-agent: *
 Allow: /
 
-# Sitemap locations
-Sitemap: https://langlearn.com/sitemap.xml
-Sitemap: https://langlearn.com/sitemap-index.xml
+# Sitemap location
+Sitemap: https://langlearn-lovat.vercel.app/sitemapindex.xml
 
 # Allow all search engines to index the site
 # Block only admin and private areas if any
