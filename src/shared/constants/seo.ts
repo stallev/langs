@@ -16,6 +16,7 @@ export const SEO_CONSTANTS = {
   // Page-specific titles
   HOME_TITLE: 'LangLearn - Master Languages Through Thematic Texts',
   LESSONS_TITLE: 'Language Lessons - LangLearn',
+  VOCABULARY_TITLE: 'Vocabulary Dictionary - LangLearn',
   ENGLISH_B1B2_TITLE: 'English B1-B2 Lessons - LangLearn',
   RUSSIAN_A1A2_TITLE: 'Russian A1-A2 Lessons - LangLearn',
   ABOUT_TITLE: 'About LangLearn - Language Learning Platform',
@@ -28,6 +29,8 @@ export const SEO_CONSTANTS = {
     'Master English and Russian through 207+ carefully crafted thematic texts. Learn vocabulary, grammar, and practical usage with our innovative language learning platform.',
   LESSONS_DESCRIPTION:
     'Explore our comprehensive collection of language lessons designed for different proficiency levels. Learn through thematic texts with practical examples.',
+  VOCABULARY_DESCRIPTION:
+    'Explore comprehensive vocabulary collections with translations, examples, and categorized learning paths. Master essential words for effective communication.',
   ENGLISH_B1B2_DESCRIPTION:
     'Learn English at the intermediate level through 112 carefully crafted thematic texts with the most common words and practical usage examples.',
   RUSSIAN_A1A2_DESCRIPTION:
@@ -45,6 +48,8 @@ export const SEO_CONSTANTS = {
     'language learning, english, russian, vocabulary, grammar, lessons, education, thematic texts, common words',
   LESSONS_KEYWORDS:
     'language lessons, english lessons, russian lessons, vocabulary, grammar, thematic texts, language learning',
+  VOCABULARY_KEYWORDS:
+    'vocabulary dictionary, english vocabulary, russian vocabulary, word lists, translations, examples, language learning',
   ENGLISH_B1B2_KEYWORDS:
     'english b1, english b2, intermediate english, english vocabulary, english grammar, english lessons',
   RUSSIAN_A1A2_KEYWORDS:

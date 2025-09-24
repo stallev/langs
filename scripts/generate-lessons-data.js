@@ -12,14 +12,14 @@ const path = require('path');
 // Configuration
 const CONFIG = {
   eng: {
-    lessonsDir: path.join(__dirname, '../texts/eng/b1b2/lessons_list'),
-    outputFile: path.join(__dirname, '../texts/eng/b1b2/constants/lessonsData.ts'),
+    lessonsDir: path.join(__dirname, '../texts/courses/eng/b1b2/lessons_list'),
+    outputFile: path.join(__dirname, '../texts/courses/eng/b1b2/constants/lessonsData.ts'),
     level: 'B1-B2',
     language: 'en'
   },
   rus: {
-    lessonsDir: path.join(__dirname, '../texts/eng/b1b2/rus/a2/lessonsList'),
-    outputFile: path.join(__dirname, '../texts/eng/b1b2/rus/a2/constants/rus_a1_a2_lessonsData.ts'),
+    lessonsDir: path.join(__dirname, '../texts/courses/rus/a2/lessonsList'),
+    outputFile: path.join(__dirname, '../texts/courses/rus/a2/constants/rus_a1_a2_lessonsData.ts'),
     level: 'A1-A2',
     language: 'ru'
   }
@@ -320,15 +320,20 @@ function parseRelatedTopics(content, language = 'en') {
   for (const line of lines) {
     const trimmedLine = line.trim();
     if (trimmedLine.startsWith('- ')) {
-      const topicSlug = trimmedLine.replace(/^- /, '').trim();
-      if (topicSlug) {
+      const topicTitle = trimmedLine.replace(/^- /, '').trim();
+      if (topicTitle) {
+        // Convert Russian title to slug for Russian lessons
+        const topicSlug = language === 'rus' 
+          ? convertRussianTitleToSlug(topicTitle)
+          : topicTitle.toLowerCase().replace(/\s+/g, '-');
+          
         // Generate URL based on language
         const topicUrl = language === 'rus' 
           ? `/lessons/rus/a1a2/${topicSlug}`
           : `/lessons/eng/b1b2/${topicSlug}`;
           
         topics.push({
-          name: topicSlug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase()),
+          name: topicTitle,
           slug: topicSlug,
           url: topicUrl
         });
@@ -337,6 +342,68 @@ function parseRelatedTopics(content, language = 'en') {
   }
   
   return topics;
+}
+
+/**
+ * Convert Russian lesson titles to file slugs
+ * @param {string} russianTitle - Russian title from related topics
+ * @returns {string} - Corresponding file slug
+ */
+function convertRussianTitleToSlug(russianTitle) {
+  // Mapping of Russian titles to file slugs
+  const titleToSlugMap = {
+    'Работа и профессии': 'work-professions',
+    'Образование и учеба': 'education-learning',
+    'Спорт и фитнес': 'sports-fitness',
+    'Проблемы и решения': 'problems-solutions',
+    'Семья и отношения': 'family-relationships',
+    'Еда и напитки': 'food-drinks',
+    'Транспорт и путешествия': 'transport-travel',
+    'Дом и жилье': 'home-housing',
+    'Одежда и внешность': 'clothing-appearance',
+    'Цвета и формы': 'colors-shapes',
+    'Числа и количество': 'numbers-quantity',
+    'Время и календарь': 'time-calendar',
+    'Погода и природа': 'weather-nature',
+    'Здоровье и медицина': 'medicine-health',
+    'Чувства и эмоции': 'feelings-emotions',
+    'Хобби и интересы': 'hobbies-interests',
+    'Праздники и традиции': 'holidays-traditions',
+    'Город и места': 'city-places',
+    'Технологии и компьютеры': 'technology-computers',
+    'Наука и исследования': 'science-research',
+    'Политика и право': 'politics-law',
+    'Религия и духовность': 'religion-spirituality',
+    'Искусство и культура': 'art-culture',
+    'Развлечения и медиа': 'entertainment-media',
+    'Покупки и деньги': 'shopping-money',
+    'Тело и здоровье': 'body-health',
+    'Звуки и шумы': 'sounds-noises',
+    'Вкусы и запахи': 'tastes-smells',
+    'Текстуры и ощущения': 'textures-sensations',
+    'Движения и направления': 'movement-directions',
+    'Действия и движения': 'actions-movements',
+    'Описания и качества': 'descriptions-qualities',
+    'Описания и сравнения': 'descriptions-comparisons',
+    'Измерения и сравнения': 'measurements-comparisons',
+    'Направления и местоположения': 'directions-locations',
+    'Мнения и убеждения': 'opinions-beliefs',
+    'События и случаи': 'events-occasions',
+    'Владения и принадлежности': 'possessions-belongings',
+    'Социальные взаимодействия': 'social-interactions',
+    'Отношения и социальные': 'relationships-social',
+    'Коммуникация и взаимодействие': 'communication-interaction',
+    'Коммуникация и медиа': 'communication-media',
+    'Медицинские состояния': 'medical-conditions',
+    'Личные местоимения основы': 'personal-pronouns-basics',
+    'Числа и время': 'numbers-time',
+    'Размеры и количества': 'numbers-quantities',
+    'Думать и понимать': 'thinking-understanding',
+    'Чувства эмоции комбинированные': 'feelings-emotions-combined',
+    'Транспорт и путешествия': 'transportation-travel'
+  };
+  
+  return titleToSlugMap[russianTitle] || russianTitle.toLowerCase().replace(/\s+/g, '-');
 }
 
 /**

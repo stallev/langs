@@ -14,15 +14,27 @@ export function useLessonPagination({ lessons, itemsPerPage = 8 }: UseLessonPagi
   const [currentPage, setCurrentPage] = useState(1);
   const [filterState, setFilterState] = useState<FilterState>({
     category: 'all',
+    searchQuery: '',
   });
 
-  // Filter lessons based on category only
+  // Filter lessons based on category and search query
   const filteredLessons = useMemo(() => {
     return lessons.filter(lesson => {
       const matchesCategory =
         filterState.category === 'all' || lesson.category === filterState.category;
 
-      return matchesCategory;
+      const matchesSearch =
+        filterState.searchQuery === '' ||
+        lesson.title.toLowerCase().includes(filterState.searchQuery.toLowerCase()) ||
+        lesson.titleRu.toLowerCase().includes(filterState.searchQuery.toLowerCase()) ||
+        lesson.keywords.some(
+          keyword =>
+            keyword.word.toLowerCase().includes(filterState.searchQuery.toLowerCase()) ||
+            keyword.translation.toLowerCase().includes(filterState.searchQuery.toLowerCase())
+        ) ||
+        lesson.category.toLowerCase().includes(filterState.searchQuery.toLowerCase());
+
+      return matchesCategory && matchesSearch;
     });
   }, [lessons, filterState]);
 
@@ -48,6 +60,11 @@ export function useLessonPagination({ lessons, itemsPerPage = 8 }: UseLessonPagi
     setCurrentPage(1);
   };
 
+  const handleSearchChange = (searchQuery: string) => {
+    setFilterState(prev => ({ ...prev, searchQuery }));
+    setCurrentPage(1);
+  };
+
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
   };
@@ -65,6 +82,7 @@ export function useLessonPagination({ lessons, itemsPerPage = 8 }: UseLessonPagi
     filterState,
     categories,
     handleCategoryChange,
+    handleSearchChange,
     handlePageChange,
   };
 }

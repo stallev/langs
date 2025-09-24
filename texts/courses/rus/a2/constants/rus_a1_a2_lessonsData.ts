@@ -1,6 +1,6 @@
 // Auto-generated file - do not edit manually
-// Generated on: 2025-09-21T00:06:03.579Z
-// Source: C:\github\langs\texts\eng\b1b2\rus\a2\lessonsList
+// Generated on: 2025-09-24T00:09:50.628Z
+// Source: C:\github\langs\texts\courses\rus\a2\lessonsList
 
 import type { LessonData } from '@/shared/types/lesson';
 
@@ -204,27 +204,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: математика (ж.р.), физика (ж.р.), химия (ж.р.), биология (ж.р.), история (ж.р.), география (ж.р.), литература (ж.р.)\n- **Языки**: русский язык, английский язык, французский язык, немецкий язык\n- **Глаголы обучения**: изучать, учиться, преподавать, объяснять, понимать, знать\n- **Глагол \"изучать\"**: я изучаю, ты изучаешь, он/она изучает, мы изучаем, вы изучаете, они изучают\n- **Глагол \"учиться\"**: я учусь, ты учишься, он/она учится, мы учимся, вы учитесь, они учатся\n- **Глагол \"преподавать\"**: я преподаю, ты преподаешь, он/она преподает, мы преподаем, вы преподаете, они преподают\n- **Образовательные учреждения**: школа, университет, институт, колледж, лицей, гимназия",
     "relatedTopics": [
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Time Calendar",
+        "name": "time-calendar",
         "slug": "time-calendar",
         "url": "/lessons/rus/a1a2/time-calendar"
       },
       {
-        "name": "Feelings Emotions",
+        "name": "feelings-emotions",
         "slug": "feelings-emotions",
         "url": "/lessons/rus/a1a2/feelings-emotions"
       }
@@ -406,23 +406,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Спорт и фитнес",
-        "slug": "Спорт и фитнес",
-        "url": "/lessons/rus/a1a2/Спорт и фитнес"
+        "slug": "sports-fitness",
+        "url": "/lessons/rus/a1a2/sports-fitness"
       },
       {
         "name": "Проблемы и решения",
-        "slug": "Проблемы и решения",
-        "url": "/lessons/rus/a1a2/Проблемы и решения"
+        "slug": "problems-solutions",
+        "url": "/lessons/rus/a1a2/problems-solutions"
       }
     ],
     "category": "education_development",
@@ -602,23 +602,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Спорт и фитнес",
-        "slug": "Спорт и фитнес",
-        "url": "/lessons/rus/a1a2/Спорт и фитнес"
+        "slug": "sports-fitness",
+        "url": "/lessons/rus/a1a2/sports-fitness"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Транспорт и путешествия",
-        "slug": "Транспорт и путешествия",
-        "url": "/lessons/rus/a1a2/Транспорт и путешествия"
+        "slug": "transportation-travel",
+        "url": "/lessons/rus/a1a2/transportation-travel"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       }
     ],
     "category": "language_basics",
@@ -798,23 +798,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Личностный рост",
-        "slug": "Личностный рост",
-        "url": "/lessons/rus/a1a2/Личностный рост"
+        "slug": "личностный-рост",
+        "url": "/lessons/rus/a1a2/личностный-рост"
       },
       {
         "name": "Проблемы и решения",
-        "slug": "Проблемы и решения",
-        "url": "/lessons/rus/a1a2/Проблемы и решения"
+        "slug": "problems-solutions",
+        "url": "/lessons/rus/a1a2/problems-solutions"
       },
       {
         "name": "Эмоциональный интеллект",
-        "slug": "Эмоциональный интеллект",
-        "url": "/lessons/rus/a1a2/Эмоциональный интеллект"
+        "slug": "эмоциональный-интеллект",
+        "url": "/lessons/rus/a1a2/эмоциональный-интеллект"
       },
       {
         "name": "Будущее и стремления",
-        "slug": "Будущее и стремления",
-        "url": "/lessons/rus/a1a2/Будущее и стремления"
+        "slug": "будущее-и-стремления",
+        "url": "/lessons/rus/a1a2/будущее-и-стремления"
       }
     ],
     "category": "education_development",
@@ -982,23 +982,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Чувства и эмоции",
-        "slug": "Чувства и эмоции",
-        "url": "/lessons/rus/a1a2/Чувства и эмоции"
+        "slug": "feelings-emotions",
+        "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       }
     ],
     "category": "culture_arts",
@@ -1178,23 +1178,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Роботы и автоматизация",
-        "slug": "Роботы и автоматизация",
-        "url": "/lessons/rus/a1a2/Роботы и автоматизация"
+        "slug": "роботы-и-автоматизация",
+        "url": "/lessons/rus/a1a2/роботы-и-автоматизация"
       }
     ],
     "category": "science_technology",
@@ -1374,23 +1374,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Виртуальная реальность",
-        "slug": "Виртуальная реальность",
-        "url": "/lessons/rus/a1a2/Виртуальная реальность"
+        "slug": "виртуальная-реальность",
+        "url": "/lessons/rus/a1a2/виртуальная-реальность"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Искусственный интеллект",
-        "slug": "Искусственный интеллект",
-        "url": "/lessons/rus/a1a2/Искусственный интеллект"
+        "slug": "искусственный-интеллект",
+        "url": "/lessons/rus/a1a2/искусственный-интеллект"
       }
     ],
     "category": "science_technology",
@@ -1570,23 +1570,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Финансы и криптовалюты",
-        "slug": "Финансы и криптовалюты",
-        "url": "/lessons/rus/a1a2/Финансы и криптовалюты"
+        "slug": "финансы-и-криптовалюты",
+        "url": "/lessons/rus/a1a2/финансы-и-криптовалюты"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Безопасность и конфиденциальность",
-        "slug": "Безопасность и конфиденциальность",
-        "url": "/lessons/rus/a1a2/Безопасность и конфиденциальность"
+        "slug": "безопасность-и-конфиденциальность",
+        "url": "/lessons/rus/a1a2/безопасность-и-конфиденциальность"
       }
     ],
     "category": "science_technology",
@@ -1794,23 +1794,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Медицина и здоровье",
-        "slug": "Медицина и здоровье",
-        "url": "/lessons/rus/a1a2/Медицина и здоровье"
+        "slug": "медицина-и-здоровье",
+        "url": "/lessons/rus/a1a2/медицина-и-здоровье"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Чувства и эмоции",
-        "slug": "Чувства и эмоции",
-        "url": "/lessons/rus/a1a2/Чувства и эмоции"
+        "slug": "feelings-emotions",
+        "url": "/lessons/rus/a1a2/feelings-emotions"
       }
     ],
     "category": "health_medicine",
@@ -2018,23 +2018,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Транспорт и путешествия",
-        "slug": "Транспорт и путешествия",
-        "url": "/lessons/rus/a1a2/Транспорт и путешествия"
+        "slug": "transportation-travel",
+        "url": "/lessons/rus/a1a2/transportation-travel"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Дом и жилье",
-        "slug": "Дом и жилье",
-        "url": "/lessons/rus/a1a2/Дом и жилье"
+        "slug": "home-housing",
+        "url": "/lessons/rus/a1a2/home-housing"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       }
     ],
     "category": "daily_life",
@@ -2242,23 +2242,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Цвета и размеры",
-        "slug": "Цвета и размеры",
-        "url": "/lessons/rus/a1a2/Цвета и размеры"
+        "slug": "цвета-и-размеры",
+        "url": "/lessons/rus/a1a2/цвета-и-размеры"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Дом и жилье",
-        "slug": "Дом и жилье",
-        "url": "/lessons/rus/a1a2/Дом и жилье"
+        "slug": "home-housing",
+        "url": "/lessons/rus/a1a2/home-housing"
       }
     ],
     "category": "daily_life",
@@ -2438,23 +2438,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       },
       {
         "name": "Природа и погода",
-        "slug": "Природа и погода",
-        "url": "/lessons/rus/a1a2/Природа и погода"
+        "slug": "природа-и-погода",
+        "url": "/lessons/rus/a1a2/природа-и-погода"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Хобби и интересы",
-        "slug": "Хобби и интересы",
-        "url": "/lessons/rus/a1a2/Хобби и интересы"
+        "slug": "hobbies-interests",
+        "url": "/lessons/rus/a1a2/hobbies-interests"
       }
     ],
     "category": "language_basics",
@@ -2661,27 +2661,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Согласование прилагательных**: красный дом, красная машина, красное окно, красные цветы\n- **Сравнительная степень**: больше, меньше, длиннее, короче, выше, ниже, шире, уже\n- **Превосходная степень**: самый большой, самая красивая, самое новое, самые длинные\n- **Род прилагательных**: большой (м.р.), большая (ж.р.), большое (ср.р.), большие (мн.ч.)\n- **Склонение прилагательных**: красного дома, красной машины, красному дому, красную машину\n- **Цвета**: основные цвета (красный, синий, желтый) и составные цвета (зеленый, фиолетовый, оранжевый)",
     "relatedTopics": [
       {
-        "name": "Clothing Appearance",
+        "name": "clothing-appearance",
         "slug": "clothing-appearance",
         "url": "/lessons/rus/a1a2/clothing-appearance"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/rus/a1a2/weather-nature"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       }
@@ -2863,23 +2863,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       }
     ],
     "category": "human_society",
@@ -3059,23 +3059,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       }
     ],
     "category": "human_society",
@@ -3255,23 +3255,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       }
     ],
     "category": "human_society",
@@ -3451,23 +3451,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Эмоциональный интеллект",
-        "slug": "Эмоциональный интеллект",
-        "url": "/lessons/rus/a1a2/Эмоциональный интеллект"
+        "slug": "эмоциональный-интеллект",
+        "url": "/lessons/rus/a1a2/эмоциональный-интеллект"
       },
       {
         "name": "Лидерство и влияние",
-        "slug": "Лидерство и влияние",
-        "url": "/lessons/rus/a1a2/Лидерство и влияние"
+        "slug": "лидерство-и-влияние",
+        "url": "/lessons/rus/a1a2/лидерство-и-влияние"
       },
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       }
     ],
     "category": "human_society",
@@ -3647,23 +3647,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Хобби и интересы",
-        "slug": "Хобби и интересы",
-        "url": "/lessons/rus/a1a2/Хобби и интересы"
+        "slug": "hobbies-interests",
+        "url": "/lessons/rus/a1a2/hobbies-interests"
       }
     ],
     "category": "science_technology",
@@ -3843,23 +3843,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Логика и рассуждение",
-        "slug": "Логика и рассуждение",
-        "url": "/lessons/rus/a1a2/Логика и рассуждение"
+        "slug": "логика-и-рассуждение",
+        "url": "/lessons/rus/a1a2/логика-и-рассуждение"
       },
       {
         "name": "Принятие решений",
-        "slug": "Принятие решений",
-        "url": "/lessons/rus/a1a2/Принятие решений"
+        "slug": "принятие-решений",
+        "url": "/lessons/rus/a1a2/принятие-решений"
       }
     ],
     "category": "education_development",
@@ -4039,23 +4039,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       },
       {
         "name": "Религия и духовность",
-        "slug": "Религия и духовность",
-        "url": "/lessons/rus/a1a2/Религия и духовность"
+        "slug": "religion-spirituality",
+        "url": "/lessons/rus/a1a2/religion-spirituality"
       },
       {
         "name": "Праздники и традиции",
-        "slug": "Праздники и традиции",
-        "url": "/lessons/rus/a1a2/Праздники и традиции"
+        "slug": "holidays-traditions",
+        "url": "/lessons/rus/a1a2/holidays-traditions"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       }
     ],
     "category": "human_society",
@@ -4235,23 +4235,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       },
       {
         "name": "История и традиции",
-        "slug": "История и традиции",
-        "url": "/lessons/rus/a1a2/История и традиции"
+        "slug": "история-и-традиции",
+        "url": "/lessons/rus/a1a2/история-и-традиции"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       },
       {
         "name": "Культурное разнообразие",
-        "slug": "Культурное разнообразие",
-        "url": "/lessons/rus/a1a2/Культурное разнообразие"
+        "slug": "культурное-разнообразие",
+        "url": "/lessons/rus/a1a2/культурное-разнообразие"
       }
     ],
     "category": "human_society",
@@ -4431,23 +4431,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Безопасность и конфиденциальность",
-        "slug": "Безопасность и конфиденциальность",
-        "url": "/lessons/rus/a1a2/Безопасность и конфиденциальность"
+        "slug": "безопасность-и-конфиденциальность",
+        "url": "/lessons/rus/a1a2/безопасность-и-конфиденциальность"
       },
       {
         "name": "Защита данных",
-        "slug": "Защита данных",
-        "url": "/lessons/rus/a1a2/Защита данных"
+        "slug": "защита-данных",
+        "url": "/lessons/rus/a1a2/защита-данных"
       },
       {
         "name": "Современные угрозы",
-        "slug": "Современные угрозы",
-        "url": "/lessons/rus/a1a2/Современные угрозы"
+        "slug": "современные-угрозы",
+        "url": "/lessons/rus/a1a2/современные-угрозы"
       }
     ],
     "category": "science_technology",
@@ -4739,23 +4739,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Дом и жилье",
-        "slug": "Дом и жилье",
-        "url": "/lessons/rus/a1a2/Дом и жилье"
+        "slug": "home-housing",
+        "url": "/lessons/rus/a1a2/home-housing"
       },
       {
         "name": "Время и календарь",
-        "slug": "Время и календарь",
-        "url": "/lessons/rus/a1a2/Время и календарь"
+        "slug": "time-calendar",
+        "url": "/lessons/rus/a1a2/time-calendar"
       }
     ],
     "category": "daily_life",
@@ -4935,23 +4935,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Кибербезопасность",
-        "slug": "Кибербезопасность",
-        "url": "/lessons/rus/a1a2/Кибербезопасность"
+        "slug": "кибербезопасность",
+        "url": "/lessons/rus/a1a2/кибербезопасность"
       },
       {
         "name": "Безопасность и конфиденциальность",
-        "slug": "Безопасность и конфиденциальность",
-        "url": "/lessons/rus/a1a2/Безопасность и конфиденциальность"
+        "slug": "безопасность-и-конфиденциальность",
+        "url": "/lessons/rus/a1a2/безопасность-и-конфиденциальность"
       },
       {
         "name": "Защита данных",
-        "slug": "Защита данных",
-        "url": "/lessons/rus/a1a2/Защита данных"
+        "slug": "защита-данных",
+        "url": "/lessons/rus/a1a2/защита-данных"
       },
       {
         "name": "Права и обязанности",
-        "slug": "Права и обязанности",
-        "url": "/lessons/rus/a1a2/Права и обязанности"
+        "slug": "права-и-обязанности",
+        "url": "/lessons/rus/a1a2/права-и-обязанности"
       }
     ],
     "category": "science_technology",
@@ -5158,29 +5158,29 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Согласование прилагательных**: красивый дом, красивая машина, красивое окно, красивые цветы\n- **Сравнительная степень**: красивее, умнее, добрее, веселее, грустнее, злее, усталее, счастливее\n- **Превосходная степень**: самый красивый, самая умная, самое доброе, самые веселые\n- **Род прилагательных**: красивый (м.р.), красивая (ж.р.), красивое (ср.р.), красивые (мн.ч.)\n- **Склонение прилагательных**: красивого дома, красивой машины, красивому дому, красивую машину\n- **Сравнительные конструкции**: \"более красивый\", \"менее умный\", \"так же добрый\", \"столь же веселый\"",
     "relatedTopics": [
       {
-        "name": "Colors Sizes",
+        "name": "colors-sizes",
         "slug": "colors-sizes",
         "url": "/lessons/rus/a1a2/colors-sizes"
       },
       {
-        "name": "Feelings Emotions",
+        "name": "feelings-emotions",
         "slug": "feelings-emotions",
         "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       }
     ],
     "category": "language_basics",
@@ -5360,23 +5360,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Измерения и сравнения",
-        "slug": "Измерения и сравнения",
-        "url": "/lessons/rus/a1a2/Измерения и сравнения"
+        "slug": "measurements-comparisons",
+        "url": "/lessons/rus/a1a2/measurements-comparisons"
       },
       {
         "name": "Цвета и формы",
-        "slug": "Цвета и формы",
-        "url": "/lessons/rus/a1a2/Цвета и формы"
+        "slug": "colors-shapes",
+        "url": "/lessons/rus/a1a2/colors-shapes"
       },
       {
         "name": "Эмоции и чувства",
-        "slug": "Эмоции и чувства",
-        "url": "/lessons/rus/a1a2/Эмоции и чувства"
+        "slug": "эмоции-и-чувства",
+        "url": "/lessons/rus/a1a2/эмоции-и-чувства"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       }
     ],
     "category": "language_basics",
@@ -5556,23 +5556,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       },
       {
         "name": "Цифровая грамотность",
-        "slug": "Цифровая грамотность",
-        "url": "/lessons/rus/a1a2/Цифровая грамотность"
+        "slug": "цифровая-грамотность",
+        "url": "/lessons/rus/a1a2/цифровая-грамотность"
       },
       {
         "name": "Ответственность и права",
-        "slug": "Ответственность и права",
-        "url": "/lessons/rus/a1a2/Ответственность и права"
+        "slug": "ответственность-и-права",
+        "url": "/lessons/rus/a1a2/ответственность-и-права"
       },
       {
         "name": "Современный мир",
-        "slug": "Современный мир",
-        "url": "/lessons/rus/a1a2/Современный мир"
+        "slug": "современный-мир",
+        "url": "/lessons/rus/a1a2/современный-мир"
       }
     ],
     "category": "science_technology",
@@ -5752,23 +5752,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Безопасность и конфиденциальность",
-        "slug": "Безопасность и конфиденциальность",
-        "url": "/lessons/rus/a1a2/Безопасность и конфиденциальность"
+        "slug": "безопасность-и-конфиденциальность",
+        "url": "/lessons/rus/a1a2/безопасность-и-конфиденциальность"
       },
       {
         "name": "Современный мир",
-        "slug": "Современный мир",
-        "url": "/lessons/rus/a1a2/Современный мир"
+        "slug": "современный-мир",
+        "url": "/lessons/rus/a1a2/современный-мир"
       }
     ],
     "category": "science_technology",
@@ -5948,23 +5948,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Инновации и прогресс",
-        "slug": "Инновации и прогресс",
-        "url": "/lessons/rus/a1a2/Инновации и прогресс"
+        "slug": "инновации-и-прогресс",
+        "url": "/lessons/rus/a1a2/инновации-и-прогресс"
       },
       {
         "name": "Организации и управление",
-        "slug": "Организации и управление",
-        "url": "/lessons/rus/a1a2/Организации и управление"
+        "slug": "организации-и-управление",
+        "url": "/lessons/rus/a1a2/организации-и-управление"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       }
     ],
     "category": "science_technology",
@@ -6144,23 +6144,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Город и места",
-        "slug": "Город и места",
-        "url": "/lessons/rus/a1a2/Город и места"
+        "slug": "city-places",
+        "url": "/lessons/rus/a1a2/city-places"
       },
       {
         "name": "Путешествия и транспорт",
-        "slug": "Путешествия и транспорт",
-        "url": "/lessons/rus/a1a2/Путешествия и транспорт"
+        "slug": "путешествия-и-транспорт",
+        "url": "/lessons/rus/a1a2/путешествия-и-транспорт"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       }
     ],
     "category": "language_basics",
@@ -6340,23 +6340,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       }
     ],
     "category": "education_development",
@@ -6536,23 +6536,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Эмоции и чувства",
-        "slug": "Эмоции и чувства",
-        "url": "/lessons/rus/a1a2/Эмоции и чувства"
+        "slug": "эмоции-и-чувства",
+        "url": "/lessons/rus/a1a2/эмоции-и-чувства"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Психология и поведение",
-        "slug": "Психология и поведение",
-        "url": "/lessons/rus/a1a2/Психология и поведение"
+        "slug": "психология-и-поведение",
+        "url": "/lessons/rus/a1a2/психология-и-поведение"
       },
       {
         "name": "Личностный рост",
-        "slug": "Личностный рост",
-        "url": "/lessons/rus/a1a2/Личностный рост"
+        "slug": "личностный-рост",
+        "url": "/lessons/rus/a1a2/личностный-рост"
       }
     ],
     "category": "human_society",
@@ -6732,23 +6732,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       }
     ],
     "category": "human_society",
@@ -6946,23 +6946,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Дом и жилье",
-        "slug": "Дом и жилье",
-        "url": "/lessons/rus/a1a2/Дом и жилье"
+        "slug": "home-housing",
+        "url": "/lessons/rus/a1a2/home-housing"
       },
       {
         "name": "Чувства и эмоции",
-        "slug": "Чувства и эмоции",
-        "url": "/lessons/rus/a1a2/Чувства и эмоции"
+        "slug": "feelings-emotions",
+        "url": "/lessons/rus/a1a2/feelings-emotions"
       }
     ],
     "category": "culture_arts",
@@ -7142,23 +7142,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Творчество и инновации",
-        "slug": "Творчество и инновации",
-        "url": "/lessons/rus/a1a2/Творчество и инновации"
+        "slug": "творчество-и-инновации",
+        "url": "/lessons/rus/a1a2/творчество-и-инновации"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Достижения и цели",
-        "slug": "Достижения и цели",
-        "url": "/lessons/rus/a1a2/Достижения и цели"
+        "slug": "достижения-и-цели",
+        "url": "/lessons/rus/a1a2/достижения-и-цели"
       }
     ],
     "category": "science_technology",
@@ -7338,23 +7338,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Религия и духовность",
-        "slug": "Религия и духовность",
-        "url": "/lessons/rus/a1a2/Религия и духовность"
+        "slug": "religion-spirituality",
+        "url": "/lessons/rus/a1a2/religion-spirituality"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       }
     ],
     "category": "human_society",
@@ -7534,23 +7534,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Праздники и традиции",
-        "slug": "Праздники и традиции",
-        "url": "/lessons/rus/a1a2/Праздники и традиции"
+        "slug": "holidays-traditions",
+        "url": "/lessons/rus/a1a2/holidays-traditions"
       },
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       }
     ],
     "category": "daily_life",
@@ -7753,27 +7753,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: семья (ж.р.), брат (м.р.), сестра (ж.р.), бабушка (ж.р.), дедушка (м.р.)\n- **Склонение**: \"у меня есть\" + именительный падеж (у меня есть брат, у меня есть сестра)\n- **Глагол \"любить\"**: я люблю, ты любишь, он/она любит, мы любим, вы любите, они любят\n- **Наречие \"вместе\"**: не изменяется, отвечает на вопрос \"как?\"\n- **Притяжательные местоимения**: мой, моя, мое, мои (мой брат, моя сестра, мое имя, мои друзья)",
     "relatedTopics": [
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Feelings Emotions",
+        "name": "feelings-emotions",
         "slug": "feelings-emotions",
         "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       }
@@ -7982,27 +7982,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Глаголы чувств**: любить, ненавидеть, хотеть, мочь, должен\n- **Глагол \"любить\"**: я люблю, ты любишь, он/она любит, мы любим, вы любите, они любят\n- **Глагол \"хотеть\"**: я хочу, ты хочешь, он/она хочет, мы хотим, вы хотите, они хотят\n- **Глагол \"мочь\"**: я могу, ты можешь, он/она может, мы можем, вы можете, они могут\n- **Глагол \"должен\"**: я должен, ты должен, он/она должен, мы должны, вы должны, они должны\n- **Выражение чувств**: \"Мне радостно\", \"Мне грустно\", \"Мне страшно\", \"Мне весело\"",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       }
@@ -8211,27 +8211,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: радость (ж.р.), грусть (ж.р.), злость (ж.р.), страх (м.р.), любовь (ж.р.), счастье (ср.р.)\n- **Согласование прилагательных**: рад (м.р.), рада (ж.р.), радо (ср.р.), рады (мн.ч.)\n- **Глаголы чувств**: радоваться, грустить, злиться, бояться, любить, ненавидеть\n- **Выражение чувств**: \"Мне радостно\", \"Мне грустно\", \"Мне страшно\", \"Мне весело\"\n- **Эмоциональные состояния**: счастливый, грустный, веселый, злой, усталый, больной\n- **Интенсивность чувств**: очень рад, немного грустно, совсем злой, очень счастлив",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       }
@@ -8441,23 +8441,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Дом и жилье",
-        "slug": "Дом и жилье",
-        "url": "/lessons/rus/a1a2/Дом и жилье"
+        "slug": "home-housing",
+        "url": "/lessons/rus/a1a2/home-housing"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       }
     ],
     "category": "daily_life",
@@ -8637,23 +8637,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Достижения и цели",
-        "slug": "Достижения и цели",
-        "url": "/lessons/rus/a1a2/Достижения и цели"
+        "slug": "достижения-и-цели",
+        "url": "/lessons/rus/a1a2/достижения-и-цели"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Личностный рост",
-        "slug": "Личностный рост",
-        "url": "/lessons/rus/a1a2/Личностный рост"
+        "slug": "личностный-рост",
+        "url": "/lessons/rus/a1a2/личностный-рост"
       }
     ],
     "category": "education_development",
@@ -8833,23 +8833,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Инновации и прогресс",
-        "slug": "Инновации и прогресс",
-        "url": "/lessons/rus/a1a2/Инновации и прогресс"
+        "slug": "инновации-и-прогресс",
+        "url": "/lessons/rus/a1a2/инновации-и-прогресс"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       }
     ],
     "category": "science_technology",
@@ -9029,23 +9029,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Навыки и компетенции",
-        "slug": "Навыки и компетенции",
-        "url": "/lessons/rus/a1a2/Навыки и компетенции"
+        "slug": "навыки-и-компетенции",
+        "url": "/lessons/rus/a1a2/навыки-и-компетенции"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       }
     ],
     "category": "economics_business",
@@ -9225,23 +9225,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Глобальные проблемы",
-        "slug": "Глобальные проблемы",
-        "url": "/lessons/rus/a1a2/Глобальные проблемы"
+        "slug": "глобальные-проблемы",
+        "url": "/lessons/rus/a1a2/глобальные-проблемы"
       },
       {
         "name": "Культурное разнообразие",
-        "slug": "Культурное разнообразие",
-        "url": "/lessons/rus/a1a2/Культурное разнообразие"
+        "slug": "культурное-разнообразие",
+        "url": "/lessons/rus/a1a2/культурное-разнообразие"
       },
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       }
     ],
     "category": "human_society",
@@ -9421,23 +9421,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Культурное разнообразие",
-        "slug": "Культурное разнообразие",
-        "url": "/lessons/rus/a1a2/Культурное разнообразие"
+        "slug": "культурное-разнообразие",
+        "url": "/lessons/rus/a1a2/культурное-разнообразие"
       },
       {
         "name": "Глобальное гражданство",
-        "slug": "Глобальное гражданство",
-        "url": "/lessons/rus/a1a2/Глобальное гражданство"
+        "slug": "глобальное-гражданство",
+        "url": "/lessons/rus/a1a2/глобальное-гражданство"
       },
       {
         "name": "Языки и переводы",
-        "slug": "Языки и переводы",
-        "url": "/lessons/rus/a1a2/Языки и переводы"
+        "slug": "языки-и-переводы",
+        "url": "/lessons/rus/a1a2/языки-и-переводы"
       }
     ],
     "category": "human_society",
@@ -9617,23 +9617,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Глобальные проблемы",
-        "slug": "Глобальные проблемы",
-        "url": "/lessons/rus/a1a2/Глобальные проблемы"
+        "slug": "глобальные-проблемы",
+        "url": "/lessons/rus/a1a2/глобальные-проблемы"
       },
       {
         "name": "Предпринимательство и инновации",
-        "slug": "Предпринимательство и инновации",
-        "url": "/lessons/rus/a1a2/Предпринимательство и инновации"
+        "slug": "предпринимательство-и-инновации",
+        "url": "/lessons/rus/a1a2/предпринимательство-и-инновации"
       }
     ],
     "category": "economics_business",
@@ -9813,23 +9813,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Политика и право",
-        "slug": "Политика и право",
-        "url": "/lessons/rus/a1a2/Политика и право"
+        "slug": "politics-law",
+        "url": "/lessons/rus/a1a2/politics-law"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Экология и окружающая среда",
-        "slug": "Экология и окружающая среда",
-        "url": "/lessons/rus/a1a2/Экология и окружающая среда"
+        "slug": "экология-и-окружающая-среда",
+        "url": "/lessons/rus/a1a2/экология-и-окружающая-среда"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       }
     ],
     "category": "human_society",
@@ -10009,23 +10009,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       }
     ],
     "category": "daily_life",
@@ -10193,23 +10193,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Дом и жилье",
-        "slug": "Дом и жилье",
-        "url": "/lessons/rus/a1a2/Дом и жилье"
+        "slug": "home-housing",
+        "url": "/lessons/rus/a1a2/home-housing"
       },
       {
         "name": "Чувства и эмоции",
-        "slug": "Чувства и эмоции",
-        "url": "/lessons/rus/a1a2/Чувства и эмоции"
+        "slug": "feelings-emotions",
+        "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       }
     ],
     "category": "human_society",
@@ -10412,27 +10412,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: дом (м.р.), квартира (ж.р.), комната (ж.р.), кухня (ж.р.), ванна (ж.р.)\n- **Предложный падеж**: \"в доме\", \"в квартире\", \"в комнате\", \"на кухне\", \"в ванне\"\n- **Винительный падеж**: \"вижу дом\", \"открываю дверь\", \"мою пол\"\n- **Родительный падеж**: \"нет стола\", \"без стула\", \"из окна\"\n- **Местонахождение**: \"в\" + предложный падеж (в доме, в комнате, на кухне)",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Food Drinks",
+        "name": "food-drinks",
         "slug": "food-drinks",
         "url": "/lessons/rus/a1a2/food-drinks"
       },
       {
-        "name": "Clothing Appearance",
+        "name": "clothing-appearance",
         "slug": "clothing-appearance",
         "url": "/lessons/rus/a1a2/clothing-appearance"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       }
@@ -10614,23 +10614,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       }
     ],
     "category": "science_technology",
@@ -10810,23 +10810,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Автоматизация и роботы",
-        "slug": "Автоматизация и роботы",
-        "url": "/lessons/rus/a1a2/Автоматизация и роботы"
+        "slug": "автоматизация-и-роботы",
+        "url": "/lessons/rus/a1a2/автоматизация-и-роботы"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Умные дома и города",
-        "slug": "Умные дома и города",
-        "url": "/lessons/rus/a1a2/Умные дома и города"
+        "slug": "умные-дома-и-города",
+        "url": "/lessons/rus/a1a2/умные-дома-и-города"
       }
     ],
     "category": "science_technology",
@@ -11006,23 +11006,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Достижения и цели",
-        "slug": "Достижения и цели",
-        "url": "/lessons/rus/a1a2/Достижения и цели"
+        "slug": "достижения-и-цели",
+        "url": "/lessons/rus/a1a2/достижения-и-цели"
       },
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       }
     ],
     "category": "human_society",
@@ -11202,23 +11202,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Числа и количества",
-        "slug": "Числа и количества",
-        "url": "/lessons/rus/a1a2/Числа и количества"
+        "slug": "числа-и-количества",
+        "url": "/lessons/rus/a1a2/числа-и-количества"
       },
       {
         "name": "Цвета и формы",
-        "slug": "Цвета и формы",
-        "url": "/lessons/rus/a1a2/Цвета и формы"
+        "slug": "colors-shapes",
+        "url": "/lessons/rus/a1a2/colors-shapes"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       }
     ],
     "category": "language_basics",
@@ -11425,27 +11425,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: простуда (ж.р.), грипп (м.р.), головная боль (ж.р.), температура (ж.р.), кашель (м.р.), насморк (м.р.), боль (ж.р.), болезнь (ж.р.), здоровье (ср.р.)\n- **Глаголы болезней**: болеть, заболевать, выздоравливать, лечиться\n- **Глагол \"болеть\"**: я болею, ты болеешь, он/она болеет, мы болеем, вы болеете, они болеют\n- **Глагол \"выздоравливать\"**: я выздоравливаю, ты выздоравливаешь, он/она выздоравливает, мы выздоравливаем, вы выздоравливаете, они выздоравливают\n- **Медицинские термины**: диагноз, симптом, лечение, профилактика, реабилитация\n- **Части тела**: голова, горло, нос, грудь, живот, спина, рука, нога",
     "relatedTopics": [
       {
-        "name": "Body Health",
+        "name": "body-health",
         "slug": "body-health",
         "url": "/lessons/rus/a1a2/body-health"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       }
@@ -11625,23 +11625,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Тело и здоровье",
-        "slug": "Тело и здоровье",
-        "url": "/lessons/rus/a1a2/Тело и здоровье"
+        "slug": "body-health",
+        "url": "/lessons/rus/a1a2/body-health"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Чувства и эмоции",
-        "slug": "Чувства и эмоции",
-        "url": "/lessons/rus/a1a2/Чувства и эмоции"
+        "slug": "feelings-emotions",
+        "url": "/lessons/rus/a1a2/feelings-emotions"
       }
     ],
     "category": "health_medicine",
@@ -11848,27 +11848,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Глаголы движения**: идти, ехать, бежать, лететь, плыть\n- **Глаголы положения**: сидеть, стоять, лежать\n- **Глаголы изменения положения**: вставать, садиться, выходить, входить\n- **Глаголы открытия/закрытия**: открывать, закрывать\n- **Направления движения**: в, на, из, от, к, до\n- **Способы передвижения**: пешком, на автобусе, на машине, на поезде, на самолете",
     "relatedTopics": [
       {
-        "name": "Transport Travel",
+        "name": "transport-travel",
         "slug": "transport-travel",
         "url": "/lessons/rus/a1a2/transport-travel"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Sports Recreation",
+        "name": "sports-recreation",
         "slug": "sports-recreation",
         "url": "/lessons/rus/a1a2/sports-recreation"
       },
       {
-        "name": "City Places",
+        "name": "city-places",
         "slug": "city-places",
         "url": "/lessons/rus/a1a2/city-places"
       }
@@ -12050,23 +12050,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Время и календарь",
-        "slug": "Время и календарь",
-        "url": "/lessons/rus/a1a2/Время и календарь"
+        "slug": "time-calendar",
+        "url": "/lessons/rus/a1a2/time-calendar"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       }
     ],
     "category": "language_basics",
@@ -12273,27 +12273,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Числительные**: один, два, три, четыре, пять, шесть, семь, восемь, девять, десять\n- **Склонение числительных**: одного, двух, трех, четырех, пяти\n- **Согласование с существительными**: один дом, две машины, три книги, четыре стола, пять стульев\n- **Порядковые числительные**: первый, второй, третий, четвертый, пятый\n- **Количественные числительные**: один, два, три, четыре, пять\n- **Дробные числа**: половина, треть, четверть, целое\n- **Математические действия**: плюс, минус, умножить, разделить, равно",
     "relatedTopics": [
       {
-        "name": "Time Calendar",
+        "name": "time-calendar",
         "slug": "time-calendar",
         "url": "/lessons/rus/a1a2/time-calendar"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Transport Travel",
+        "name": "transport-travel",
         "slug": "transport-travel",
         "url": "/lessons/rus/a1a2/transport-travel"
       }
@@ -12502,27 +12502,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Числительные**: один, два, три, четыре, пять, шесть, семь, восемь, девять, десять\n- **Склонение числительных**: одного, двух, трех, четырех, пяти\n- **Согласование с существительными**: один дом, две машины, три книги, четыре стола, пять стульев\n- **Порядковые числительные**: первый, второй, третий, четвертый, пятый\n- **Количественные числительные**: один, два, три, четыре, пять\n- **Время**: час, минута, секунда, день, неделя, месяц, год\n- **Вопросы времени**: \"Который час?\", \"Сколько времени?\", \"Когда?\"",
     "relatedTopics": [
       {
-        "name": "Time Calendar",
+        "name": "time-calendar",
         "slug": "time-calendar",
         "url": "/lessons/rus/a1a2/time-calendar"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Transport Travel",
+        "name": "transport-travel",
         "slug": "transport-travel",
         "url": "/lessons/rus/a1a2/transport-travel"
       }
@@ -12704,23 +12704,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Политика и право",
-        "slug": "Политика и право",
-        "url": "/lessons/rus/a1a2/Политика и право"
+        "slug": "politics-law",
+        "url": "/lessons/rus/a1a2/politics-law"
       }
     ],
     "category": "language_basics",
@@ -12900,23 +12900,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Достижения и цели",
-        "slug": "Достижения и цели",
-        "url": "/lessons/rus/a1a2/Достижения и цели"
+        "slug": "достижения-и-цели",
+        "url": "/lessons/rus/a1a2/достижения-и-цели"
       },
       {
         "name": "Будущее и стремления",
-        "slug": "Будущее и стремления",
-        "url": "/lessons/rus/a1a2/Будущее и стремления"
+        "slug": "будущее-и-стремления",
+        "url": "/lessons/rus/a1a2/будущее-и-стремления"
       }
     ],
     "category": "education_development",
@@ -13123,27 +13123,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Личные местоимения**: я, ты, он, она, оно, мы, вы, они\n- **Притяжательные местоимения**: мой, моя, мое, мои; твой, твоя, твое, твои; наш, наша, наше, наши\n- **Возвратные местоимения**: себя, себе, собой, о себе\n- **Указательные местоимения**: этот, эта, это, эти; тот, та, то, те\n- **Склонение местоимений**: меня, тебя, его, её, нас, вас, их\n- **Род местоимений**: он (м.р.), она (ж.р.), оно (ср.р.), они (мн.ч.)",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Feelings Emotions",
+        "name": "feelings-emotions",
         "slug": "feelings-emotions",
         "url": "/lessons/rus/a1a2/feelings-emotions"
       }
@@ -13323,23 +13323,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Город и места",
-        "slug": "Город и места",
-        "url": "/lessons/rus/a1a2/Город и места"
+        "slug": "city-places",
+        "url": "/lessons/rus/a1a2/city-places"
       }
     ],
     "category": "politics_law",
@@ -13519,23 +13519,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Покупки и деньги",
-        "slug": "Покупки и деньги",
-        "url": "/lessons/rus/a1a2/Покупки и деньги"
+        "slug": "shopping-money",
+        "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       }
     ],
     "category": "daily_life",
@@ -13715,23 +13715,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       }
     ],
     "category": "education_development",
@@ -13911,23 +13911,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Искусственный интеллект",
-        "slug": "Искусственный интеллект",
-        "url": "/lessons/rus/a1a2/Искусственный интеллект"
+        "slug": "искусственный-интеллект",
+        "url": "/lessons/rus/a1a2/искусственный-интеллект"
       }
     ],
     "category": "science_technology",
@@ -14107,23 +14107,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       }
     ],
     "category": "human_society",
@@ -14301,23 +14301,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Праздники и традиции",
-        "slug": "Праздники и традиции",
-        "url": "/lessons/rus/a1a2/Праздники и традиции"
+        "slug": "holidays-traditions",
+        "url": "/lessons/rus/a1a2/holidays-traditions"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Чувства и эмоции",
-        "slug": "Чувства и эмоции",
-        "url": "/lessons/rus/a1a2/Чувства и эмоции"
+        "slug": "feelings-emotions",
+        "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
         "name": "Искусство и культура",
-        "slug": "Искусство и культура",
-        "url": "/lessons/rus/a1a2/Искусство и культура"
+        "slug": "art-culture",
+        "url": "/lessons/rus/a1a2/art-culture"
       }
     ],
     "category": "human_society",
@@ -14475,23 +14475,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Медицина и здоровье",
-        "slug": "Медицина и здоровье",
-        "url": "/lessons/rus/a1a2/Медицина и здоровье"
+        "slug": "медицина-и-здоровье",
+        "url": "/lessons/rus/a1a2/медицина-и-здоровье"
       }
     ],
     "category": "science_technology",
@@ -14671,23 +14671,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Город и места",
-        "slug": "Город и места",
-        "url": "/lessons/rus/a1a2/Город и места"
+        "slug": "city-places",
+        "url": "/lessons/rus/a1a2/city-places"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       }
     ],
     "category": "daily_life",
@@ -14867,23 +14867,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Город и места",
-        "slug": "Город и места",
-        "url": "/lessons/rus/a1a2/Город и места"
+        "slug": "city-places",
+        "url": "/lessons/rus/a1a2/city-places"
       },
       {
         "name": "Устойчивое развитие",
-        "slug": "Устойчивое развитие",
-        "url": "/lessons/rus/a1a2/Устойчивое развитие"
+        "slug": "устойчивое-развитие",
+        "url": "/lessons/rus/a1a2/устойчивое-развитие"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       }
     ],
     "category": "science_technology",
@@ -15090,27 +15090,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Глаголы помощи**: помогать, содействовать, поддерживать\n- **Глаголы общения**: звонить, писать, говорить, слушать, спрашивать, отвечать\n- **Глаголы понимания**: понимать, знать, думать, помнить, забывать\n- **Глагол \"помогать\"**: я помогаю, ты помогаешь, он/она помогает, мы помогаем, вы помогаете, они помогают\n- **Глагол \"звонить\"**: я звоню, ты звонишь, он/она звонит, мы звоним, вы звоните, они звонят\n- **Глагол \"писать\"**: я пишу, ты пишешь, он/она пишет, мы пишем, вы пишете, они пишут\n- **Прямая речь**: \"Я говорю: 'Привет!'\" (I say: \"Hello!\")\n- **Косвенная речь**: \"Он говорит, что работает.\" (He says that he works.)",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Feelings Emotions",
+        "name": "feelings-emotions",
         "slug": "feelings-emotions",
         "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/rus/a1a2/technology-innovation"
       }
@@ -15292,23 +15292,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       },
       {
         "name": "Сообщество и служение",
-        "slug": "Сообщество и служение",
-        "url": "/lessons/rus/a1a2/Сообщество и служение"
+        "slug": "сообщество-и-служение",
+        "url": "/lessons/rus/a1a2/сообщество-и-служение"
       },
       {
         "name": "Глобальное гражданство",
-        "slug": "Глобальное гражданство",
-        "url": "/lessons/rus/a1a2/Глобальное гражданство"
+        "slug": "глобальное-гражданство",
+        "url": "/lessons/rus/a1a2/глобальное-гражданство"
       },
       {
         "name": "Общество и культура",
-        "slug": "Общество и культура",
-        "url": "/lessons/rus/a1a2/Общество и культура"
+        "slug": "общество-и-культура",
+        "url": "/lessons/rus/a1a2/общество-и-культура"
       }
     ],
     "category": "human_society",
@@ -15515,27 +15515,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: звук (м.р.), шум (м.р.), голос (м.р.), музыка (ж.р.), тишина (ж.р.)\n- **Наречия**: громко, тихо, громче, тише\n- **Глаголы звуков**: кричать, шептать, слушать, слышать, говорить, петь\n- **Глагол \"слушать\"**: я слушаю, ты слушаешь, он/она слушает, мы слушаем, вы слушаете, они слушают\n- **Глагол \"слышать\"**: я слышу, ты слышишь, он/она слышит, мы слышим, вы слышите, они слышат\n- **Глагол \"петь\"**: я пою, ты поешь, он/она поет, мы поем, вы поете, они поют\n- **Сравнительная степень**: громче, тише, лучше, хуже",
     "relatedTopics": [
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       }
@@ -15717,23 +15717,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Природа и окружающая среда",
-        "slug": "Природа и окружающая среда",
-        "url": "/lessons/rus/a1a2/Природа и окружающая среда"
+        "slug": "природа-и-окружающая-среда",
+        "url": "/lessons/rus/a1a2/природа-и-окружающая-среда"
       }
     ],
     "category": "science_technology",
@@ -15913,23 +15913,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       }
     ],
     "category": "culture_arts",
@@ -16109,23 +16109,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Природа и погода",
-        "slug": "Природа и погода",
-        "url": "/lessons/rus/a1a2/Природа и погода"
+        "slug": "природа-и-погода",
+        "url": "/lessons/rus/a1a2/природа-и-погода"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       },
       {
         "name": "Глобальные проблемы",
-        "slug": "Глобальные проблемы",
-        "url": "/lessons/rus/a1a2/Глобальные проблемы"
+        "slug": "глобальные-проблемы",
+        "url": "/lessons/rus/a1a2/глобальные-проблемы"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       }
     ],
     "category": "nature_environment",
@@ -16305,23 +16305,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Экология и окружающая среда",
-        "slug": "Экология и окружающая среда",
-        "url": "/lessons/rus/a1a2/Экология и окружающая среда"
+        "slug": "экология-и-окружающая-среда",
+        "url": "/lessons/rus/a1a2/экология-и-окружающая-среда"
       },
       {
         "name": "Глобальные проблемы",
-        "slug": "Глобальные проблемы",
-        "url": "/lessons/rus/a1a2/Глобальные проблемы"
+        "slug": "глобальные-проблемы",
+        "url": "/lessons/rus/a1a2/глобальные-проблемы"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Наука и исследования",
-        "slug": "Наука и исследования",
-        "url": "/lessons/rus/a1a2/Наука и исследования"
+        "slug": "science-research",
+        "url": "/lessons/rus/a1a2/science-research"
       }
     ],
     "category": "nature_environment",
@@ -16528,27 +16528,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: вкус (м.р.), запах (м.р.), аромат (м.р.), еда (ж.р.)\n- **Согласование прилагательных**: сладкий торт, сладкая конфета, сладкое мороженое, сладкие фрукты\n- **Глагол \"пахнуть\"**: я пахну, ты пахнешь, он/она пахнет, мы пахнем, вы пахнете, они пахнут\n- **Глагол \"готовить\"**: я готовлю, ты готовишь, он/она готовит, мы готовим, вы готовите, они готовят\n- **Глагол \"пить\"**: я пью, ты пьешь, он/она пьет, мы пьем, вы пьете, они пьют\n- **Вкусовые качества**: сладкий, кислый, горький, соленый, острый, пресный\n- **Температурные качества**: горячий, теплый, прохладный, холодный",
     "relatedTopics": [
       {
-        "name": "Food Drinks",
+        "name": "food-drinks",
         "slug": "food-drinks",
         "url": "/lessons/rus/a1a2/food-drinks"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       }
@@ -16730,23 +16730,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Лидерство и влияние",
-        "slug": "Лидерство и влияние",
-        "url": "/lessons/rus/a1a2/Лидерство и влияние"
+        "slug": "лидерство-и-влияние",
+        "url": "/lessons/rus/a1a2/лидерство-и-влияние"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Достижения и цели",
-        "slug": "Достижения и цели",
-        "url": "/lessons/rus/a1a2/Достижения и цели"
+        "slug": "достижения-и-цели",
+        "url": "/lessons/rus/a1a2/достижения-и-цели"
       }
     ],
     "category": "human_society",
@@ -16926,23 +16926,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Общение и взаимодействие",
-        "slug": "Общение и взаимодействие",
-        "url": "/lessons/rus/a1a2/Общение и взаимодействие"
+        "slug": "общение-и-взаимодействие",
+        "url": "/lessons/rus/a1a2/общение-и-взаимодействие"
       }
     ],
     "category": "science_technology",
@@ -17122,23 +17122,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Этика и ценности",
-        "slug": "Этика и ценности",
-        "url": "/lessons/rus/a1a2/Этика и ценности"
+        "slug": "этика-и-ценности",
+        "url": "/lessons/rus/a1a2/этика-и-ценности"
       },
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Ответственность и права",
-        "slug": "Ответственность и права",
-        "url": "/lessons/rus/a1a2/Ответственность и права"
+        "slug": "ответственность-и-права",
+        "url": "/lessons/rus/a1a2/ответственность-и-права"
       },
       {
         "name": "Современный мир",
-        "slug": "Современный мир",
-        "url": "/lessons/rus/a1a2/Современный мир"
+        "slug": "современный-мир",
+        "url": "/lessons/rus/a1a2/современный-мир"
       }
     ],
     "category": "science_technology",
@@ -17318,23 +17318,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Современный мир",
-        "slug": "Современный мир",
-        "url": "/lessons/rus/a1a2/Современный мир"
+        "slug": "современный-мир",
+        "url": "/lessons/rus/a1a2/современный-мир"
       },
       {
         "name": "Развитие и прогресс",
-        "slug": "Развитие и прогресс",
-        "url": "/lessons/rus/a1a2/Развитие и прогресс"
+        "slug": "развитие-и-прогресс",
+        "url": "/lessons/rus/a1a2/развитие-и-прогресс"
       },
       {
         "name": "Инновации и творчество",
-        "slug": "Инновации и творчество",
-        "url": "/lessons/rus/a1a2/Инновации и творчество"
+        "slug": "инновации-и-творчество",
+        "url": "/lessons/rus/a1a2/инновации-и-творчество"
       }
     ],
     "category": "science_technology",
@@ -17541,29 +17541,29 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Согласование прилагательных**: мягкий диван, мягкая подушка, мягкое одеяло, мягкие игрушки\n- **Сравнительная степень**: мягче, тверже, глаже, шершавее, мокрее, суше, горячее, холоднее\n- **Превосходная степень**: самый мягкий, самая твердая, самое гладкое, самые шершавые\n- **Род прилагательных**: мягкий (м.р.), мягкая (ж.р.), мягкое (ср.р.), мягкие (мн.ч.)\n- **Склонение прилагательных**: мягкого дивана, мягкой подушки, мягкому дивану, мягкую подушку\n- **Текстуры**: мягкий, твердый, гладкий, шершавый, шероховатый, бархатистый\n- **Состояния**: мокрый, сухой, влажный, сырой, горячий, холодный, теплый, прохладный",
     "relatedTopics": [
       {
-        "name": "Clothing Appearance",
+        "name": "clothing-appearance",
         "slug": "clothing-appearance",
         "url": "/lessons/rus/a1a2/clothing-appearance"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/rus/a1a2/home-housing"
       },
       {
-        "name": "Food Drinks",
+        "name": "food-drinks",
         "slug": "food-drinks",
         "url": "/lessons/rus/a1a2/food-drinks"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       }
     ],
     "category": "language_basics",
@@ -17770,27 +17770,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Глаголы мышления**: думать, понимать, знать, помнить, забывать\n- **Глаголы обучения**: изучать, учиться, объяснять, показывать\n- **Глаголы поиска**: искать, находить, решать, считать\n- **Глагол \"думать\"**: я думаю, ты думаешь, он/она думает, мы думаем, вы думаете, они думают\n- **Глагол \"понимать\"**: я понимаю, ты понимаешь, он/она понимает, мы понимаем, вы понимаете, они понимают\n- **Глагол \"знать\"**: я знаю, ты знаешь, он/она знает, мы знаем, вы знаете, они знают\n- **Вопросительные предложения**: \"Думаете ли вы?\", \"Понимаете ли вы?\", \"Знаете ли вы?\"",
     "relatedTopics": [
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Feelings Emotions",
+        "name": "feelings-emotions",
         "slug": "feelings-emotions",
         "url": "/lessons/rus/a1a2/feelings-emotions"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/rus/a1a2/technology-innovation"
       }
@@ -17972,23 +17972,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Работа и профессии",
-        "slug": "Работа и профессии",
-        "url": "/lessons/rus/a1a2/Работа и профессии"
+        "slug": "work-professions",
+        "url": "/lessons/rus/a1a2/work-professions"
       },
       {
         "name": "Семья и отношения",
-        "slug": "Семья и отношения",
-        "url": "/lessons/rus/a1a2/Семья и отношения"
+        "slug": "family-relationships",
+        "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
         "name": "Образование и учеба",
-        "slug": "Образование и учеба",
-        "url": "/lessons/rus/a1a2/Образование и учеба"
+        "slug": "education-learning",
+        "url": "/lessons/rus/a1a2/education-learning"
       }
     ],
     "category": "language_basics",
@@ -18195,27 +18195,27 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: машина (ж.р.), автобус (м.р.), поезд (м.р.), самолет (м.р.), билет (м.р.), дорога (ж.р.), мост (м.р.)\n- **Глагол \"ехать\"**: я еду, ты едешь, он/она едет, мы едем, вы едете, они едут\n- **Глагол \"лететь\"**: я лечу, ты летишь, он/она летит, мы летим, вы летите, они летят\n- **Глагол \"приезжать\"**: я приезжаю, ты приезжаешь, он/она приезжает, мы приезжаем, вы приезжаете, они приезжают\n- **Предложный падеж**: \"ехать на автобусе\", \"лететь на самолете\", \"ехать на поезде\"\n- **Винительный падеж**: \"купить билет\", \"перейти дорогу\", \"построить мост\"",
     "relatedTopics": [
       {
-        "name": "City Places",
+        "name": "city-places",
         "slug": "city-places",
         "url": "/lessons/rus/a1a2/city-places"
       },
       {
-        "name": "Time Calendar",
+        "name": "time-calendar",
         "slug": "time-calendar",
         "url": "/lessons/rus/a1a2/time-calendar"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/rus/a1a2/shopping-money"
       },
       {
-        "name": "Work Professions",
+        "name": "work-professions",
         "slug": "work-professions",
         "url": "/lessons/rus/a1a2/work-professions"
       },
       {
-        "name": "Holidays Traditions",
+        "name": "holidays-traditions",
         "slug": "holidays-traditions",
         "url": "/lessons/rus/a1a2/holidays-traditions"
       }
@@ -18397,23 +18397,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Город и места",
-        "slug": "Город и места",
-        "url": "/lessons/rus/a1a2/Город и места"
+        "slug": "city-places",
+        "url": "/lessons/rus/a1a2/city-places"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Погода и природа",
-        "slug": "Погода и природа",
-        "url": "/lessons/rus/a1a2/Погода и природа"
+        "slug": "weather-nature",
+        "url": "/lessons/rus/a1a2/weather-nature"
       },
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       }
     ],
     "category": "daily_life",
@@ -18593,23 +18593,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Технологии и компьютеры",
-        "slug": "Технологии и компьютеры",
-        "url": "/lessons/rus/a1a2/Технологии и компьютеры"
+        "slug": "technology-computers",
+        "url": "/lessons/rus/a1a2/technology-computers"
       },
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Будущее и изменения",
-        "slug": "Будущее и изменения",
-        "url": "/lessons/rus/a1a2/Будущее и изменения"
+        "slug": "будущее-и-изменения",
+        "url": "/lessons/rus/a1a2/будущее-и-изменения"
       },
       {
         "name": "Искусственный интеллект",
-        "slug": "Искусственный интеллект",
-        "url": "/lessons/rus/a1a2/Искусственный интеллект"
+        "slug": "искусственный-интеллект",
+        "url": "/lessons/rus/a1a2/искусственный-интеллект"
       }
     ],
     "category": "science_technology",
@@ -18789,23 +18789,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Город и места",
-        "slug": "Город и места",
-        "url": "/lessons/rus/a1a2/Город и места"
+        "slug": "city-places",
+        "url": "/lessons/rus/a1a2/city-places"
       },
       {
         "name": "Развлечения и медиа",
-        "slug": "Развлечения и медиа",
-        "url": "/lessons/rus/a1a2/Развлечения и медиа"
+        "slug": "entertainment-media",
+        "url": "/lessons/rus/a1a2/entertainment-media"
       },
       {
         "name": "Путешествия и транспорт",
-        "slug": "Путешествия и транспорт",
-        "url": "/lessons/rus/a1a2/Путешествия и транспорт"
+        "slug": "путешествия-и-транспорт",
+        "url": "/lessons/rus/a1a2/путешествия-и-транспорт"
       }
     ],
     "category": "nature_environment",
@@ -18985,23 +18985,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Природа и окружающая среда",
-        "slug": "Природа и окружающая среда",
-        "url": "/lessons/rus/a1a2/Природа и окружающая среда"
+        "slug": "природа-и-окружающая-среда",
+        "url": "/lessons/rus/a1a2/природа-и-окружающая-среда"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Одежда и внешность",
-        "slug": "Одежда и внешность",
-        "url": "/lessons/rus/a1a2/Одежда и внешность"
+        "slug": "clothing-appearance",
+        "url": "/lessons/rus/a1a2/clothing-appearance"
       },
       {
         "name": "Путешествия и транспорт",
-        "slug": "Путешествия и транспорт",
-        "url": "/lessons/rus/a1a2/Путешествия и транспорт"
+        "slug": "путешествия-и-транспорт",
+        "url": "/lessons/rus/a1a2/путешествия-и-транспорт"
       }
     ],
     "category": "nature_environment",
@@ -19181,23 +19181,23 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "relatedTopics": [
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       },
       {
         "name": "Спорт и фитнес",
-        "slug": "Спорт и фитнес",
-        "url": "/lessons/rus/a1a2/Спорт и фитнес"
+        "slug": "sports-fitness",
+        "url": "/lessons/rus/a1a2/sports-fitness"
       },
       {
         "name": "Повседневная жизнь и рутины",
-        "slug": "Повседневная жизнь и рутины",
-        "url": "/lessons/rus/a1a2/Повседневная жизнь и рутины"
+        "slug": "повседневная-жизнь-и-рутины",
+        "url": "/lessons/rus/a1a2/повседневная-жизнь-и-рутины"
       },
       {
         "name": "Эмоции и чувства",
-        "slug": "Эмоции и чувства",
-        "url": "/lessons/rus/a1a2/Эмоции и чувства"
+        "slug": "эмоции-и-чувства",
+        "url": "/lessons/rus/a1a2/эмоции-и-чувства"
       }
     ],
     "category": "daily_life",
@@ -19404,29 +19404,29 @@ export const RUS_A1_A2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Род существительных**: работа (ж.р.), учитель (м.р.), врач (м.р.), инженер (м.р.), студент (м.р.), офис (м.р.)\n- **Профессии**: врач, учитель, инженер - мужской род, но могут быть и женского рода (врач-женщина, учительница)\n- **Глагол \"работать\"**: я работаю, ты работаешь, он/она работает, мы работаем, вы работаете, они работают\n- **Глагол \"делать\"**: я делаю, ты делаешь, он/она делает, мы делаем, вы делаете, они делают\n- **Творительный падеж**: \"работаю врачом\", \"работаю учителем\", \"работаю инженером\"",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/rus/a1a2/family-relationships"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/rus/a1a2/education-learning"
       },
       {
         "name": "Деньги и покупки",
-        "slug": "Деньги и покупки",
-        "url": "/lessons/rus/a1a2/Деньги и покупки"
+        "slug": "деньги-и-покупки",
+        "url": "/lessons/rus/a1a2/деньги-и-покупки"
       },
       {
-        "name": "Time Calendar",
+        "name": "time-calendar",
         "slug": "time-calendar",
         "url": "/lessons/rus/a1a2/time-calendar"
       },
       {
         "name": "Здоровье и медицина",
-        "slug": "Здоровье и медицина",
-        "url": "/lessons/rus/a1a2/Здоровье и медицина"
+        "slug": "medicine-health",
+        "url": "/lessons/rus/a1a2/medicine-health"
       }
     ],
     "category": "economics_business",

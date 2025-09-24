@@ -24,12 +24,12 @@ export const NAVIGATION = {
     SUBMENU: {
       ENGLISH: {
         LABEL: 'English Vocabulary',
-        PATH: '/vocabulary/eng',
+        PATH: '/vocabulary/en/b1b2',
       },
       RUSSIAN: {
         LABEL: 'Russian Vocabulary',
-        PATH: '/vocabulary/rus',
-        DISABLED: true,
+        PATH: '/vocabulary/ru/a1a2',
+        DISABLED: false,
       },
     },
   },

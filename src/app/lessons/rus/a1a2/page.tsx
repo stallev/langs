@@ -21,6 +21,7 @@ export default function RussianA1A2Page() {
     filterState,
     categories,
     handleCategoryChange,
+    handleSearchChange,
     handlePageChange,
   } = useLessonPagination({ lessons: RUS_A1_A2_LESSONS_DATA });
 
@@ -66,7 +67,9 @@ export default function RussianA1A2Page() {
         <LessonFilters
           categories={categories}
           selectedCategory={filterState.category}
+          searchQuery={filterState.searchQuery}
           onCategoryChange={handleCategoryChange}
+          onSearchChange={handleSearchChange}
         />
 
         {/* Lessons Section */}

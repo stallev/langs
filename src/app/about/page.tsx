@@ -23,7 +23,7 @@ export default function AboutPage() {
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed font-light max-w-3xl mx-auto">
             An innovative platform designed to help you master languages through carefully crafted
-            thematic texts and the most commonly used vocabulary.
+            thematic texts, comprehensive vocabulary dictionaries, and smart learning tools.
           </p>
         </div>
       </section>
@@ -35,8 +35,9 @@ export default function AboutPage() {
             <h2 className="text-3xl md:text-4xl font-light text-foreground">Our Mission</h2>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-3xl mx-auto">
               We believe that language learning should be engaging, practical, and focused on
-              real-world usage. Our platform combines the power of thematic learning with the
-              efficiency of studying the most frequently used words in any language.
+              real-world usage. Our platform combines the power of thematic learning with
+              comprehensive vocabulary dictionaries, advanced filtering, and smart categorization to
+              maximize your learning efficiency.
             </p>
           </div>
 
@@ -57,15 +58,15 @@ export default function AboutPage() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-foreground">Real-world scenarios</span>
+                  <span className="text-foreground">Categorized dictionaries</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-foreground">Practical examples</span>
+                  <span className="text-foreground">Advanced filtering</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <div className="w-2 h-2 bg-primary rounded-full"></div>
-                  <span className="text-foreground">Cultural insights</span>
+                  <span className="text-foreground">Smart search</span>
                 </div>
               </div>
             </div>
@@ -85,36 +86,44 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="grid md:grid-cols-3 gap-8">
+            <div className="grid md:grid-cols-4 gap-8">
               <div className="bg-background/60 rounded-2xl p-8 border-0 text-center space-y-4">
                 <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
-                  <span className="text-2xl font-bold text-primary">3000</span>
+                  <span className="text-2xl font-bold text-primary">2,974</span>
                 </div>
-                <h3 className="text-xl font-light text-foreground">Most Common Words</h3>
+                <h3 className="text-xl font-light text-foreground">English Words</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  Focus on the 3000 most frequently used words that make up 90% of everyday
-                  communication.
+                  Comprehensive English vocabulary with translations, examples, and categorization.
                 </p>
               </div>
 
               <div className="bg-background/60 rounded-2xl p-8 border-0 text-center space-y-4">
                 <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
-                  <span className="text-2xl font-bold text-primary">B1-B2</span>
+                  <span className="text-2xl font-bold text-primary">355</span>
                 </div>
-                <h3 className="text-xl font-light text-foreground">Intermediate Level</h3>
+                <h3 className="text-xl font-light text-foreground">Russian Words</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  Carefully designed content for intermediate learners to build confidence and
-                  fluency.
+                  Essential Russian vocabulary for beginners with categorized learning paths.
                 </p>
               </div>
 
               <div className="bg-background/60 rounded-2xl p-8 border-0 text-center space-y-4">
                 <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
-                  <span className="text-2xl font-bold text-primary">112</span>
+                  <span className="text-2xl font-bold text-primary">10</span>
                 </div>
-                <h3 className="text-xl font-light text-foreground">Thematic Lessons</h3>
+                <h3 className="text-xl font-light text-foreground">Categories</h3>
                 <p className="text-muted-foreground text-sm leading-relaxed">
-                  Comprehensive coverage of essential life topics from family to technology.
+                  Thematic organization from daily life to science and technology.
+                </p>
+              </div>
+
+              <div className="bg-background/60 rounded-2xl p-8 border-0 text-center space-y-4">
+                <div className="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
+                  <span className="text-2xl font-bold text-primary">207</span>
+                </div>
+                <h3 className="text-xl font-light text-foreground">Total Lessons</h3>
+                <p className="text-muted-foreground text-sm leading-relaxed">
+                  English B1-B2 and Russian A1-A2 lessons covering essential topics.
                 </p>
               </div>
             </div>
@@ -270,7 +279,8 @@ export default function AboutPage() {
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto">
               Join thousands of learners who have improved their language skills with our proven
-              methodology. Start with our English B1-B2 lessons today.
+              methodology. Start with our English B1-B2 lessons or explore our comprehensive
+              vocabulary dictionaries today.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-4">
               <Link
@@ -280,10 +290,10 @@ export default function AboutPage() {
                 Start Learning
               </Link>
               <Link
-                href={NAVIGATION.LESSONS.PATH}
+                href={NAVIGATION.VOCABULARY.PATH}
                 className="border border-border px-8 py-4 rounded-2xl text-lg font-medium hover:bg-muted/50 transition-colors"
               >
-                Browse Lessons
+                Explore Vocabulary
               </Link>
             </div>
           </div>

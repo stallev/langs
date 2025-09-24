@@ -7,6 +7,7 @@ export interface PaginationState {
 
 export interface FilterState {
   category: string;
+  searchQuery: string;
 }
 
 export interface PaginationProps {

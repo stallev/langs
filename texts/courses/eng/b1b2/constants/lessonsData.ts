@@ -1,6 +1,6 @@
 // Auto-generated file - do not edit manually
-// Generated on: 2025-09-21T00:06:03.504Z
-// Source: C:\github\langs\texts\eng\b1b2\lessons_list
+// Generated on: 2025-09-24T00:09:50.471Z
+// Source: C:\github\langs\texts\courses\eng\b1b2\lessons_list
 
 import type { LessonData } from '@/shared/types/lesson';
 
@@ -179,17 +179,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"teaches\", \"believes\", \"discovers\", \"learns\"\n- **Present Continuous**: \"is teaching\", \"is studying\", \"is learning\"\n- **Present Perfect**: \"has been teaching\", \"has learned\", \"has discovered\"\n- **Past Simple**: \"taught\", \"learned\", \"discovered\", \"encouraged\"\n- **Gerunds**: \"teaching\", \"studying\", \"learning\", \"developing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really rewarding, incredibly versatile, quite challenging, most complex\n- **Linking words**: and, but, so, because, while, that, where\n- **Contractions**: she's, it's, I'm, don't\n- **Academic vocabulary**: critical thinking skills, comprehensive understanding, logical thinking, problem-solving skills",
     "relatedTopics": [
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Arts Culture",
+        "name": "arts-culture",
         "slug": "arts-culture",
         "url": "/lessons/eng/b1b2/arts-culture"
       }
@@ -378,22 +378,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Action** is countable and refers to something done.\n- **Movement** is countable and refers to the act of moving.\n- **Move** is a verb meaning to change position.\n- **Walk** is a verb meaning to move on foot.",
     "relatedTopics": [
       {
-        "name": "Sports Recreation",
+        "name": "sports-recreation",
         "slug": "sports-recreation",
         "url": "/lessons/eng/b1b2/sports-recreation"
       },
       {
-        "name": "Body Health",
+        "name": "body-health",
         "slug": "body-health",
         "url": "/lessons/eng/b1b2/body-health"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       }
@@ -582,22 +582,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Agriculture** is uncountable and refers to the practice of farming.\n- **Farming** is uncountable and refers to the activity of growing crops.\n- **Farm** is countable and refers to a piece of land for agriculture.\n- **Farmer** is countable and refers to a person who farms.",
     "relatedTopics": [
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       },
       {
-        "name": "Food Drink",
+        "name": "food-drink",
         "slug": "food-drink",
         "url": "/lessons/eng/b1b2/food-drink"
       },
       {
-        "name": "Rural Country Life",
+        "name": "rural-country-life",
         "slug": "rural-country-life",
         "url": "/lessons/eng/b1b2/rural-country-life"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       }
@@ -778,22 +778,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Air** is uncountable and refers to the atmosphere we breathe.\n- **Sky** is countable and refers to the space above the earth.\n- **Flight** is countable and refers to a journey by air.\n- **Plane** is countable and refers to an aircraft.",
     "relatedTopics": [
       {
-        "name": "Transportation Infrastructure",
+        "name": "transportation-infrastructure",
         "slug": "transportation-infrastructure",
         "url": "/lessons/eng/b1b2/transportation-infrastructure"
       },
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/eng/b1b2/weather-nature"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       }
@@ -982,22 +982,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Animal** is countable and refers to a living creature.\n- **Wildlife** is uncountable and refers to wild animals collectively.\n- **Habitat** is countable and refers to a natural environment.\n- **Species** is countable and refers to a group of similar animals.",
     "relatedTopics": [
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       },
       {
-        "name": "Nature Weather",
+        "name": "nature-weather",
         "slug": "nature-weather",
         "url": "/lessons/eng/b1b2/nature-weather"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Conservation Protection",
+        "name": "conservation-protection",
         "slug": "conservation-protection",
         "url": "/lessons/eng/b1b2/conservation-protection"
       }
@@ -1178,22 +1178,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Appliance** is countable and refers to a device for a specific purpose.\n- **Household** is an adjective describing things related to the home.\n- **Item** is countable and refers to a single thing.\n- **Kitchen** is countable and refers to a room for cooking.",
     "relatedTopics": [
       {
-        "name": "Home Household",
+        "name": "home-household",
         "slug": "home-household",
         "url": "/lessons/eng/b1b2/home-household"
       },
       {
-        "name": "Kitchen Cooking",
+        "name": "kitchen-cooking",
         "slug": "kitchen-cooking",
         "url": "/lessons/eng/b1b2/kitchen-cooking"
       },
       {
-        "name": "Shopping Retail",
+        "name": "shopping-retail",
         "slug": "shopping-retail",
         "url": "/lessons/eng/b1b2/shopping-retail"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
@@ -1374,22 +1374,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Art** can be uncountable (art in general) or countable (works of art).\n- **Artist** is countable and refers to people who create art.\n- **Beauty** is usually uncountable and refers to aesthetic quality.\n- **Creativity** is uncountable and refers to the ability to create.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Creativity Imagination",
+        "name": "creativity-imagination",
         "slug": "creativity-imagination",
         "url": "/lessons/eng/b1b2/creativity-imagination"
       },
       {
-        "name": "Design Aesthetics",
+        "name": "design-aesthetics",
         "slug": "design-aesthetics",
         "url": "/lessons/eng/b1b2/design-aesthetics"
       },
       {
-        "name": "Museum Gallery",
+        "name": "museum-gallery",
         "slug": "museum-gallery",
         "url": "/lessons/eng/b1b2/museum-gallery"
       }
@@ -1573,17 +1573,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has been exploring\", \"has been getting\"\n- **Present Continuous**: \"is working\", \"is exploring\", \"is getting\"\n- **Present Simple**: \"believes\", \"loves\", \"finds\", \"brings\"\n- **Gerunds**: \"working\", \"exploring\", \"creating\", \"bringing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely passionate, incredibly inspiring, particularly drawn, really powerful\n- **Linking words**: and, but, so, because, where\n- **Contractions**: she's, it's, we're, don't\n- **Arts vocabulary**: artistic expression, cultural heritage, creative process, visual art",
     "relatedTopics": [
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "History Civilization",
+        "name": "history-civilization",
         "slug": "history-civilization",
         "url": "/lessons/eng/b1b2/history-civilization"
       }
@@ -1764,22 +1764,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Grammar** is uncountable and refers to the rules of language.\n- **Sentence** is countable and refers to a group of words expressing a complete thought.\n- **Word** is countable and refers to a unit of language.\n- **Verb** is countable and refers to a word expressing action or state.",
     "relatedTopics": [
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Personal Pronouns Identity",
+        "name": "personal-pronouns-identity",
         "slug": "personal-pronouns-identity",
         "url": "/lessons/eng/b1b2/personal-pronouns-identity"
       },
       {
-        "name": "Basic Verbs Actions",
+        "name": "basic-verbs-actions",
         "slug": "basic-verbs-actions",
         "url": "/lessons/eng/b1b2/basic-verbs-actions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       }
@@ -1960,22 +1960,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Verb** is countable and refers to a word expressing action or state.\n- **Action** is countable and refers to something done.\n- **Do** is used for general activities and tasks.\n- **Make** is used for creating or producing something.",
     "relatedTopics": [
       {
-        "name": "Basic Concepts Grammar",
+        "name": "basic-concepts-grammar",
         "slug": "basic-concepts-grammar",
         "url": "/lessons/eng/b1b2/basic-concepts-grammar"
       },
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Personal Pronouns Identity",
+        "name": "personal-pronouns-identity",
         "slug": "personal-pronouns-identity",
         "url": "/lessons/eng/b1b2/personal-pronouns-identity"
       },
       {
-        "name": "Mental Processes",
+        "name": "mental-processes",
         "slug": "mental-processes",
         "url": "/lessons/eng/b1b2/mental-processes"
       }
@@ -2156,22 +2156,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Beauty** is uncountable and refers to the quality of being beautiful.\n- **Cosmetic** is countable and refers to a beauty product.\n- **Makeup** is uncountable and refers to cosmetics applied to the face.\n- **Skin** is uncountable and refers to the outer covering of the body.",
     "relatedTopics": [
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Fashion Accessories",
+        "name": "fashion-accessories",
         "slug": "fashion-accessories",
         "url": "/lessons/eng/b1b2/fashion-accessories"
       },
       {
-        "name": "Shopping Retail",
+        "name": "shopping-retail",
         "slug": "shopping-retail",
         "url": "/lessons/eng/b1b2/shopping-retail"
       },
       {
-        "name": "Health Wellness",
+        "name": "health-wellness",
         "slug": "health-wellness",
         "url": "/lessons/eng/b1b2/health-wellness"
       }
@@ -2352,22 +2352,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Body** is countable and refers to the physical structure of a person.\n- **Health** is uncountable and refers to the state of being well.\n- **Physical** is an adjective describing things related to the body.\n- **Exercise** is countable and refers to physical activity.",
     "relatedTopics": [
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Food Drink",
+        "name": "food-drink",
         "slug": "food-drink",
         "url": "/lessons/eng/b1b2/food-drink"
       },
       {
-        "name": "Sports Recreation",
+        "name": "sports-recreation",
         "slug": "sports-recreation",
         "url": "/lessons/eng/b1b2/sports-recreation"
       },
       {
-        "name": "Medicine Healthcare",
+        "name": "medicine-healthcare",
         "slug": "medicine-healthcare",
         "url": "/lessons/eng/b1b2/medicine-healthcare"
       }
@@ -2556,22 +2556,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Building** is countable and refers to a structure.\n- **Construction** is uncountable and refers to the process of building.\n- **House** is countable and refers to a residential building.\n- **Apartment** is countable and refers to a unit in a building.",
     "relatedTopics": [
       {
-        "name": "Home Household",
+        "name": "home-household",
         "slug": "home-household",
         "url": "/lessons/eng/b1b2/home-household"
       },
       {
-        "name": "Design Architecture",
+        "name": "design-architecture",
         "slug": "design-architecture",
         "url": "/lessons/eng/b1b2/design-architecture"
       },
       {
-        "name": "Materials Substances",
+        "name": "materials-substances",
         "slug": "materials-substances",
         "url": "/lessons/eng/b1b2/materials-substances"
       },
       {
-        "name": "Urban City Life",
+        "name": "urban-city-life",
         "slug": "urban-city-life",
         "url": "/lessons/eng/b1b2/urban-city-life"
       }
@@ -2755,17 +2755,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has seen\", \"has learned\"\n- **Present Continuous**: \"is working\", \"is expanding\", \"is improving\"\n- **Present Simple**: \"believes\", \"enjoys\", \"finds\", \"requires\"\n- **Gerunds**: \"working\", \"analyzing\", \"providing\", \"managing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really well, quite volatile, definitely challenging, incredibly dynamic\n- **Linking words**: and, but, so, because, while\n- **Contractions**: she's, it's, they've, we're\n- **Business vocabulary**: market trends, customer base, business operations, strategic investments",
     "relatedTopics": [
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
@@ -2946,22 +2946,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Christianity** is uncountable and refers to the religion.\n- **Christian** can be a noun (person) or adjective (relating to Christianity).\n- **Faith** is usually uncountable and refers to religious belief.\n- **God** is capitalized when referring to the Christian deity.",
     "relatedTopics": [
       {
-        "name": "Religion Spirituality",
+        "name": "religion-spirituality",
         "slug": "religion-spirituality",
         "url": "/lessons/eng/b1b2/religion-spirituality"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -3142,22 +3142,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Clothing** is uncountable and refers to clothes in general.\n- **Appearance** is uncountable and refers to how someone looks.\n- **Clothes** is plural and refers to items of clothing.\n- **Dress** is countable and refers to a specific type of clothing.",
     "relatedTopics": [
       {
-        "name": "Fashion Accessories",
+        "name": "fashion-accessories",
         "slug": "fashion-accessories",
         "url": "/lessons/eng/b1b2/fashion-accessories"
       },
       {
-        "name": "Beauty Cosmetics",
+        "name": "beauty-cosmetics",
         "slug": "beauty-cosmetics",
         "url": "/lessons/eng/b1b2/beauty-cosmetics"
       },
       {
-        "name": "Shopping Retail",
+        "name": "shopping-retail",
         "slug": "shopping-retail",
         "url": "/lessons/eng/b1b2/shopping-retail"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
@@ -3341,22 +3341,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has always been\", \"has learned\", \"has suggested\"\n- **Present Continuous**: \"is planning to\", \"is looking for\", \"is running out\"\n- **Past Simple**: \"went shopping\", \"tried on\", \"bought\", \"suggested\"\n- **Gerunds**: \"shopping\", \"trying on\", \"dressing\", \"choosing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really helpful, absolutely thrilled, up-to-date, never go out of style\n- **Linking words**: because, so, and, but, when\n- **Contractions**: she's, I'm, don't, can't\n- **Fashion vocabulary**: vintage fashion, thrift stores, business clothes, timeless looks",
     "relatedTopics": [
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/eng/b1b2/shopping-money"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       }
@@ -3545,22 +3545,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Color** is countable and refers to a specific hue.\n- **Visual** is an adjective describing things related to sight.\n- **Property** is countable and refers to a characteristic.\n- **Red** is an adjective describing a specific color.",
     "relatedTopics": [
       {
-        "name": "Art Aesthetics",
+        "name": "art-aesthetics",
         "slug": "art-aesthetics",
         "url": "/lessons/eng/b1b2/art-aesthetics"
       },
       {
-        "name": "Fashion Accessories",
+        "name": "fashion-accessories",
         "slug": "fashion-accessories",
         "url": "/lessons/eng/b1b2/fashion-accessories"
       },
       {
-        "name": "Beauty Cosmetics",
+        "name": "beauty-cosmetics",
         "slug": "beauty-cosmetics",
         "url": "/lessons/eng/b1b2/beauty-cosmetics"
       },
       {
-        "name": "Design Architecture",
+        "name": "design-architecture",
         "slug": "design-architecture",
         "url": "/lessons/eng/b1b2/design-architecture"
       }
@@ -3799,22 +3799,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Question words**: what, which, who, where, when, why, how\n- **Conjunctions**: and, but, or, because, although, however\n- **Communication verbs**: say, tell, speak, talk, ask, answer, reply\n- **Complex sentences**: Relative clauses, conditional structures\n- **Modal verbs**: can, could, should, would, must\n- **Gerunds**: communicating, discussing, explaining, suggesting\n- **Conversational vocabulary**: super important, here's the thing, make or break, on the flip side\n- **Linking words**: but, so, because, which, that, when, while\n- **Contractions**: we're, they're, it's, we've, I'd, can't",
     "relatedTopics": [
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
         "name": "Leadership & Management",
-        "slug": "Leadership & Management",
-        "url": "/lessons/eng/b1b2/Leadership & Management"
+        "slug": "leadership-&-management",
+        "url": "/lessons/eng/b1b2/leadership-&-management"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
@@ -4003,22 +4003,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Communication** is uncountable and refers to the process of exchanging information.\n- **Language** is countable and refers to a system of communication.\n- **Speak** is a verb meaning to use words to express thoughts.\n- **Listen** is a verb meaning to pay attention to sounds.",
     "relatedTopics": [
       {
-        "name": "Basic Concepts Grammar",
+        "name": "basic-concepts-grammar",
         "slug": "basic-concepts-grammar",
         "url": "/lessons/eng/b1b2/basic-concepts-grammar"
       },
       {
-        "name": "Relationships Interactions",
+        "name": "relationships-interactions",
         "slug": "relationships-interactions",
         "url": "/lessons/eng/b1b2/relationships-interactions"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -4199,22 +4199,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Conservative** is an adjective that describes political or social views.\n- **Values** is plural and refers to moral principles.\n- **Tradition** is countable and can refer to specific practices.\n- **Family** can be countable (families) or uncountable (family as concept).",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       }
@@ -4395,22 +4395,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Country** is countable and can be used with articles.\n- **Nationality** is countable and refers to belonging to a nation.\n- **Culture** can be countable (\"cultures\") or uncountable (\"culture\").\n- **Language** is countable and can refer to specific languages.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Languages Linguistics",
+        "name": "languages-linguistics",
         "slug": "languages-linguistics",
         "url": "/lessons/eng/b1b2/languages-linguistics"
       },
       {
-        "name": "Government Politics",
+        "name": "government-politics",
         "slug": "government-politics",
         "url": "/lessons/eng/b1b2/government-politics"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -4619,22 +4619,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Personal pronouns**: I, my, myself\n- **Frequency adverbs**: always, usually, every day, typically, regularly\n- **Present Simple**: для описания регулярных действий и привычек\n- **Reflexive pronouns**: myself, yourself, himself, herself\n- **Time expressions**: in the morning, in the afternoon, in the evening, during the day\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: awesome, tons of, game-changer, chill out, hit the gym\n- **Linking words**: but, so, because, which, that, and\n- **Contractions**: I'm, it's, don't, I've, that'll",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
@@ -4943,17 +4943,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Comparative forms**: \"better\", \"worse\", \"bigger\", \"smaller\"\n- **Superlative forms**: \"best\", \"worst\", \"biggest\", \"smallest\"\n- **Adverbs of manner**: \"carefully\", \"quickly\", \"slowly\", \"easily\"\n- **Present Simple**: \"believes\", \"thinks\", \"prefers\", \"works\"\n- **Present Continuous**: \"is working\", \"is trying\", \"is painting\"\n- **Complex sentences**: Comparative structures, relative clauses\n- **Conversational vocabulary**: really amazing, absolutely fascinating, incredibly interesting\n- **Linking words**: and, but, so, because, when, than\n- **Contractions**: she's, it's, I'm, don't\n- **Descriptive vocabulary**: bold strokes, delicate lines, sophisticated work, early attempts",
     "relatedTopics": [
       {
-        "name": "Arts Culture",
+        "name": "arts-culture",
         "slug": "arts-culture",
         "url": "/lessons/eng/b1b2/arts-culture"
       },
       {
-        "name": "Clothing Fashion",
+        "name": "clothing-fashion",
         "slug": "clothing-fashion",
         "url": "/lessons/eng/b1b2/clothing-fashion"
       },
       {
-        "name": "Nature Environment",
+        "name": "nature-environment",
         "slug": "nature-environment",
         "url": "/lessons/eng/b1b2/nature-environment"
       }
@@ -5142,22 +5142,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Drink** is countable and refers to a liquid for consumption.\n- **Beverage** is countable and refers to a drink.\n- **Water** is uncountable and refers to the clear liquid.\n- **Coffee** is uncountable and refers to the drink made from beans.",
     "relatedTopics": [
       {
-        "name": "Food Drink",
+        "name": "food-drink",
         "slug": "food-drink",
         "url": "/lessons/eng/b1b2/food-drink"
       },
       {
-        "name": "Kitchen Cooking",
+        "name": "kitchen-cooking",
         "slug": "kitchen-cooking",
         "url": "/lessons/eng/b1b2/kitchen-cooking"
       },
       {
-        "name": "Health Wellness",
+        "name": "health-wellness",
         "slug": "health-wellness",
         "url": "/lessons/eng/b1b2/health-wellness"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       }
@@ -5338,22 +5338,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Economics** is uncountable and refers to the academic subject.\n- **Finance** can be uncountable (the field) or countable (financial resources).\n- **Economy** is countable and refers to a specific economic system.\n- **Market** is countable and can refer to specific markets or the concept.",
     "relatedTopics": [
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Money Finance",
+        "name": "money-finance",
         "slug": "money-finance",
         "url": "/lessons/eng/b1b2/money-finance"
       },
       {
-        "name": "Government Politics",
+        "name": "government-politics",
         "slug": "government-politics",
         "url": "/lessons/eng/b1b2/government-politics"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       }
@@ -5537,22 +5537,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Continuous**: \"is studying\", \"is learning\", \"are teaching\"\n- **Present Perfect**: \"has been\", \"have had\", \"has paid off\"\n- **Gerunds**: \"studying\", \"learning\", \"teaching\", \"reading\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really passionate, honestly, so much easier, definitely not\n- **Linking words**: because, when, whether, and, but\n- **Contractions**: she's, it's, I'm, don't, can't\n- **Academic vocabulary**: cognitive psychology, mental processes, statistics, master's degree",
     "relatedTopics": [
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
@@ -5733,22 +5733,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Education** is uncountable and refers to the process of learning.\n- **System** is countable and refers to the organized structure.\n- **Student** is countable and refers to a person learning.\n- **Teacher** is countable and refers to a person teaching.",
     "relatedTopics": [
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Knowledge Skills",
+        "name": "knowledge-skills",
         "slug": "knowledge-skills",
         "url": "/lessons/eng/b1b2/knowledge-skills"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -5937,22 +5937,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Electronics** is uncountable and refers to electronic devices.\n- **Gadget** is countable and refers to a small electronic device.\n- **Device** is countable and refers to a piece of equipment.\n- **Computer** is countable and refers to an electronic machine.",
     "relatedTopics": [
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Internet Digital World",
+        "name": "internet-digital-world",
         "slug": "internet-digital-world",
         "url": "/lessons/eng/b1b2/internet-digital-world"
       },
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       }
@@ -6141,22 +6141,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Emotion** is countable and refers to a specific feeling.\n- **Feeling** is countable and refers to an emotional state.\n- **Happy** is an adjective describing a positive emotional state.\n- **Sad** is an adjective describing a negative emotional state.",
     "relatedTopics": [
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Relationships Interactions",
+        "name": "relationships-interactions",
         "slug": "relationships-interactions",
         "url": "/lessons/eng/b1b2/relationships-interactions"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       },
       {
-        "name": "Mental Processes",
+        "name": "mental-processes",
         "slug": "mental-processes",
         "url": "/lessons/eng/b1b2/mental-processes"
       }
@@ -6337,22 +6337,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Energy** is uncountable and refers to the capacity to do work.\n- **Resources** is plural and refers to available materials or assets.\n- **Power** can be countable (specific powers) or uncountable (general power).\n- **Fuel** can be countable (types of fuel) or uncountable (fuel in general).",
     "relatedTopics": [
       {
-        "name": "Science Technology",
+        "name": "science-technology",
         "slug": "science-technology",
         "url": "/lessons/eng/b1b2/science-technology"
       },
       {
-        "name": "Environment Conservation",
+        "name": "environment-conservation",
         "slug": "environment-conservation",
         "url": "/lessons/eng/b1b2/environment-conservation"
       },
       {
-        "name": "Economics Finance",
+        "name": "economics-finance",
         "slug": "economics-finance",
         "url": "/lessons/eng/b1b2/economics-finance"
       },
       {
-        "name": "Infrastructure Development",
+        "name": "infrastructure-development",
         "slug": "infrastructure-development",
         "url": "/lessons/eng/b1b2/infrastructure-development"
       }
@@ -6536,22 +6536,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"loves\", \"goes\", \"enjoys\", \"believes\"\n- **Present Continuous**: \"is reading\", \"is learning\", \"is watching\"\n- **Present Perfect**: \"has been learning\", \"has blown\", \"has recommended\"\n- **Gerunds**: \"watching\", \"reading\", \"dancing\", \"writing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: huge fan, completely blew her mind, can't put it down\n- **Linking words**: because, and, but, so, when\n- **Contractions**: she's, I'm, don't, can't\n- **Media vocabulary**: diverse taste, educational content, current events, talk shows",
     "relatedTopics": [
       {
-        "name": "Arts Culture",
+        "name": "arts-culture",
         "slug": "arts-culture",
         "url": "/lessons/eng/b1b2/arts-culture"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
@@ -6732,22 +6732,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Environment** is countable and can refer to specific environments.\n- **Conservation** is uncountable and refers to the practice of protection.\n- **Nature** is usually uncountable and refers to the natural world.\n- **Ecology** is uncountable and refers to the scientific study of ecosystems.",
     "relatedTopics": [
       {
-        "name": "Nature Environment",
+        "name": "nature-environment",
         "slug": "nature-environment",
         "url": "/lessons/eng/b1b2/nature-environment"
       },
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/eng/b1b2/weather-nature"
       },
       {
-        "name": "Animals Wildlife",
+        "name": "animals-wildlife",
         "slug": "animals-wildlife",
         "url": "/lessons/eng/b1b2/animals-wildlife"
       },
       {
-        "name": "Plants Botany",
+        "name": "plants-botany",
         "slug": "plants-botany",
         "url": "/lessons/eng/b1b2/plants-botany"
       }
@@ -6936,22 +6936,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Environment** is countable and refers to the natural world.\n- **Ecology** is uncountable and refers to the study of ecosystems.\n- **Nature** is uncountable and refers to the natural world.\n- **Pollution** is uncountable and refers to environmental contamination.",
     "relatedTopics": [
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/eng/b1b2/weather-nature"
       },
       {
-        "name": "Animals Wildlife",
+        "name": "animals-wildlife",
         "slug": "animals-wildlife",
         "url": "/lessons/eng/b1b2/animals-wildlife"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Social Issues Problems",
+        "name": "social-issues-problems",
         "slug": "social-issues-problems",
         "url": "/lessons/eng/b1b2/social-issues-problems"
       }
@@ -7140,22 +7140,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Event** is countable and refers to a happening or occasion.\n- **Celebration** is countable and refers to a festive occasion.\n- **Party** is countable and refers to a social gathering.\n- **Festival** is countable and refers to a large celebration.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Music Instruments",
+        "name": "music-instruments",
         "slug": "music-instruments",
         "url": "/lessons/eng/b1b2/music-instruments"
       },
       {
-        "name": "Holidays Seasons",
+        "name": "holidays-seasons",
         "slug": "holidays-seasons",
         "url": "/lessons/eng/b1b2/holidays-seasons"
       }
@@ -7364,22 +7364,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Possessive forms**: my family, her parents, their children\n- **Plural forms**: families, parents, children, brothers, sisters\n- **Present Perfect**: \"have been married\", \"have raised\", \"has always been\"\n- **Future tense**: \"is thinking about\", \"wants to find\", \"will create\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: pretty amazing, super close, rough patch, tear up\n- **Linking words**: but, so, because, which, that\n- **Contractions**: they've, it's, we're, don't",
     "relatedTopics": [
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
@@ -7560,22 +7560,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Fashion** is uncountable and refers to the style of clothing.\n- **Accessory** is countable and refers to an additional item.\n- **Style** is uncountable and refers to a distinctive manner.\n- **Clothing** is uncountable and refers to clothes in general.",
     "relatedTopics": [
       {
-        "name": "Beauty Cosmetics",
+        "name": "beauty-cosmetics",
         "slug": "beauty-cosmetics",
         "url": "/lessons/eng/b1b2/beauty-cosmetics"
       },
       {
-        "name": "Shopping Retail",
+        "name": "shopping-retail",
         "slug": "shopping-retail",
         "url": "/lessons/eng/b1b2/shopping-retail"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -7874,17 +7874,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"feels\", \"loves\", \"enjoys\", \"appreciates\"\n- **Present Continuous**: \"is cooking\", \"is trying\", \"is learning\"\n- **Present Perfect**: \"has learned\", \"has discovered\", \"has been\"\n- **Gerunds**: \"cooking\", \"exploring\", \"paying\", \"triggering\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really amazing, absolutely fascinating, incredibly important, completely change\n- **Linking words**: and, but, so, because, when, while\n- **Contractions**: she's, it's, I'm, don't\n- **Emotional vocabulary**: complex flavors, strong emotions, sweet fragrance, fresh aroma",
     "relatedTopics": [
       {
-        "name": "Food Cooking",
+        "name": "food-cooking",
         "slug": "food-cooking",
         "url": "/lessons/eng/b1b2/food-cooking"
       },
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
@@ -8065,22 +8065,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Film** is countable and can refer to individual movies or the medium.\n- **Cinema** is uncountable and refers to the art form or industry.\n- **Movie** is countable and is more informal than \"film\".\n- **Actor** and **actress** are countable and refer to people who perform in films.",
     "relatedTopics": [
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Storytelling Narrative",
+        "name": "storytelling-narrative",
         "slug": "storytelling-narrative",
         "url": "/lessons/eng/b1b2/storytelling-narrative"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       }
@@ -8264,22 +8264,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"loves\", \"starts\", \"includes\", \"prepares\"\n- **Present Continuous**: \"is learning\", \"is trying\", \"am learning\"\n- **Past Simple**: \"decided\", \"spent\", \"made\", \"served\"\n- **Gerunds**: \"cooking\", \"experimenting\", \"trying\", \"learning\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really into, lots of, plenty of, rather than\n- **Linking words**: because, so, when, and, but\n- **Contractions**: she's, I'm, don't, can't\n- **Cooking vocabulary**: homemade sauce, cooking techniques, culinary discoveries",
     "relatedTopics": [
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       }
@@ -8460,22 +8460,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Food** is uncountable and refers to things we eat.\n- **Drink** is countable and refers to a liquid we consume.\n- **Meal** is countable and refers to an occasion of eating.\n- **Taste** is countable and refers to the flavor of something.",
     "relatedTopics": [
       {
-        "name": "Kitchen Cooking",
+        "name": "kitchen-cooking",
         "slug": "kitchen-cooking",
         "url": "/lessons/eng/b1b2/kitchen-cooking"
       },
       {
-        "name": "Health Wellness",
+        "name": "health-wellness",
         "slug": "health-wellness",
         "url": "/lessons/eng/b1b2/health-wellness"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
@@ -8664,22 +8664,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Food** is uncountable and refers to things people eat.\n- **Type** is countable and refers to a category of food.\n- **Cuisine** is countable and refers to a style of cooking.\n- **Dish** is countable and refers to a specific prepared food.",
     "relatedTopics": [
       {
-        "name": "Food Drink",
+        "name": "food-drink",
         "slug": "food-drink",
         "url": "/lessons/eng/b1b2/food-drink"
       },
       {
-        "name": "Kitchen Cooking",
+        "name": "kitchen-cooking",
         "slug": "kitchen-cooking",
         "url": "/lessons/eng/b1b2/kitchen-cooking"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       }
@@ -8860,22 +8860,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Freedom** and **liberty** are usually uncountable and refer to the state of being free.\n- **Democracy** is uncountable and refers to the political system.\n- **Rights** is plural and refers to legal or moral entitlements.\n- **Choice** is countable and refers to specific options or decisions.",
     "relatedTopics": [
       {
-        "name": "Government Politics",
+        "name": "government-politics",
         "slug": "government-politics",
         "url": "/lessons/eng/b1b2/government-politics"
       },
       {
-        "name": "Law Justice",
+        "name": "law-justice",
         "slug": "law-justice",
         "url": "/lessons/eng/b1b2/law-justice"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       }
@@ -9056,22 +9056,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Furniture** is uncountable and refers to movable objects in a room.\n- **Chair** is countable and refers to a seat with a back.\n- **Table** is countable and refers to a flat surface on legs.\n- **Bed** is countable and refers to a piece of furniture for sleeping.",
     "relatedTopics": [
       {
-        "name": "Home Household",
+        "name": "home-household",
         "slug": "home-household",
         "url": "/lessons/eng/b1b2/home-household"
       },
       {
-        "name": "Shopping Retail",
+        "name": "shopping-retail",
         "slug": "shopping-retail",
         "url": "/lessons/eng/b1b2/shopping-retail"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       }
@@ -9260,22 +9260,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Furniture** is uncountable and refers to movable objects in a room.\n- **Home** is countable and refers to a place where someone lives.\n- **Item** is countable and refers to a single object.\n- **Chair** is countable and refers to a seat with a back.",
     "relatedTopics": [
       {
-        "name": "Home Household",
+        "name": "home-household",
         "slug": "home-household",
         "url": "/lessons/eng/b1b2/home-household"
       },
       {
-        "name": "Design Architecture",
+        "name": "design-architecture",
         "slug": "design-architecture",
         "url": "/lessons/eng/b1b2/design-architecture"
       },
       {
-        "name": "Comfort Luxury",
+        "name": "comfort-luxury",
         "slug": "comfort-luxury",
         "url": "/lessons/eng/b1b2/comfort-luxury"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
@@ -9456,22 +9456,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Game** is countable and refers to a form of play or sport.\n- **Play** can be both a verb (to play) and a noun (the play).\n- **Fun** is uncountable and refers to enjoyment or amusement.\n- **Sport** is countable and refers to a physical activity.",
     "relatedTopics": [
       {
-        "name": "Sports Recreation",
+        "name": "sports-recreation",
         "slug": "sports-recreation",
         "url": "/lessons/eng/b1b2/sports-recreation"
       },
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -9652,22 +9652,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Geography** is uncountable and refers to the study of earth's features.\n- **Landscape** is countable and refers to the visible features of land.\n- **Mountain** is countable and can be used with articles.\n- **Ocean** and **sea** are countable and can refer to specific bodies of water.",
     "relatedTopics": [
       {
-        "name": "Nature Environment",
+        "name": "nature-environment",
         "slug": "nature-environment",
         "url": "/lessons/eng/b1b2/nature-environment"
       },
       {
-        "name": "Earth Geography",
+        "name": "earth-geography",
         "slug": "earth-geography",
         "url": "/lessons/eng/b1b2/earth-geography"
       },
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/eng/b1b2/weather-nature"
       },
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       }
@@ -9856,22 +9856,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Government** is countable and refers to the system of ruling.\n- **Politics** is uncountable and refers to political activities.\n- **Democracy** is uncountable and refers to a system of government.\n- **Election** is countable and refers to a voting process.",
     "relatedTopics": [
       {
-        "name": "Law Justice",
+        "name": "law-justice",
         "slug": "law-justice",
         "url": "/lessons/eng/b1b2/law-justice"
       },
       {
-        "name": "Social Issues Problems",
+        "name": "social-issues-problems",
         "slug": "social-issues-problems",
         "url": "/lessons/eng/b1b2/social-issues-problems"
       },
       {
-        "name": "Community Relationships",
+        "name": "community-relationships",
         "slug": "community-relationships",
         "url": "/lessons/eng/b1b2/community-relationships"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       }
@@ -10055,22 +10055,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has been feeling\"\n- **Present Continuous**: \"is working\", \"is feeling\", \"are taking\"\n- **Past Simple**: \"came in\", \"turned out\", \"wrote\"\n- **Modal verbs**: \"need to\", \"should help\", \"couldn't do\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely loves, particularly challenging, big believer\n- **Linking words**: while, after, because, and, but\n- **Contractions**: she's, couldn't, don't, I'm\n- **Medical vocabulary**: medical history, vital signs, emergency department",
     "relatedTopics": [
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       }
@@ -10251,22 +10251,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Health** is uncountable and refers to the state of being well.\n- **Wellness** is uncountable and refers to overall well-being.\n- **Exercise** can be countable (specific exercises) or uncountable (general activity).\n- **Sleep** is usually uncountable and refers to the state of rest.",
     "relatedTopics": [
       {
-        "name": "Body Health",
+        "name": "body-health",
         "slug": "body-health",
         "url": "/lessons/eng/b1b2/body-health"
       },
       {
-        "name": "Sports Recreation",
+        "name": "sports-recreation",
         "slug": "sports-recreation",
         "url": "/lessons/eng/b1b2/sports-recreation"
       },
       {
-        "name": "Medicine Healthcare",
+        "name": "medicine-healthcare",
         "slug": "medicine-healthcare",
         "url": "/lessons/eng/b1b2/medicine-healthcare"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       }
@@ -10450,17 +10450,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been studying\", \"has spent\", \"has been researching\"\n- **Present Continuous**: \"is studying\", \"is researching\", \"is writing\"\n- **Present Simple**: \"believes\", \"finds\", \"helps\", \"shows\"\n- **Gerunds**: \"studying\", \"researching\", \"understanding\", \"learning\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely fascinated, incredibly interesting, particularly interested, most rewarding\n- **Linking words**: and, but, so, because, however\n- **Contractions**: he's, it's, we're, don't\n- **Historical vocabulary**: ancient civilizations, historical events, cultural heritage, turning points",
     "relatedTopics": [
       {
-        "name": "Politics Government",
+        "name": "politics-government",
         "slug": "politics-government",
         "url": "/lessons/eng/b1b2/politics-government"
       },
       {
-        "name": "Arts Culture",
+        "name": "arts-culture",
         "slug": "arts-culture",
         "url": "/lessons/eng/b1b2/arts-culture"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       }
@@ -10641,22 +10641,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Holiday** is countable and refers to a special day or period.\n- **Celebration** is countable and refers to the act of celebrating.\n- **Party** is countable and refers to a social gathering.\n- **Festival** is countable and refers to a special celebration.",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Events Celebrations",
+        "name": "events-celebrations",
         "slug": "events-celebrations",
         "url": "/lessons/eng/b1b2/events-celebrations"
       }
@@ -10845,22 +10845,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Holiday** is countable and refers to a special day.\n- **Season** is countable and refers to a period of the year.\n- **Spring** is uncountable and refers to the season.\n- **Summer** is uncountable and refers to the warm season.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/eng/b1b2/weather-nature"
       },
       {
-        "name": "Events Celebrations",
+        "name": "events-celebrations",
         "slug": "events-celebrations",
         "url": "/lessons/eng/b1b2/events-celebrations"
       }
@@ -11041,22 +11041,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Home** is countable and refers to a place where someone lives.\n- **Household** is countable and refers to a family living together.\n- **House** is countable and refers to a building for living.\n- **Room** is countable and refers to a part of a house.",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Furniture Home Decor",
+        "name": "furniture-home-decor",
         "slug": "furniture-home-decor",
         "url": "/lessons/eng/b1b2/furniture-home-decor"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
@@ -11240,17 +11240,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"thinks\", \"understands\", \"discovers\", \"learns\"\n- **Present Continuous**: \"is studying\", \"is working\", \"is feeling\"\n- **Present Perfect**: \"has been studying\", \"has learned\", \"has discovered\"\n- **Past Simple**: \"used to think\", \"was feeling\", \"decided\"\n- **Gerunds**: \"studying\", \"understanding\", \"practicing\", \"working\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really challenging, absolutely essential, quite confusing, most interesting\n- **Linking words**: and, but, so, because, when, while, that\n- **Contractions**: she's, it's, I'm, don't\n- **Idiomatic vocabulary**: non-native speakers, literal meaning, figurative language, cultural context",
     "relatedTopics": [
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
@@ -11439,22 +11439,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Internet** is uncountable and refers to the global network.\n- **Digital** is an adjective describing electronic technology.\n- **World** is countable and refers to the realm of digital technology.\n- **Website** is countable and refers to a collection of web pages.",
     "relatedTopics": [
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Electronics Gadgets",
+        "name": "electronics-gadgets",
         "slug": "electronics-gadgets",
         "url": "/lessons/eng/b1b2/electronics-gadgets"
       },
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Media Journalism",
+        "name": "media-journalism",
         "slug": "media-journalism",
         "url": "/lessons/eng/b1b2/media-journalism"
       }
@@ -11643,22 +11643,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Job** is countable and refers to a specific position of employment.\n- **Profession** is countable and refers to a type of work requiring special training.\n- **Career** is countable and refers to a person's work life.\n- **Work** is uncountable and refers to the activity of working.",
     "relatedTopics": [
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       }
@@ -11847,22 +11847,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Kitchen** is countable and refers to a room for cooking.\n- **Cooking** is uncountable and refers to the activity of preparing food.\n- **Cook** is a verb meaning to prepare food by heating.\n- **Recipe** is countable and refers to cooking instructions.",
     "relatedTopics": [
       {
-        "name": "Food Drink",
+        "name": "food-drink",
         "slug": "food-drink",
         "url": "/lessons/eng/b1b2/food-drink"
       },
       {
-        "name": "Home Household",
+        "name": "home-household",
         "slug": "home-household",
         "url": "/lessons/eng/b1b2/home-household"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Health Wellness",
+        "name": "health-wellness",
         "slug": "health-wellness",
         "url": "/lessons/eng/b1b2/health-wellness"
       }
@@ -12043,22 +12043,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Language** is countable and can refer to specific languages.\n- **Grammar** is usually uncountable and refers to the system of rules.\n- **Vocabulary** is uncountable and refers to the collection of words.\n- **Speak**, **listen**, **read**, **write** are action verbs requiring objects.",
     "relatedTopics": [
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Countries Nationalities",
+        "name": "countries-nationalities",
         "slug": "countries-nationalities",
         "url": "/lessons/eng/b1b2/countries-nationalities"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       }
@@ -12242,17 +12242,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has been involved\", \"has been arrested\"\n- **Present Continuous**: \"is working\", \"is investigating\", \"is protecting\"\n- **Present Simple**: \"believes\", \"deserves\", \"requires\", \"protects\"\n- **Gerunds**: \"working\", \"representing\", \"protecting\", \"following\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really challenging, absolutely crucial, incredibly important, completely lawful\n- **Linking words**: and, but, so, because, while\n- **Contractions**: she's, it's, we're, don't\n- **Legal vocabulary**: legal representation, constitutional rights, justice system, legal penalties",
     "relatedTopics": [
       {
-        "name": "Politics Government",
+        "name": "politics-government",
         "slug": "politics-government",
         "url": "/lessons/eng/b1b2/politics-government"
       },
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
@@ -12433,22 +12433,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Literature** is uncountable and refers to written works of artistic value.\n- **Writing** can be countable (pieces of writing) or uncountable (the activity).\n- **Book** is countable and refers to published written works.\n- **Author** and **writer** are countable and refer to people who create literature.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Language Linguistics",
+        "name": "language-linguistics",
         "slug": "language-linguistics",
         "url": "/lessons/eng/b1b2/language-linguistics"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Creativity Imagination",
+        "name": "creativity-imagination",
         "slug": "creativity-imagination",
         "url": "/lessons/eng/b1b2/creativity-imagination"
       }
@@ -12637,22 +12637,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Material** is countable and refers to a substance used to make things.\n- **Substance** is countable and refers to a particular kind of matter.\n- **Wood** is uncountable and refers to the material from trees.\n- **Metal** is countable and refers to a chemical element.",
     "relatedTopics": [
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Design Architecture",
+        "name": "design-architecture",
         "slug": "design-architecture",
         "url": "/lessons/eng/b1b2/design-architecture"
       },
       {
-        "name": "Manufacturing Production",
+        "name": "manufacturing-production",
         "slug": "manufacturing-production",
         "url": "/lessons/eng/b1b2/manufacturing-production"
       },
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       }
@@ -12841,22 +12841,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Measurement** is countable and refers to the act of measuring.\n- **Quantity** is uncountable and refers to the amount of something.\n- **Measure** is a verb meaning to determine size or amount.\n- **Count** is a verb meaning to determine the number of items.",
     "relatedTopics": [
       {
-        "name": "Numbers Quantity",
+        "name": "numbers-quantity",
         "slug": "numbers-quantity",
         "url": "/lessons/eng/b1b2/numbers-quantity"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Mathematics Science",
+        "name": "mathematics-science",
         "slug": "mathematics-science",
         "url": "/lessons/eng/b1b2/mathematics-science"
       },
       {
-        "name": "Tools Equipment",
+        "name": "tools-equipment",
         "slug": "tools-equipment",
         "url": "/lessons/eng/b1b2/tools-equipment"
       }
@@ -13037,22 +13037,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Media** is usually treated as singular (\"the media is\") but can be plural (\"the media are\").\n- **Journalism** is uncountable and refers to the profession.\n- **News** is uncountable and refers to information about current events.\n- **Reporter** and **journalist** are countable and refer to people.",
     "relatedTopics": [
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Government Politics",
+        "name": "government-politics",
         "slug": "government-politics",
         "url": "/lessons/eng/b1b2/government-politics"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       }
@@ -13236,17 +13236,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"treats\", \"believes\", \"encourages\", \"finds\"\n- **Present Continuous**: \"is treating\", \"is experiencing\", \"is learning\"\n- **Present Perfect**: \"has been treating\", \"has learned\", \"has seen\"\n- **Past Simple**: \"treated\", \"saw\", \"learned\", \"required\"\n- **Gerunds**: \"treating\", \"learning\", \"understanding\", \"preventing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really challenging, incredibly important, quite serious, most effective\n- **Linking words**: and, but, so, because, while, that, which\n- **Contractions**: she's, it's, I'm, don't\n- **Medical vocabulary**: early detection, preventive care, accurate diagnosis, immediate attention",
     "relatedTopics": [
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
@@ -13435,22 +13435,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Medicine** is uncountable and refers to the practice of healing.\n- **Healthcare** is uncountable and refers to medical services.\n- **Doctor** is countable and refers to a medical professional.\n- **Nurse** is countable and refers to a healthcare worker.",
     "relatedTopics": [
       {
-        "name": "Body Health",
+        "name": "body-health",
         "slug": "body-health",
         "url": "/lessons/eng/b1b2/body-health"
       },
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Personal Care Hygiene",
+        "name": "personal-care-hygiene",
         "slug": "personal-care-hygiene",
         "url": "/lessons/eng/b1b2/personal-care-hygiene"
       }
@@ -13639,22 +13639,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Mental** is an adjective describing things related to the mind.\n- **Process** is countable and refers to a series of actions.\n- **Thinking** is uncountable and refers to the act of thinking.\n- **Thought** is countable and refers to an individual idea.",
     "relatedTopics": [
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       },
       {
-        "name": "Basic Concepts Grammar",
+        "name": "basic-concepts-grammar",
         "slug": "basic-concepts-grammar",
         "url": "/lessons/eng/b1b2/basic-concepts-grammar"
       }
@@ -13835,22 +13835,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Money** is uncountable and refers to the medium of exchange.\n- **Finance** is uncountable and refers to the management of money.\n- **Budget** is countable and refers to a financial plan.\n- **Income** is uncountable and refers to money earned.",
     "relatedTopics": [
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Shopping Retail",
+        "name": "shopping-retail",
         "slug": "shopping-retail",
         "url": "/lessons/eng/b1b2/shopping-retail"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       }
@@ -14154,17 +14154,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"loves\", \"prefers\", \"enjoys\", \"believes\"\n- **Present Continuous**: \"is moving\", \"is planning\", \"is driving\"\n- **Past Simple**: \"decided\", \"left\", \"drove\", \"arrived\", \"got\"\n- **Gerunds**: \"traveling\", \"exploring\", \"moving\", \"climbing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely loves, really amazing, quite cold, already planning\n- **Linking words**: and, but, so, because, when, where\n- **Contractions**: she's, I'm, we're, don't\n- **Movement vocabulary**: road trip, steep hills, different directions, familiar places",
     "relatedTopics": [
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Nature Environment",
+        "name": "nature-environment",
         "slug": "nature-environment",
         "url": "/lessons/eng/b1b2/nature-environment"
       }
@@ -14345,22 +14345,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Music** is usually uncountable and refers to the art form.\n- **Instrument** is countable and can refer to musical or other tools.\n- **Song** is countable and refers to a specific musical composition.\n- **Musician** is countable and refers to a person who plays music.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Events Celebrations",
+        "name": "events-celebrations",
         "slug": "events-celebrations",
         "url": "/lessons/eng/b1b2/events-celebrations"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -14544,22 +14544,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"loves\", \"believes\", \"thinks\", \"encourages\"\n- **Present Continuous**: \"is changing\", \"is becoming\", \"is working\"\n- **Present Perfect**: \"has been learning\", \"has been volunteering\"\n- **Gerunds**: \"hiking\", \"camping\", \"watching\", \"listening\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really concerned, quite unpredictable, clear sign\n- **Linking words**: because, and, but, so, when\n- **Contractions**: he's, we're, I'm, don't\n- **Environmental vocabulary**: carbon footprint, renewable energy, natural habitats, endangered species",
     "relatedTopics": [
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       }
@@ -14740,22 +14740,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Number** is countable and refers to a mathematical value.\n- **Quantity** is uncountable and refers to the amount of something.\n- **Count** is a verb meaning to determine the number of items.\n- **Add** is a verb meaning to combine numbers or amounts.",
     "relatedTopics": [
       {
-        "name": "Time Calendar",
+        "name": "time-calendar",
         "slug": "time-calendar",
         "url": "/lessons/eng/b1b2/time-calendar"
       },
       {
-        "name": "Measurement Quantity",
+        "name": "measurement-quantity",
         "slug": "measurement-quantity",
         "url": "/lessons/eng/b1b2/measurement-quantity"
       },
       {
-        "name": "Money Finance",
+        "name": "money-finance",
         "slug": "money-finance",
         "url": "/lessons/eng/b1b2/money-finance"
       },
       {
-        "name": "Basic Concepts Grammar",
+        "name": "basic-concepts-grammar",
         "slug": "basic-concepts-grammar",
         "url": "/lessons/eng/b1b2/basic-concepts-grammar"
       }
@@ -15039,17 +15039,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"starts\", \"has\", \"works\", \"tries\"\n- **Present Continuous**: \"is working\", \"is coordinating\", \"is scheduling\"\n- **Present Perfect**: \"has learned\", \"has been working\", \"has completed\"\n- **Past Simple**: \"was working\", \"had to\", \"took\", \"was exhausted\"\n- **Gerunds**: \"working\", \"scheduling\", \"coordinating\", \"managing\"\n- **Complex sentences**: Time clauses, conditional structures\n- **Conversational vocabulary**: really challenging, absolutely essential, incredibly important, completely finished\n- **Linking words**: and, but, so, because, when, while, since, until\n- **Contractions**: he's, it's, I'm, don't\n- **Time vocabulary**: time management, business hours, time zones, deadlines",
     "relatedTopics": [
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       }
@@ -15207,22 +15207,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Office** is countable and refers to a place of work.\n- **Workplace** is countable and refers to the environment where work is done.\n- **Meeting** is countable and refers to a gathering of people.\n- **Colleague** is countable and refers to a fellow worker.",
     "relatedTopics": [
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Jobs Professions",
+        "name": "jobs-professions",
         "slug": "jobs-professions",
         "url": "/lessons/eng/b1b2/jobs-professions"
       },
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       }
@@ -15406,17 +15406,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"has\", \"loves\", \"takes\", \"applies\"\n- **Present Continuous**: \"is taking\", \"is applying\", \"is using\"\n- **Present Perfect**: \"has learned\", \"has developed\", \"has encouraged\"\n- **Gerunds**: \"brushing\", \"combing\", \"applying\", \"encouraging\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really particular, super important, pretty simple, big on\n- **Linking words**: and, but, so, because, when\n- **Contractions**: she's, it's, don't, I'm\n- **Personal care vocabulary**: skincare routine, oral care, self-care, hygiene habits",
     "relatedTopics": [
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Home Housing",
+        "name": "home-housing",
         "slug": "home-housing",
         "url": "/lessons/eng/b1b2/home-housing"
       }
@@ -15597,22 +15597,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Personal** is an adjective that describes individual development.\n- **Development** is uncountable and refers to the process of growth.\n- **Goals** is plural and refers to specific objectives.\n- **Skills** is plural and refers to learned abilities.",
     "relatedTopics": [
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Success Achievement",
+        "name": "success-achievement",
         "slug": "success-achievement",
         "url": "/lessons/eng/b1b2/success-achievement"
       },
       {
-        "name": "Motivation Inspiration",
+        "name": "motivation-inspiration",
         "slug": "motivation-inspiration",
         "url": "/lessons/eng/b1b2/motivation-inspiration"
       }
@@ -15793,22 +15793,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Pronoun** is countable and refers to a word that replaces a noun.\n- **Identity** is uncountable and refers to who someone is.\n- **Personal** is an adjective describing things related to a person.\n- **Self** is a pronoun referring to the person speaking.",
     "relatedTopics": [
       {
-        "name": "Basic Concepts Grammar",
+        "name": "basic-concepts-grammar",
         "slug": "basic-concepts-grammar",
         "url": "/lessons/eng/b1b2/basic-concepts-grammar"
       },
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       },
       {
-        "name": "Relationships Interactions",
+        "name": "relationships-interactions",
         "slug": "relationships-interactions",
         "url": "/lessons/eng/b1b2/relationships-interactions"
       }
@@ -15992,17 +15992,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been teaching\", \"has been working\", \"has shaped\"\n- **Present Continuous**: \"is teaching\", \"is working\", \"is exploring\"\n- **Present Simple**: \"believes\", \"encourages\", \"helps\", \"finds\"\n- **Gerunds**: \"teaching\", \"working\", \"exploring\", \"thinking\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely passionate, incredibly fascinating, particularly interested, most rewarding\n- **Linking words**: and, but, so, because, however\n- **Contractions**: he's, it's, we're, don't\n- **Philosophical vocabulary**: critical thinking, abstract concepts, philosophical traditions, thoughtful reflection",
     "relatedTopics": [
       {
-        "name": "Religion Spirituality",
+        "name": "religion-spirituality",
         "slug": "religion-spirituality",
         "url": "/lessons/eng/b1b2/religion-spirituality"
       },
       {
-        "name": "History Civilization",
+        "name": "history-civilization",
         "slug": "history-civilization",
         "url": "/lessons/eng/b1b2/history-civilization"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       }
@@ -16186,17 +16186,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"struggles\", \"learns\", \"discovers\", \"finds\"\n- **Present Continuous**: \"is learning\", \"is looking\", \"is working\"\n- **Present Perfect**: \"has been learning\", \"has discovered\", \"has learned\"\n- **Past Simple**: \"used to struggle\", \"was looking\", \"had to\"\n- **Gerunds**: \"learning\", \"understanding\", \"practicing\", \"working\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really challenging, absolutely essential, completely change, most interesting\n- **Linking words**: and, but, so, because, when, while, that\n- **Contractions**: he's, it's, I'm, don't\n- **Phrasal verb vocabulary**: everyday communication, real situations, different meanings, appropriate context",
     "relatedTopics": [
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       }
@@ -16385,22 +16385,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Place** is countable and refers to a specific location.\n- **Location** is countable and refers to a particular position.\n- **City** is countable and refers to a large town.\n- **Country** is countable and refers to a nation.",
     "relatedTopics": [
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       },
       {
-        "name": "Urban City Life",
+        "name": "urban-city-life",
         "slug": "urban-city-life",
         "url": "/lessons/eng/b1b2/urban-city-life"
       },
       {
-        "name": "Geography Landscape",
+        "name": "geography-landscape",
         "slug": "geography-landscape",
         "url": "/lessons/eng/b1b2/geography-landscape"
       },
       {
-        "name": "Community Relationships",
+        "name": "community-relationships",
         "slug": "community-relationships",
         "url": "/lessons/eng/b1b2/community-relationships"
       }
@@ -16589,22 +16589,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Plant** is countable and refers to a living organism.\n- **Botany** is uncountable and refers to the study of plants.\n- **Tree** is countable and refers to a large woody plant.\n- **Flower** is countable and refers to the reproductive part of a plant.",
     "relatedTopics": [
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       },
       {
-        "name": "Agriculture Farming",
+        "name": "agriculture-farming",
         "slug": "agriculture-farming",
         "url": "/lessons/eng/b1b2/agriculture-farming"
       },
       {
-        "name": "Nature Weather",
+        "name": "nature-weather",
         "slug": "nature-weather",
         "url": "/lessons/eng/b1b2/nature-weather"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       }
@@ -16788,17 +16788,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been interested\", \"has been following\", \"has been working\"\n- **Present Continuous**: \"is working\", \"is implementing\", \"is proposing\"\n- **Present Simple**: \"believes\", \"thinks\", \"encourages\", \"affects\"\n- **Gerunds**: \"working\", \"researching\", \"participating\", \"discussing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really important, particularly interested, most fascinating, absolutely crucial\n- **Linking words**: and, but, so, because, while\n- **Contractions**: he's, it's, we're, don't\n- **Political vocabulary**: democratic process, legal reforms, town hall meetings, individual freedom",
     "relatedTopics": [
       {
-        "name": "Law Justice",
+        "name": "law-justice",
         "slug": "law-justice",
         "url": "/lessons/eng/b1b2/law-justice"
       },
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
@@ -16982,17 +16982,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has been studying\", \"has discovered\"\n- **Present Continuous**: \"is working\", \"is studying\", \"is researching\"\n- **Present Simple**: \"believes\", \"finds\", \"helps\", \"sees\"\n- **Gerunds**: \"working\", \"studying\", \"understanding\", \"helping\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely fascinated, incredibly interesting, particularly interested, most rewarding\n- **Linking words**: and, but, so, because, however\n- **Contractions**: she's, it's, we're, don't\n- **Psychological vocabulary**: subconscious mind, emotional intelligence, personal development, mental well-being",
     "relatedTopics": [
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       }
@@ -17181,22 +17181,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Quality** is countable and refers to a characteristic or feature.\n- **Characteristic** is countable and refers to a distinguishing feature.\n- **Trait** is countable and refers to a distinguishing quality.\n- **Feature** is countable and refers to a distinctive attribute.",
     "relatedTopics": [
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       },
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Relationships Interactions",
+        "name": "relationships-interactions",
         "slug": "relationships-interactions",
         "url": "/lessons/eng/b1b2/relationships-interactions"
       },
       {
-        "name": "Human Traits",
+        "name": "human-traits",
         "slug": "human-traits",
         "url": "/lessons/eng/b1b2/human-traits"
       }
@@ -17430,17 +17430,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"works\", \"uses\", \"believes\", \"needs\"\n- **Present Continuous**: \"is working\", \"is measuring\", \"is tracking\"\n- **Present Perfect**: \"has learned\", \"has discovered\", \"has found\"\n- **Gerunds**: \"working\", \"measuring\", \"tracking\", \"gathering\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely essential, incredibly important, completely different, gradually build\n- **Linking words**: and, but, so, because, when, while, that\n- **Contractions**: she's, it's, I'm, don't\n- **Quantitative vocabulary**: precise measurements, accurate results, small errors, meaningful conclusions",
     "relatedTopics": [
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
@@ -17621,22 +17621,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Relationships** is plural and refers to connections between people.\n- **Communication** is uncountable and refers to the process of exchanging information.\n- **Friendship** is uncountable and refers to the state of being friends.\n- **Love** is uncountable and refers to the emotion or state of loving.",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Communication Language",
+        "name": "communication-language",
         "slug": "communication-language",
         "url": "/lessons/eng/b1b2/communication-language"
       },
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       }
@@ -17820,17 +17820,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been exploring\", \"has been reading\", \"has been learning\"\n- **Present Continuous**: \"is exploring\", \"is reading\", \"is learning\"\n- **Present Simple**: \"believes\", \"finds\", \"appreciates\", \"respects\"\n- **Gerunds**: \"exploring\", \"reading\", \"learning\", \"living\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really important, absolutely struck, particularly drawn, incredibly meaningful\n- **Linking words**: and, but, so, because, while\n- **Contractions**: he's, it's, we're, don't\n- **Religious vocabulary**: spiritual foundation, places of worship, sacred atmosphere, spiritual journey",
     "relatedTopics": [
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       },
       {
-        "name": "History Civilization",
+        "name": "history-civilization",
         "slug": "history-civilization",
         "url": "/lessons/eng/b1b2/history-civilization"
       },
       {
-        "name": "Arts Culture",
+        "name": "arts-culture",
         "slug": "arts-culture",
         "url": "/lessons/eng/b1b2/arts-culture"
       }
@@ -18011,22 +18011,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Science** is uncountable and refers to the systematic study of the natural world.\n- **Research** is usually uncountable and refers to systematic investigation.\n- **Experiment** is countable and refers to specific scientific tests.\n- **Discovery** is countable and refers to specific findings.",
     "relatedTopics": [
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Space Astronomy",
+        "name": "space-astronomy",
         "slug": "space-astronomy",
         "url": "/lessons/eng/b1b2/space-astronomy"
       },
       {
-        "name": "Medicine Healthcare",
+        "name": "medicine-healthcare",
         "slug": "medicine-healthcare",
         "url": "/lessons/eng/b1b2/medicine-healthcare"
       }
@@ -18210,17 +18210,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has made\", \"has contributed\"\n- **Present Continuous**: \"is conducting\", \"is studying\", \"is analyzing\"\n- **Present Simple**: \"believes\", \"involves\", \"requires\", \"helps\"\n- **Gerunds**: \"conducting\", \"analyzing\", \"collaborating\", \"working\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely passionate, state-of-the-art, incredibly exciting, remarkably accurate\n- **Linking words**: and, but, so, because, where\n- **Contractions**: she's, it's, we're, don't\n- **Scientific vocabulary**: marine ecosystems, environmental conditions, evidence-based research, sophisticated experiments",
     "relatedTopics": [
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Nature Environment",
+        "name": "nature-environment",
         "slug": "nature-environment",
         "url": "/lessons/eng/b1b2/nature-environment"
       }
@@ -18409,22 +18409,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Shape** is countable and refers to a geometric form.\n- **Dimension** is countable and refers to a measurement.\n- **Size** is countable and refers to the magnitude of something.\n- **Length** is countable and refers to the longest dimension.",
     "relatedTopics": [
       {
-        "name": "Measurement Quantity",
+        "name": "measurement-quantity",
         "slug": "measurement-quantity",
         "url": "/lessons/eng/b1b2/measurement-quantity"
       },
       {
-        "name": "Design Architecture",
+        "name": "design-architecture",
         "slug": "design-architecture",
         "url": "/lessons/eng/b1b2/design-architecture"
       },
       {
-        "name": "Colors Visual Properties",
+        "name": "colors-visual-properties",
         "slug": "colors-visual-properties",
         "url": "/lessons/eng/b1b2/colors-visual-properties"
       },
       {
-        "name": "Mathematics Science",
+        "name": "mathematics-science",
         "slug": "mathematics-science",
         "url": "/lessons/eng/b1b2/mathematics-science"
       }
@@ -18608,22 +18608,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"loves\", \"goes\", \"tries\", \"spends\"\n- **Past Simple**: \"went\", \"found\", \"decided\", \"spent\"\n- **Present Perfect**: \"has been saving\", \"has learned\", \"has reached\"\n- **Gerunds**: \"shopping\", \"browsing\", \"trying\", \"comparing\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really good at, a bit expensive, much cheaper\n- **Linking words**: because, so, when, and, but\n- **Contractions**: she's, didn't, I'm, can't\n- **Shopping vocabulary**: browsing, trying on, comparing prices, staying within budget",
     "relatedTopics": [
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       }
@@ -18804,22 +18804,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Shopping** is uncountable and refers to the activity of buying goods.\n- **Retail** is uncountable and refers to the business of selling goods.\n- **Store** is countable and refers to a place where goods are sold.\n- **Customer** is countable and refers to a person who buys goods or services.",
     "relatedTopics": [
       {
-        "name": "Economics Business",
+        "name": "economics-business",
         "slug": "economics-business",
         "url": "/lessons/eng/b1b2/economics-business"
       },
       {
-        "name": "Daily Life",
+        "name": "daily-life",
         "slug": "daily-life",
         "url": "/lessons/eng/b1b2/daily-life"
       },
       {
-        "name": "Money Finance",
+        "name": "money-finance",
         "slug": "money-finance",
         "url": "/lessons/eng/b1b2/money-finance"
       },
       {
-        "name": "Consumer Behavior",
+        "name": "consumer-behavior",
         "slug": "consumer-behavior",
         "url": "/lessons/eng/b1b2/consumer-behavior"
       }
@@ -19078,17 +19078,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"believes\", \"works\", \"learns\", \"discovers\"\n- **Present Continuous**: \"is working\", \"is learning\", \"is helping\"\n- **Present Perfect**: \"has worked\", \"has learned\", \"has discovered\"\n- **Gerunds**: \"working\", \"learning\", \"helping\", \"building\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really rewarding, absolutely essential, incredibly important, profoundly impact\n- **Linking words**: and, but, so, because, when, while, that\n- **Contractions**: he's, it's, I'm, don't\n- **Social vocabulary**: social connections, meaningful relationships, community ties, social skills",
     "relatedTopics": [
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       }
@@ -19269,22 +19269,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Social** is an adjective that describes issues related to society.\n- **Issues** and **problems** are countable and refer to specific challenges.\n- **Poverty** is uncountable and refers to the state of being poor.\n- **Discrimination** is uncountable and refers to unfair treatment.",
     "relatedTopics": [
       {
-        "name": "Human Society",
+        "name": "human-society",
         "slug": "human-society",
         "url": "/lessons/eng/b1b2/human-society"
       },
       {
-        "name": "Government Politics",
+        "name": "government-politics",
         "slug": "government-politics",
         "url": "/lessons/eng/b1b2/government-politics"
       },
       {
-        "name": "Community Support",
+        "name": "community-support",
         "slug": "community-support",
         "url": "/lessons/eng/b1b2/community-support"
       },
       {
-        "name": "Social Justice",
+        "name": "social-justice",
         "slug": "social-justice",
         "url": "/lessons/eng/b1b2/social-justice"
       }
@@ -19468,17 +19468,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"works\", \"believes\", \"discovers\", \"learns\"\n- **Present Continuous**: \"is working\", \"is recording\", \"is creating\"\n- **Present Perfect**: \"has learned\", \"has discovered\", \"has recorded\"\n- **Past Simple**: \"was working\", \"had to\", \"recorded\", \"learned\"\n- **Gerunds**: \"working\", \"recording\", \"creating\", \"understanding\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really fascinating, incredibly versatile, quite unpleasant, most beautiful\n- **Linking words**: and, but, so, because, while, that, where\n- **Contractions**: he's, it's, I'm, don't\n- **Sound vocabulary**: sound engineer, audio experiences, soundscape, moments of tension",
     "relatedTopics": [
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Arts Culture",
+        "name": "arts-culture",
         "slug": "arts-culture",
         "url": "/lessons/eng/b1b2/arts-culture"
       }
@@ -19667,22 +19667,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Space** is uncountable and refers to the area beyond Earth.\n- **Astronomy** is uncountable and refers to the study of space.\n- **Planet** is countable and refers to a celestial body.\n- **Star** is countable and refers to a luminous celestial object.",
     "relatedTopics": [
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Nature Environment",
+        "name": "nature-environment",
         "slug": "nature-environment",
         "url": "/lessons/eng/b1b2/nature-environment"
       },
       {
-        "name": "Exploration Discovery",
+        "name": "exploration-discovery",
         "slug": "exploration-discovery",
         "url": "/lessons/eng/b1b2/exploration-discovery"
       }
@@ -19863,22 +19863,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Sports** is usually plural and refers to athletic activities.\n- **Competition** is countable and can refer to specific events.\n- **Game** is countable and refers to specific sporting events.\n- **Team** is countable and refers to a group of players.",
     "relatedTopics": [
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Health Wellness",
+        "name": "health-wellness",
         "slug": "health-wellness",
         "url": "/lessons/eng/b1b2/health-wellness"
       },
       {
-        "name": "Social Interactions",
+        "name": "social-interactions",
         "slug": "social-interactions",
         "url": "/lessons/eng/b1b2/social-interactions"
       },
       {
-        "name": "Personal Development",
+        "name": "personal-development",
         "slug": "personal-development",
         "url": "/lessons/eng/b1b2/personal-development"
       }
@@ -20062,22 +20062,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been playing\", \"has become\", \"has helped\"\n- **Present Continuous**: \"is training\", \"is coming up\", \"is working\"\n- **Past Simple**: \"participated\", \"managed\", \"was disappointed\"\n- **Gerunds**: \"playing\", \"practicing\", \"training\", \"watching\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really experienced, get the hang of, huge fan, great way\n- **Linking words**: because, and, but, so, when\n- **Contractions**: he's, it's, I'm, don't\n- **Sports vocabulary**: competitive aspect, strength training, half-marathon, championship",
     "relatedTopics": [
       {
-        "name": "Health Medicine",
+        "name": "health-medicine",
         "slug": "health-medicine",
         "url": "/lessons/eng/b1b2/health-medicine"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       }
@@ -20258,22 +20258,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Technology** is uncountable and refers to the application of scientific knowledge.\n- **Computer** is countable and refers to an electronic device.\n- **Software** is uncountable and refers to programs and applications.\n- **Hardware** is uncountable and refers to physical computer components.",
     "relatedTopics": [
       {
-        "name": "Internet Digital World",
+        "name": "internet-digital-world",
         "slug": "internet-digital-world",
         "url": "/lessons/eng/b1b2/internet-digital-world"
       },
       {
-        "name": "Electronics Gadgets",
+        "name": "electronics-gadgets",
         "slug": "electronics-gadgets",
         "url": "/lessons/eng/b1b2/electronics-gadgets"
       },
       {
-        "name": "Science Research",
+        "name": "science-research",
         "slug": "science-research",
         "url": "/lessons/eng/b1b2/science-research"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       }
@@ -20457,17 +20457,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect**: \"has been working\", \"has seen\", \"has been fascinated\"\n- **Present Continuous**: \"is working\", \"is developing\", \"is designing\"\n- **Present Simple**: \"loves\", \"believes\", \"spends\", \"sees\"\n- **Gerunds**: \"developing\", \"working\", \"learning\", \"shaping\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: mind-blowing, cutting-edge, honestly, really exciting\n- **Linking words**: and, but, so, because, that\n- **Contractions**: he's, it's, we're, don't\n- **Technology vocabulary**: artificial intelligence, automation systems, digital networks, cutting-edge research",
     "relatedTopics": [
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
@@ -20648,22 +20648,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Theater** is countable and can refer to the building or the art form.\n- **Performance** is countable and refers to specific theatrical events.\n- **Stage** is countable and refers to the performance area.\n- **Actor** and **actress** are countable and refer to people who perform.",
     "relatedTopics": [
       {
-        "name": "Entertainment Media",
+        "name": "entertainment-media",
         "slug": "entertainment-media",
         "url": "/lessons/eng/b1b2/entertainment-media"
       },
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Film Cinema",
+        "name": "film-cinema",
         "slug": "film-cinema",
         "url": "/lessons/eng/b1b2/film-cinema"
       },
       {
-        "name": "Music Instruments",
+        "name": "music-instruments",
         "slug": "music-instruments",
         "url": "/lessons/eng/b1b2/music-instruments"
       }
@@ -20922,17 +20922,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"believes\", \"thinks\", \"studies\", \"finds\"\n- **Present Continuous**: \"is studying\", \"is researching\", \"is developing\"\n- **Present Perfect**: \"has developed\", \"has been researching\", \"has found\"\n- **Gerunds**: \"studying\", \"researching\", \"developing\", \"thinking\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really fascinating, absolutely essential, incredibly important, significantly improved\n- **Linking words**: and, but, so, because, while, that\n- **Contractions**: she's, it's, I'm, don't\n- **Cognitive vocabulary**: problem-solving skills, creative thinking, analytical approach, intuitive thinking",
     "relatedTopics": [
       {
-        "name": "Psychology Behavior",
+        "name": "psychology-behavior",
         "slug": "psychology-behavior",
         "url": "/lessons/eng/b1b2/psychology-behavior"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       },
       {
-        "name": "Education Learning",
+        "name": "education-learning",
         "slug": "education-learning",
         "url": "/lessons/eng/b1b2/education-learning"
       }
@@ -21113,22 +21113,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Time** is uncountable and refers to the continuous progression of events.\n- **Calendar** is countable and refers to a system for organizing dates.\n- **Hour** is countable and refers to a period of 60 minutes.\n- **Day** is countable and refers to a 24-hour period.",
     "relatedTopics": [
       {
-        "name": "Numbers Quantity",
+        "name": "numbers-quantity",
         "slug": "numbers-quantity",
         "url": "/lessons/eng/b1b2/numbers-quantity"
       },
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Events Celebrations",
+        "name": "events-celebrations",
         "slug": "events-celebrations",
         "url": "/lessons/eng/b1b2/events-celebrations"
       }
@@ -21317,22 +21317,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Tool** is countable and refers to an instrument for work.\n- **Equipment** is uncountable and refers to tools and machinery.\n- **Hammer** is countable and refers to a tool for hitting.\n- **Drill** is countable and refers to a tool for making holes.",
     "relatedTopics": [
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Work Career",
+        "name": "work-career",
         "slug": "work-career",
         "url": "/lessons/eng/b1b2/work-career"
       },
       {
-        "name": "Manufacturing Production",
+        "name": "manufacturing-production",
         "slug": "manufacturing-production",
         "url": "/lessons/eng/b1b2/manufacturing-production"
       },
       {
-        "name": "Home Household",
+        "name": "home-household",
         "slug": "home-household",
         "url": "/lessons/eng/b1b2/home-household"
       }
@@ -21513,22 +21513,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Transportation** is uncountable and refers to the system of moving people and goods.\n- **Infrastructure** is uncountable and refers to the basic physical systems.\n- **Road** is countable and refers to specific transportation routes.\n- **Traffic** is uncountable and refers to the movement of vehicles.",
     "relatedTopics": [
       {
-        "name": "Economics Finance",
+        "name": "economics-finance",
         "slug": "economics-finance",
         "url": "/lessons/eng/b1b2/economics-finance"
       },
       {
-        "name": "Urban Planning",
+        "name": "urban-planning",
         "slug": "urban-planning",
         "url": "/lessons/eng/b1b2/urban-planning"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Government Politics",
+        "name": "government-politics",
         "slug": "government-politics",
         "url": "/lessons/eng/b1b2/government-politics"
       }
@@ -21712,22 +21712,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Past Simple**: \"decided\", \"planned\", \"booked\", \"arrived\", \"landed\"\n- **Past Continuous**: \"was going\", \"were traveling\", \"was watching\"\n- **Present Perfect**: \"have planned\", \"have booked\", \"have discovered\"\n- **Gerunds**: \"traveling\", \"booking\", \"packing\", \"exploring\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: absolutely amazing, totally worth it, kind of fun\n- **Linking words**: because, when, and, but, so\n- **Contractions**: we're, didn't, wouldn't, I'm\n- **Travel vocabulary**: rental car, business trip, check in, get around",
     "relatedTopics": [
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Family Relationships",
+        "name": "family-relationships",
         "slug": "family-relationships",
         "url": "/lessons/eng/b1b2/family-relationships"
       },
       {
-        "name": "Shopping Money",
+        "name": "shopping-money",
         "slug": "shopping-money",
         "url": "/lessons/eng/b1b2/shopping-money"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       }
@@ -21916,22 +21916,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Vehicle** is countable and refers to a means of transport.\n- **Transportation** is uncountable and refers to the system of transport.\n- **Car** is countable and refers to a road vehicle.\n- **Train** is countable and refers to a rail vehicle.",
     "relatedTopics": [
       {
-        "name": "Travel Transportation",
+        "name": "travel-transportation",
         "slug": "travel-transportation",
         "url": "/lessons/eng/b1b2/travel-transportation"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       },
       {
-        "name": "Urban City Life",
+        "name": "urban-city-life",
         "slug": "urban-city-life",
         "url": "/lessons/eng/b1b2/urban-city-life"
       },
       {
-        "name": "Energy Resources",
+        "name": "energy-resources",
         "slug": "energy-resources",
         "url": "/lessons/eng/b1b2/energy-resources"
       }
@@ -22112,22 +22112,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Water** is uncountable and refers to the liquid substance.\n- **Ocean** is countable and refers to a large body of salt water.\n- **Fish** can be both countable (individual fish) and uncountable (as food).\n- **Marine** is an adjective describing things related to the sea.",
     "relatedTopics": [
       {
-        "name": "Weather Nature",
+        "name": "weather-nature",
         "slug": "weather-nature",
         "url": "/lessons/eng/b1b2/weather-nature"
       },
       {
-        "name": "Animals Wildlife",
+        "name": "animals-wildlife",
         "slug": "animals-wildlife",
         "url": "/lessons/eng/b1b2/animals-wildlife"
       },
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       },
       {
-        "name": "Geography Landscape",
+        "name": "geography-landscape",
         "slug": "geography-landscape",
         "url": "/lessons/eng/b1b2/geography-landscape"
       }
@@ -22316,22 +22316,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Weather** is uncountable and refers to atmospheric conditions.\n- **Nature** is uncountable and refers to the natural world.\n- **Sun** is countable and refers to the star that provides light.\n- **Rain** is uncountable and refers to falling water.",
     "relatedTopics": [
       {
-        "name": "Environment Ecology",
+        "name": "environment-ecology",
         "slug": "environment-ecology",
         "url": "/lessons/eng/b1b2/environment-ecology"
       },
       {
-        "name": "Animals Wildlife",
+        "name": "animals-wildlife",
         "slug": "animals-wildlife",
         "url": "/lessons/eng/b1b2/animals-wildlife"
       },
       {
-        "name": "Geography Landscape",
+        "name": "geography-landscape",
         "slug": "geography-landscape",
         "url": "/lessons/eng/b1b2/geography-landscape"
       },
       {
-        "name": "Seasons Holidays",
+        "name": "seasons-holidays",
         "slug": "seasons-holidays",
         "url": "/lessons/eng/b1b2/seasons-holidays"
       }
@@ -22512,22 +22512,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Western** is an adjective that describes cultural or geographical origin.\n- **Culture** can be countable (\"cultures\") or uncountable (\"culture\").\n- **Civilization** is countable and refers to advanced societies.\n- **Heritage** is usually uncountable and refers to inherited traditions.",
     "relatedTopics": [
       {
-        "name": "Culture Arts",
+        "name": "culture-arts",
         "slug": "culture-arts",
         "url": "/lessons/eng/b1b2/culture-arts"
       },
       {
-        "name": "Philosophy Thought",
+        "name": "philosophy-thought",
         "slug": "philosophy-thought",
         "url": "/lessons/eng/b1b2/philosophy-thought"
       },
       {
-        "name": "History Civilization",
+        "name": "history-civilization",
         "slug": "history-civilization",
         "url": "/lessons/eng/b1b2/history-civilization"
       },
       {
-        "name": "Democracy Freedom",
+        "name": "democracy-freedom",
         "slug": "democracy-freedom",
         "url": "/lessons/eng/b1b2/democracy-freedom"
       }
@@ -22736,22 +22736,22 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Perfect Continuous**: \"has been working\", \"has been learning\"\n- **Present Perfect**: \"has built\", \"has learned\", \"has noticed\"\n- **Present Continuous**: \"is getting ready\", \"is working\", \"is trying\"\n- **Past Perfect**: \"had noticed\", \"had finished\", \"had made\"\n- **Gerunds**: \"working\", \"leading\", \"managing\", \"learning\", \"adapting\"\n- **Passive voice**: \"was recognized\", \"is expected\", \"are required\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: pretty impressive, big one, step up, show off, take to the next level\n- **Linking words**: because, so, which, that, where\n- **Contractions**: it's, he's, we've, don't, can't",
     "relatedTopics": [
       {
-        "name": "Daily Life Routines",
+        "name": "daily-life-routines",
         "slug": "daily-life-routines",
         "url": "/lessons/eng/b1b2/daily-life-routines"
       },
       {
-        "name": "Communication Interaction",
+        "name": "communication-interaction",
         "slug": "communication-interaction",
         "url": "/lessons/eng/b1b2/communication-interaction"
       },
       {
         "name": "Leadership & Management",
-        "slug": "Leadership & Management",
-        "url": "/lessons/eng/b1b2/Leadership & Management"
+        "slug": "leadership-&-management",
+        "url": "/lessons/eng/b1b2/leadership-&-management"
       },
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       }
@@ -23035,17 +23035,17 @@ export const ENG_B1_B2_LESSONS_DATA: LessonData[] = [
     "grammarNotes": "- **Present Simple**: \"believes\", \"oversees\", \"learns\", \"discovers\"\n- **Present Continuous**: \"is building\", \"is developing\", \"is maintaining\"\n- **Present Perfect**: \"has built\", \"has learned\", \"has discovered\"\n- **Gerunds**: \"building\", \"developing\", \"maintaining\", \"navigating\"\n- **Complex sentences**: Relative clauses, conditional structures\n- **Conversational vocabulary**: really challenging, absolutely essential, incredibly important, rapidly changing\n- **Linking words**: and, but, so, because, while, that, regardless\n- **Contractions**: she's, it's, I'm, don't\n- **Professional vocabulary**: technical aspects, human elements, international partnerships, regulatory environments",
     "relatedTopics": [
       {
-        "name": "Business Economy",
+        "name": "business-economy",
         "slug": "business-economy",
         "url": "/lessons/eng/b1b2/business-economy"
       },
       {
-        "name": "Law Justice",
+        "name": "law-justice",
         "slug": "law-justice",
         "url": "/lessons/eng/b1b2/law-justice"
       },
       {
-        "name": "Technology Innovation",
+        "name": "technology-innovation",
         "slug": "technology-innovation",
         "url": "/lessons/eng/b1b2/technology-innovation"
       }

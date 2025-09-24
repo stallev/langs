@@ -21,6 +21,7 @@ export default function EnglishB1B2Page() {
     filterState,
     categories,
     handleCategoryChange,
+    handleSearchChange,
     handlePageChange,
   } = useLessonPagination({ lessons: ENG_B1_B2_LESSONS_DATA });
 
@@ -67,7 +68,9 @@ export default function EnglishB1B2Page() {
         <LessonFilters
           categories={categories}
           selectedCategory={filterState.category}
+          searchQuery={filterState.searchQuery}
           onCategoryChange={handleCategoryChange}
+          onSearchChange={handleSearchChange}
         />
 
         {/* Lessons Section */}
